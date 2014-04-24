@@ -1,0 +1,22 @@
+---
+layout: post
+status: publish
+published: true
+title: Voice
+author: Mark Essel
+author_login: messel
+author_email: messel@gmail.com
+author_url: http://messel.myopenid.com/
+wordpress_id: 9898
+wordpress_url: http://www.victusspiritus.com/?p=9898
+date: '2011-10-28 01:06:31 -0400'
+date_gmt: '2011-10-28 08:06:31 -0400'
+categories:
+- Uncategorized
+tags:
+- mind
+comments: []
+---
+<p>"Adam's scripts were the best thing about Get a Life – and we all tried to write in Adam's voice. That was the job.</p>
+<p>I was frustrated with the results, but it occurred to me that there was no solution as long as my job was trying to imitate someone else's voice. The obvious solution was to find a situation where I was doing me, not someone else. The major obstacle to this is your deeply seated belief that "you" is not interesting."</p>
+<p><a href="http://www.guardian.co.uk/film/2011/oct/03/charlie-kaufman-how-to-write" title="Charlie Kaufman: why I wrote Being John Malkovich">Charlie Kaufman: why I wrote Being John Malkovich</a></p>

@@ -1,0 +1,79 @@
+---
+layout: post
+status: publish
+published: true
+title: Talent
+author: Mark Essel
+author_login: messel
+author_email: messel@gmail.com
+author_url: http://messel.myopenid.com/
+wordpress_id: 9951
+wordpress_url: http://www.victusspiritus.com/?p=9951
+date: '2012-01-30 12:33:20 -0500'
+date_gmt: '2012-01-30 19:33:20 -0500'
+categories:
+- Uncategorized
+tags: []
+comments:
+- id: 10628
+  author: Rohan
+  author_email: rohan.rajiv18@gmail.com
+  author_url: http://www.alearningaday.com
+  date: '2012-01-30 12:38:00 -0500'
+  date_gmt: '2012-01-30 19:38:00 -0500'
+  content: |-
+    Brilliant. Lovely end of day video.. thanks Mark!
+
+    There is indeed beauty all around us.
+
+    How often do we stop and listen though? :) 
+- id: 10633
+  author: Emeri Gent [Em]
+  author_email: emergent@poetic.com
+  author_url: http://twitter.com/emerigent/lists/memberships
+  date: '2012-02-11 04:27:00 -0500'
+  date_gmt: '2012-02-11 11:27:00 -0500'
+  content: "We kind of think that talent is a rare commodity but watching people like
+    Bryson Andres teaches me that we might not know how to look - and we do that because
+    we don't do enough of allowing ourselves to enjoy the spontaneity and surprise
+    - as is clearly this video achieves.\n\nFor spontaneity and surprise is way than
+    a momentary thing, it is invitation to find out more.  That is exactly what I
+    did.  So my first surprise in doing that was that Bryson was from Alaska.  That
+    led me to ask myself - what the heck do I know about Alaska?  The answer is not
+    surprising, very little.\n\nThe first port of call for me was to find an Alaskan
+    site that featured Bryson Andres, and here I selected the Alaska Teen Media Institute. 
+    It is a media site for 12 to 19 year olds and a great example that there is more
+    to discover and find today online - if we can muster the risk to look.\n\n<b>Alaska
+    Teen Media Institute</b>\nhttp://alaskateenmedia.org/drupal/audio/bryson-andres\n\nWhen
+    I look at the font used on the site there, it is a font which must surely be typically
+    Alaskan because I have seen it used in the legendary series whose location and
+    backdrop was Alaska.  That of course is the incredibly original series that was
+    once called Northern Exposure.\n\n<b>\"The Light\" Clip from Northern Exposure</b>
+    \nhttp://www.youtube.com/watch?v=U2TPMoP01Sc\n\nLet say that Bryson Andres becomes
+    more well known, even a famous Alaskan.  The final question I posed myself today
+    was \"What and Who is a Famous Alaskan?\".   I immediately placed a cavaet to
+    that question i.e. a famous Alaskan who has not been made famous by the antics
+    of the Palin family.  \n\n<b>Wikipedia - List of People from Alaska</b>\nhttp://en.wikipedia.org/wiki/List_of_people_from_Alaska\n\nIt
+    is here, looking among the names and even pictures on the Wikipedia page for people
+    from Alaska, I realized how little we know especially if our preoccupation becomes
+    a search for \"fame\".  When we occupy our minds with the famous, and yet ponder
+    the list of who is considered famous in Alaska, it merely points out to us a truth
+    - that we only a know place by it's \"stars\" but not it's light.  \n\nTo shine
+    light on Alaska, whenever a region of the country is defined by the few, a simple
+    study of a wikipedia page should provide us enough humility to grasp the universe
+    of fame that escapes us and that we don't know.  This is why being mesmerized
+    is such a good thing, instead of opening the door to the next famous person, it
+    opens the door to a brand new human soul.  \n\nSo if that is the case, watching
+    the people who pass Bryson in the video and what they are doing in relationship
+    to the performance, is even more insightful.  Then we find that we don't have
+    to think in Alaskan terms to realize people are at a deeper level more like us
+    than different from us.  We want to appreciate diversity, but what kills diversity
+    is fame - that is why something fresh and invigorating such as this show of talent
+    is required.\n\nIt is required, because it might just open our eyes to a much
+    bigger prize, to spot the talent around us that won't show up on a you-tube video. 
+    The bigger prize is an appreciation of both talent in the wider context and our
+    ability to appreciate new frontiers - talent as an individual, Alaska as a group.\n\n<b>[Em]</b>\n\"Emeri
+    Gent\" @thoughtspaces:twitter \n\n"
+---
+<p>Every once in a while something hits you from an unpredictable angle, and leaves you mesmerized, and in awe. </p>
+<p><iframe width="560" height="315" src="http://www.youtube.com/embed/YPYGeELPpno" frameborder="0" allowfullscreen></iframe></p>

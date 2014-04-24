@@ -1,0 +1,42 @@
+---
+layout: post
+status: publish
+published: true
+title: Free before 5:15
+author: Mark Essel
+author_login: messel
+author_email: messel@gmail.com
+author_url: http://messel.myopenid.com/
+wordpress_id: 7602
+wordpress_url: http://www.victusspiritus.com/?p=7602
+date: '2011-03-09 03:23:36 -0500'
+date_gmt: '2011-03-09 10:23:36 -0500'
+categories:
+- Uncategorized
+tags:
+- inspiration
+- mind
+comments:
+- id: 9300
+  author: Leland
+  author_email: leland@pickple.com
+  author_url: ''
+  date: '2011-03-15 00:58:00 -0400'
+  date_gmt: '2011-03-15 00:58:00 -0400'
+  content: "Mark just wanted to say i'm back following you here. :)\n\nHow are you
+    doing these days? Would be nice to get an email from you and get back in touch. "
+- id: 9374
+  author: Mark Essel
+  author_email: messel@gmail.com
+  author_url: http://www.victusspiritus.com/
+  date: '2011-03-15 15:49:00 -0400'
+  date_gmt: '2011-03-15 15:49:00 -0400'
+  content: Howdy Leland, long time no chat. I'll shoot you an email.
+---
+<p>At a quarter after five each weekday my wife and I get up and go through our daily <a href="http://www.victusspiritus.com/2010/12/21/lifes-default-rituals-or-jeez-my-workdays-are-boring/">morning rituals</a>. When my day job gets busy it swallows nearly all curious or creative energy I can cultivate. The industry from which I earn a living, is not one which supports free associative thinking or building. </p>
+<p>In busy times like this there's little room for reading or self directed projects until the weekend, and by then I'm pretty burnt out. I squeeze in a little exploration or work in the morning before we leave and sometimes before bed. After work our dominant pattern is exercise, dinner, restful Netflixing and popcorn reading (light non-technical).</p>
+<p><I>Before 5:15am I do what I choose</I></p>
+<p>Each and every morning before I fall back into step like a good soldier <b>I'm Free</b>. I read whatever I find valuable. I comment on fascinating posts and reply to engaging comments. I articulate ideas into posts which free up my conscious imagination from haunting concerns*. </p>
+<p>The liberation of self guided learning, communicating and crafting is invigorating. It can revitalize my faith in the future, or inspire me to push past barriers of physical and mental exhaustion. The tangible preciousness of fleeting freedom is made real by the clock. I have only 3 minutes before our morning alarm, then two, then...</p>
+<p>Notes:<br />
+*= I liken daily blogging to freeing up my mind's cache</p>

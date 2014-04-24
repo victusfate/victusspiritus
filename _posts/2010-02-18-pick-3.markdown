@@ -1,0 +1,113 @@
+---
+layout: post
+status: publish
+published: true
+title: Pick 3
+author: Mark Essel
+author_login: messel
+author_email: messel@gmail.com
+author_url: http://messel.myopenid.com/
+wordpress_id: 3078
+wordpress_url: http://www.victusspiritus.com/2010/02/18/pick-3/
+date: '2010-02-18 05:55:13 -0500'
+date_gmt: '2010-02-18 12:55:13 -0500'
+categories:
+- Uncategorized
+tags:
+- leadership
+- decision making
+- design
+comments:
+- id: 3018
+  author: Dave Pinsen
+  author_email: impossibledistances@yahoo.com
+  author_url: http://steamcatapult.com/
+  date: '2010-02-20 08:14:33 -0500'
+  date_gmt: '2010-02-20 13:14:33 -0500'
+  content: 'This advice is similar to what 37 Signals says in their e-book (have you
+    read it yet?). <br><br>A thought for you, without understanding the full scope
+    of the monster project you and Tyler Durden are working on: why not pick the most
+    compelling feature of it and launch it, quickly, as a stand alone product? Or,
+    if that&#39;s not possible, why not launch a more narrowly-focused version of
+    it for a particular niche -- and find someone to pay for it? If you haven&#39;t
+    seen it before, check David Hansson&#39;s <a href="http://thehackensack.blogspot.com/2009/09/secret-to-making-money-online.html"
+    rel="nofollow">presentation</a> where he mentions his target market -- "the Fortune
+    1,000,000". <br><br>I know you mentioned in a comment on Fred&#39;s blog Friday
+    that you were looking for funding. I get the sense you&#39;d be happier owning
+    a profitable business that you could grow organically than relying on VC money,
+    particularly if they are looking to invest in uber-arrogant types as Fred&#39;s
+    post suggested. You can still get big growing organically, if you can find businesses
+    willing to buy your product or service. <br><br>Another thought: is your approach
+    to blogging similar to your approach to building this thing of yours? I ask because
+    you tend to write long posts, longer than someone with my short attention span
+    often has the patience to read in full (I am guilty of doing this also sometimes).
+    You write well, and often present interesting ideas, but sometimes it&#39;s as
+    if you are attempting to beat the reader into submission with copious examples
+    and elaborations. Just a thought. I&#39;ve noticed that some of the most widely-read
+    bloggers tend to be pithier than knuckleheads like me and you who seem to put
+    more work into our posts sometimes.'
+- id: 3019
+  author: Dave Pinsen
+  author_email: impossibledistances@yahoo.com
+  author_url: http://steamcatapult.com/
+  date: '2010-02-20 08:17:21 -0500'
+  date_gmt: '2010-02-20 13:17:21 -0500'
+  content: <I>"I ask because you tend to write long posts, longer than someone with
+    my short attention span often has the patience to read in full"</I><br><br>Says
+    the guy who just left a ~300 word comment. ;-)
+- id: 3020
+  author: Mark Essel
+  author_email: messel@gmail.com
+  author_url: http://www.victusspiritus.com/
+  date: '2010-02-20 12:31:17 -0500'
+  date_gmt: '2010-02-20 17:31:17 -0500'
+  content: I do need to think about direction, I&#39;m at a push point in the design,
+    tech and presentation. I would prefer an organically grown business that I can
+    manage without asking for request from heavy investors, but I can&#39;t wait forever.
+    <br><br>The next two weeks will help with specifics. The utility of social semantic
+    tags and leveraging those tags to bring the browser serendipity with hints has
+    many small details that I learn about by talking to folks, and I code whenever
+    I get a free moment. <br><br>The piece I&#39;m working on now is a very small
+    fragment of a bigger web living service. One problem was the interface, the cloud
+    is getting replaced, another was lists but we made lots of progress there (optimization,how
+    much info to grab and parse while being realish time), finally there are many
+    variations to visualizing connections to other people and trending information
+    in an interest area. This is related to filtering out noise (one mistake was trying
+    to scan the entire real time stream to hares topic interests, lists allow narowing
+    that stream intelligently). The implicit tags need to be connected with explicit
+    user filters to enable the right slice of social/info sharing.<br><br>Gotta run,
+    will read over your comments more carefully after some tech catchup.
+- id: 3021
+  author: Dave Pinsen
+  author_email: impossibledistances@yahoo.com
+  author_url: http://steamcatapult.com/
+  date: '2010-02-20 19:31:28 -0500'
+  date_gmt: '2010-02-21 00:31:28 -0500'
+  content: I have all kinds of business ideas. If you want, maybe I can give you one
+    to run with that might be more compact, from a development perspective.
+- id: 3022
+  author: Mark Essel
+  author_email: messel@gmail.com
+  author_url: http://www.victusspiritus.com/
+  date: '2010-02-20 19:40:40 -0500'
+  date_gmt: '2010-02-21 00:40:40 -0500'
+  content: I&#39;d love to brainstorm with you Dave. But all my cycles are eaten up
+    at the present. Let&#39;s plan to get together when things aren&#39;t as hectic.
+---
+<p>The founder of friendfeed, and project orginator of Gmail Paul Buchheit, shares his design view: <a HREF="http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html">If your product is Great, it doesn't need to be Good</a>. I'm delighted with the way Paul identifies the signal from noise product features and suggests we try a similar approach when building consumer products.</p>
+<blockquote><p>
+Pick three key attributes or features, get those things very, very right, and then forget about everything else.
+</p></blockquote>
+<p>What is left for the reader to discover, is how best to determine those features. Deciding on the important aspects of product creation begins with identifying the problem you're trying to solve. Then try out a solution, gather feedback from the group you are working to satisfy (measurements) and iterate. I wish it was that easy, I left out <strong>The Wall</strong>. If you hit a design wall, dig under, climb over, or bulldozer it. Bypassing the barrier is what defines your leadership and your team's grit.</p>
+<p>It doesn't take a thought leap to abstract this design pattern to a wider problem space than product design: call it <strong>Pick 3</strong>. Let's have some fun and explore how this methodology might affect a broader range of decisions:</p>
+<ul>
+<li>craft breakfast using only three types of food. This works but the benefits of restricting our culinary mastery to three selections doesn't jump out at me</li>
+<li>throw on three pieces of clothes, with only three colors. Shirt, pants, undergarments, socks... ok this doesn't work, certainly not in the winter. Three colors feels ok, but for a hobo dresser like me, only one feature matters: comfort. Score one for compression</li>
+<li>focus your social activity to three people (on any day). I guess this could work, those three people would really get your attention that day (creepy stalker). Everyone else would wonder why you are ignoring them. Maybe it's better to shift this limit to three people per hour?</li>
+<li>Limit any web project to only three languages. I can live with this. Two languages and a framework makes three</li>
+<li>choose only three libraries to use for a project. Nope, this is too restrictive, but it makes you think about what are your most vital libraries/gems. I would likely reinvent much of what's already available to avoid pulling in a lib</li>
+<li>limit your database to use only three top level objects. Ok I think this needs to jive with three features. Maybe we can create a tree structure of design so that each main feature may have only three supporting database objects</li>
+<li>Max allowed thread concurrency is three. Uh oh, how do we scale this setup?</li>
+<li>Choose three major things to do in a day and do them remarkably well. Let me plot out my typical day: Exercise, blog, read about startups and coding, day job, spend time with Michelle, work on project/startup... Maybe there's something to this pick three philosophy. How about Michelle/fam/friends, Project/Startup, + Blog/Exercise/Read? That would be amazing. I imagine my ideal lifestyle would follow a pattern like that: Social, focused work that matters, open free time to Exercise/Create/Learn
+</ul>
+<p>While <i>Pick 3</I> doesn't fit every problem it was a different way to frame choice and helped clear up some long term goals for me.</p>

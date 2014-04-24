@@ -1,0 +1,19 @@
+---
+layout: page
+status: publish
+published: true
+title: Cameo
+author: Mark Essel
+author_login: messel
+author_email: messel@gmail.com
+author_url: http://messel.myopenid.com/
+wordpress_id: 10032
+wordpress_url: http://www.victusspiritus.com/?page_id=10032
+date: '2013-10-11 14:16:30 -0400'
+date_gmt: '2013-10-11 21:16:30 -0400'
+categories: []
+tags: []
+comments: []
+---
+<p><a href="https://cameo.tv/victusfate"><br />
+<img src="http://www.victusspiritus.com/wp-content/uploads/2013/10/20131009-1447251.jpg" alt="my cameo page"></a></p>

@@ -1,0 +1,96 @@
+---
+layout: post
+status: publish
+published: true
+title: Money
+author: Mark Essel
+author_login: messel
+author_email: messel@gmail.com
+author_url: http://messel.myopenid.com/
+wordpress_id: 4289
+wordpress_url: http://www.victusspiritus.com/2010/06/25/money/
+date: '2010-06-25 04:35:19 -0400'
+date_gmt: '2010-06-25 11:35:19 -0400'
+categories:
+- Uncategorized
+tags:
+- finance
+- critical value
+comments:
+- id: 4603
+  author: orrinxu
+  author_email: orrinxu@hotmail.com
+  author_url: ''
+  date: '2010-06-25 11:46:16 -0400'
+  date_gmt: '2010-06-25 16:46:16 -0400'
+  content: Very very true
+- id: 4607
+  author: Dave Pinsen
+  author_email: impossibledistances@yahoo.com
+  author_url: http://steamcatapult.com/
+  date: '2010-06-25 14:17:54 -0400'
+  date_gmt: '2010-06-25 19:17:54 -0400'
+  content: Mark Essel meets <a href="http://www.capitalismmagazine.com/index.php?news=1826"
+    rel="nofollow">Francisco D&#39;Anconia</a>.
+- id: 4608
+  author: Mark Essel
+  author_email: messel@gmail.com
+  author_url: http://www.victusspiritus.com/
+  date: '2010-06-25 14:33:20 -0400'
+  date_gmt: '2010-06-25 19:33:20 -0400'
+  content: I&#39;ll never escape Ayn Rand :$<br><br>My good friend Eli is a big fan
+    of Atlas Shrugged
+- id: 4609
+  author: eli
+  author_email: eli_sacks@hotmail.com
+  author_url: ''
+  date: '2010-06-25 17:27:04 -0400'
+  date_gmt: '2010-06-25 22:27:04 -0400'
+  content: I was going to link that exact article.
+- id: 4611
+  author: Mark Essel
+  author_email: messel@gmail.com
+  author_url: http://www.victusspiritus.com/
+  date: '2010-06-25 18:01:28 -0400'
+  date_gmt: '2010-06-25 23:01:28 -0400'
+  content: You and Dave have much in common.<br>You&#39;re both somewhat cautious
+    capitalists. I guess I am as well :)
+- id: 4612
+  author: ShanaC
+  author_email: shana.carp@gmail.com
+  author_url: http://shanacarp.com/essays
+  date: '2010-06-26 00:02:45 -0400'
+  date_gmt: '2010-06-26 05:02:45 -0400'
+  content: lovely writing.
+- id: 4613
+  author: Mark Essel
+  author_email: messel@gmail.com
+  author_url: http://www.victusspiritus.com/
+  date: '2010-06-26 01:16:33 -0400'
+  date_gmt: '2010-06-26 06:16:33 -0400'
+  content: Thanks Shana, glad you enjoyed :)
+- id: 5664
+  author: ugg boots
+  author_email: hzm5157@yahoo.com
+  author_url: http://www.cheap-boots-shop.us
+  date: '2010-07-08 09:05:00 -0400'
+  date_gmt: '2010-07-08 09:05:00 -0400'
+  content: Thanks a landlord it! I acquired yet some insight. Life is so colorful,
+    we should be able to live in, such as Korea and honor the planet. Human life is
+    like rivers, slowly flowing, flowing rivers, flowing through the snow, flows through
+    the prairie and ultimately into the sea, return to the embrace of nature, start
+    a new reincarnation. Allow us to feel the meaning of life will come only to those
+    you have those memories  http://www.cheap-nikeshox.com
+---
+<p>
+A comment I tried to leave on <a href="http://www.avc.com/a_vc/2010/06/why-i-dont-like-stock-buybacks.html">AVC</a> today with respect to company buy backs of stock:</p>
+<blockquote><p>
+I always thought buybacks were a method of investing in one's own company, I can see now how that is clearly not the case. If you want to increase the perceived value of your business, you invest in areas that boost your companies growth.</p>
+<p>The same theory holds at the small scale. I'm better off taking every dollar the world will trust me with and building synthesized products with greater face value than the liquid cash invested. That's wealth building. </p>
+<p>Money is a liquid placeholder for future value. You can expend much on lifestyle, but that won't build a wealthier world. Expensive lifestyles are like a luxury tax on the growth of wealth through investment. </p>
+<p>Money is a seed for skilled farmers to sow. If we tend to our investments with care and planning, a bountiful harvest will arise.</p>
+<p>Money is symbolic representation of the will of man. It can be used to call us to action, to craft, to sing, to create. We would do these things without money, but we continually strive to earn more, and thus push ourselves further.</p>
+<p>Money is a rich source of information. Look to the vast wealth of signaling that results from transactions. Investments & sales are the messages that fuel a global economy. </p>
+<p>Money is the ultimate interface, the worlds API. Convert any fiscally valued product or service with another. Convert the sweat from your brow to cash in your bank account. </p>
+<p>With all these things, we must never forget that money is meaningless when detached from value. Self propagating money without social utility is a signal of a failed financial system.
+</p></blockquote>

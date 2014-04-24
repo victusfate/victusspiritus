@@ -1,0 +1,18 @@
+---
+layout: page
+status: publish
+published: true
+title: Archives
+author: Mark Essel
+author_login: messel
+author_email: messel@gmail.com
+author_url: http://messel.myopenid.com/
+wordpress_id: 7584
+wordpress_url: http://www.victusspiritus.com/?page_id=7584
+date: '2011-03-08 15:06:09 -0500'
+date_gmt: '2011-03-08 22:06:09 -0500'
+categories: []
+tags: []
+comments: []
+---
+<p>[cleanarchivesreloaded] </p>

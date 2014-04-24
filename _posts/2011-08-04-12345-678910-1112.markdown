@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: 1,2,3,4,5...6,7,8,9,10...11,12
+author: Mark Essel
+author_login: messel
+author_email: messel@gmail.com
+author_url: http://messel.myopenid.com/
+wordpress_id: 9822
+wordpress_url: http://www.victusspiritus.com/?p=9822
+date: '2011-08-04 02:55:07 -0400'
+date_gmt: '2011-08-04 09:55:07 -0400'
+categories:
+- Uncategorized
+tags:
+- mind
+- music
+comments: []
+---
+<p>This has got to be one of the stickiest songs and videos ever crafted:</p>
+<p>http://www.youtube.com/watch?v=WBWxX3713gc</p>
+<p>thanks to <a href="https://plus.google.com/117377434815709898403/posts/JRt6sKWn517">DeWitt Clinton</a> for the share.</p>
+<p>Still on vacation, I'll return to my regular blogging shortly.</p>

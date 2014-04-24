@@ -1,0 +1,106 @@
+---
+layout: post
+status: publish
+published: true
+title: '2 > 1 '
+author: Mark Essel
+author_login: messel
+author_email: messel@gmail.com
+author_url: http://messel.myopenid.com/
+excerpt: "<h2><a href=\"http://friendfeed.com/scobleizer\"><img class=\"size-full
+  wp-image-549 aligncenter\" title=\"thepoweroftwo\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/06/thepoweroftwo.jpg\"
+  alt=\"thepoweroftwo\" width=\"368\" height=\"246\" /></a></h2>\r\n<h2>Did I need
+  to write a post explaining why 2 &gt; 1?</h2>\r\nThe advantages of even a single
+  outside perspective are too numerous to ignore.  By reviewing the power of partnerships
+  compared to individual creations, allow me to dissuade your gut instinct to go it
+  alone when beginning a challenging new venture.  In order to gain the most benefit
+  from the partnership, each of the members should have skill levels in the same range
+  (master/subordinate pairings are much less efficient and far less fun).  Although
+  matching skill levels is wise, it's best each of the members have their own projects
+  or areas of specialization."
+wordpress_id: 513
+wordpress_url: http://www.victusspiritus.com/?p=513
+date: '2009-06-10 03:04:14 -0400'
+date_gmt: '2009-06-10 10:04:14 -0400'
+categories:
+- Uncategorized
+tags:
+- leadership
+- startups
+- collaboration
+- social design
+- design
+comments:
+- id: 1634
+  author: Tyler Gillies
+  author_email: None
+  author_url: http://twitter.com/tylergillies
+  date: '2009-11-12 15:35:11 -0500'
+  date_gmt: '2009-11-12 20:35:11 -0500'
+  content: you have some real interesting points
+- id: 1636
+  author: Mark Essel
+  author_email: messel@gmail.com
+  author_url: http://www.victusspiritus.com/
+  date: '2009-11-12 15:43:18 -0500'
+  date_gmt: '2009-11-12 20:43:18 -0500'
+  content: Thanks for reading Tyler (how appropriate), did you find this on Venture
+    Hacks or some other stream (ff)?
+- id: 2155
+  author: Tyler Gillies
+  author_email: None
+  author_url: http://twitter.com/tylergillies
+  date: '2009-11-12 22:35:11 -0500'
+  date_gmt: '2009-11-13 03:35:11 -0500'
+  content: you have some real interesting points
+- id: 2156
+  author: Mark Essel
+  author_email: messel@gmail.com
+  author_url: http://www.victusspiritus.com/
+  date: '2009-11-12 22:43:18 -0500'
+  date_gmt: '2009-11-13 03:43:18 -0500'
+  content: Thanks for reading Tyler (how appropriate), did you find this on Venture
+    Hacks or some other stream (ff)?
+- id: 2662
+  author: Team&#8217;s are Non-Linear Force Multipliers &raquo; Victus Spiritus
+  author_email: ''
+  author_url: http://www.victusspiritus.com/2010/01/17/teams-are-non-linear-force-multipliers/
+  date: '2010-01-17 07:23:00 -0500'
+  date_gmt: '2010-01-17 14:23:00 -0500'
+  content: "[...] that mashup of skill is the exception rather than the rule. More
+    than just the labor advantage of two people working over one, there is a measurable
+    productivity boost. Now there is more than just one pair of eyes to decide [...]"
+- id: 8210
+  author: Quora
+  author_email: ''
+  author_url: http://www.quora.com/Finding-Co-Founders/How-do-I-find-good-technical-co-founders#ans340787
+  date: '2011-01-28 18:44:12 -0500'
+  date_gmt: '2011-01-29 01:44:12 -0500'
+  content: |-
+    <strong>How do I find good technical co-founders?...</strong>
+
+    Here are some places where you can find a co-founder. Linkedin.com Do you have a profile there? Do you have tech people in your network? If yes you can take a look at their profile and see if you find someone interesting and contact them. If you don't...
+---
+<h2><a href="http://friendfeed.com/scobleizer"><img class="size-full wp-image-549 aligncenter" title="thepoweroftwo" src="http://www.victusspiritus.com/wp-content/uploads/2009/06/thepoweroftwo.jpg" alt="thepoweroftwo" width="368" height="246" /></a></h2>
+<h2>Did I need to write a post explaining why 2 &gt; 1?</h2>
+<p>The advantages of even a single outside perspective are too numerous to ignore.  By reviewing the power of partnerships compared to individual creations, allow me to dissuade your gut instinct to go it alone when beginning a challenging new venture.  In order to gain the most benefit from the partnership, each of the members should have skill levels in the same range (master/subordinate pairings are much less efficient and far less fun).  Although matching skill levels is wise, it's best each of the members have their own projects or areas of specialization.<a id="more"></a><a id="more-513"></a></p>
+<div>Some of the benefits of partnerships:</div>
+<ul>
+<li>cover eachother's weaknesses</li>
+<li>multiple perspectives
+<ul>
+<li>to aid in rounding out rough product edges</li>
+<li>to be aware of competition and market space</li>
+</ul>
+</li>
+<li>spur eachother on when one of you becomes exhausted</li>
+<li>introduce twice as many people to your new project</li>
+</ul>
+<h2>Other Examples of the Powers of 2</h2>
+<p>Many species have developed two eyes to yield depth perception and greater peripheral view.  Two ears gives a sense of direction.  For modern tracking systems multiple observers can estimate 3D information from passive or active sensors.  As far as applications go, a second observer with a different enough perspective can add great value to seeing to the heart of a problem.  It's pretty easy to achieve this diversity in partnerships since we all share uniqueness, and even folks with similar backgrounds likely have widely different views.</p>
+<p>Look historically at successful companies.  Google was founded by two people, Microsoft was founded by two people, Apple was started by two people.</p>
+<p>For many organizations starting with more than two people loses some of the benefits at some membership size N.  Multiple perspectives round out or water down the problem too much, eliminating the genuiness or style of a product idea.  Disagreements put the breaks on fast decision making and agile market readjustments. For larger organizations most structures have single responsible managers for each group.  So that processing, management, and vision effort will miss out on the benefits of a partnership.</p>
+<p><a href="http://ycombinator.com/">YCombinator's</a> experience has shown that startups with at least 2 members are much more successful at growing and surviving and only fund business pitches with at least 2 founders.</p>
+<p>Artists can create great works on their own, and express themselves without judgement.  But even in this area, musical groups (my favorite <a href="http://www.loopz.co.uk/">Orbital</a>) have shown surprising creativity when at least 2 members created their works together.  Graphical artists can develop their own impressive designs, but when combined into small groups can fashion entire worlds from their imaginations (see MMORPGs). Finally the power of 2 is evident in the propagation of a species.  A couple can create and/or raise children.</p>
+<p>Part 1: [podcast]http://www.victusspiritus.com/audio/PowersOfTwo.mp3[/podcast]</p>
+<p>Part 2: [podcast]http://www.victusspiritus.com/audio/PowersOfTwoPartTwo.mp3[/podcast]</p>

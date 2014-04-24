@@ -1,0 +1,30 @@
+---
+layout: post
+status: publish
+published: true
+title: 26 letters
+author: Mark Essel
+author_login: messel
+author_email: messel@gmail.com
+author_url: http://messel.myopenid.com/
+wordpress_id: 7358
+wordpress_url: http://www.victusspiritus.com/?p=7358
+date: '2011-02-21 07:17:20 -0500'
+date_gmt: '2011-02-21 14:17:20 -0500'
+categories:
+- Uncategorized
+tags:
+- web/tech
+- far out
+- design
+comments: []
+---
+<p>Written communication requires an alphabet of symbols, a handful of punctuation and a generous portion of well placed white space. Definitions associate words to meaning, grammar is the glue that holds ideas together. That's all it takes to recreate and archive a vast majority of human history. Text lacks* the subtle nuances of sound or the immersive story available through video, but it's hard to top its level of information compression.</p>
+<p><em>Both Simple and Complex</em></p>
+<p>A few simple rules under the pressure of competition yield emergent complexity. Either we're astoundingly gifted at hiding truly complex rules, or the preferred evolutionary paths for dominant communication systems are founded on basic building blocks, or a little of both. Language definitions and grammar tend towards simplicity for basic communication (yes/no), and adopt complexity for nuanced interactions.</p>
+<p><em>Language's Relationship to the Net</em></p>
+<p>Interactive internet applications diverge from historical write once and copy publishing. One obvious difference is that content is aware of and can react to the observer. Servers come in a variety of frameworks but each of them ends up reading and/or writing data from a persistence layer, and finally rendering the information with a combination of HTML, CSS, and JavaScript. Many different languages, frameworks, and databases have resulted in modular services, but each levies requirements (side affects) on the rest of the architecture and any third party systems it communicates with. The common structures (alphabet) I see between web development languages are XML and JSON. JavaScript is the dominant client side grammar (idea glue). Servers exhibit the grammar of their implemented language and framework but networked systems share a common protocol (ie http for web servers).</p>
+<p>Rapid design iterations on client and server technologies are chewing through the space of potential network architectures while inheriting traits from earlier systems. We have a long way to go before many to many distributed communication is boiled down to an alphabet. But I wouldn't be surprised if we see convergence of common definitions and grammar over the next few years, while applications and nuanced implementations continue to diverge.</p>
+<p>Notes:<br />
+*= Typefaces open the doorway to elegance and style for text while vocabulary provides atmospheric depth.<br />
+<a href="http://creativebits.org/inspiration/periodic_table_typefaces"><img class="aligncenter size-full wp-image-7362" title="Periodic_Table_of_Typefaces_large" src="http://www.victusspiritus.com/wp-content/uploads/2011/02/Periodic_Table_of_Typefaces_large.jpg" alt="" width="476" height="318" /></a></p>

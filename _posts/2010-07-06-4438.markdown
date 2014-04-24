@@ -1,0 +1,20 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+author: Mark Essel
+author_login: messel
+author_email: messel@gmail.com
+author_url: http://messel.myopenid.com/
+wordpress_id: 4438
+wordpress_url: http://www.victusspiritus.com/?p=4438
+date: '2010-07-06 15:30:26 -0400'
+date_gmt: '2010-07-06 22:30:26 -0400'
+categories: []
+tags: []
+comments: []
+---
+<p>Howdy!</p>
+<p>I’m Mark Essel, a dataminer & systems engineer that’s added cofounder, web developer and author to my bag of tricks. My quest is to rediscover my life’s passions, and leverage that drive into profitable business ventures.</p>
+<p>Perhaps even more importantly I want to aid others in listening to their inner muses and realizing an inspirational life path that invigorates them and their loved ones each day. Life is far too precious and short to settle for anything less.</p>
+<p>You can reach me at messel at gmail dot com or messel at victusmedia dot com</p>

@@ -1,0 +1,35 @@
+---
+layout: post
+status: publish
+published: true
+title: 5-10 Years
+author: Mark Essel
+author_login: messel
+author_email: messel@gmail.com
+author_url: http://messel.myopenid.com/
+wordpress_id: 3510
+wordpress_url: http://www.victusspiritus.com/?p=3510
+date: '2010-04-07 04:59:01 -0400'
+date_gmt: '2010-04-07 11:59:01 -0400'
+categories:
+- Uncategorized
+tags:
+- leadership
+- startups
+- mind
+comments: []
+---
+<p><a href="http://www.photoshoppix.com/Content/pid=44.html"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/04/l_700_466_5AED2823-B279-4F25-97F6-F5BA4DF3CE1D.jpeg" alt="" class="alignnone size-full" /></a></p>
+<h2>Startups: Blood, Sweat & Tears</h2>
+<p>Nearly without exception, every startup story includes the tremendous  effort and <a href="http://epaley.posterous.com/fantasies-and-fantasies-with-money-0">emotional roller coaster</a>* that founders and early employers endure. This rings true for both brilliant success and sullen defeat. </p>
+<p>The first hurdle is making a conscious decision to build a company no matter what barriers arise along your team's journey. By perceiving an opportunity and a wonderful solution you take action to rapidly gather information and determine course changes. Each day you work to make your startup stronger and a little more <a HREF="http://www.scruffles.net/spielberg/movies/ai.html">"real"</a>. The second hurdle for breaking through is putting yourself in a position of risk. In order to successfully build a (large) self sustaining business there has to be a real chance of failure. Risking time, savings, investments, and your reputation are all essential first time founder risks. For those that have a successful exit or two notched on their belt, self funding earlier phases, a potent business network, and the knowledge acquired reduces the risk of failure. </p>
+<p>Out of a thousand potential investors you may succeed in convincing only a handful to back your idea and more importantly your team. That means either a helluva lot of door to door pitching or a well crafted funnel but realistically a combination of both. The story of Pandora's second round of financing after <a href="http://www.nytimes.com/2010/03/08/technology/08pandora.html">347 rejections</a> is a sobering reminder of the conviction it takes to keep a business alive.</p>
+<h2>Why not pursue an easier life path?</h2>
+<ul>
+<li>you're confident your chances of creating a successful business are much better than winning lotto, and are willing to work as hard as possible to hedge that bet. Sometimes my business slips a little closer to oblivion. Thankfully most days I work on Victus Media I separate myself in probability space from "lotto odds". The biggest positive probability shift was convicing Tyler Gillies to join forces.</li>
+<li>creating a startup is a skill and endurance challenge. Successful founders may foster multiple businesses in their lifetime</li>
+<li>It's addictingly fun not knowing the right answer, and having to figure it out to keep your business alive</li>
+</ul>
+<p>Founders generate wealth by building a successful startup and going public, selling the company, or becoming profitable. Self sustaining businesses are incredible because they become fertile soil for training young folks wicked skills, and provide wealth to their location (jobs, taxes). </p>
+<p>There are many other paths to becoming wealthy besides founding companies. Saving and investing over a long period of time, becoming expertly trained and compensated (lawyers, doctors), or even sharp investing in other businesses. But the potential to impact an entire generation through building and distributing high utility and fun tools is a big personal motivator. The other essential benefit is having a major voice in the direction of my professional efforts. When working for anyone else there are layers of misdirection between myself and end users. There are an equally great number of management levels between myself and the direction of any business entity I work for. I'm at the point in my life where I have a deep need to test my leadership skills in a business of my own crafting. I believe I have more to offer than I have ever given before. The role of founder is the closest life path to producing real wealth I have had the good fortune to serendipitously discover. It'll be fun looking back on this blog in 5-10 years to see how reality fits my plans. </p>
+<p>Note: * thanks to <a href="http://cdixon.org">Chris Dixon</a> for that share</p>

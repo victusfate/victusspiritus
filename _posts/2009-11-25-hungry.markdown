@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: Hungry
+author: Mark Essel
+author_login: messel
+author_email: messel@gmail.com
+author_url: http://messel.myopenid.com/
+wordpress_id: 2351
+wordpress_url: http://www.victusspiritus.com/2009/11/25/hungry/
+date: '2009-11-25 06:00:58 -0500'
+date_gmt: '2009-11-25 13:00:58 -0500'
+categories:
+- Uncategorized
+tags:
+- leadership
+- startups
+- inspiration
+comments: []
+---
+<p>This is not a post about tastey yum yums.</p>
+<h2>Curiousity & Creativity</h2>
+<p>Seth Godin just pitched an observation about the connection between curiousity and success. My spin is that I relate my insatiable appetite for knowing to more of a hunger than a thirst. Whatever drives this curiousity is certainly related to the force that beckons me to discovering a passionate calling. The compulsion  to reveal latent or untapped value through exploration.</p>
+<p>A short and sweet <a href="http://sethgodin.typepad.com/seths_blog/2009/11/thirsty.html">share from one of my favorite gurus of business Seth, Thirsty</a>.</p>
+<p>Of course I'm biased, I want this correlation to be causation. I guess I'll find out in the next year or three what success my curiousity leads me to. The killer app for the curious is execution though. How best to learn, than by using knowledge to push the boundaries of what works for us.</p>
+<p>What're your observations about the relation between the hunger for knowledge and success?</p>

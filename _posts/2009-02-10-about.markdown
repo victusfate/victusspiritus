@@ -1,0 +1,40 @@
+---
+layout: page
+status: publish
+published: true
+title: About
+author: Mark Essel
+author_login: messel
+author_email: messel@gmail.com
+author_url: http://messel.myopenid.com/
+wordpress_id: 2
+wordpress_url: http://www.victusspiritus.com//?page_id=2
+date: '2009-02-10 18:38:49 -0500'
+date_gmt: '2009-02-11 01:38:49 -0500'
+categories:
+- Uncategorized
+tags: []
+comments:
+- id: 7799
+  author: Social Marketing Fail, Elf You OfficeMax and JibJab Media &raquo; Victus
+    Spiritus
+  author_email: ''
+  author_url: http://www.victusspiritus.com/2010/12/12/social-marketing-fail-elf-you-officemax-and-jibjab-media/
+  date: '2010-12-12 04:21:04 -0500'
+  date_gmt: '2010-12-12 11:21:04 -0500'
+  content: "[...] tool of introspection that resulted in a founder&#039;s quest. Please
+    join me on my journey.    HomeAboutVictus Mediainfluencers &amp; recent commentsTag
+    Cloudsocial feedOther [...]"
+---
+<p><a href="http://www.victusspiritus.com/wp-content/uploads/2009/02/MichelleAndMeJustMarried1.jpeg"><img class="aligncenter size-full wp-image-4217" title="MichelleAndMeJustMarried" src="http://www.victusspiritus.com/wp-content/uploads/2009/02/MichelleAndMeJustMarried1.jpeg" alt="" width="400" height="300" /></a><br />
+Howdy!<br />
+I'm Mark Essel, a dataminer &amp; systems engineer that's added cofounder, web developer and author to my bag of tricks. My quest is to rediscover my life's passions, and leverage that drive into profitable business ventures.</p>
+<p>Perhaps even more importantly I want to aid others in listening to their inner muses and realizing an inspirational life path that invigorates them and their loved ones each day. Life is far too precious and short to settle for anything less.</p>
+<p>My net homes:</p>
+<ul>
+<li><a href="http://profiles.google.com/messel">+messel on Google</a></li>
+<li><a href="http://twitter.com/victusfate">@victusfate on twitter</a></li>
+<li><a href="http://disqus.com/victusfate/">@victusfate on Disqus</a></li>
+<li><a href="http://www.facebook.com/victusfate">victusfate on Facebook</a></li>
+</ul>
+<p>You can reach me at messel at gmail dot com or messel at victusmedia dot com, or by commenting on any open post.</p>

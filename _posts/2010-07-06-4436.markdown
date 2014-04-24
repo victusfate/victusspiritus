@@ -1,0 +1,17 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+author: Mark Essel
+author_login: messel
+author_email: messel@gmail.com
+author_url: http://messel.myopenid.com/
+wordpress_id: 4436
+wordpress_url: http://www.victusspiritus.com/?p=4436
+date: '2010-07-06 15:30:26 -0400'
+date_gmt: '2010-07-06 22:30:26 -0400'
+categories: []
+tags: []
+comments: []
+---
+
