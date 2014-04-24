@@ -4,3 +4,4 @@ pygments: true
 highlighter: pygments
 repository: https://github.com/victusfate/victusspiritus
 relative_permalinks: false
+baseurl: /victusspiritus
