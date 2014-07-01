@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<h2><a href=\"http://dvanderboom.wordpress.com/category/problem-modeling/\"><img
-  class=\"aligncenter size-full wp-image-832\" title=\"binarytree\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/06/binarytree.png\"
+  class=\"aligncenter size-full wp-image-832\" title=\"binarytree\" src=\"{{ site.url }}/assets/2009/06/binarytree.png\"
   alt=\"binarytree\" width=\"275\" height=\"345\" /></a></h2>\r\n<h2>Imagine Your
   Group's Structure as a Binary Tree</h2>\r\nThe focus of this design concept is agility
   for larger organizations. It's merely a thought experiment.\r\n\r\nHere's a simple
@@ -77,7 +77,7 @@ comments:
     into the framework at each level. <br>Admittedly its a goofy idea. the Monetization
     web2010 posts are much more applicable.
 ---
-<h2><a href="http://dvanderboom.wordpress.com/category/problem-modeling/"><img class="aligncenter size-full wp-image-832" title="binarytree" src="http://www.victusspiritus.com/wp-content/uploads/2009/06/binarytree.png" alt="binarytree" width="275" height="345" /></a></h2>
+<h2><a href="http://dvanderboom.wordpress.com/category/problem-modeling/"><img class="aligncenter size-full wp-image-832" title="binarytree" src="{{ site.url }}/assets/2009/06/binarytree.png" alt="binarytree" width="275" height="345" /></a></h2>
 <h2>Imagine Your Group's Structure as a Binary Tree</h2>
 <p>The focus of this design concept is agility for larger organizations. It's merely a thought experiment.</p>
 <p>Here's a simple example. You start a volunteer organization by yourself. You find two folks that share your vision for how best to proceed in working on a problem. You can spend plenty of time working with just two other people to ensure the group vision is clearly agreed upon between all members. Each of them in turn find two other people that share the groups mission with and so on. Each member of the community will be very familiar with the responsibilities and duties of anyone at their level, anyone a level above them and anyone a level below them in the structure.<a id="more"></a><a id="more-688"></a></p>

@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 1806
-wordpress_url: http://www.victusspiritus.com/2009/10/09/a-purple-cow-joins-forces-with-a-gaping-void-only-greatness-results/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/10/09/a-purple-cow-joins-forces-with-a-gaping-void-only-greatness-results/
 date: '2009-10-09 06:43:46 -0400'
 date_gmt: '2009-10-09 13:43:46 -0400'
 categories:
@@ -39,7 +39,7 @@ comments:
 - id: 1171
   author: Ignore Everybody &amp; the Dip, double feature book review
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/10/12/ignore-everybody-the-dip-double-feature-book-review/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/10/12/ignore-everybody-the-dip-double-feature-book-review/
   date: '2009-10-12 06:20:37 -0400'
   date_gmt: '2009-10-12 13:20:37 -0400'
   content: "[...] A Purple Cow joins forces with a Gaping Void, only greatness results

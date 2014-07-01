@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 9669
-wordpress_url: http://www.victusspiritus.com/2011/07/12/death-by-over-friending/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/07/12/death-by-over-friending/
 date: '2011-07-12 14:23:57 -0400'
 date_gmt: '2011-07-12 21:23:57 -0400'
 categories:

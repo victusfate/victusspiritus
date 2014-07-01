@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 4999
-wordpress_url: http://www.victusspiritus.com/2010/08/28/security-versus-liberty-in-an-uncertain-economy/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/08/28/security-versus-liberty-in-an-uncertain-economy/
 date: '2010-08-28 06:58:47 -0400'
 date_gmt: '2010-08-28 13:58:47 -0400'
 categories:

@@ -68,7 +68,7 @@ comments:
   author: Clean Up Your Info Diet, How to Curate Your Input Stream &raquo; Victus
     Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/12/27/clean-up-your-info-diet-how-to-curate-your-input-stream/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/12/27/clean-up-your-info-diet-how-to-curate-your-input-stream/
   date: '2010-01-05 13:23:00 -0500'
   date_gmt: '2010-01-05 20:23:00 -0500'
   content: "[...] Super Human Filters are mortal portals who we enlist and trust to
@@ -77,7 +77,7 @@ comments:
 - id: 2698
   author: The Prize, Making Sense Out of Millions of Voices &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/01/21/the-prize-making-sense-out-of-millions-of-voices/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/01/21/the-prize-making-sense-out-of-millions-of-voices/
   date: '2010-01-21 10:41:03 -0500'
   date_gmt: '2010-01-21 17:41:03 -0500'
   content: "[...] free to create multiple input and output streams, this manual processing
@@ -96,7 +96,7 @@ comments:
 - id: 8069
   author: Tricks for managing information overload &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/01/18/tricks-for-managing-information-overload/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/01/18/tricks-for-managing-information-overload/
   date: '2011-01-18 03:47:03 -0500'
   date_gmt: '2011-01-18 10:47:03 -0500'
   content: "[...] intelligent filters: When I first jumped into social web reading/writing

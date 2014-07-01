@@ -20,7 +20,7 @@ tags:
 - hacking education
 comments: []
 ---
-<p><a href="http://en.wikipedia.org/wiki/Relativity_(M._C._Escher)"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/01/300px-Eschers_Relativity.jpg" alt="" title="300px-Escher&#039;s_Relativity" width="300" height="289" class="aligncenter size-full wp-image-6758" /></a><br />
+<p><a href="http://en.wikipedia.org/wiki/Relativity_(M._C._Escher)"><img src="{{ site.url }}/assets/2011/01/300px-Eschers_Relativity.jpg" alt="" title="300px-Escher&#039;s_Relativity" width="300" height="289" class="aligncenter size-full wp-image-6758" /></a><br />
 Tools provide people with a means of overcoming a challenge.</p>
 <p>Want to drive home a nail? <br />
 Use a hammer.</p>

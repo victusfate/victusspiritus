@@ -79,14 +79,14 @@ comments:
 - id: 3718
   author: Seize Moments of Opportunity, Doubling Down &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/03/31/seize-moments-of-opportunity-doubling-down/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/03/31/seize-moments-of-opportunity-doubling-down/
   date: '2010-03-31 05:21:33 -0400'
   date_gmt: '2010-03-31 12:21:33 -0400'
   content: "[...] Silicon Dragon (SDr), the most accomplished wave programmer I know
     to get his feedback on a curation tool idea. I&#8217;m now planning to make a
     technology investment by hiring SDr for a temporary project. The [...]"
 ---
-<p style="text-align: center;"><a href="http://aakin.com/"><img class="aligncenter size-full wp-image-3390" title="Aakin.com" src="http://www.victusspiritus.com/wp-content/uploads/2010/03/Aakin.com_.jpg" alt="" width="500" height="380" /></a><br />
+<p style="text-align: center;"><a href="http://aakin.com/"><img class="aligncenter size-full wp-image-3390" title="Aakin.com" src="{{ site.url }}/assets/2010/03/Aakin.com_.jpg" alt="" width="500" height="380" /></a><br />
 <em> Image courtesy of Aakin Patel (enjoy his other work)</em></p>
 <p>Tech media and fellow startup junky Robert Scoble <a href="http://scobleizer.com/2010/03/27/the-seven-needs-of-real-time-curators/">recently</a> <a href="http://www.cinchcast.com/scobleizer/35985">clarified</a> the type of tool(s) he needs to make the job of curating <a class="zem_slink" title="real-time web" rel="homepage" href="http://www.readwriteweb.com/archives/introduction_to_the_real_time_web.php">real time web</a> information easier, faster, and more productive. Part of what he needs overlaps heavily with what we're designing towards with <a href="http://opengard.in">opengard.in</a>'s social reader, but some of what Rob's looking for is totally new. One of the most intriguing concepts he discussed is the bundle or molecule (he and <a class="zem_slink" title="Dave Winer" rel="homepage" href="http://scripting.com">Dave Winer</a> have discussed the idea before).</p>
 <p>Here's a use case: While a curator is checking out a stream of feed updates, they spot something novel and it ripples in the information stream they're observing. The curator can then drag and drop the updates and recreate them into a new bundle which they can annotate and repost (refeeds). What we need to accomplish this is a reorganization of the real time stream of updates. Blogs can achieve this task now, but it can take a fair amount of work on the part of the author.</p>

@@ -18,7 +18,7 @@ tags:
 - web/tech
 comments: []
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2011/03/cyber_superhuman.jpg"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/03/cyber_superhuman.jpg" alt="" title="cyber_superhuman" width="400" height="357" class="aligncenter size-full wp-image-7598" /></a><br />
+<p><a href="{{ site.url }}/assets/2011/03/cyber_superhuman.jpg"><img src="{{ site.url }}/assets/2011/03/cyber_superhuman.jpg" alt="" title="cyber_superhuman" width="400" height="357" class="aligncenter size-full wp-image-7598" /></a><br />
 Are you looking for a miracle cyber superhuman that can untangle a rats nest of cables, resurrect your critical drive data, scale your web systems from one to a billion, and bake you a mean loaf of rye before the crack of dawn? </p>
 <p>Look no further, your prayers have been answered.</p>
 <p>A long time friend and colleague* has recently become a ronin IT professional. He's making a living by the sweat of his brow huddled over a keyboard and staring blissfully at tiny fonts on a dark themed screen into the wee hours of the morning. He has extensive experience in Mac/*nix system administration, cyber security, with recent specialization in compliance testing, configured cloud computing, and google hosted services. If you're hiring for temp work and need a remote force or are willing to pay for travel please send all inquiries to messel at gmail dot com and I'll immediately forward your contact information along. The professional I represent is located in Las Vegas.</p>

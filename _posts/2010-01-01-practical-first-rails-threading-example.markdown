@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2654
-wordpress_url: http://www.victusspiritus.com/2010/01/01/practical-first-rails-threading-example/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/01/01/practical-first-rails-threading-example/
 date: '2010-01-01 09:59:53 -0500'
 date_gmt: '2010-01-01 16:59:53 -0500'
 categories:
@@ -19,7 +19,7 @@ comments:
 - id: 2728
   author: Ensure All Roads Lead to Your Goal (+ Ruby Threads) &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/12/31/ensure-all-roads-lead-to-your-goal-ruby-threads/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/12/31/ensure-all-roads-lead-to-your-goal-ruby-threads/
   date: '2010-01-24 11:39:55 -0500'
   date_gmt: '2010-01-24 18:39:55 -0500'
   content: "[...] friendfeed        Stylized Information will be the Sole Survivor
@@ -28,7 +28,7 @@ comments:
   author: Brushing up on Computer Science Part 5, Graphs, Networks, and Operating
     Systems &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/03/17/brushing-up-on-computer-science-part-5-graphs-networks-and-operating-systems/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/03/17/brushing-up-on-computer-science-part-5-graphs-networks-and-operating-systems/
   date: '2011-03-18 09:16:05 -0400'
   date_gmt: '2011-03-18 16:16:05 -0400'
   content: "[...] I discussed an implementation of green threads in ruby over a couple
@@ -36,7 +36,7 @@ comments:
     It&#8217;s worth noting that the Ruby MRI [...]"
 ---
 <h2>Getting a Handle On Threads</h2>
-<p>Yesterday I wrote briefly about <a href="http://www.victusspiritus.com/2009/12/31/ensure-all-roads-lead-to-your-goal-ruby-threads/">threading in Ruby</a>. Ruby threads don't natively take advantage of multiple processors or cores (this may have changed), but they're a great way to lower wait time on concurrent external delays. This is a non-blocking solution to initiating several API calls simultaneously, and greatly reduces delay, an imperative requirement to web services.</p>
+<p>Yesterday I wrote briefly about <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/12/31/ensure-all-roads-lead-to-your-goal-ruby-threads/">threading in Ruby</a>. Ruby threads don't natively take advantage of multiple processors or cores (this may have changed), but they're a great way to lower wait time on concurrent external delays. This is a non-blocking solution to initiating several API calls simultaneously, and greatly reduces delay, an imperative requirement to web services.</p>
 <h2>Threading Mulitple Model Calls</h2>
 <p>On initial creation or update, our User model makes API calls to Twitter, as well as several calls to Zemanta markup and Alchemy Orchestr8. We have shifted from a rapid fire status merged keyword extraction using Orchestr8, to a more object specific, rich semantic entity approach per user status. Once the Twitter streaming API fully opens up we can automatically update known user profiles as well as their associated lists and this will diminish the necessity of rapid response. As we grow, we expect many users to be first time visitors, and we are doing our best to make sure load and processing times are minimal.</p>
 <h2>Threads in the Controller Were No Go</h2>

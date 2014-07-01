@@ -77,8 +77,8 @@ comments:
 <p>The BNL interviews consisted of a intro screener, followed by day long meetings with five professional research doctors and post grads. It was intense but looked like interesting work. The PRA interview was a quick office chat with Ralph, Tony and Charlie followed by a burger lunch with Ralph (my current boss). The job appeared way beyond my technical chops at the time, but also sounded like a fantastic opportunity to crank up my programming skills^^. Both interviews turned into job offers, and I took the PRA job starting in January 1996 for $17 bucks an hour.</p>
 <p>The history of my work will have to wait for other posts, but I discuss how I arrived at my present situation in the following tales:</p>
 <ul>
-<li><a href="http://www.victusspiritus.com/2010/04/27/rebooting-your-job/">Rebooting your job</a></li>
-<li><a href="http://www.victusspiritus.com/2010/08/20/how-i-lost-my-startups-first-90k-client-and-won-my-freedom/">How I lost my first $90k client and won my freedom</a> (I continue to busily working part time) </li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/04/27/rebooting-your-job/">Rebooting your job</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/08/20/how-i-lost-my-startups-first-90k-client-and-won-my-freedom/">How I lost my first $90k client and won my freedom</a> (I continue to busily working part time) </li>
 </ul>
 <p>Notes:<br />
 *= I wish I knew about startups out of school. I had familiarity with a few programming languages and a solid math/physics background.</p>

@@ -21,7 +21,7 @@ comments:
 - id: 4627
   author: Analogy and Machine Intelligence | Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/06/27/analogy-and-machine-intelligence/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/06/27/analogy-and-machine-intelligence/
   date: '2010-06-27 15:56:20 -0400'
   date_gmt: '2010-06-27 22:56:20 -0400'
   content: "[...] or specialized algorithms developed to benefit them. I hinted at
@@ -30,14 +30,14 @@ comments:
 - id: 9718
   author: Probabilistic Nondeterministic Programming &mdash; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/03/30/probabilistic-nondeterministic-programming/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/03/30/probabilistic-nondeterministic-programming/
   date: '2011-03-30 06:43:18 -0400'
   date_gmt: '2011-03-30 13:43:18 -0400'
   content: "[...] how probe may handle interface mapping [...]"
 ---
 <p>The intentional interconnection of technology happens at surfaces that are matched*. No matter how well thought out, interface assumptions must iteratively adapt to a dynamic data environment. Information and data rarely maintain the same formats, rates, and sizes over time. As much as I'd prefer to never have to write another data reformatter, it is silly to expect other technologies to stand still. What happens when an interface changes, but all of the needed data to satisfy that new interface is readily available? A developer has to go back into that code and manually write up a new interface or retrofit the existing interface to maintain backwards compatibility. This usually produces some hard to maintain and read code over time. Old code has a way of evolving into a thing out of nightmares.</p>
 <h2>Smarter Mapping Utilities in probe</h2>
-<p>A couple of days ago I described the beginning of a top down designed programming language, <a HREF="http://www.victusspiritus.com/2010/05/26/probe-a-fictional-programming-language-design/">probe</a>. This design effort is defined by what I want as an application builder first, with only a hint of implementation details ruminating in my subconscious. </p>
+<p>A couple of days ago I described the beginning of a top down designed programming language, <a HREF="http://victusfate.github.io/victusspiritus/uncategorized/2010/05/26/probe-a-fictional-programming-language-design/">probe</a>. This design effort is defined by what I want as an application builder first, with only a hint of implementation details ruminating in my subconscious. </p>
 <p>One of the primary design goals I have specified for probe is an advanced interface mapping framework. I'd like to automate as much data reshaping as possible in order to minimize developer time for these tasks. One way interfaces are handled for dynamic or duck typed objects is referencing by method name. If an object has <I>quack</I> it is easily mapped to interfaces that call the <I>quack</I> method. What happens if a needed method is missing? </p>
 <p>There are a variety of ways methods can handle the absence of a called method.  </p>
 <ul>

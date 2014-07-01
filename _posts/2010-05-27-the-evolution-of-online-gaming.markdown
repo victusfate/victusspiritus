@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 3979
-wordpress_url: http://www.victusspiritus.com/2010/05/27/the-evolution-of-online-gaming/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/05/27/the-evolution-of-online-gaming/
 date: '2010-05-27 08:38:53 -0400'
 date_gmt: '2010-05-27 15:38:53 -0400'
 categories:

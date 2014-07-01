@@ -9,10 +9,10 @@ author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<h2>Social Collaborative Business Ventures</h2>\r\n<a href=\"http://app.sliderocket.com/app/FullPlayer.aspx?id=65FF7F27-5087-CD5C-24C4-EF5A2491A633\"><img
   class=\"aligncenter size-full wp-image-1290\" title=\"SocialCollaborativeVentures\"
-  src=\"http://www.victusspiritus.com/wp-content/uploads/2009/08/SocialCollaborativeVentures1.jpg\"
+  src=\"{{ site.url }}/assets/2009/08/SocialCollaborativeVentures1.jpg\"
   alt=\"SocialCollaborativeVentures\" width=\"480\" height=\"380\" /></a>\r\n<p style=\"text-align:
   center;\"><a href=\"http://www.sliderocket.com\">Sliderocket</a> was used to create
-  this slide</p>\r\n\r\nThis is a follow on to an earlier concept, <a href=\"http://www.victusspiritus.com/2009/07/29/crowd-sourced-venture-capitalism/\">Crowd
+  this slide</p>\r\n\r\nThis is a follow on to an earlier concept, <a href=\"http://victusfate.github.io/victusspiritus/uncategorized/2009/07/29/crowd-sourced-venture-capitalism/\">Crowd
   Sourced Venture Capitalism</a>. The key is to establish a <a class=\"zem_slink\"
   title=\"Collaboration\" rel=\"wikipedia\" href=\"http://en.wikipedia.org/wiki/Collaboration\">collaboration</a>
   of entrepreneurship where many people can get involved and own various levels of
@@ -157,9 +157,9 @@ comments:
     me at messel at gmail dot com.
 ---
 <h2>Social Collaborative Business Ventures</h2>
-<p><a href="http://app.sliderocket.com/app/FullPlayer.aspx?id=65FF7F27-5087-CD5C-24C4-EF5A2491A633"><img class="aligncenter size-full wp-image-1290" title="SocialCollaborativeVentures" src="http://www.victusspiritus.com/wp-content/uploads/2009/08/SocialCollaborativeVentures1.jpg" alt="SocialCollaborativeVentures" width="480" height="380" /></a></p>
+<p><a href="http://app.sliderocket.com/app/FullPlayer.aspx?id=65FF7F27-5087-CD5C-24C4-EF5A2491A633"><img class="aligncenter size-full wp-image-1290" title="SocialCollaborativeVentures" src="{{ site.url }}/assets/2009/08/SocialCollaborativeVentures1.jpg" alt="SocialCollaborativeVentures" width="480" height="380" /></a></p>
 <p style="text-align: center;"><a href="http://www.sliderocket.com">Sliderocket</a> was used to create this slide</p>
-<p>This is a follow on to an earlier concept, <a href="http://www.victusspiritus.com/2009/07/29/crowd-sourced-venture-capitalism/">Crowd Sourced Venture Capitalism</a>. The key is to establish a <a class="zem_slink" title="Collaboration" rel="wikipedia" href="http://en.wikipedia.org/wiki/Collaboration">collaboration</a> of entrepreneurship where many people can get involved and own various levels of the process of bringing a business concept to life. Ultimately the survival of a business is dependent on the team that executes. It is this understanding that has fostered a more elaborate plan than simple crowd sourced investment.<a id="more"></a><a id="more-1275"></a></p>
+<p>This is a follow on to an earlier concept, <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/07/29/crowd-sourced-venture-capitalism/">Crowd Sourced Venture Capitalism</a>. The key is to establish a <a class="zem_slink" title="Collaboration" rel="wikipedia" href="http://en.wikipedia.org/wiki/Collaboration">collaboration</a> of entrepreneurship where many people can get involved and own various levels of the process of bringing a business concept to life. Ultimately the survival of a business is dependent on the team that executes. It is this understanding that has fostered a more elaborate plan than simple crowd sourced investment.<a id="more"></a><a id="more-1275"></a></p>
 <p>The concept is founded upon a four tier architecture, with nonexclusive subgroups:</p>
 <ol>
 <li>Idea Mavens</li>
@@ -181,7 +181,7 @@ comments:
 <p>*Post Updated thanks to the <a href="http://vukicevic.blogspot.com/">Vladimir Vukicevic's</a> comment on the missing piece of the puzzle, the venture fund manager.*</p>
 <h6 class="zemanta-related-title" style="font-size: 1em;">Related articles by Zemanta</h6>
 <ul class="zemanta-article-ul">
-<li class="zemanta-article-ul-li"><a href="http://www.victusspiritus.com/2009/07/29/crowd-sourced-venture-capitalism/">Crowd Sourced Venture Capitalism</a> (victusspiritus.com)</li>
+<li class="zemanta-article-ul-li"><a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/07/29/crowd-sourced-venture-capitalism/">Crowd Sourced Venture Capitalism</a> (victusspiritus.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.growvc.com/blog/2009/07/additional-value-of-funder/">Additional value of the funder</a> (growvc.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://blog.startupprofessionals.com/2009/07/startups-top-10-funding-sources.html">Startups: Top 10 Funding Sources</a> (startupprofessionals.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://vator.tv/news/show/2009-07-30-shortage-in-early-stage-funding">Shortage in early stage funding?</a> (vator.tv)</li>

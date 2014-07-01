@@ -20,7 +20,7 @@ tags:
 - html5
 comments: []
 ---
-<p>Yesterday I was inspired to create a short montage of <a href="http://www.victusspiritus.com/2011/07/01/the-ocean/">ocean and beach</a> related photos to accompany a SoundCloud recording I made while strolling the shore. The built in Wordpress gallery is fairly limited, but in May I discovered the cycle jquery plugin for a photo sharing post. While the on page script worked at the time, it has since run into issues so I've been looking for an alternative. I found a nifty interactive image browser called Fancybox a few weeks back, and this post describes how you can incorporate it's functionality into your own blog or site.</p>
+<p>Yesterday I was inspired to create a short montage of <a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/07/01/the-ocean/">ocean and beach</a> related photos to accompany a SoundCloud recording I made while strolling the shore. The built in Wordpress gallery is fairly limited, but in May I discovered the cycle jquery plugin for a photo sharing post. While the on page script worked at the time, it has since run into issues so I've been looking for an alternative. I found a nifty interactive image browser called Fancybox a few weeks back, and this post describes how you can incorporate it's functionality into your own blog or site.</p>
 <h2>The Markup</h2>
 <p>The html markup is straight forward, and the important bits are href's to the zoomed in photo, and 150x150 or small photos for the gallery. The entire set is aggregated in a ul element or unordered list for css child properties that we'll look at in a moment.<br />
 <script src="https://gist.github.com/1059891.js?file=gallery.html"></script></p>
@@ -33,11 +33,11 @@ comments: []
 <p>Here's what a gallery looks like. It's easy to customize the css on the images to adjust their size or layout.</p>
 <div style="border:outset; width:650px; height:440px; background-color:#A7E5FF; position:relative;">
 <ul class="polaroids">
-<li><a rel="example_group" href="http://www.victusspiritus.com/wp-content/uploads/2011/07/IMG_3348.jpg" title="walking north"><img alt="" src="http://www.victusspiritus.com/wp-content/uploads/2011/07/IMG_3348-150x150.jpg" title="walking north" /></a></li>
-<li><a rel="example_group" href="http://www.victusspiritus.com/wp-content/uploads/2011/07/IMG_3349.jpg" title="waves creeping up"><img alt="" src="http://www.victusspiritus.com/wp-content/uploads/2011/07/IMG_3349-150x150.jpg" title="waves creeping up"/></a></li>
-<li><a rel="example_group" href="http://www.victusspiritus.com/wp-content/uploads/2011/07/IMG_3350.jpg" title="dark to light blue sky"><img alt="" src="http://www.victusspiritus.com/wp-content/uploads/2011/07/IMG_3350-150x150.jpg"  title="dark to light blue sky"/></a></li>
-<li><a rel="example_group" href="http://www.victusspiritus.com/wp-content/uploads/2011/07/IMG_3351.jpg" title="dunes"><img alt="" src="http://www.victusspiritus.com/wp-content/uploads/2011/07/IMG_3351-150x150.jpg" title="dunes"/></a></li>
-<li><a rel="example_group" href="http://www.victusspiritus.com/wp-content/uploads/2011/07/IMG_3352.jpg" title="crashing waves"><img alt="" src="http://www.victusspiritus.com/wp-content/uploads/2011/07/IMG_3352-150x150.jpg" title="crashing waves" /></a></li>
+<li><a rel="example_group" href="{{ site.url }}/assets/2011/07/IMG_3348.jpg" title="walking north"><img alt="" src="{{ site.url }}/assets/2011/07/IMG_3348-150x150.jpg" title="walking north" /></a></li>
+<li><a rel="example_group" href="{{ site.url }}/assets/2011/07/IMG_3349.jpg" title="waves creeping up"><img alt="" src="{{ site.url }}/assets/2011/07/IMG_3349-150x150.jpg" title="waves creeping up"/></a></li>
+<li><a rel="example_group" href="{{ site.url }}/assets/2011/07/IMG_3350.jpg" title="dark to light blue sky"><img alt="" src="{{ site.url }}/assets/2011/07/IMG_3350-150x150.jpg"  title="dark to light blue sky"/></a></li>
+<li><a rel="example_group" href="{{ site.url }}/assets/2011/07/IMG_3351.jpg" title="dunes"><img alt="" src="{{ site.url }}/assets/2011/07/IMG_3351-150x150.jpg" title="dunes"/></a></li>
+<li><a rel="example_group" href="{{ site.url }}/assets/2011/07/IMG_3352.jpg" title="crashing waves"><img alt="" src="{{ site.url }}/assets/2011/07/IMG_3352-150x150.jpg" title="crashing waves" /></a></li>
 </ul>
 <h2 style="color:blue; text-align:center; position:absolute; margin-left: 70px; bottom:0px;">Image gallery (click and scroll with mouse wheel or tap)</h2>
 </div>
@@ -49,7 +49,7 @@ comments: []
 <p><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script><br />
 <script type="text/javascript" src="https://raw.github.com/gist/1058744/cb66588e29c237d80f5a944c7f0d47bc97dd9a39/jquery.mousewheel-3.0.4.pack.js"></script><br />
 <script type="text/javascript" src="https://raw.github.com/gist/1058744/1373ed0838bc1be6841339fef703a07c1ee7267f/jquery.fancybox-1.3.4.pack.js"></script></p>
-<link rel="stylesheet" type="text/css" href="http://www.victusspiritus.com/wp-content/uploads/2011/07/jquery.fancybox-1.3.4_mine.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/2011/07/jquery.fancybox-1.3.4_mine.css" media="screen" />
 <style>
 a img {<br />
 	border: 1px solid #BBB;<br />

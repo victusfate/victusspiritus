@@ -23,14 +23,14 @@ comments:
 - id: 2917
   author: Gotta Grock Git &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/02/09/gotta-grock-git/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/02/09/gotta-grock-git/
   date: '2010-02-09 05:37:04 -0500'
   date_gmt: '2010-02-09 12:37:04 -0500'
   content: "[...] friendfeed        Each Time I Get My Hands Dirty, I Learn [...]"
 - id: 2930
   author: Mind =&gt; Tools, dynamic and static typing &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/02/11/mind-tools-dynamic-and-static-typing/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/02/11/mind-tools-dynamic-and-static-typing/
   date: '2010-02-11 07:43:07 -0500'
   date_gmt: '2010-02-11 14:43:07 -0500'
   content: "[...] an earlier post I mentioned I&#8217;d come back to the advantages
@@ -38,7 +38,7 @@ comments:
 - id: 6227
   author: Exploring speculative execution and evaluation &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/10/02/exploring-speculative-execution-and-evaluation/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/10/02/exploring-speculative-execution-and-evaluation/
   date: '2010-10-02 14:55:40 -0400'
   date_gmt: '2010-10-02 21:55:40 -0400'
   content: "[...] encountering these terms, I&#8217;ve become more comfortable with
@@ -48,14 +48,14 @@ comments:
   author: Dynamic scripting with static speed, the best of both worlds &raquo; Victus
     Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/01/28/dynamic-scripting-with-static-speed-the-best-of-both-worlds/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/01/28/dynamic-scripting-with-static-speed-the-best-of-both-worlds/
   date: '2011-01-28 13:14:43 -0500'
   date_gmt: '2011-01-28 20:14:43 -0500'
   content: "[...] Each time I get my hands dirty I learn [...]"
 - id: 9595
   author: Pattern CLiPS &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/03/21/pattern-clips/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/03/21/pattern-clips/
   date: '2011-03-21 04:47:14 -0400'
   date_gmt: '2011-03-21 11:47:14 -0400'
   content: "[...] if you want to process individual messages. I described the API
@@ -64,7 +64,7 @@ comments:
 - id: 9698
   author: One line installs, One button deploys &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/03/28/one-line-installs-one-button-deploys/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/03/28/one-line-installs-one-button-deploys/
   date: '2011-03-28 06:16:01 -0400'
   date_gmt: '2011-03-28 13:16:01 -0400'
   content: "[...] and partner materialized out of crossing real time updates, and

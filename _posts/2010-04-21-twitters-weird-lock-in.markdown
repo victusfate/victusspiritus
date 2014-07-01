@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 3654
-wordpress_url: http://www.victusspiritus.com/2010/04/21/twitters-weird-lock-in/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/04/21/twitters-weird-lock-in/
 date: '2010-04-21 04:34:46 -0400'
 date_gmt: '2010-04-21 11:34:46 -0400'
 categories:
@@ -251,8 +251,8 @@ comments:
     customizing their<br>interface. Each of us has different tastes, so one size fits
     all ends up<br>being a mental prison. I&#39;d much prefer complexity with choices
     over<br>simplicity and no choices, but my ideal design preference is easy to pickup,<br>but
-    rich in choices (a post a week or so back:<br><a href="http://www.victusspiritus.com/2010/04/03/ideal-coding-easy-to-pickup-yet-abundant-in-function/"
-    rel="nofollow">http://www.victusspiritus.com/2010/04/03/ideal-...</a><br>)
+    rich in choices (a post a week or so back:<br><a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/04/03/ideal-coding-easy-to-pickup-yet-abundant-in-function/"
+    rel="nofollow">http://victusfate.github.io/victusspiritus/uncategorized/2010/04/03/ideal-...</a><br>)
 - id: 4114
   author: Mark Essel
   author_email: messel@gmail.com

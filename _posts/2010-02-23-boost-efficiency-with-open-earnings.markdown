@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 3150
-wordpress_url: http://www.victusspiritus.com/2010/02/23/boost-efficiency-with-open-earnings/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/02/23/boost-efficiency-with-open-earnings/
 date: '2010-02-23 05:33:47 -0500'
 date_gmt: '2010-02-23 12:33:47 -0500'
 categories:
@@ -21,7 +21,7 @@ comments:
 - id: 3599
   author: The Kensai Sacrifices Everything to Master the Sword &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/03/26/the-kensai-sacrifices-everything-to-master-the-sword/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/03/26/the-kensai-sacrifices-everything-to-master-the-sword/
   date: '2010-03-26 05:47:04 -0400'
   date_gmt: '2010-03-26 12:47:04 -0400'
   content: "[...] master the sword. This kind of conviction can&#8217;t be simulated

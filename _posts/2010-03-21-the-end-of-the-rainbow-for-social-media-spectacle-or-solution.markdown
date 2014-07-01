@@ -214,7 +214,7 @@ comments:
   content: Thanks for your input AJ, we&#39;re on the same wavelength. I&#39;ll check
     out your thoughts from last year.
 ---
-<p><a href="http://www.stuckincustoms.com/2010/03/20/south-new-zealand/"><img class="aligncenter size-full wp-image-3348" title="DeepIntheSouthofNewZealand" src="http://www.victusspiritus.com/wp-content/uploads/2010/03/DeepIntheSouthofNewZealand.jpg" alt="" width="500" height="333" /></a></p>
+<p><a href="http://www.stuckincustoms.com/2010/03/20/south-new-zealand/"><img class="aligncenter size-full wp-image-3348" title="DeepIntheSouthofNewZealand" src="{{ site.url }}/assets/2010/03/DeepIntheSouthofNewZealand.jpg" alt="" width="500" height="333" /></a></p>
 <p style="text-align: center;"><em>Another Breathtaking HDR shot from Trey Ratcliff (click the image to see more of his work)</em></p>
 <p>I hopped into a conversation related to how <a href="http://www.skepticgeek.com/rss/how-i-live-and-breathe-google-reader/">Mahendra's Palsule's</a> organizes Google Reader. It took place under <a class="zem_slink" title="Louis Gray" rel="homepage" href="http://louisgray.com/">Louis Gray</a>'s Buzz share, and <a class="zem_slink" title="Robert Scoble" rel="homepage" href="http://www.google.com/profiles/scobleizer">Robert Scoble</a> commented how few page views and little attention was driven by Google Reader &amp; Buzz as of late. Here's a <a href="http://www.google.com/buzz/louisgray/QBqqTf5YVqn/Some-strong-analysis-by-Mahendra-into-how-he-uses">link</a> to the conversation, I'll quote the relevant section:</p>
 <div>
@@ -249,6 +249,6 @@ how many use buzz?</p>
 </ul>
 <h6 class="zemanta-related-title" style="font-size: 1em;">Related articles by Zemanta</h6>
 <ul class="zemanta-article-ul">
-<li class="zemanta-article-ul-li"><a href="http://www.victusspiritus.com/2010/03/18/how-do-you-define-and-capture-relevance-across-the-web/">How do you define and capture relevance across the web?</a> (victusspiritus.com)</li>
+<li class="zemanta-article-ul-li"><a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/03/18/how-do-you-define-and-capture-relevance-across-the-web/">How do you define and capture relevance across the web?</a> (victusspiritus.com)</li>
 </ul>
 <div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/580a5bed-f1fa-49b0-a16b-9ae7157234a0/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=580a5bed-f1fa-49b0-a16b-9ae7157234a0" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>

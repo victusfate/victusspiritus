@@ -71,7 +71,7 @@ comments:
 - id: 1925
   author: EMP Project Evolution Cycle
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/12/01/emp-project-evolution-cycle/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/12/01/emp-project-evolution-cycle/
   date: '2009-12-01 07:19:38 -0500'
   date_gmt: '2009-12-01 14:19:38 -0500'
   content: "[...] that may be embedded in hardware defaults (product physical design),

@@ -1,0 +1,258 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang='en-us' xml:lang='en-us' xmlns='http://www.w3.org/1999/xhtml'>
+  <head>
+    <title>File:ADN animation.gif</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <link href='/stylesheets/webkit.css' media='all' rel='Stylesheet' type='text/css' />
+    <meta name="ROBOTS" content="NOINDEX, NOFOLLOW" />
+    <meta name = "viewport" content = "width=device-width" />
+    <meta name = "viewport" content = "initial-scale = 1.0" />
+    <link rel="apple-touch-icon" href="http://en.m.wikipedia.org/apple-touch-icon.png" />
+    <script type='text/javascript'>
+      //<![CDATA[
+        var title = "File:ADN animation.gif";
+        var server = "http://en.wikipedia.org";
+        function shouldCache() {
+          return true;
+        }
+      //]]>
+    </script>
+    <script type="text/javascript" language="javascript" SRC="/javascript/jquery.js"></script>
+    <script type="text/javascript" language="javascript" SRC="/javascript/application.js"></script>
+  </head>
+  <body>
+    <div id='header'>
+      <div id='searchbox'>
+        <img alt='W logo' id='logo' src='/images/w.gif' />
+        <form action='/wiki' class='search_bar' method='get'>
+          <input id='searchField' name='search' size='27' type='search' value='ADN animation.gif' />
+          <div id='clearButton'></div>
+          <button id='goButton' type='submit'></button>
+        </form>
+      </div>
+      <div class='nav' id='nav'>
+        <form method="get" action="/wiki/::Home"><button type="submit" id="homeButton">Home</button></form>
+        <form method="get" action="/wiki/::Random"><button type="submit" id="randomButton">Random</button></form>
+      </div>
+    </div>
+    <div class='show en' id='content_wrapper'>
+      <div id='file_page'>
+        <div id="content">
+        		
+        				<h1 id="firstHeading" class="firstHeading">File:ADN animation.gif</h1>
+        		<div id="bodyContent">
+        			
+        			
+        												<!-- start content -->
+        			<ul id="filetoc">
+        			<li><a href="#file">File</a></li>
+        			<li><a href="#filehistory">File history</a></li>
+        			<li><a href="#filelinks">File links</a></li>
+        
+        			</ul>
+        <div class="fullImageLink" id="file"><a href="http://upload.wikimedia.org/wikipedia/commons/8/81/ADN_animation.gif"><img alt="File:ADN animation.gif" src="http://upload.wikimedia.org/wikipedia/commons/8/81/ADN_animation.gif" width="181" height="313"></img></a><br></br><small>No higher resolution available.</small><br></br><a href="http://upload.wikimedia.org/wikipedia/commons/8/81/ADN_animation.gif">ADN_animation.gif</a>&#x200E; (181 &#xD7; 313 pixels, file size: 982 KB, MIME type: image/gif)</div>
+        <div class="sharedUploadNotice">
+        <table id="mw-sharedupload" class="plainlinks fmbox fmbox-system" style="">
+        <tr>
+        <td class="mbox-image">
+          <a href="/wiki/File:Commons-logo.svg" class="image" title="Wikimedia Commons logo"><img alt="Wikimedia Commons logo" src="http://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40"></img></a></td>
+        <td class="mbox-text" style="font-size: 90%; text-align: center;"> <div>
+        <p><big>This is a file from the <a href="http://commons.wikimedia.org/wiki/Main_Page" class="extiw" title="commons:Main Page">Wikimedia Commons</a>. The description on its <b><a href="http://commons.wikimedia.org/wiki/File:ADN_animation.gif" class="extiw" title="commons:File:ADN animation.gif">description page there</a></b> is shown below.</big> <br></br> Commons is a freely licensed media file repository. <a href="http://commons.wikimedia.org/wiki/Commons:Welcome" class="extiw" title="commons:Commons:Welcome">You can help</a>.
+        </p>
+        </div> </td>
+        </tr>
+        </table>
+        <div class="metadata topicon" id="commons-icon" style="display:none; right:30px;"><a href="http://commons.wikimedia.org/wiki/File:ADN_animation.gif" title="This is a file from the Wikimedia Commons"><img alt="This is a file from the Wikimedia Commons" src="http://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/14px-Commons-logo.svg.png" width="14" height="19"></img></a></div>
+        </div>
+        <div id="shared-image-desc"><p>Animation of a rotating DNA structure.</p>
+        <p>Created in the free program <a href="http://www.bernstein-plus-sons.com/software/rasmol/" class="external text" rel="nofollow">RasMol 2.7.2.1.1</a> using the <a href="http://www.wellesley.edu/Chemistry/Flick/molecules/bdna.pdb" class="external text" rel="nofollow">bdna.pdb</a> dataset and the following commands:</p>
+        <p>GUI options were: Options-&gt;Specular, Display-&gt;Sticks</p>
+        <p>Then, in the command line:</p>
+        <pre>
+        write frame-000.gif
+        set write true
+        script script.txt
+        </pre>
+        <p>where script.txt was a separate text file in the same directory, consisting of the same two repeating lines:</p>
+        <pre>
+        rotate x 03
+        write frame-001.gif
+        rotate x 03
+        write frame-002.gif
+        rotate x 03
+        write frame-003.gif
+        ...
+        </pre>
+        <p>from 001 up to 119 (for a total of 120 images when combined with frame-000.gif).</p>
+        <p>This was then loaded in Adobe ImageReady, and saved as an animated GIF.</p>
+        <p>Creator and uploader: <a href="http://en.wikipedia.org/wiki/User:Brian0918" class="extiw" title="en:User:Brian0918">brian0918</a><a href="http://en.wikipedia.org/wiki/User_talk:Brian0918" class="extiw" title="en:User talk:Brian0918">&#x2122;</a></p>
+        <p><br></br></p>
+        <table cellspacing="8" cellpadding="0" style="width:100%; clear:both; margin:0.5em auto; background-color:#f7f8ff; border:2px solid #8888aa; direction: ltr;" class="layouttemplate">
+        <tr>
+        <td><img alt="PD-icon.svg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/64px-PD-icon.svg.png" width="64" height="64"></img></td>
+        <td><span lang="en" class="description en" xml:lang="en"><i>This image has been released into the <b><a href="http://en.wikipedia.org/wiki/public_domain" class="extiw" title="w:public domain">public domain</a></b> by its author, <b><a href="http://commons.wikimedia.org/wiki/User:Brian0918" title="User:Brian0918">brian0918</a></b>. This applies worldwide.</i><br></br></span>
+        <p><span lang="en" class="description en" xml:lang="en"><small>In some countries this may not be legally possible; if so:</small><br></br>
+        <i><b><a href="http://commons.wikimedia.org/wiki/User:Brian0918" title="User:Brian0918">brian0918</a></b> grants anyone the right to use this work <b>for any purpose</b>, without any conditions, unless such conditions are required by law.</i></span></p>
+        <hr></hr>
+        <p><span style="font-size:x-small;line-height:140%" class="plainlinks"><a href="http://commons.wikimedia.org/wiki/Template:PD-user/als" class="external text" rel="nofollow">Alemannisch</a>&#xA0;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user/ar" class="external text" rel="nofollow">&#x627;&#x644;&#x639;&#x631;&#x628;&#x64A;&#x629;</a>&#xA0;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user/be-tarask" class="external text" rel="nofollow">&#x411;&#x435;&#x43B;&#x430;&#x440;&#x443;&#x441;&#x43A;&#x430;&#x44F; (&#x442;&#x430;&#x440;&#x430;&#x448;&#x43A;&#x435;&#x432;&#x456;&#x446;&#x430;)</a>&#xA0;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user/bg" class="external text" rel="nofollow">&#x411;&#x44A;&#x43B;&#x433;&#x430;&#x440;&#x441;&#x43A;&#x438;</a>&#xA0;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user/ca" class="external text" rel="nofollow">Catal&#xE0;</a>&#xA0;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user/cs" class="external text" rel="nofollow">&#x10C;esky</a>&#xA0;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user/de" class="external text" rel="nofollow">Deutsch</a>&#xA0;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user/el" class="external text" rel="nofollow">&#x395;&#x3BB;&#x3BB;&#x3B7;&#x3BD;&#x3B9;&#x3BA;&#x3AC;</a>&#xA0;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user/en" class="external text" rel="nofollow">English</a>&#xA0;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user/es" class="external text" rel="nofollow">Espa&#xF1;ol</a>&#xA0;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user/et" class="external text" rel="nofollow">Eesti</a>&#xA0;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user/fa" class="external text" rel="nofollow">&#x641;&#x627;&#x631;&#x633;&#x6CC;</a>&#xA0;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user/fi" class="external text" rel="nofollow">Suomi</a>&#xA0;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user/fr" class="external text" rel="nofollow">Fran&#xE7;ais</a>&#xA0;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user/he" class="external text" rel="nofollow">&#x5E2;&#x5D1;&#x5E8;&#x5D9;&#x5EA;</a>&#xA0;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user/it" class="external text" rel="nofollow">Italiano</a>&#xA0;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user/ja" class="external text" rel="nofollow">&#x65E5;&#x672C;&#x8A9E;</a>&#xA0;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user/ko" class="external text" rel="nofollow">&#xD55C;&#xAD6D;&#xC5B4;</a>&#xA0;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user/lt" class="external text" rel="nofollow">Lietuvi&#x173;</a>&#xA0;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user/mk" class="external text" rel="nofollow">&#x41C;&#x430;&#x43A;&#x435;&#x434;&#x43E;&#x43D;&#x441;&#x43A;&#x438;</a>&#xA0;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user/mt" class="external text" rel="nofollow">Malti</a>&#xA0;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user/nds" class="external text" rel="nofollow">Plattd&#xFC;&#xFC;tsch</a>&#xA0;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user/nl" class="external text" rel="nofollow">Nederlands</a>&#xA0;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user/pl" class="external text" rel="nofollow">Polski</a>&#xA0;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user/ru" class="external text" rel="nofollow">&#x420;&#x443;&#x441;&#x441;&#x43A;&#x438;&#x439;</a>&#xA0;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user/sr" class="external text" rel="nofollow">&#x421;&#x440;&#x43F;&#x441;&#x43A;&#x438; / Srpski</a>&#xA0;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user/sv" class="external text" rel="nofollow">Svenska</a>&#xA0;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user/ta" class="external text" rel="nofollow">&#xBA4;&#xBAE;&#xBBF;&#xBB4;&#xBCD;</a>&#xA0;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user/th" class="external text" rel="nofollow">&#xE44;&#xE17;&#xE22;</a>&#xA0;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user/tr" class="external text" rel="nofollow">T&#xFC;rk&#xE7;e</a>&#xA0;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user/uk" class="external text" rel="nofollow">&#x423;&#x43A;&#x440;&#x430;&#x457;&#x43D;&#x441;&#x44C;&#x43A;&#x430;</a>&#xA0;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user/vec" class="external text" rel="nofollow">V&#xE8;neto</a>&#xA0;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user/vi" class="external text" rel="nofollow">Ti&#x1EBF;ng Vi&#x1EC7;t</a>&#xA0;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user/zh" class="external text" rel="nofollow">&#x4E2D;&#x6587;</a>&#xA0;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user/zh-hans" class="external text" rel="nofollow">&#x202A;&#x4E2D;&#x6587;(&#x7B80;&#x4F53;)&#x202C;</a>&#xA0;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user/zh-hant" class="external text" rel="nofollow">&#x202A;&#x4E2D;&#x6587;(&#x7E41;&#x9AD4;)&#x202C;</a>&#xA0;| <small class="plainlinks"><a href="http://commons.wikimedia.org/w/index.php?title=Template:PD-user/lang&amp;action=edit" class="external text" rel="nofollow">+/&#x2212;</a></small></span></p>
+        </td>
+        </tr>
+        </table>
+        
+        
+        <!-- 
+        NewPP limit report
+        Preprocessor node count: 206/1000000
+        Post-expand include size: 24802/2048000 bytes
+        Template argument size: 1008/2048000 bytes
+        Expensive parser function count: 1/500
+        -->
+        
+        <!-- Saved in parser cache with key commonswiki:pcache:idhash:404735-1!1!0!default!!en!2 and timestamp 20091227073847 -->
+        </div>
+        <h2 id="filehistory">File history</h2>
+        <div id="mw-imagepage-section-filehistory">
+        <p>Click on a date/time to view the file as it appeared at that time.
+        </p>
+        <table class="wikitable filehistory">
+        <tr><td></td><th>Date/Time</th><th>Thumbnail</th><th>Dimensions</th><th>User</th><th>Comment</th></tr>
+        <tr><td>current</td><td class="filehistory-selected" style="white-space: nowrap;"><a href="http://upload.wikimedia.org/wikipedia/commons/8/81/ADN_animation.gif">03:15, 22 November 2009</a></td><td><a href="http://upload.wikimedia.org/wikipedia/commons/8/81/ADN_animation.gif"><img alt="Thumbnail for version as of 03:15, 22 November 2009" src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/81/ADN_animation.gif/69px-ADN_animation.gif" width="69" height="119"></img></a></td><td>181&#xD7;313 <span style="white-space: nowrap;">(982 KB)</span></td><td>Elecbullet</td><td> <span class="comment">(Optimized w/ Gifsicle)</span></td></tr>
+        <tr><td></td><td style="white-space: nowrap;"><a href="http://upload.wikimedia.org/wikipedia/commons/archive/8/81/20091122031513%21ADN_animation.gif">10:42, 7 November 2005</a></td><td><a href="http://upload.wikimedia.org/wikipedia/commons/archive/8/81/20091122031513%21ADN_animation.gif"><img alt="Thumbnail for version as of 10:42, 7 November 2005" src="http://upload.wikimedia.org/wikipedia/commons/thumb/archive/8/81/20091122031513%21ADN_animation.gif/69px-ADN_animation.gif" width="69" height="119"></img></a></td><td>181&#xD7;313 <span style="white-space: nowrap;">(1 MB)</span></td><td>Magadan</td><td> <span class="comment">({{en|Taken from french wikipedia (<a href="http://fr.wikipedia.org/wiki/Image:ADN_animation.gif" class="extiw" title="fr:Image:ADN animation.gif">fr:Image:ADN animation.gif</a>). Licensed there as Public domain.}}   {{PD}})</span></td></tr>
+        </table>
+        
+        </div>
+        <h2 id="filelinks">File links</h2>
+        <div id="mw-imagepage-section-linkstoimage">
+        <div class="linkstoimage" id="linkstoimage">The following pages on the English Wikipedia link to this file (pages on other projects are not listed):</div>
+        <ul class="mw-imagepage-linkstoimage">
+        <li><a href="/wiki/DNA" title="DNA">DNA</a></li>
+        <li><a href="/wiki/Portal:Medicine/Selected_picture" title="Portal:Medicine/Selected picture">Portal:Medicine/Selected picture</a></li>
+        <li><a href="/wiki/User:Laboratorio.Ricerche.Evolutive" title="User:Laboratorio.Ricerche.Evolutive">User:Laboratorio.Ricerche.Evolutive</a></li>
+        <li><a href="/wiki/User:Dugouha" title="User:Dugouha">User:Dugouha</a></li>
+        <li><a href="/wiki/User:Dugouha/Userboxes/" title="User:Dugouha/Userboxes/">User:Dugouha/Userboxes/</a></li>
+        <li><a href="/wiki/User:Dugouha/Userboxes/popgen" title="User:Dugouha/Userboxes/popgen">User:Dugouha/Userboxes/popgen</a></li>
+        <li><a href="/wiki/Portal:Medicine/Selected_picture/35,_2006" title="Portal:Medicine/Selected picture/35, 2006">Portal:Medicine/Selected picture/35, 2006</a></li>
+        <li><a href="/wiki/Introduction_to_genetics" title="Introduction to genetics">Introduction to genetics</a></li>
+        <li><a href="/wiki/User:Alienlifeformz" title="User:Alienlifeformz">User:Alienlifeformz</a></li>
+        <li><a href="/wiki/User:Hultanu" title="User:Hultanu">User:Hultanu</a></li>
+        <li><a href="/wiki/Portal:Medicine/Selected_picture_archive_of_2006" title="Portal:Medicine/Selected picture archive of 2006">Portal:Medicine/Selected picture archive of 2006</a></li>
+        <li><a href="/wiki/User:Magarmach" title="User:Magarmach">User:Magarmach</a></li>
+        <li><a href="/wiki/User:Willisis2" title="User:Willisis2">User:Willisis2</a></li>
+        <li><a href="/wiki/Portal:Medicine/Selected_picture/75" title="Portal:Medicine/Selected picture/75">Portal:Medicine/Selected picture/75</a></li>
+        <li><a href="/wiki/User:Wyatt915/Userboxes/DNA" title="User:Wyatt915/Userboxes/DNA">User:Wyatt915/Userboxes/DNA</a></li>
+        <li><a href="/wiki/User:Wyatt915/Mystery_Molecules" title="User:Wyatt915/Mystery Molecules">User:Wyatt915/Mystery Molecules</a></li>
+        <li><a href="/wiki/User:Wyatt915/Userboxes" title="User:Wyatt915/Userboxes">User:Wyatt915/Userboxes</a></li>
+        <li><a href="/wiki/User:Wyatt915/Pages" title="User:Wyatt915/Pages">User:Wyatt915/Pages</a></li>
+        <li><a href="/wiki/User:Bci2" title="User:Bci2">User:Bci2</a></li>
+        <li><a href="/wiki/Molecular_models_of_DNA" title="Molecular models of DNA">Molecular models of DNA</a></li>
+        <li><a href="/wiki/DNA_dynamics" title="DNA dynamics">DNA dynamics</a></li>
+        <li><a href="/wiki/User:Bci2/Books/Wk2Book" title="User:Bci2/Books/Wk2Book">User:Bci2/Books/Wk2Book</a></li>
+        <li><a href="/wiki/User:Bci2/Books/Wk3vol1" title="User:Bci2/Books/Wk3vol1">User:Bci2/Books/Wk3vol1</a></li>
+        <li><a href="/wiki/User:Bci2/Books/Wk4" title="User:Bci2/Books/Wk4">User:Bci2/Books/Wk4</a></li>
+        </ul>
+        </div>
+        <h2 id="globalusage">Global file usage</h2>
+        <p>The following other wikis use this file:
+        </p><ul>
+        <li>Usage on ar.wikipedia.org
+        <ul>	<li><a href="http://ar.wikipedia.org/wiki/%D8%AD%D9%85%D8%B6_%D9%86%D9%88%D9%88%D9%8A_%D8%B1%D9%8A%D8%A8%D9%8A_%D9%85%D9%86%D9%82%D9%88%D8%B5_%D8%A7%D9%84%D8%A3%D9%83%D8%B3%D8%AC%D9%8A%D9%86" class="external ">&#x62D;&#x645;&#x636; &#x646;&#x648;&#x648;&#x64A; &#x631;&#x64A;&#x628;&#x64A; &#x645;&#x646;&#x642;&#x648;&#x635; &#x627;&#x644;&#x623;&#x643;&#x633;&#x62C;&#x64A;&#x646;</a></li>
+        	<li><a href="http://ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%B9%D9%84%D9%88%D9%85" class="external ">&#x628;&#x648;&#x627;&#x628;&#x629;:&#x639;&#x644;&#x648;&#x645;</a></li>
+        	<li><a href="http://ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%B9%D9%84%D9%88%D9%85/%D8%B5%D9%88%D8%B1%D8%A9_%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%D8%A9" class="external ">&#x628;&#x648;&#x627;&#x628;&#x629;:&#x639;&#x644;&#x648;&#x645;/&#x635;&#x648;&#x631;&#x629; &#x645;&#x62E;&#x62A;&#x627;&#x631;&#x629;</a></li>
+        	<li><a href="http://ar.wikipedia.org/wiki/%D9%86%D9%85%D8%B7_%D8%AC%D9%8A%D9%86%D9%8A" class="external ">&#x646;&#x645;&#x637; &#x62C;&#x64A;&#x646;&#x64A;</a></li>
+        </ul></li>
+        <li>Usage on az.wikipedia.org
+        <ul>	<li><a href="http://az.wikipedia.org/wiki/Biologiya" class="external ">Biologiya</a></li>
+        	<li><a href="http://az.wikipedia.org/wiki/Genetika" class="external ">Genetika</a></li>
+        	<li><a href="http://az.wikipedia.org/wiki/%C4%B0stifad%C9%99%C3%A7i:Almaz_Hasret" class="external ">&#x130;stifad&#x259;&#xE7;i:Almaz Hasret</a></li>
+        </ul></li>
+        <li>Usage on br.wikipedia.org
+        <ul>	<li><a href="http://br.wikipedia.org/wiki/Trenkenn_dezoksiribonukleek" class="external ">Trenkenn dezoksiribonukleek</a></li>
+        </ul></li>
+        <li>Usage on ca.wikipedia.org
+        <ul>	<li><a href="http://ca.wikipedia.org/wiki/Plantilla:Titular_de_Biologia_06" class="external ">Plantilla:Titular de Biologia 06</a></li>
+        	<li><a href="http://ca.wikipedia.org/wiki/Viquip%C3%A8dia:Articles_seleccionats_de_Biologia" class="external ">Viquip&#xE8;dia:Articles seleccionats de Biologia</a></li>
+        	<li><a href="http://ca.wikipedia.org/wiki/Plantilla:Agost_an%C3%A8cdota_de_Biologia" class="external ">Plantilla:Agost an&#xE8;cdota de Biologia</a></li>
+        	<li><a href="http://ca.wikipedia.org/wiki/Viquip%C3%A8dia:An%C3%A8cdotes_seleccionades_de_Biologia" class="external ">Viquip&#xE8;dia:An&#xE8;cdotes seleccionades de Biologia</a></li>
+        	<li><a href="http://ca.wikipedia.org/wiki/Portal:Biologia/Imatges" class="external ">Portal:Biologia/Imatges</a></li>
+        	<li><a href="http://ca.wikipedia.org/wiki/Plantilla:Abril_article_de_Biologia" class="external ">Plantilla:Abril article de Biologia</a></li>
+        	<li><a href="http://ca.wikipedia.org/wiki/Biomol%C3%A8cula" class="external ">Biomol&#xE8;cula</a></li>
+        	<li><a href="http://ca.wikipedia.org/wiki/Jurassic_Park" class="external ">Jurassic Park</a></li>
+        	<li><a href="http://ca.wikipedia.org/wiki/Empremta_gen%C3%A8tica" class="external ">Empremta gen&#xE8;tica</a></li>
+        </ul></li>
+        <li>Usage on cs.wikipedia.org
+        <ul>	<li><a href="http://cs.wikipedia.org/wiki/DNA" class="external ">DNA</a></li>
+        	<li><a href="http://cs.wikipedia.org/wiki/Diskuse:DNA" class="external ">Diskuse:DNA</a></li>
+        	<li><a href="http://cs.wikipedia.org/wiki/Wikipedie:Vybran%C3%A1_v%C3%BDro%C4%8D%C3%AD_dne/%C3%BAnor" class="external ">Wikipedie:Vybran&#xE1; v&#xFD;ro&#x10D;&#xED; dne/&#xFA;nor</a></li>
+        	<li><a href="http://cs.wikipedia.org/wiki/Wikipedie:Vybran%C3%A1_v%C3%BDro%C4%8D%C3%AD_dne/21._%C3%BAnor" class="external ">Wikipedie:Vybran&#xE1; v&#xFD;ro&#x10D;&#xED; dne/21. &#xFA;nor</a></li>
+        </ul></li>
+        <li>Usage on da.wikipedia.org
+        <ul>	<li><a href="http://da.wikipedia.org/wiki/Deoxyribonukleinsyre" class="external ">Deoxyribonukleinsyre</a></li>
+        </ul></li>
+        <li>Usage on de.wikipedia.org
+        <ul>	<li><a href="http://de.wikipedia.org/wiki/Genetik" class="external ">Genetik</a></li>
+        	<li><a href="http://de.wikipedia.org/wiki/28._Februar" class="external ">28. Februar</a></li>
+        	<li><a href="http://de.wikipedia.org/wiki/Diskussion:21._Februar" class="external ">Diskussion:21. Februar</a></li>
+        	<li><a href="http://de.wikipedia.org/wiki/GC-Gehalt" class="external ">GC-Gehalt</a></li>
+        	<li><a href="http://de.wikipedia.org/wiki/Benutzer:Fwappler" class="external ">Benutzer:Fwappler</a></li>
+        	<li><a href="http://de.wikipedia.org/wiki/Benutzer:Jiver" class="external ">Benutzer:Jiver</a></li>
+        	<li><a href="http://de.wikipedia.org/wiki/Benutzer:Penta/Lieblings..." class="external ">Benutzer:Penta/Lieblings...</a></li>
+        	<li><a href="http://de.wikipedia.org/wiki/Diskussion:Desoxyribonukleins%C3%A4ure/Archiv" class="external ">Diskussion:Desoxyribonukleins&#xE4;ure/Archiv</a></li>
+        	<li><a href="http://de.wikipedia.org/wiki/Benutzer:Penta/Bilder" class="external ">Benutzer:Penta/Bilder</a></li>
+        </ul></li>
+        <li>Usage on de.wikibooks.org
+        <ul>	<li><a href="http://de.wikibooks.org/wiki/Organische_Chemie/_Aufbau_organischer_Verbindungen" class="external ">Organische Chemie/ Aufbau organischer Verbindungen</a></li>
+        </ul></li>
+        <li>Usage on de.wikiversity.org
+        <ul>	<li><a href="http://de.wikiversity.org/wiki/Kurs:Molekularbiologisches_Praktikum" class="external ">Kurs:Molekularbiologisches Praktikum</a></li>
+        </ul></li>
+        <li>Usage on de.labs.wikimedia.org
+        <ul>	<li><a href="http://de.labs.wikimedia.org/wiki/Organische_Chemie/_Aufbau_organischer_Verbindungen" class="external ">Organische Chemie/ Aufbau organischer Verbindungen</a></li>
+        	<li><a href="http://de.labs.wikimedia.org/wiki/Biologie_f%C3%BCr_Mediziner:_Zellkern" class="external ">Biologie f&#xFC;r Mediziner: Zellkern</a></li>
+        	<li><a href="http://de.labs.wikimedia.org/wiki/Biologie_f%C3%BCr_Mediziner:_Druckversion" class="external ">Biologie f&#xFC;r Mediziner: Druckversion</a></li>
+        </ul></li>
+        <li>Usage on en.wikibooks.org
+        <ul>	<li><a href="http://en.wikibooks.org/wiki/General_Genetics/Introduction" class="external ">General Genetics/Introduction</a></li>
+        	<li><a href="http://en.wikibooks.org/wiki/Human_Physiology/Genetics_and_inheritance" class="external ">Human Physiology/Genetics and inheritance</a></li>
+        	<li><a href="http://en.wikibooks.org/wiki/Talk:Human_Physiology/Genetics_and_inheritance" class="external ">Talk:Human Physiology/Genetics and inheritance</a></li>
+        	<li><a href="http://en.wikibooks.org/wiki/Human_Physiology/Print_Version" class="external ">Human Physiology/Print Version</a></li>
+        	<li><a href="http://en.wikibooks.org/wiki/NCEA_Level_1_Science/Contents/Genetics" class="external ">NCEA Level 1 Science/Contents/Genetics</a></li>
+        	<li><a href="http://en.wikibooks.org/wiki/General_Genetics/Print_version" class="external ">General Genetics/Print version</a></li>
+        </ul></li>
+        <li>Usage on en.wikiquote.org
+        <ul>	<li><a href="http://en.wikiquote.org/wiki/Timothy_Leary" class="external ">Timothy Leary</a></li>
+        </ul></li>
+        <li>Usage on en.wikiversity.org
+        <ul>	<li><a href="http://en.wikiversity.org/wiki/Biophilia_Project/Human_genetic_uniqueness" class="external ">Biophilia Project/Human genetic uniqueness</a></li>
+        	<li><a href="http://en.wikiversity.org/wiki/Introduction_to_Genetics" class="external ">Introduction to Genetics</a></li>
+        </ul></li>
+        <li>Usage on en.labs.wikimedia.org
+        <ul>	<li><a href="http://en.labs.wikimedia.org/wiki/Human_Physiology/Genetics_and_inheritance" class="external ">Human Physiology/Genetics and inheritance</a></li>
+        	<li><a href="http://en.labs.wikimedia.org/wiki/Human_Physiology/Print_Version" class="external ">Human Physiology/Print Version</a></li>
+        </ul></li>
+        <li>Usage on eo.wikipedia.org
+        <ul>	<li><a href="http://eo.wikipedia.org/wiki/DNA" class="external ">DNA</a></li>
+        	<li><a href="http://eo.wikipedia.org/wiki/Nuklea_acido" class="external ">Nuklea acido</a></li>
+        	<li><a href="http://eo.wikipedia.org/wiki/Genetike_modifita_organismo" class="external ">Genetike modifita organismo</a></li>
+        </ul></li>
+        </ul>
+        <p>View <a href="/wiki/Special:GlobalUsage/ADN_animation.gif" title="Special:GlobalUsage/ADN animation.gif">more global usage</a> of this file.
+        </p>
+        						<!-- end content -->
+        						<div class="visualClear"></div>
+        		</div>
+        	</div>
+      </div>
+    </div>
+    <div id='footer'>
+      <div class='nav' id='footmenu'>
+        <div class='notice'>
+          <a href="http://en.wikipedia.org/w/mobileRedirect.php?to=http://en.wikipedia.org/wiki/File%3AADN+animation.gif">View this page on regular Wikipedia</a>
+            <div id="perm">
+              <a href="/disable/File%3AADN+animation.gif">Permanently disable mobile site</a>
+            </div>
+        </div>
+      </div>
+      <div id='copyright'>Text is available under the <a href='http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License'>Creative Commons Attribution/Share-Alike License</a>; additional terms may apply. See <a href='http://wikimediafoundation.org/wiki/Terms_of_Use'>Terms of Use</a> for details. Wikipedia is a registered trademark of the <a href='http://www.wikimediafoundation.org/'>Wikimedia Foundation, Inc.</a>, a non-profit organization.</div>
+    </div>
+  </body>
+</html>

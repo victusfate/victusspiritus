@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 3433
-wordpress_url: http://www.victusspiritus.com/2010/04/02/mad-libs-tech-blogging/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/04/02/mad-libs-tech-blogging/
 date: '2010-04-02 04:48:18 -0400'
 date_gmt: '2010-04-02 11:48:18 -0400'
 categories:
@@ -20,7 +20,7 @@ comments:
 - id: 3786
   author: The Gilded Cage of Technology &laquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/04/05/the-gilded-cage-of-technology/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/04/05/the-gilded-cage-of-technology/
   date: '2010-04-05 07:00:52 -0400'
   date_gmt: '2010-04-05 14:00:52 -0400'
   content: "[...] Mad Libs Tech Blogging [...]"

@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 3366
-wordpress_url: http://www.victusspiritus.com/2010/03/24/coasting-uphill-is-a-bad-plan/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/03/24/coasting-uphill-is-a-bad-plan/
 date: '2010-03-24 05:10:57 -0400'
 date_gmt: '2010-03-24 12:10:57 -0400'
 categories:

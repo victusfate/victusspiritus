@@ -37,7 +37,7 @@ comments:
 
     Anyone doing a blog search has access to company track records
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/12/zazzle_fail.png"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/12/zazzle_fail.png" alt="" title="zazzle_fail" width="507" height="155" class="aligncenter size-full wp-image-6304" /></a><br />
+<p><a href="{{ site.url }}/assets/2010/12/zazzle_fail.png"><img src="{{ site.url }}/assets/2010/12/zazzle_fail.png" alt="" title="zazzle_fail" width="507" height="155" class="aligncenter size-full wp-image-6304" /></a><br />
 <I>The short version</I><br />
 My wife ordered address labels for Christmas cards towards the end of October. The order was botched (half shipped), then eventually reshipped after a phone call by Michelle. This past Friday a second charge was added. I enjoyed the passion behind the stirring customer complaint, and found it well worth sharing.</p>
 <p><i>Michelle's email to Zazzle</I></p>

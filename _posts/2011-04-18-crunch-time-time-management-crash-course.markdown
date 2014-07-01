@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 8528
-wordpress_url: http://www.victusspiritus.com/2011/04/18/crunch-time-time-management-crash-course/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/04/18/crunch-time-time-management-crash-course/
 date: '2011-04-18 07:12:48 -0400'
 date_gmt: '2011-04-18 14:12:48 -0400'
 categories:

@@ -66,7 +66,7 @@ comments:
     (long time bloody nose fixing had some side effects - Yucky pain killers mixed
     with silver nitrate). Should be back in action tomorrow.
 ---
-<p><a href="http://nostat.us"><img class="size-full wp-image-3889 alignnone" title="NoStatus" src="http://www.victusspiritus.com/wp-content/uploads/2010/05/NoStatus.jpg" alt="" width="480" height="320" /></a></p>
+<p><a href="http://nostat.us"><img class="size-full wp-image-3889 alignnone" title="NoStatus" src="{{ site.url }}/assets/2010/05/NoStatus.jpg" alt="" width="480" height="320" /></a></p>
 <p style="text-align: center;"><em>Behold! The soft release of <a href="http://nostat.us">Nostat.us</a>.</em></p>
 <p><a href="http://nostat.us">Nostat.us</a> is social web communicating, without distraction.</p>
 <p>We'd love you to sign up and try it out.</p>

@@ -304,7 +304,7 @@ comments:
 <h2>Why I make videos</h2>
 <p>I'm wrapping up with a quick description of why I make these bobbly head videos while out walking.</p>
 <ol>
-<li>I walk a lot. Exercise gets my brain going, and I'm a big fan of <a href="http://www.victusspiritus.com/2009/07/18/autopilot-for-our-brain-allows-multitasking-efficiency/">multitasking</a> whenever I can get away with it</li>
+<li>I walk a lot. Exercise gets my brain going, and I'm a big fan of <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/07/18/autopilot-for-our-brain-allows-multitasking-efficiency/">multitasking</a> whenever I can get away with it</li>
 <li>It's a memory assistant, I can document ideas when they're fresh in my mind and as I'm reading material</li>
 <li>It's a tool of introspection. I can listen for the concepts I most often refer to, for keys into my deeper interests, and then leverage that interest to get some good work done either by blogging or coding</li>
 </ol>

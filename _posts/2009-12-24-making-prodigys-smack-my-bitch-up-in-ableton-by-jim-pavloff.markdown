@@ -54,7 +54,7 @@ comments:
 - id: 4573
   author: Tech Echos, Hackers and DJs - Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/06/18/tech-echos-hackers-and-djs/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/06/18/tech-echos-hackers-and-djs/
   date: '2010-06-18 07:18:08 -0400'
   date_gmt: '2010-06-18 14:18:08 -0400'
   content: "[...] long ago I called attention to Jim Pavloff&#8217;s recreation of

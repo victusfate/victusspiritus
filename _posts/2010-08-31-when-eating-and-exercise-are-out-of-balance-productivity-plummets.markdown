@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 5015
-wordpress_url: http://www.victusspiritus.com/2010/08/31/when-eating-and-exercise-are-out-of-balance-productivity-plummets/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/08/31/when-eating-and-exercise-are-out-of-balance-productivity-plummets/
 date: '2010-08-31 05:14:20 -0400'
 date_gmt: '2010-08-31 12:14:20 -0400'
 categories:

@@ -111,9 +111,9 @@ Please act as though you have a semblance of decorum.
 <p>I'd much prefer to use Google strictly as an anonymous data filter knowing only an absolute minimum about my true identity and simply providing an agnostic data service (email filtering, search, social dial tone). Right now Google is the centralized keeper of the vast majority if it's users digital identities. This is something a distributed network like the Internet is designed to prevent.</p>
 <p>Related Posts:</p>
 <ul>
-<li><a href="http://www.victusspiritus.com/2011/07/20/anonymity-isnt-allowed-on-google/">Anonymity isn't allowed on Google</a></li>
-<li><a href="http://www.victusspiritus.com/2011/07/22/how-much-do-you-rely-on-someone-else-for-your-digital-identity/">How much do you rely on one source for your digital identity</a></li>
-<li><a href="http://www.victusspiritus.com/2011/07/23/derek-sivers-dont-punish-everyone-or-why-rules-based-systems-are-flawed/">Don't Punish Everyone, or why rules based systems are flawed</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/07/20/anonymity-isnt-allowed-on-google/">Anonymity isn't allowed on Google</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/07/22/how-much-do-you-rely-on-someone-else-for-your-digital-identity/">How much do you rely on one source for your digital identity</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/07/23/derek-sivers-dont-punish-everyone-or-why-rules-based-systems-are-flawed/">Don't Punish Everyone, or why rules based systems are flawed</a></li>
 </ul>
 <p><a href="#notes" id="notes">Notes:</a></p>
 <ol>

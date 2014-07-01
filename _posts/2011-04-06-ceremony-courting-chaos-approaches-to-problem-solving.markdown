@@ -74,7 +74,7 @@ comments:
 
     Its also a fun read, unlike War and Peace which is so boring that nobody has ever actually read it, just claimed to. (fnord)
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2011/04/ceremony_vs_chaos.jpg"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/04/ceremony_vs_chaos.jpg" alt="" title="ceremony_vs_chaos" width="681" height="179" class="aligncenter size-full wp-image-8270" /></a><br />
+<p><a href="{{ site.url }}/assets/2011/04/ceremony_vs_chaos.jpg"><img src="{{ site.url }}/assets/2011/04/ceremony_vs_chaos.jpg" alt="" title="ceremony_vs_chaos" width="681" height="179" class="aligncenter size-full wp-image-8270" /></a><br />
 Do you prefer to approach a new task with an ordained structure and deeply ingrained formalism, or do you instead have a burning need to get your hands dirty to feel out the raw nature of a unique challenge? Our proclivity towards one methodology or the other exposes much more than personal taste, it reveals the heart of our learning and decision making abilities<sup>1</sup>. Choosing the right design method means the difference between success and failure. There's no strict decision boundary on when it's in our best interest to embrace one philosophy over the other. We have only our instincts, knowledge and wisdom to guide us. This morning's post will cover experiential criteria which will reveal how best to tune one's approach to life's never ending supply of novel problems.</p>
 <p><i>Problem Scale</i></p>
 <p>The bigger a problem, the more structure that is required to yield significant motion in any particular direction. Consider the swarm, without a gravity and order to move as one super organism, it would quickly disperse. Without a force compelling it in any direction it wouldn't travel far<sup>2</sup>. Alternatively small problems that aren't well defined require unpredictable freedom and creativity to solve. While constraints can often drive new creative answers, the possibility of selecting the best framework for an anomalous problem is remote.</p>
@@ -91,8 +91,8 @@ Do you prefer to approach a new task with an ordained structure and deeply ingra
 <p>The borders between ceremony and chaos are not as clear as we are inclined to believe. Even well developed and highly structured systems depend on elements of unpredictability. Massive corporations depend on bold individual decisions. Encryption and cryptography depend on unique signatures being unpredictable. Every computer in the world depends on atoms and electrons who's individual states are unknown yet are represented by well behaved distributions, and bulbs fluoresce in random but predictably ways<sup>4</sup>.</p>
 <p>Related links:</p>
 <ol>
-<li><a href="http://www.victusspiritus.com/2010/12/20/the-cleaner-leverage-obsessions-to-bring-order-to-a-chaotic-universe/">The Cleaner, leverage obsessions to bring order to chaotic systems</a></li>
-<li>Life navigating new terrain, <a href="http://www.victusspiritus.com/2011/03/19/variant-travelling-salesman-problem-solved-by-sharks/">Brownian motion vs. Levy flight</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/12/20/the-cleaner-leverage-obsessions-to-bring-order-to-a-chaotic-universe/">The Cleaner, leverage obsessions to bring order to chaotic systems</a></li>
+<li>Life navigating new terrain, <a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/03/19/variant-travelling-salesman-problem-solved-by-sharks/">Brownian motion vs. Levy flight</a></li>
 <li><a href="http://en.wikipedia.org/wiki/Reactor_pattern">Reactor pattern</li>
 <li><a href="http://en.wikipedia.org/wiki/Diode">Diode's</a> have statistically random behavior and electron energy levels in gases follow <a href="http://en.wikipedia.org/wiki/Maxwell%E2%80%93Boltzmann_statistics">Maxwell-Boltzmann distributions</a></li>
 </ol>

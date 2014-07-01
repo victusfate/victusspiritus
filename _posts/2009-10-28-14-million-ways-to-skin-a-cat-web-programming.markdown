@@ -67,7 +67,7 @@ comments:
   author: I&#8217;m having way too much fun reading a programming book &#8211; Beginning
     Scala
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/10/31/im-having-way-too-much-fun-reading-a-programming-book-beginning-scala/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/10/31/im-having-way-too-much-fun-reading-a-programming-book-beginning-scala/
   date: '2009-10-31 05:46:16 -0400'
   date_gmt: '2009-10-31 12:46:16 -0400'
   content: "[...] of their Ruby on Rails to a Scala framework to improve performance.
@@ -100,7 +100,7 @@ comments:
 - id: 7823
   author: I shit you not, it&#8217;s December 2010 &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/12/13/i-shit-you-not-its-december-2010/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/12/13/i-shit-you-not-its-december-2010/
   date: '2010-12-13 08:18:55 -0500'
   date_gmt: '2010-12-13 15:18:55 -0500'
   content: "[...] days later I put together a notional framework with the help of
@@ -160,7 +160,7 @@ comments:
 <p>I'd like to help develop additional tools to help me find information that's relevant to my interests (a virtual personal assistant) without having to know what specific search terms to enter. I wouldn't mind targeted/personal ads that are relevant to my interests, in fact I'd prefer them to banner (or completely inappropriate) ads.</p>
 <h6 class="zemanta-related-title" style="font-size: 1em;">Related articles by Zemanta</h6>
 <ul class="zemanta-article-ul">
-<li class="zemanta-article-ul-li"><a href="http://www.victusspiritus.com/2009/07/24/web-programming-foo/">Practical Web Programming with the friendfeed API &amp; Google App Engine</a> (victusspiritus.com)</li>
+<li class="zemanta-article-ul-li"><a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/07/24/web-programming-foo/">Practical Web Programming with the friendfeed API &amp; Google App Engine</a> (victusspiritus.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.slideshare.net/sullis/google-app-engine-september-17-2009">Google App Engine - September 17 2009</a> (slideshare.net)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.viget.com/extend/prototyping-java-processing-in-ruby-processing/">Prototyping Java-Processing in Ruby-Processing</a> (viget.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.readwriteweb.com/enterprise/2009/09/socialwok-is-a-friendfeed-for-google-apps.php">Socialwok is a FriendFeed for Google Apps</a> (readwriteweb.com)</li>

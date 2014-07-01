@@ -19,7 +19,7 @@ tags:
 - business strategy
 comments: []
 ---
-<p><a href="http://www.middlemenmovie.com/"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/03/MiddleMen.png" alt="" title="MiddleMen" width="468" height="559" class="aligncenter size-full wp-image-7629" /></a></p>
+<p><a href="http://www.middlemenmovie.com/"><img src="{{ site.url }}/assets/2011/03/MiddleMen.png" alt="" title="MiddleMen" width="468" height="559" class="aligncenter size-full wp-image-7629" /></a></p>
 <p>Yesterday I tuned into an AVC riff on <a href="http://www.avc.com/a_vc/2011/03/computers-and-blues.html">music distribution</a>, and caught a glimpse of the dreams of a much younger Mr. Wilson:</p>
 <blockquote><p>
 When I was a kid, I'd imagine that my entire record collection was a bunch of digital files that I could access from any computer

@@ -74,7 +74,7 @@ comments:
 - id: 8932
   author: Startup Strategies that Survive, Prosper, and Win &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/02/12/startup-strategies-that-survive-prosper-and-win/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/02/12/startup-strategies-that-survive-prosper-and-win/
   date: '2011-02-12 16:19:36 -0500'
   date_gmt: '2011-02-12 23:19:36 -0500'
   content: "[...] Matricide, SocNets Plan to Strangle the Web which gave them Life

@@ -67,7 +67,7 @@ comments:
     commitment.  More than likley then, it is just a pulled muscle and rest shold
     help with that.
 ---
-<p><a href="http://couchdb.apache.org/"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/08/relax.gif" alt="" title="relax" width="176" height="160" class="aligncenter size-full wp-image-4996" /></a></p>
+<p><a href="http://couchdb.apache.org/"><img src="{{ site.url }}/assets/2010/08/relax.gif" alt="" title="relax" width="176" height="160" class="aligncenter size-full wp-image-4996" /></a></p>
 <p>Most programmer types think that as long as their head and their hands are functioning they can crank out code. The past couple weeks have <I>educated</I> me that there is at least one other malady that can lay the most enthusiastic coder (without a laptop) low, and that devil is lower back pain. </p>
 <p>I can't sit down. Well, I can but it hurts like hell. The act of going from sitting to standing is excruciating. Getting out of bed each morning must look like a bionic man slo-mo or bullet time from the matrix to my wife. I feel about twice my age while moving about, each action is measured. I don't move from a current satisfactory position unless the need is great. </p>
 <p>After my lower back started aching two weeks ago, I went to see my doctor. He prescribed muscle relaxants and pain killers. I've used the muscle relaxants at night because they make me drowsy, and they seem to help me sleep comfortably. </p>

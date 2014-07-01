@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 4860
-wordpress_url: http://www.victusspiritus.com/2010/08/11/look-on-the-bright-side-at-least-porn-is-real/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/08/11/look-on-the-bright-side-at-least-porn-is-real/
 date: '2010-08-11 04:40:33 -0400'
 date_gmt: '2010-08-11 11:40:33 -0400'
 categories:

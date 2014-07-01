@@ -19,7 +19,7 @@ tags:
 - career counseling
 comments: []
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/08/marks_resume.png"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/08/marks_resume-300x187.png" alt="" title="marks_resume" width="300" height="187" class="aligncenter size-medium wp-image-5007" /></a></p>
+<p><a href="{{ site.url }}/assets/2010/08/marks_resume.png"><img src="{{ site.url }}/assets/2010/08/marks_resume-300x187.png" alt="" title="marks_resume" width="300" height="187" class="aligncenter size-medium wp-image-5007" /></a></p>
 <p><i>A different kind of resume</I></p>
 <p>I spent time this weekend taking an ancient resume in an aging doc format and making it into something which better represents my current interests and pursuits. I received some excellent feedback on design tips and signaling issues not long after I posted my <a href="http://www.victusspiritus.com/resume/marks_resume.html">current resume</a> and the <a href="http://github.com/victusfate/html5-resume">supporting source</a> on github. </p>
 <p><I>Signaling Efficacy and Target Audience</I></p>

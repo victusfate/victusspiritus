@@ -102,8 +102,8 @@ comments:
   content: 'Mark, first off, this article inspired me to do some thinking. I love
     articles that make me think about the way people perceive the world. Thanks. :)<br><br>Now,
     please allow me to indulge in some shameless self promotion. As i posted on your
-    previous article here: <a href="http://www.victusspiritus.com/2010/04/29/the-dark-side-of-the-web-praying-for-perspective-or-prospective-prey/"
-    rel="nofollow">http://www.victusspiritus.com/2010/04/29/the-da...</a>  we can
+    previous article here: <a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/04/29/the-dark-side-of-the-web-praying-for-perspective-or-prospective-prey/"
+    rel="nofollow">http://victusfate.github.io/victusspiritus/uncategorized/2010/04/29/the-da...</a>  we can
     view all sectors of our life by thinking about them as independent, yet inter-related
     "games".<br><br>Throughout this article, what you have really been doing is looking
     at how players with more or less "game pieces" react to the value of a single
@@ -344,19 +344,19 @@ comments:
 - id: 10112
   author: Why folks get paid by the hour instead of by the job &mdash; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/06/08/why-folks-get-paid-by-the-hour-instead-of-by-the-job/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/06/08/why-folks-get-paid-by-the-hour-instead-of-by-the-job/
   date: '2011-06-08 06:03:53 -0400'
   date_gmt: '2011-06-08 13:03:53 -0400'
   content: "[...] of by the job  June 8, 2011    Instapaper Text  TweetA year back
     I had a good time reviewing the financial food chain and how it may affect one’s
     value system. In that riff I covered a broad range of income [...]"
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/05/l_2048_1536_99B75A9C-DA32-4A35-886A-E95262F523CD.jpeg"><img class="alignnone size-full" src="http://www.victusspiritus.com/wp-content/uploads/2010/05/l_2048_1536_99B75A9C-DA32-4A35-886A-E95262F523CD.jpeg" alt="" width="500" height="350" /></a></p>
+<p><a href="{{ site.url }}/assets/2010/05/l_2048_1536_99B75A9C-DA32-4A35-886A-E95262F523CD.jpeg"><img class="alignnone size-full" src="{{ site.url }}/assets/2010/05/l_2048_1536_99B75A9C-DA32-4A35-886A-E95262F523CD.jpeg" alt="" width="500" height="350" /></a></p>
 <h2>The Almighty Dollar</h2>
 <p>As I payed for breakfast this morning I couldn't resist the temptation to wonder how a bill captures an essential communication of value and trust. Consider how diverse our relative perception of value must be.</p>
 <p>Let's look at a brief list of pay scales and buying power to get a feel for relative income. Let's call a single low end standard of living a Life Wage to compare across categories.</p>
 <ul>
-<li>The cashier at <a href="http://www.victusspiritus.com/2009/10/10/be-like-panera-bread/">Panera Bread</a> gets paid between $7-8 dollar an hour pre taxes. At that rate full time they can afford to rent a room in a home, barely cover car insurance, or a used car payment, and maybe some ramen noodles. If they have any other debt they're in serious jeopardy of bankruptcy. This is really a breath above poverty and falls between 1/5th -1/3rd of a Life Wage</li>
+<li>The cashier at <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/10/10/be-like-panera-bread/">Panera Bread</a> gets paid between $7-8 dollar an hour pre taxes. At that rate full time they can afford to rent a room in a home, barely cover car insurance, or a used car payment, and maybe some ramen noodles. If they have any other debt they're in serious jeopardy of bankruptcy. This is really a breath above poverty and falls between 1/5th -1/3rd of a Life Wage</li>
 </ul>
 <ul>
 <li>A good friend has been working at a lab for a few years and pulls in $20-30 dollars per hour. At this income level some serious school debt can be handled along with other expenses, but a single income at this range isn't enough to purchase a home (without incredible saving, or living outside of my home Long Island). This is a base Life Wage ~50k/year.</li>
@@ -380,11 +380,11 @@ comments:
 <li>Every finite list has to stop somewhere, and for the sake of my sanity, I'll stop at this earning level. Mega corporations that go public: Microsoft, Google, Facebook? are good examples. Successful hedge fund partners (Warren Buffet money), and other megalopolies (telecom Carlos Slim) yield yearly income at $1-5 billion dollars per year. That's $500k-$2.5million dollars an hour for the sadistic among us, or 20,000-100k Life Wages a year. This is a teenie tiny count on one hand group of truly eccentrically bizzaro world rich people</li>
 </ul>
 <p>Click for a larger graphic of the relative annual earnings on a logarithmic scale:</p>
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/05/EarningsChart.png"><img class="aligncenter size-full wp-image-3749" title="EarningsChart" src="http://www.victusspiritus.com/wp-content/uploads/2010/05/EarningsChart.png" alt="" width="500" height="200" /></a></p>
+<p><a href="{{ site.url }}/assets/2010/05/EarningsChart.png"><img class="aligncenter size-full wp-image-3749" title="EarningsChart" src="{{ site.url }}/assets/2010/05/EarningsChart.png" alt="" width="500" height="200" /></a></p>
 <p>So pondering this list I wondered how Warren Buffet could possibly value a single dollar the same way that the 100 thousand medium income folks, or 500 thousand low income earners who match his yearly income value that same dollar. To put it into perspective what takes a minimum wage worker an hour to make, takes Warren under 8 micro seconds to earn. Imagine how many burgers he can flip an hour? He's that fast. Of course the trick is not to flip burgers, but to grow wealth.</p>
 <p>Staggering numbers like these simply do not compute, except when you consider compounded wealth. Warren didn't always make 500,000 times the minimum wage.</p>
 <p>After doing a little background reading about W.B. his view on compounding wealth makes sense. He doesn't see it so much as dollars earned, but as percentage of wealth growth. His thinking and maneuvers are longer term. And he consistently pursues a strategy that pays off shifting entire markets and economies with his investments. Here's a tip of the hat to bizzaro world earnings. Hope you enjoyed this list and thought riff as much as me. Good luck consistently growing wealth!</p>
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/05/Cash.png"><img class="aligncenter size-full wp-image-3747" title="Cash" src="http://www.victusspiritus.com/wp-content/uploads/2010/05/Cash.png" alt="" width="500" height="375" /></a></p>
+<p><a href="{{ site.url }}/assets/2010/05/Cash.png"><img class="aligncenter size-full wp-image-3747" title="Cash" src="{{ site.url }}/assets/2010/05/Cash.png" alt="" width="500" height="375" /></a></p>
 <p>Notes</p>
 <p>*= Success in engineering requires a very specific credential hierarchy, or managerial mastery. I like to think of the non-managerial leads as the technorati.</p>
 <h6 class="zemanta-related-title" style="font-size: 1em;">Related articles by Zemanta</h6>

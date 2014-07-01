@@ -43,7 +43,7 @@ comments:
 - id: 10106
   author: Don&#8217;t you think she looks tired &mdash; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/06/07/dont-you-think-she-looks-tired/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/06/07/dont-you-think-she-looks-tired/
   date: '2011-06-07 07:32:30 -0400'
   date_gmt: '2011-06-07 14:32:30 -0400'
   content: "[...] the same time I was running into web dev woes with Windows&#8217;
@@ -53,7 +53,7 @@ comments:
 <p style="text-align: center;"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="480" height="385" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/oGWbt3DSje0&amp;hl=en_US&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="480" height="385" src="http://www.youtube.com/v/oGWbt3DSje0&amp;hl=en_US&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></embed></object><em>There's just too much awesome in Ruby for a clean windows install and development environment.<br />
 </em></p>
 <p>Just yesterday I started laying the pavement for using Ruby at work. I didn't want to cough up a few hundred for a dev license of <a href="http://www.sapphiresteel.com/Products/Ruby-In-Steel/Ruby-In-Steel-Developer-Overview">Ruby In Steel</a>, a slick Visual Studio plugin.  My first instinct was to dual boot a flavor of linux. Ubuntu's not cleared for work, but Centos (&amp; Redhat) are. The Centos install will have to wait until I torrent the DVD at home later this week (internet at work is low bandwidth). Alternatively, I can go with VirtualBox and emulate my way to happiness.</p>
-<p>I remember first setting up Ruby at home on my then Vista system and groaning over failed native gem builds which finally prompted me to jump to Ubuntu (<a href="http://www.victusspiritus.com/2010/01/31/cutting-ties-with-my-old-friend-microsoft/">among many other issues</a>). Going through the usual hoops, JDK, Netbeans for an IDE, Ruby one click installer everything went smoothly. Then I hit a road block:</p>
+<p>I remember first setting up Ruby at home on my then Vista system and groaning over failed native gem builds which finally prompted me to jump to Ubuntu (<a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/01/31/cutting-ties-with-my-old-friend-microsoft/">among many other issues</a>). Going through the usual hoops, JDK, Netbeans for an IDE, Ruby one click installer everything went smoothly. Then I hit a road block:</p>
 <p style="padding-left: 30px;">gem install json</p>
 <p>ERROR:  http://gems.rubyforge.org/ does not appear to be a repository<br />
 ERROR:  could not find gem json locally or in a repository</p>

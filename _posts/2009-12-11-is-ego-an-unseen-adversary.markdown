@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2486
-wordpress_url: http://www.victusspiritus.com/2009/12/11/is-ego-an-unseen-adversary/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/12/11/is-ego-an-unseen-adversary/
 date: '2009-12-11 06:26:20 -0500'
 date_gmt: '2009-12-11 13:26:20 -0500'
 categories:

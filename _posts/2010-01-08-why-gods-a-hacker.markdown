@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2688
-wordpress_url: http://www.victusspiritus.com/2010/01/08/why-gods-a-hacker/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/01/08/why-gods-a-hacker/
 date: '2010-01-08 10:01:36 -0500'
 date_gmt: '2010-01-08 17:01:36 -0500'
 categories:
@@ -25,7 +25,7 @@ comments:
 - id: 2617
   author: Nature Trumps the Laws of Man in the Long Run &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/01/14/nature-trumps-the-laws-of-man-in-the-long-run/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/01/14/nature-trumps-the-laws-of-man-in-the-long-run/
   date: '2010-01-14 07:46:07 -0500'
   date_gmt: '2010-01-14 14:46:07 -0500'
   content: "[...] complex adaptive systems are an excellent model to describe nature,
@@ -34,7 +34,7 @@ comments:
 - id: 3006
   author: Each Day Begins with a Miracle &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/02/19/each-day-begins-with-a-miracle/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/02/19/each-day-begins-with-a-miracle/
   date: '2010-02-19 05:47:49 -0500'
   date_gmt: '2010-02-19 12:47:49 -0500'
   content: "[...] DNA codes have evolved over hundreds of millions years. The miracle
@@ -44,7 +44,7 @@ comments:
   author: Kevin Kelly&#8217;s new book, &#8220;What Technology Wants&#8221; is Alive
     &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/10/14/kevin-kellys-new-book-what-technology-wants-is-alive/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/10/14/kevin-kellys-new-book-what-technology-wants-is-alive/
   date: '2010-10-14 16:44:09 -0400'
   date_gmt: '2010-10-14 23:44:09 -0400'
   content: "[...] Extropy post triggered one my personal favorite blog posts here,
@@ -52,7 +52,7 @@ comments:
     of life&#8217;s coding [...]"
 ---
 <h2>(with a wild coding language)</h2>
-<p><a href="http://en.m.wikipedia.org/wiki/Introduction_to_genetics"><img class="aligncenter size-full wp-image-2690" title="File-ADN_animation" src="http://www.victusspiritus.com/wp-content/uploads/2010/01/File-ADN_animation1.gif" alt="" width="181" height="313" /></a></p>
+<p><a href="http://en.m.wikipedia.org/wiki/Introduction_to_genetics"><img class="aligncenter size-full wp-image-2690" title="File-ADN_animation" src="{{ site.url }}/assets/2010/01/File-ADN_animation1.gif" alt="" width="181" height="313" /></a></p>
 <p>This is my first attempt at understanding the complexity of information within human DNA. I'll attempt to compare it to ways we describe technology (bits). Later I'll show how a direct measure may be like trying to describe irrational numbers with extra decimals (wrong way to think about it). To start, I'll be focusing on an estimate of biological information within the human genome, which may then be readily compared to technological storage.</p>
 <h2>I have yet to see a single section of code (software) that can replicate the storage (info compression) of DNA structurally</h2>
 <p>Technology is catching up (learning/converging?) fast though. <em>Honest disclaimer:</em> There's going to be wild handwaving, and back of the envelope calculations. If you'd prefer a scientific analysis on this topic you'll be dissappointed. What I sacrifice in rigor I hope to replace with accessibility to laymen like myself (basic bio background only, and an over active imagination).</p>

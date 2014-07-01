@@ -120,7 +120,7 @@ comments:
   author: New App Store, sell your appointments at the Apple Genius Bar &mdash; Victus
     Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/06/18/new-app-store-sell-your-appointments-at-the-apple-genius-bar/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/06/18/new-app-store-sell-your-appointments-at-the-apple-genius-bar/
   date: '2011-06-18 05:06:01 -0400'
   date_gmt: '2011-06-18 12:06:01 -0400'
   content: "[...] may have guessed, I purchased my original iPhone 4 without a data

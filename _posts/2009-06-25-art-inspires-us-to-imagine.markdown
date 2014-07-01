@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<p style=\"text-align: center; \"><a href=\"http://en.wikipedia.org/wiki/File:Escher's_Relativity.jpg\"><img
-  class=\"size-full wp-image-778 aligncenter\" title=\"Escher's_Relativity\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/06/Eschers_Relativity.jpg\"
+  class=\"size-full wp-image-778 aligncenter\" title=\"Escher's_Relativity\" src=\"{{ site.url }}/assets/2009/06/Eschers_Relativity.jpg\"
   alt=\"Escher's_Relativity\" width=\"436\" height=\"420\" /></a></p>\r\n<p style=\"text-align:
   center;\"><a href=\"http://en.wikipedia.org/wiki/M._C._Escher\">Escher's</a> Relativity</p>\r\n\r\n<h2>Our
   Most Cherished Content is Thought Provoking</h2>\r\nWhether films, music, or abstract
@@ -48,7 +48,7 @@ comments:
     to even look at the architecture that New York has to offer - sometimes wonders
     of art and design give me the wildest ideas for new solutions.
 ---
-<p style="text-align: center; "><a href="http://en.wikipedia.org/wiki/File:Escher's_Relativity.jpg"><img class="size-full wp-image-778 aligncenter" title="Escher's_Relativity" src="http://www.victusspiritus.com/wp-content/uploads/2009/06/Eschers_Relativity.jpg" alt="Escher's_Relativity" width="436" height="420" /></a></p>
+<p style="text-align: center; "><a href="http://en.wikipedia.org/wiki/File:Escher's_Relativity.jpg"><img class="size-full wp-image-778 aligncenter" title="Escher's_Relativity" src="{{ site.url }}/assets/2009/06/Eschers_Relativity.jpg" alt="Escher's_Relativity" width="436" height="420" /></a></p>
 <p style="text-align: center;"><a href="http://en.wikipedia.org/wiki/M._C._Escher">Escher's</a> Relativity</p>
 <h2>Our Most Cherished Content is Thought Provoking</h2>
 <p>Whether films, music, or abstract art, we are humbled by media's ability to spark our imagination. Creations that move us, literally change our state of mind. We transcend our worldly concerns for just a moment, or perceive them without judgement.<a id="more"></a><a id="more-779"></a></p>

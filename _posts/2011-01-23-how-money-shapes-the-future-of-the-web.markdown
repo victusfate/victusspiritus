@@ -98,7 +98,7 @@ comments:
   date_gmt: '2011-04-29 07:19:00 -0400'
   content: Precisely.
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2011/01/money_web.jpg"><img class="aligncenter size-full wp-image-6790" title="money_web" src="http://www.victusspiritus.com/wp-content/uploads/2011/01/money_web.jpg" alt="" width="350" height="263" /></a></p>
+<p><a href="{{ site.url }}/assets/2011/01/money_web.jpg"><img class="aligncenter size-full wp-image-6790" title="money_web" src="{{ site.url }}/assets/2011/01/money_web.jpg" alt="" width="350" height="263" /></a></p>
 <p>Marshall Kirkpatrick's coverage of the <a href="http://www.readwriteweb.com/archives/4_key_take-aways_from_goldmans_huge_facebook_inves.php">huge cash injection Facebook recently received</a> got me thinking about how the flow of capital shapes the future of the web. In the post Marshall outlines his thoughts on the investment, some good and some not so good for the tech ecosystem.</p>
 <ul>
 <li><strong>Scale</strong>: The deal sounds big for a young company but makes up a tiny portion of Goldman Sach's investments</li>

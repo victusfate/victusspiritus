@@ -54,7 +54,7 @@ comments:
 - id: 6360
   author: The New Journalist is the man in the arena &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/10/10/the-new-journalist-is-the-man-in-the-arena/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/10/10/the-new-journalist-is-the-man-in-the-arena/
   date: '2010-10-10 12:32:00 -0400'
   date_gmt: '2010-10-10 19:32:00 -0400'
   content: "[...] same message, I mark the content for later review with a JavaScript
@@ -63,7 +63,7 @@ comments:
 - id: 8046
   author: End the hoard mentality &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/01/12/end-the-hoard-mentality/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/01/12/end-the-hoard-mentality/
   date: '2011-01-12 11:55:58 -0500'
   date_gmt: '2011-01-12 18:55:58 -0500'
   content: "[...] the hoard mentality  12Jan 2011  Mark Essel   Tweet This riff complements
@@ -74,7 +74,7 @@ comments:
 <p>http://www.youtube.com/watch?v=wxkdmL3iMCY</p>
 <p><i>You can't always read what you want</I></p>
 <p>There's an unchecked level of curiosity which leads to wanting to consume too much information. I should know after visiting that sinister state this morning. Sifting through a few dozen articles and documents left me wondering how much information can we reliably consume and apply. In hindsight of my past year of reading , the answer is far less than optimism would lead me to believe. My digital baggage has only grown.</p>
-<p>Here are the current input sources of <a href ="http://www.victusspiritus.com/2010/09/21/a-mostly-current-reading-list/">reading</a> I keep handy:</p>
+<p>Here are the current input sources of <a href ="http://victusfate.github.io/victusspiritus/uncategorized/2010/09/21/a-mostly-current-reading-list/">reading</a> I keep handy:</p>
 <ul>
 <li> a dropbox collection loaded with PDFs of technical docs, presentations, and ebooks</li>
 <li>Kindle reader with a dozen or so queued up, of which I'm actively reading a few technical books*</li>

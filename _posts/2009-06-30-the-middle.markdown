@@ -8,10 +8,10 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<p style=\"text-align: center;\"><a href=\"http://www.flickr.com/photos/mistressf/1230899182/\"><img
-  class=\"aligncenter size-full wp-image-904\" title=\"TheMiddle\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/06/TheMiddle.jpg\"
+  class=\"aligncenter size-full wp-image-904\" title=\"TheMiddle\" src=\"{{ site.url }}/assets/2009/06/TheMiddle.jpg\"
   alt=\"TheMiddle\" width=\"459\" height=\"295\" /></a></p>\r\n\r\nWith none of the
   glory of the finish, nor the promise of adventure of the start it's no surprise
-  that few engage in discussion about the middle. Some thoughts I <a href=\"http://www.victusspiritus.com/2009/06/17/eradicate-excuses-begin-meaningful-work-now/\">shared
+  that few engage in discussion about the middle. Some thoughts I <a href=\"http://victusfate.github.io/victusspiritus/uncategorized/2009/06/17/eradicate-excuses-begin-meaningful-work-now/\">shared
   earlier</a> examined the challenge of connecting our desired future from our tangible
   present."
 wordpress_id: 903
@@ -159,15 +159,15 @@ comments:
 - id: 9844
   author: The long swim to the surface &mdash; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/04/19/the-long-swim-to-the-surface/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/04/19/the-long-swim-to-the-surface/
   date: '2011-04-19 06:00:43 -0400'
   date_gmt: '2011-04-19 13:00:43 -0400'
   content: "[...] The long swim to the surface  April 19, 2011    TweetThis morning&#8217;s
     riff is a continuation and cousin of thoughts on work I described in meaningful
     work now, and the Middle. [...]"
 ---
-<p style="text-align: center;"><a href="http://www.flickr.com/photos/mistressf/1230899182/"><img class="aligncenter size-full wp-image-904" title="TheMiddle" src="http://www.victusspiritus.com/wp-content/uploads/2009/06/TheMiddle.jpg" alt="TheMiddle" width="459" height="295" /></a></p>
-<p>With none of the glory of the finish, nor the promise of adventure of the start it's no surprise that few engage in discussion about the middle. Some thoughts I <a href="http://www.victusspiritus.com/2009/06/17/eradicate-excuses-begin-meaningful-work-now/">shared earlier</a> examined the challenge of connecting our desired future from our tangible present.<a id="more"></a><a id="more-903"></a></p>
+<p style="text-align: center;"><a href="http://www.flickr.com/photos/mistressf/1230899182/"><img class="aligncenter size-full wp-image-904" title="TheMiddle" src="{{ site.url }}/assets/2009/06/TheMiddle.jpg" alt="TheMiddle" width="459" height="295" /></a></p>
+<p>With none of the glory of the finish, nor the promise of adventure of the start it's no surprise that few engage in discussion about the middle. Some thoughts I <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/06/17/eradicate-excuses-begin-meaningful-work-now/">shared earlier</a> examined the challenge of connecting our desired future from our tangible present.<a id="more"></a><a id="more-903"></a></p>
 <p>What I'm about to suggest now may sound counterintuitive. But the joys, triumph, and greatest glory we get to share with eachother is in the heart of the middle. What strikes our fancy and beckons us to action is of little importance after the start. Completing a project, life's work, or heartfelt goal can leave one nostalgic for past experiences. Often our initial reaction is to huddle up in a ball when the enormous barrier of the middle rears its ugly head.</p>
 <p>Could it be that we are deceiving ourselves? The goal is merely an illusion, a head fake to get us moving, to get us experiencing. The middle my friends is where the greatest treasures can be found, shared, and spun into fine tapestries of life and knowledge. We should be thankful for the start, but not overestimate it's import. It's merely a moment that triggered the middle.</p>
 <p>Surrounded by an open world while in the middle, while acting and experiencing, we are at our best. Embracing our abilities, mustering our courage and will to move onward, and to move others. Our life condition, ever evolving through continued iterations of the middle.</p>

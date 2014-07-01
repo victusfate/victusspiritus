@@ -110,7 +110,7 @@ comments:
   author: Mac OSX Snow Leopard vs Ubuntu Linux Lucid Lynx Week One &raquo; Victus
     Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/10/25/mac-osx-snow-leopard-vs-ubuntu-linux-lucid-lynx-week-one/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/10/25/mac-osx-snow-leopard-vs-ubuntu-linux-lucid-lynx-week-one/
   date: '2010-10-25 05:15:24 -0400'
   date_gmt: '2010-10-25 12:15:24 -0400'
   content: "[...] was in the market for a mobile system last week. Last weekend I
@@ -144,7 +144,7 @@ comments:
   date_gmt: '2011-02-21 07:13:00 -0500'
   content: Be awared. It does not like Orange Juice :)
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/10/photo.jpg"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/10/photo.jpg" alt="" title="photo" width="500" height="530" class="aligncenter size-full wp-image-5732" /></a><i>What I'm looking for</I></p>
+<p><a href="{{ site.url }}/assets/2010/10/photo.jpg"><img src="{{ site.url }}/assets/2010/10/photo.jpg" alt="" title="photo" width="500" height="530" class="aligncenter size-full wp-image-5732" /></a><i>What I'm looking for</I></p>
 <ul>
 <li>a mobile computer so I can engage in the ritual of hackathons</li>
 <li>capable CPU</li>

@@ -21,7 +21,7 @@ comments:
 - id: 1281
   author: Startups, the Agents of Evolutionary Engineering
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/10/24/startups-the-agents-of-evolutionary-engineering/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/10/24/startups-the-agents-of-evolutionary-engineering/
   date: '2009-10-24 11:26:11 -0400'
   date_gmt: '2009-10-24 18:26:11 -0400'
   content: "[...] Victus Spiritus Nourishment for the Soul. The current focus is inspiration

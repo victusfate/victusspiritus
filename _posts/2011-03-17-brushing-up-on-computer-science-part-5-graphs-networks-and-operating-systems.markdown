@@ -23,28 +23,28 @@ comments:
   author: Brushing Up on Computer Science Part 2, Object Oriented Programming (OOP)
     &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/03/15/brushing-up-on-computer-science-part-2-object-oriented-programming-oop/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/03/15/brushing-up-on-computer-science-part-2-object-oriented-programming-oop/
   date: '2011-03-18 09:16:28 -0400'
   date_gmt: '2011-03-18 16:16:28 -0400'
   content: "[...] Graphs, Networks, and Operating Systems [...]"
 - id: 9544
   author: Brushing Up on Computer Science Part 4, Algorithms &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/03/17/brushing-up-on-computer-science-part-4-algorithms/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/03/17/brushing-up-on-computer-science-part-4-algorithms/
   date: '2011-03-18 09:16:46 -0400'
   date_gmt: '2011-03-18 16:16:46 -0400'
   content: "[...] Graphs, Networks, and Operating Systems [...]"
 - id: 9545
   author: Brushing up on Computer Science Part 1, Big O &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/03/14/brushing-up-on-computer-science-part-1-big-o/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/03/14/brushing-up-on-computer-science-part-1-big-o/
   date: '2011-03-18 11:10:18 -0400'
   date_gmt: '2011-03-18 18:10:18 -0400'
   content: "[...] Graphs, Networks, and Operating Systems [...]"
 - id: 10061
   author: Lifelong Evolution of Concurrent Programming Patterns &mdash; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/05/29/lifelong-evolution-of-concurrent-programming-patterns/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/05/29/lifelong-evolution-of-concurrent-programming-patterns/
   date: '2011-05-29 10:21:42 -0400'
   date_gmt: '2011-05-29 17:21:42 -0400'
   content: "[...] of concurrency that maintains shared memory space and initial state,
@@ -53,26 +53,26 @@ comments:
 - id: 11364
   author: Brushing Up on Computer Science Part 3, Data Structures &mdash; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/03/16/brushing-up-on-computer-science-part-3-data-structures/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/03/16/brushing-up-on-computer-science-part-3-data-structures/
   date: '2014-04-10 00:44:27 -0400'
   date_gmt: '2014-04-10 07:44:27 -0400'
   content: "[&#8230;] Graphs, Networks, and Operating Systems [&#8230;]"
 ---
-<p><a href="http://brownsharpie.courtneygibbons.org/?p=21"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/03/2006-10-18-regarding-henry.jpg" alt="" title="2006-10-18-regarding-henry" width="500" height="359" class="aligncenter size-full wp-image-7873" /></a></p>
+<p><a href="http://brownsharpie.courtneygibbons.org/?p=21"><img src="{{ site.url }}/assets/2011/03/2006-10-18-regarding-henry.jpg" alt="" title="2006-10-18-regarding-henry" width="500" height="359" class="aligncenter size-full wp-image-7873" /></a></p>
 <p>“Our graphs are based on starting with chaos — meaning we have a blast of news, and we say to our algorithms, find some order in this. We're creating these from scratch.”<br />
 <a href="http://thinkexist.com/quotes/jim_andrus/">Jim Andrus</a></p>
 <p>It is with some regret that I must bring to a close this white knuckled thrill ride and comp sci overview (mutually exclusive). All good things must come to an end, and weaving these posts together was certainly a good exercise for me. There is a bastion of material to choose from, limiting my ability to properly delve into all of the interesting bits. Despite this I'm satisfied with the compressed <em>random draw</em> that is the result of this review. Thanks for everyone who stopped in, commented or planted the seeds for this blog series. One last time, the <i>table of contents</i>:</p>
 <ol>
-<li><a href="http://www.victusspiritus.com/2011/03/14/brushing-up-on-computer-science-part-1-big-o/">Intro and Big O</a></li>
-<li><a href="http://www.victusspiritus.com/2011/03/15/brushing-up-on-computer-science-part-2-object-oriented-programming-oop/">Object Oriented Programming</a></li>
-<li><a href="http://www.victusspiritus.com/2011/03/16/brushing-up-on-computer-science-part-3-data-structures/">Data Structures</a>: arrays, lists, trees, hash tables</li>
-<li><a href="http://www.victusspiritus.com/2011/03/17/brushing-up-on-computer-science-part-4-algorithms/">Algorithms</a> (searches, sorts, maths!)</li>
-<li><a href="http://www.victusspiritus.com/2011/03/17/brushing-up-on-computer-science-part-5-graphs-networks-and-operating-systems/">Graphs, Networks, and Operating Systems</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/03/14/brushing-up-on-computer-science-part-1-big-o/">Intro and Big O</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/03/15/brushing-up-on-computer-science-part-2-object-oriented-programming-oop/">Object Oriented Programming</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/03/16/brushing-up-on-computer-science-part-3-data-structures/">Data Structures</a>: arrays, lists, trees, hash tables</li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/03/17/brushing-up-on-computer-science-part-4-algorithms/">Algorithms</a> (searches, sorts, maths!)</li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/03/17/brushing-up-on-computer-science-part-5-graphs-networks-and-operating-systems/">Graphs, Networks, and Operating Systems</a></li>
 </ol>
 <p>Let's jump right in with a presentation which Chris Dixon and Matt Gattis of Hunch gave to an eager audience at Google in mid February. In the slideshow the importance of graphs is made clear through several hugely successful applications of graph theory on real world problems. The metaphor from clients and connections to nodes and vertices is the magic of our time.<br />
 [scribd id=49061218 key=key-1u8ymkf45zipfepbxx09 mode=slideshow]</p>
 <h2>Graph Algorithms</h2>
-<p><a href="http://spikedmath.com/384.html"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/03/384-the-petersen-giraffe.png" alt="" title="384-the-petersen-giraffe" width="300" height="590" class="aligncenter size-full wp-image-7875" /></a></p>
+<p><a href="http://spikedmath.com/384.html"><img src="{{ site.url }}/assets/2011/03/384-the-petersen-giraffe.png" alt="" title="384-the-petersen-giraffe" width="300" height="590" class="aligncenter size-full wp-image-7875" /></a></p>
 <p><b>Dijkstra's Algorithm</b><br />
 One of the properties of shortest paths through directed graphs is that any shortest path is composed of shortest paths to all nodes along it's route (<a href="http://en.wikipedia.org/wiki/Optimal_substructure">optimal substructure</a>). If there was a shorter path to an intermediary node, you'd select that one instead for the current shortest path.</p>
 <p>Dijkstra's algorithm is a search algorithm which finds the shortest path between an origin node and all other connected nodes (isolated nodes miss the party). Begin by setting all path lengths from the origin to all nodes to infinity, and mark them as unvisited. Set the current node to the origin. </p>
@@ -101,8 +101,8 @@ As A* traverses the graph, it follows a path of the lowest known cost, keeping a
 "Once you start down the path of lock management the non-deterministic character of the system can quickly overwhelm your brain"<br />
 <a href="http://compoundthinking.com/blog/index.php/2008/05/14/threads-processes-rails-trubogears-and-scalability/">Mark Ramm</a><br />
 (I linked to Mr. Ramm's brief and effective introduction to threads and processes).</p>
-<p>One of the simplest ways to scale an algorithm to many processes is horizontally. You batch concurrent and completely isolated runs and then tally their results with post processing. But there are times when running a single process with many threads will yield irresistible optimization returns. Recognizing when to walk the path of concurrent threads versus alternative options is a signal of expertise. I discussed an implementation of green threads in ruby over a couple of posts last year (<a href="http://www.victusspiritus.com/2009/12/31/ensure-all-roads-lead-to-your-goal-ruby-threads/">1</a>, <a href="http://www.victusspiritus.com/2010/01/01/practical-first-rails-threading-example/">2</a>), and it saved us some time waiting on remote api calls. <i>It's worth noting that the Ruby MRI suffers from the same GIL that's mentioned in the slides on Python below.</i></p>
-<p>It's beyond the scope of this post to go into great details about how operating systems handle the memory space (swapping, caching) and balance processor load (<a href="http://www.victusspiritus.com/wp-content/uploads/2011/03/umpa-lumpa.jpg">tiny red men</a>). What I'm interested in reviewing and learning more about is how multi/thread/process applications can best be designed to take advantage of increasingly concurrent hardware to solve computationally expensive problems. First let's begin by covering definitions, and then wrap up this series with a couple slideshows which <del datetime="2011-03-18T16:10:29+00:00">show all my baby pictures</del> discuss concurrent processing.</p>
+<p>One of the simplest ways to scale an algorithm to many processes is horizontally. You batch concurrent and completely isolated runs and then tally their results with post processing. But there are times when running a single process with many threads will yield irresistible optimization returns. Recognizing when to walk the path of concurrent threads versus alternative options is a signal of expertise. I discussed an implementation of green threads in ruby over a couple of posts last year (<a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/12/31/ensure-all-roads-lead-to-your-goal-ruby-threads/">1</a>, <a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/01/01/practical-first-rails-threading-example/">2</a>), and it saved us some time waiting on remote api calls. <i>It's worth noting that the Ruby MRI suffers from the same GIL that's mentioned in the slides on Python below.</i></p>
+<p>It's beyond the scope of this post to go into great details about how operating systems handle the memory space (swapping, caching) and balance processor load (<a href="{{ site.url }}/assets/2011/03/umpa-lumpa.jpg">tiny red men</a>). What I'm interested in reviewing and learning more about is how multi/thread/process applications can best be designed to take advantage of increasingly concurrent hardware to solve computationally expensive problems. First let's begin by covering definitions, and then wrap up this series with a couple slideshows which <del datetime="2011-03-18T16:10:29+00:00">show all my baby pictures</del> discuss concurrent processing.</p>
 <p><b>Defintiions</b></p>
 <p><i>What's a process?</i><br />
 Processes describe active applications. A process encapsulates the execution code and memory for a given program, and may share state information with other processes through communication channels (sockets).</p>

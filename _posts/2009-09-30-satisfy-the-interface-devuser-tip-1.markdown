@@ -14,7 +14,7 @@ excerpt: A reoccuring mistake I see (and make) on a regular basis is failing to 
   It's probably still a fair trade, but recognizing a failed scenario quickly is a
   sign of expertise.
 wordpress_id: 1722
-wordpress_url: http://www.victusspiritus.com/2009/09/30/satisfy-the-interface-devuser-tip-1/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/09/30/satisfy-the-interface-devuser-tip-1/
 date: '2009-09-30 03:17:01 -0400'
 date_gmt: '2009-09-30 10:17:01 -0400'
 categories:

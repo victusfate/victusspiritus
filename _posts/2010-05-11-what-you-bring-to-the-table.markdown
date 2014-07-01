@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 3822
-wordpress_url: http://www.victusspiritus.com/2010/05/11/what-you-bring-to-the-table/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/05/11/what-you-bring-to-the-table/
 date: '2010-05-11 05:18:09 -0400'
 date_gmt: '2010-05-11 12:18:09 -0400'
 categories:

@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 4859
-wordpress_url: http://www.victusspiritus.com/2010/08/10/locate-the-minimize-button-for-exhaustion/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/08/10/locate-the-minimize-button-for-exhaustion/
 date: '2010-08-10 04:47:57 -0400'
 date_gmt: '2010-08-10 11:47:57 -0400'
 categories:

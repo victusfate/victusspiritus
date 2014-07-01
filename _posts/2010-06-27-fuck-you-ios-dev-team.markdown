@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 4305
-wordpress_url: http://www.victusspiritus.com/2010/06/27/fuck-you-ios-dev-team/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/06/27/fuck-you-ios-dev-team/
 date: '2010-06-27 07:10:19 -0400'
 date_gmt: '2010-06-27 14:10:19 -0400'
 categories:
@@ -107,7 +107,7 @@ comments:
     Yeah I think so, because it looked like a door when I walked through it.
     I figured out how to unhook it again from auto (faulty) synchronization so it's back to a door again.
 ---
-<p>*update I rewrote <a href="http://www.victusspiritus.com/2010/06/27/analogy-and-machine-intelligence/">the post</a>*<br />
+<p>*update I rewrote <a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/06/27/analogy-and-machine-intelligence/">the post</a>*<br />
 My apologies for the rant without proper explanation. I should disclose since writing this post I've converted over our home network to Macs, and I have great respect for the design of the OS/hardware. This subtle change in the notepad app on iOS really caught me off guard.</p>
 <h2>iOS 4 now attempts to sync notes wiping them out</h2>
 <p>After spending an hour and a half writing up a post on analogies, machine intelligence and popular web apps that perform aspects of reasoning (abduction & <a HREF="http://www.hunch.com">Hunch*</a>) the latest iPhone OS or iOS decided synchronizing notes would be nice and deleted 90% of the post. This is a new "feature" and invalidates my writing strategy of caching a local copy of a post before sending it to Wordpress to avoid data loss.</p>

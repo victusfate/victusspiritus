@@ -143,7 +143,7 @@ comments:
     you been browsing with your iphone, only to be "shot down" by the crossed-out
     play arrow?  HTML5 is definitely the way to go.
 ---
-<p>[caption id="attachment_5195" align="aligncenter" width="500" caption="Groovy Second Life/World of Warcraft Character Design"]<a href="http://metaverseguide.com/2009/10/20/second-life-world-of-warcraft-mashup/"><img class="size-full wp-image-5195" title="blood-elf-barb_026" src="http://www.victusspiritus.com/wp-content/uploads/2010/09/blood-elf-barb_026.png" alt="" width="500" height="292" /></a>[/caption]</p>
+<p>[caption id="attachment_5195" align="aligncenter" width="500" caption="Groovy Second Life/World of Warcraft Character Design"]<a href="http://metaverseguide.com/2009/10/20/second-life-world-of-warcraft-mashup/"><img class="size-full wp-image-5195" title="blood-elf-barb_026" src="{{ site.url }}/assets/2010/09/blood-elf-barb_026.png" alt="" width="500" height="292" /></a>[/caption]</p>
 <p style="text-align: center;">
 <p><em>Massively Distributed Virtual Worlds</em></p>
 <p>The Internet is a Big place. So why is that every self claimed Massive Multiplayer Online Game feels small after a while. Game worlds aren't small when measured by square mile of simulated landscape. Games like World of Warcraft have vast space. When measured by new information, connectivity and extensibility these simulated places feel tiny. Only a handful of designers and graphic artists can build more of the world, or script more collaborative dance dance revolution scenarios (raids).</p>

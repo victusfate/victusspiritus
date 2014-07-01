@@ -21,7 +21,7 @@ comments:
 - id: 6178
   author: End Information Addiction &amp; Digital Baggage &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/09/30/end-information-addiction-digital-baggage/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/09/30/end-information-addiction-digital-baggage/
   date: '2010-09-30 06:52:51 -0400'
   date_gmt: '2010-09-30 13:52:51 -0400'
   content: "[...] are the current input sources of reading I keep [...]"
@@ -68,7 +68,7 @@ Politics: a treatise on government<br />
 An Inquiry into the Nature and Causes of the wealth of nations<br />
 How to make friends and influence people</p>
 <p>The only book I've released/written (based on my first few months blogging last year)<br />
-3 Steps to Satisfaction <a href="../2009/05/29/my-first-ebook/">http://www.victusspiritus.com/2009/05/29/my-first-ebook/</a></p>
+3 Steps to Satisfaction <a href="../2009/05/29/my-first-ebook/">http://victusfate.github.io/victusspiritus/uncategorized/2009/05/29/my-first-ebook/</a></p>
 <p>Hopefully soon to be released, a future fantasy rpg I coauthored  primarily with one friend with input from another. My coauthor is  finishing the final editing while I work in a shrinking industry  (systems engineer), push forward with a startup (go web apps!) and look  for potential positions at active startups (love meeting people that  dream big).<br />
 Children of the Ark <a href="http://www.victusgames.com/Welcome_to_Victus_Games.html">http://www.victusgames.com/Welcome_to_Victus_Games.html</a></p>
 <p>Presentations:<br />

@@ -22,12 +22,12 @@ comments:
   author: Bare Canvas vs Complex Frameworks, a case review of couchapps &raquo; Victus
     Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/11/07/bare-canvas-vs-complex-frameworks-a-case-review-of-couchapps/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/11/07/bare-canvas-vs-complex-frameworks-a-case-review-of-couchapps/
   date: '2010-11-07 06:51:40 -0500'
   date_gmt: '2010-11-07 13:51:40 -0500'
   content: "[...] Reckless Photo CouchDB App in 60 seconds [...]"
 ---
-<p>Assumption: you have couchapp and couchDB installed, see <a href="http://www.victusspiritus.com/2010/09/04/first-impressions-of-sitting-a-web-app-on-couchdb/">this post</a></p>
+<p>Assumption: you have couchapp and couchDB installed, see <a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/09/04/first-impressions-of-sitting-a-web-app-on-couchdb/">this post</a></p>
 <p>Disclaimer: While I've read a bunch about couch's background, I have yet to setup any apps. Today's challenge is to set one up in 60 seconds and blog about it (in a much longer time).</p>
 <h2>step one</h2>
 <p><em>Clone somebody else's app to see the structure</em></p>

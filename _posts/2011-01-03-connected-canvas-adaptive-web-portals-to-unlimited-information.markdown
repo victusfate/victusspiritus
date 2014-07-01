@@ -21,7 +21,7 @@ tags:
 - design
 comments: []
 ---
-<p>Not long back I wrote about <a href="http://www.victusspiritus.com/2010/10/01/malleable-web-surfaces/">malleable web surfaces</a> and the browser plugin <a href="http://www.victusspiritus.com/2010/10/08/quick-customization-for-twitter-or-any-web-user-interface/">Stylish for customizing stylesheets</a>. The example I shared was a retro modification of the twitter web UI with a larger content area and narrower sidebar. Since that time I couldn't put the idea of personal HTML data views down. Web data that is openly shared suffers a restriction on how it's composed that is easily remedied with adaptive web portals.</p>
+<p>Not long back I wrote about <a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/10/01/malleable-web-surfaces/">malleable web surfaces</a> and the browser plugin <a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/10/08/quick-customization-for-twitter-or-any-web-user-interface/">Stylish for customizing stylesheets</a>. The example I shared was a retro modification of the twitter web UI with a larger content area and narrower sidebar. Since that time I couldn't put the idea of personal HTML data views down. Web data that is openly shared suffers a restriction on how it's composed that is easily remedied with adaptive web portals.</p>
 <blockquote><p>
 Could the browser plugin idea of stylish be extended or mimicked with JavaScript? </p>
 <p>Can the the process of crafting web portals be made more social? </p>

@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2610
-wordpress_url: http://www.victusspiritus.com/2009/12/22/semantic-bots-that-learn-what-you-like/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/12/22/semantic-bots-that-learn-what-you-like/
 date: '2009-12-22 05:35:19 -0500'
 date_gmt: '2009-12-22 12:35:19 -0500'
 categories:

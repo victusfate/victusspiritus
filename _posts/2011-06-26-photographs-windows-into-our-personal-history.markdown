@@ -48,7 +48,7 @@ comments:
   date_gmt: '2011-06-26 17:03:00 -0400'
   content: It feels like the more I revisit the photos the greater those "gaps" ;)
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2011/06/20110626-071435.jpg"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/06/20110626-071435.jpg" alt="20110626-071435.jpg" class="alignnone size-full" /></a><br />
+<p><a href="{{ site.url }}/assets/2011/06/20110626-071435.jpg"><img src="{{ site.url }}/assets/2011/06/20110626-071435.jpg" alt="20110626-071435.jpg" class="alignnone size-full" /></a><br />
 This morning's brief riff is about the priceless nature of personal photographs. In particular, I'd like to pay homage images which serve as keys to the most beautiful moments of our lives. You can chock the motivation for this post up to effusive sentimentality and the toll of time, eroding my once sharp memory<sup><a href="#notes">1</a></sup>.</p>
 <p>How can an image transcend the totality of its discrete data? When it is a key of course, which unlocks memories of people, places and times long past. Our memories are apt to fade with a continuous conscious focus on the future, it is a natural cleansing of our experience buffer.</p>
 <p>And yet when we glimpse at situations and smiles long gone through captured imagery, it reminds us of who we were in another time, and how we became the person we are today. Each image is a snapshot of a seamless story from past to present.</p>

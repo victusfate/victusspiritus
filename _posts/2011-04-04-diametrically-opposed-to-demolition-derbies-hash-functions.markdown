@@ -48,13 +48,13 @@ We're restricted to a total number of slots m in our table, so each of these int
 <p>I haven't read mention of it but busy hash tables could have trees implemented at each bucket. If a hash table becomes congested (<a href="http://stackoverflow.com/questions/371136/binary-trees-vs-linked-lists-vs-hash-tables">which data structure</a>), you're likely better off using a tree implementation. When n is small you're better off with a list.</p>
 <p>References:</p>
 <ul>
-<li><a href="http://www.victusspiritus.com/2011/03/16/brushing-up-on-computer-science-part-3-data-structures/">Brushing Up on Comp Science, Data Structures</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/03/16/brushing-up-on-computer-science-part-3-data-structures/">Brushing Up on Comp Science, Data Structures</a></li>
 <p></p>
 <li><a href="http://www.amazon.com/gp/product/B0016H523Q/ref=as_li_ss_tl?ie=UTF8&tag=dream06-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0016H523Q">The Algorithm Design Manual</a>, a valued resource. I highly recommend buying a few thousand digital copies for your university or corporation via this link :)</li>
 <p></p>
 <li>The <a href="http://en.m.wikipedia.org/wiki/Birthday_problem">Birthday Problem</a></li>
 <p></p>
-<li>For more complex hashing functions, see the end of <a href="http://www.victusspiritus.com/2011/03/17/brushing-up-on-computer-science-part-4-algorithms/">Brushing up on Computer Science, Algorithms</a> for presentations which discuss MD5 and Sha1 hash functions.</li>
+<li>For more complex hashing functions, see the end of <a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/03/17/brushing-up-on-computer-science-part-4-algorithms/">Brushing up on Computer Science, Algorithms</a> for presentations which discuss MD5 and Sha1 hash functions.</li>
 </ul>
 <p>Notes:<br />
 *= I'm reminded of a conversation between Professor Skiena and a student over a decade ago. I took an algorithm overview course a few years after I graduated when taking additional grad courses was a good excuse to slip out of the office for a couple of hours. Now I recommend reading and working with other peers on the cheap. </p>

@@ -44,7 +44,7 @@ comments:
   author: Why startups work, doing so much with so little is impossible to predict
     &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/01/09/why-startups-work-doing-so-much-with-so-little-is-impossible-to-predict/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/01/09/why-startups-work-doing-so-much-with-so-little-is-impossible-to-predict/
   date: '2010-01-24 11:21:53 -0500'
   date_gmt: '2010-01-24 18:21:53 -0500'
   content: "[...] unmatched asset of startups is their ability to use the best of
@@ -53,7 +53,7 @@ comments:
 - id: 2989
   author: User Interface Speedups Effect on Scaling Optimization &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/02/16/user-interface-speedups-effect-on-scaling-optimization/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/02/16/user-interface-speedups-effect-on-scaling-optimization/
   date: '2010-02-17 19:27:14 -0500'
   date_gmt: '2010-02-18 02:27:14 -0500'
   content: "[...] need to stop and pay an &#8220;attention tax&#8221; at Victus Media.

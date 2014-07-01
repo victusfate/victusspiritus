@@ -36,7 +36,7 @@ comments:
 - id: 318
   author: Is Creativity the Ultimate Price of Efficiency?
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/08/05/is-creativity-the-ultimate-price-of-efficiency/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/08/05/is-creativity-the-ultimate-price-of-efficiency/
   date: '2009-08-05 03:20:10 -0400'
   date_gmt: '2009-08-05 10:20:10 -0400'
   content: "[...] our creative potential takes time, and efficiency might demand we
@@ -80,7 +80,7 @@ comments:
 <li>adding valuable descriptive (or meta) information to existing data<a id="more"></a><a id="more-1223"></a></li>
 </ul>
 <p>In contrast, interesting information we are drawn to now, but may not be actionable until some later unforseen time. Then there's the last bin of not interesting, nor actionable information (noise or spam), which we all try to steer clear from.</p>
-<p>Our <a class="zem_slink" title="Social network" rel="wikipedia" href="http://en.wikipedia.org/wiki/Social_network">social graph</a> or network loosely bounds one channel for our actionable information input. <a href="http://www.victusspiritus.com/2009/04/23/serendipity-the-perfect-solution-you-never-thought-of/">Serendipity</a> has a way of sending actionable information in our direction as we're taking action or researching other areas.</p>
+<p>Our <a class="zem_slink" title="Social network" rel="wikipedia" href="http://en.wikipedia.org/wiki/Social_network">social graph</a> or network loosely bounds one channel for our actionable information input. <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/04/23/serendipity-the-perfect-solution-you-never-thought-of/">Serendipity</a> has a way of sending actionable information in our direction as we're taking action or researching other areas.</p>
 <h2 style="font-size: 1.5em;">Needle in the Haystack</h2>
 <p>Tools that aid in our search for relevant actionable information while we're productive transcend boosting our effectiveness. In addition they'll even help us when we're just reading or learning for fun. Social Media has driven the information flood to our doorsteps. Scanning hundreds of blogs, articles, and video topics suggested by friends, becomes a dangerous time sink even when our friends share our interests.</p>
 <p>Myself and others are actively working on tools to help discover actionable and interesting information and discern between the two based on a user's past social media usage, blogging, digital shadow. We not only want to filter the noise but to classify new data as immediately important versus something of interest that we may consume at our leisure.</p>

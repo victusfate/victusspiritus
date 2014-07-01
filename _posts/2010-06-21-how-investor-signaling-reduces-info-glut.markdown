@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 4210
-wordpress_url: http://www.victusspiritus.com/2010/06/21/how-investor-signaling-reduces-info-glut/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/06/21/how-investor-signaling-reduces-info-glut/
 date: '2010-06-21 05:04:04 -0400'
 date_gmt: '2010-06-21 12:04:04 -0400'
 categories:

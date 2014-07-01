@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<p style=\"text-align: center;\"><a href=\"http://www.flickr.com/photos/fotologic/\"><img
-  class=\"size-full wp-image-1520 aligncenter\" title=\"Love\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/09/Love.jpg\"
+  class=\"size-full wp-image-1520 aligncenter\" title=\"Love\" src=\"{{ site.url }}/assets/2009/09/Love.jpg\"
   alt=\"Love\" width=\"480\" height=\"300\" /></a></p>\r\n\r\n<h2>Don't Believe the
   Hype</h2>\r\nThere is so much hype regarding existent and novel social channels
   that I wonder if many of us are missing the point when it comes to communicating.
@@ -29,7 +29,7 @@ tags:
 - communication
 comments: []
 ---
-<p style="text-align: center;"><a href="http://www.flickr.com/photos/fotologic/"><img class="size-full wp-image-1520 aligncenter" title="Love" src="http://www.victusspiritus.com/wp-content/uploads/2009/09/Love.jpg" alt="Love" width="480" height="300" /></a></p>
+<p style="text-align: center;"><a href="http://www.flickr.com/photos/fotologic/"><img class="size-full wp-image-1520 aligncenter" title="Love" src="{{ site.url }}/assets/2009/09/Love.jpg" alt="Love" width="480" height="300" /></a></p>
 <h2>Don't Believe the Hype</h2>
 <p>There is so much hype regarding existent and novel social channels that I wonder if many of us are missing the point when it comes to communicating. The quality and character of the message you are trying to transmit is of much greater importance than the specific implementation chosen to broadcast it. Yes, I'm excited about new social tools like Google Wave. But my reasons are somewhat selfish: the technology can be distributed, and wouldn't necessarily vanish even if businesses liquidated (open source). <a id="more"></a><a id="more-1519"></a></p>
 <ul>
@@ -46,7 +46,7 @@ comments: []
 <li><span style="background-color: #ffffff;">And of course <a href="http://openmicroblogger.com/brian">Brian Hendrickson's open implementation</a> of a status sharing social media.</span></li>
 </ul>
 <p>There are a great many and growing number of social media infrastructure tools. Social media support products like Drupal, or sites like Ning want you to choose their solution for connecting people or forming a web community.</p>
-<p>For my take on open social media, please check out <a href="http://www.victusspiritus.com/2009/07/27/open-social-media-of-the-people-by-the-people-for-the-people/">this popular post from late July</a>.</p>
+<p>For my take on open social media, please check out <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/07/27/open-social-media-of-the-people-by-the-people-for-the-people/">this popular post from late July</a>.</p>
 <h6 class="zemanta-related-title" style="font-size:1em;">Related articles by Zemanta</h6>
 <ul class="zemanta-article-ul">
 <li class="zemanta-article-ul-li"><a href="http://mashable.com/2009/08/25/disqus-v3-launches/">Disqus V3 Launches: Publishers and Commenters Get Their Own Services</a> (mashable.com)</li>

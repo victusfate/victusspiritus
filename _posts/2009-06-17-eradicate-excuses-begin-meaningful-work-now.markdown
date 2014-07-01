@@ -22,7 +22,7 @@ excerpt: "<h2>How to Get From <em>Here</em> to <em>There</em></h2>\r\nTake a mom
   while you are pursuing a meaningful path. Hardships and challenges on the other
   hand will be coupled with progress. Each early mistake is a relatively inexpensive
   learning opportunity.\r\n<div><a href=\"http://www.flickr.com/photos/deaundrei/\"><img
-  class=\"size-full wp-image-698 aligncenter\" title=\"FromHereToThere\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/06/FromHereToThere.jpg\"
+  class=\"size-full wp-image-698 aligncenter\" title=\"FromHereToThere\" src=\"{{ site.url }}/assets/2009/06/FromHereToThere.jpg\"
   alt=\"FromHereToThere\" width=\"480\" height=\"408\" /></a></div>\r\n<div>"
 wordpress_id: 670
 wordpress_url: http://www.victusspiritus.com/?p=670
@@ -37,7 +37,7 @@ comments:
 - id: 180
   author: The Middle
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/06/30/the-middle/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/06/30/the-middle/
   date: '2009-06-30 04:42:06 -0400'
   date_gmt: '2009-06-30 11:42:06 -0400'
   content: "[...] of the end it&#8217;s no surprise that few engage in discussion
@@ -46,7 +46,7 @@ comments:
 - id: 9843
   author: The long swim to the surface &mdash; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/04/19/the-long-swim-to-the-surface/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/04/19/the-long-swim-to-the-surface/
   date: '2011-04-19 05:49:58 -0400'
   date_gmt: '2011-04-19 12:49:58 -0400'
   content: "[...]    TweetThis morning&#8217;s riff is a continuation and cousin of
@@ -54,7 +54,7 @@ comments:
 ---
 <h2>How to Get From <em>Here</em> to <em>There</em></h2>
 <p>Take a moment and focus on <em>Here</em>. Have you constructed a timeline for your goal? Is <em>Here</em> meant as a location and time for just yourself, or does it include a community as well? One of the mental barriers to progressing towards your goal, is choosing a direction for the first step. It's not as challenging as you'd think to put together a personal or business plan. It's easy to decide what you want <strong>now</strong>. I want more money <strong>now</strong>. I want less responsibility <strong>now</strong>. I want more freetime <strong>now</strong>. That's a great first step. Jot down a short list for what you want and take stock of your current status. The list can act as a filter to help guide you towards <em>There</em>. Once you have a clear goal in mind, the intermediate steps to getting <em>There</em> become much easier to fill in. Know your limits, there's no reason you or your family should suffer while you are pursuing a meaningful path. Hardships and challenges on the other hand will be coupled with progress. Each early mistake is a relatively inexpensive learning opportunity.</p>
-<div><a href="http://www.flickr.com/photos/deaundrei/"><img class="size-full wp-image-698 aligncenter" title="FromHereToThere" src="http://www.victusspiritus.com/wp-content/uploads/2009/06/FromHereToThere.jpg" alt="FromHereToThere" width="480" height="408" /></a></div>
+<div><a href="http://www.flickr.com/photos/deaundrei/"><img class="size-full wp-image-698 aligncenter" title="FromHereToThere" src="{{ site.url }}/assets/2009/06/FromHereToThere.jpg" alt="FromHereToThere" width="480" height="408" /></a></div>
 <div><a id="more"></a><a id="more-670"></a>Where's <em>There</em>? Which way are you going? Do you have a goal in mind, but something has prevented you from leveraging your most productive energies towards attaining it. Where would you like your path to take you? <em>There </em>will likely change as you begin moving away from <em>Here.</em> No matter where your goals take you, periodically confirm that you are in the drivers seat. A far off goal can lure you into undesirable territories.</div>
 <ul>
 <li>Do you wish to move your organization or business towards greater profitability?</li>

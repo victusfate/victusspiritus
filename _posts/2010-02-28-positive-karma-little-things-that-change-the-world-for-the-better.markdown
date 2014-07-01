@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 3165
-wordpress_url: http://www.victusspiritus.com/2010/02/28/positive-karma-little-things-that-change-the-world-for-the-better/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/02/28/positive-karma-little-things-that-change-the-world-for-the-better/
 date: '2010-02-28 06:51:28 -0500'
 date_gmt: '2010-02-28 13:51:28 -0500'
 categories:

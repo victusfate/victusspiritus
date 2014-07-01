@@ -48,7 +48,7 @@ comments:
 - id: 135
   author: How Web Marketing Will Effect the Media Author of the Future
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/05/11/how-web-marketing-will-effect-the-media-author-of-the-future/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/05/11/how-web-marketing-will-effect-the-media-author-of-the-future/
   date: '2009-06-22 15:09:20 -0400'
   date_gmt: '2009-06-22 22:09:20 -0400'
   content: "[...] can take that concept all the way to the wireless internet and open

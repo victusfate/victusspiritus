@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2478
-wordpress_url: http://www.victusspiritus.com/2009/12/10/bread-crumb-navigation/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/12/10/bread-crumb-navigation/
 date: '2009-12-10 05:42:34 -0500'
 date_gmt: '2009-12-10 12:42:34 -0500'
 categories:
@@ -99,7 +99,7 @@ comments:
 - id: 4728
   author: Cheers, where everybody knows your name | Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/07/09/cheers-where-everybody-knows-your-name/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/07/09/cheers-where-everybody-knows-your-name/
   date: '2010-07-09 07:38:39 -0400'
   date_gmt: '2010-07-09 14:38:39 -0400'
   content: "[...] web documents as a command line database to specific destinations.

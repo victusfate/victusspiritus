@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 8743
-wordpress_url: http://www.victusspiritus.com/2011/05/06/wakeup-with-a-fresh-cup-of-coffeescript/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/05/06/wakeup-with-a-fresh-cup-of-coffeescript/
 date: '2011-05-06 05:51:55 -0400'
 date_gmt: '2011-05-06 12:51:55 -0400'
 categories:
@@ -31,7 +31,7 @@ comments:
   author: The Four Horsemen of Rails 3.1beta, Coffee-Script, jQuery, SCSS and Assets
     &mdash; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/05/11/the-four-horsemen-of-rails-3-1beta-coffee-script-jquery-scss-and-assets/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/05/11/the-four-horsemen-of-rails-3-1beta-coffee-script-jquery-scss-and-assets/
   date: '2011-05-16 11:53:53 -0400'
   date_gmt: '2011-05-16 18:53:53 -0400'
   content: "[...] CoffeeScript is a translation and JavaScript with additional features

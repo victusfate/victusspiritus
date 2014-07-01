@@ -59,7 +59,7 @@ comments:
 - id: 9655
   author: The Sanctity of Sleep &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/03/25/the-sanctity-of-sleep/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/03/25/the-sanctity-of-sleep/
   date: '2011-03-25 08:24:22 -0400'
   date_gmt: '2011-03-25 15:24:22 -0400'
   content: "[...] Sleep Dep not all bad for creatives [...]"

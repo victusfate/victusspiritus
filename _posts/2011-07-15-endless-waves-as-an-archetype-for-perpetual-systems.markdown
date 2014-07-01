@@ -20,7 +20,7 @@ tags:
 - social evolution
 comments: []
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2011/07/ocean_waves_morning_sky.jpg"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/07/ocean_waves_morning_sky-1024x764.jpg" alt="" title="ocean_waves_morning_sky" width="630" height="470" class="aligncenter size-large wp-image-9679" /></a><br />
+<p><a href="{{ site.url }}/assets/2011/07/ocean_waves_morning_sky.jpg"><img src="{{ site.url }}/assets/2011/07/ocean_waves_morning_sky-1024x764.jpg" alt="" title="ocean_waves_morning_sky" width="630" height="470" class="aligncenter size-large wp-image-9679" /></a><br />
 Do you hear the irresistible call to spark self sustaining systems? On serene mornings like this I can discern little else. The enticing summons affects equally those who wish to initiate or nurture a novel pattern into an enduring legacy.</p>
 <p>The title eludes to the inspiration behind the post, the inexhaustible rolling waves of the ocean. I was drawn back to ocean for the second time in as many days in hopes of having a solitary morning stroll. I was rewarded with a couple hours of listening to nothing but the crashing waves of the ocean, and aware that the same sounds existed a billion or more years ago. The waves are a precious reminder of our planet's timelessness.</p>
 <p>Today's riff revolves about the art of instigating community kernels and inspiring other perpetual forms<sup><a href="#notes">1</a></sup> that may exist for only a fraction as long as the oceans. The masters of this art are the inventors of ancient customs and economies, the founding fathers of nations, and the pioneers of today's massively connected networks<sup><a href="#notes">2</a></sup>.</p>

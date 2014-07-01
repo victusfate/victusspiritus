@@ -21,14 +21,14 @@ comments:
   author: Browsers aren&#8217;t Operating Systems, but will Dominate as an Application
     Platform | Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/09/14/browsers-arent-operating-systems-but-will-dominate-as-an-application-platform/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/09/14/browsers-arent-operating-systems-but-will-dominate-as-an-application-platform/
   date: '2010-09-14 06:32:55 -0400'
   date_gmt: '2010-09-14 13:32:55 -0400'
   content: "[...] top of this, attractive features that will be in future standards
     (HTML5) like curved corners or dynamic gradients are supported in multiple browsers,
     but have different tags and interfaces. Native video support is [...]"
 ---
-<p>[caption id="attachment_4900" align="aligncenter" width="300" caption="example of rounded corners and css gradients"]<a href="http://www.victusspiritus.com/wp-content/uploads/2010/08/Screenshot.png"><img class="size-medium wp-image-4900" title="Screenshot" src="http://www.victusspiritus.com/wp-content/uploads/2010/08/Screenshot-300x187.png" alt="" width="300" height="187" /></a>[/caption]</p>
+<p>[caption id="attachment_4900" align="aligncenter" width="300" caption="example of rounded corners and css gradients"]<a href="{{ site.url }}/assets/2010/08/Screenshot.png"><img class="size-medium wp-image-4900" title="Screenshot" src="{{ site.url }}/assets/2010/08/Screenshot-300x187.png" alt="" width="300" height="187" /></a>[/caption]</p>
 <p style="text-align: left;">Yesterday I came across two simple techniques while working on mapme.heroku.com, an app that will help me ramp up quickly on displaying maps and getting location from just about any browser. The first is gradients defined as image backgrounds. Here's an example of code:</p>
 <pre> background-image:
         -moz-linear-gradient(top,#00BFFF,#ffffff,#00ff00);</pre>

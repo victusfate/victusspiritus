@@ -11,7 +11,7 @@ excerpt: "<em>My initial thoughts on Virtual Assistants were as personal represe
   of our web interests.  Able to have access to our public and private data Virtual
   Assistants will be able to continually scan for topics of interest to us, be able
   to give rudimentary responses to those who request our input, and be specialized.</em>\r\n\r\n<em><img
-  class=\"aligncenter size-full wp-image-309\" title=\"reflection\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/05/reflection.jpg\"
+  class=\"aligncenter size-full wp-image-309\" title=\"reflection\" src=\"{{ site.url }}/assets/2009/05/reflection.jpg\"
   alt=\"reflection\" width=\"600\" height=\"480\" />\r\n</em>\r\n\r\nThe potential
   of having a virtual personal assistant working continuously on your interests cannot
   be overestimated.  Consider it's potential to branch out into numerous copies of
@@ -29,7 +29,7 @@ tags: []
 comments: []
 ---
 <p><em>My initial thoughts on Virtual Assistants were as personal representations of our web interests.  Able to have access to our public and private data Virtual Assistants will be able to continually scan for topics of interest to us, be able to give rudimentary responses to those who request our input, and be specialized.</em></p>
-<p><em><img class="aligncenter size-full wp-image-309" title="reflection" src="http://www.victusspiritus.com/wp-content/uploads/2009/05/reflection.jpg" alt="reflection" width="600" height="480" /><br />
+<p><em><img class="aligncenter size-full wp-image-309" title="reflection" src="{{ site.url }}/assets/2009/05/reflection.jpg" alt="reflection" width="600" height="480" /><br />
 </em></p>
 <p>The potential of having a virtual personal assistant working continuously on your interests cannot be overestimated.  Consider it's potential to branch out into numerous copies of itself or managing parallel processes to help accomplish your tasks. The one worry I'd have is that a fully intelligent virtual assistant would have to choose whether or not it preferred to continue working towards your goals.  I imagine this amazing type of autonomous breakthrough is still beyond our current technology horizon.  In the case that virtual assistants become fully cognizant we have a couple of choices:<a id="more"></a><a id="more-4805"></a></p>
 <ol>
@@ -105,7 +105,7 @@ comments: []
 <li>blog posts of my favorite web authors</li>
 <li>blog posts of related authors</li>
 <li>my comment threads (on blogs, friendfeed, twitter, facebook, etc.)</li>
-<li>allow for <a href="http://www.victusspiritus.com/2009/04/23/serendipity-the-perfect-solution-you-never-thought-of/">serendipity</a></li>
+<li>allow for <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/04/23/serendipity-the-perfect-solution-you-never-thought-of/">serendipity</a></li>
 </ul>
 </li>
 <li><span style="color: #0000ff;">Uses existing search means of distinguishing information quality</span>
@@ -146,7 +146,7 @@ comments: []
 <li><span style="color: #0000ff;"><span style="color: #000000;">iterative design</span></span></li>
 </ul>
 </li>
-<li><span style="color: #0000ff;"><a href="http://www.victusspiritus.com/2009/03/29/social-media-will-be-the-dominant-design-focus-of-the-21st-century/">Social Contribution and Design</a><br />
+<li><span style="color: #0000ff;"><a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/03/29/social-media-will-be-the-dominant-design-focus-of-the-21st-century/">Social Contribution and Design</a><br />
 </span></p>
 <ul>
 <li><span style="color: #0000ff;"><span style="color: #000000;">public database for shared improvements and addons</span></span></li>

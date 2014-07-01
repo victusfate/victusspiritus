@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 5153
-wordpress_url: http://www.victusspiritus.com/2010/09/10/cool-breezes-the-messenger-of-change-and-fantastic-network-challenges/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/09/10/cool-breezes-the-messenger-of-change-and-fantastic-network-challenges/
 date: '2010-09-10 05:34:45 -0400'
 date_gmt: '2010-09-10 12:34:45 -0400'
 categories:
@@ -48,7 +48,7 @@ comments:
 <p><I>Life changes mirroring seasons</I></p>
 <p>The seasonal switch coincides with a professional life transition. It is the end of an era for me. For much of my adult life I worked at a single company in one industry. As I grew to know myself better, my inclination for open collaboration, new technology, and direct customer feedback diverged greatly from my closed off and aging industry. Most importantly, I never earned the independence to work on challenging problems of my choosing.</p>
 <p><I>Seeking the right market, Relevance</I></p>
-<p>My professional home has become, and likely always will be, tackling open network problems. Whether on the web or the broader internet, there is a growing need for improving personal relevance as a means of filtering out <a href="http://www.victusspiritus.com/2010/04/17/we-swim-in-a-sea-of-white-noise/">noise</a>. </p>
+<p>My professional home has become, and likely always will be, tackling open network problems. Whether on the web or the broader internet, there is a growing need for improving personal relevance as a means of filtering out <a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/04/17/we-swim-in-a-sea-of-white-noise/">noise</a>. </p>
 <p>Relevance is an overloaded word. Each individual has their own definition for it, and it's subject to change without notice. Today's filter will be different than yesterday's which will be different than tomorrow's. The transient nature of relevance frustrates algorithm developers that seek convergent solutions. It is an ongoing tracking problem that is related to understanding the styles, needs and passions of individuals.</p>
 <p>I have grown to rely on the leadership of <a href="http://www.skepticgeek.com/socialweb/datasift-curation-engine-aims-for-relevance-in-real-time/">Mahendra Palsule</a>, <a HREF="http://blog.louisgray.com/2010/08/five-stages-of-filtering-relevance-and.html">Louis Gray</a>, <a HREF="http://scobleizer.com/2010/08/12/twitter-track-on-steroids-announced-by-tweetmeme-founder/">Robert Scoble</a> and others as they seek to articulate a common definition for relevance. The above links refer to DataSift and My6sense, two tools highly focused on solving the challenges of personal relevance. Joining them are <a href="http://hunch.com">Hunch</a>, Google, Facebook, <a href="http://disqus.com">Disqus</a>, and many other Internet businesses that wish to provide visitors with engaging content and information.</p>
 <p>Part of the challenge is mining massive data stores for signals of personal meaning and updating them all in real time in a client server RESTful architecture. The solution should be available at each user interface with data specific to the browser. But finding correlations between a single person's most pressing concerns and the rest of the changing world network of information is nontrivial. </p>

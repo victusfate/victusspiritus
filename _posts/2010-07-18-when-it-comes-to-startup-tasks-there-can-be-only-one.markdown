@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 4623
-wordpress_url: http://www.victusspiritus.com/2010/07/18/when-it-comes-to-startup-tasks-there-can-be-only-one/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/07/18/when-it-comes-to-startup-tasks-there-can-be-only-one/
 date: '2010-07-18 08:34:42 -0400'
 date_gmt: '2010-07-18 15:34:42 -0400'
 categories:
@@ -38,7 +38,7 @@ comments:
 - id: 9011
   author: Death by To Do lists &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/02/23/death-by-to-do-lists/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/02/23/death-by-to-do-lists/
   date: '2011-02-23 07:54:18 -0500'
   date_gmt: '2011-02-23 14:54:18 -0500'
   content: "[...]  23Feb 2011  Mark Essel   TweetThis is a guilty admission of not
@@ -48,7 +48,7 @@ comments:
 <p>Six months ago we tracked our startup's work tasks with a combination of lighthouse milestones, dozens of tickets and a metric ton of emails per day. In addition a Google task list, doc file, and a local text list kept track of my personal tasks and items I planned on working on. At the same time whenever I came across potentially useful documentation, I'd categorize and bookmark the site. I don't use any of those tools anymore*. I'll describe how and why that has helped me become more efficient, and more importantly brought clarity to my problem solving.</p>
 <p><strong>No one can accurately predict the future</strong></p>
 <p>We constantly get new relevant information that guides our decision making. What you perceive as necessary or useful now, may be irrelevant and a waste of resources a week from now or even tomorrow. The most important resource in a startup is your team's time and along with it the money to keep everyone working.</p>
-<p>When your team is actively working towards a dead end, it's everyone's job to identify and communicate correction to assumptions and earlier data. While a startup can survive passing up an opportunity, sprinting in the wrong direction <a href="http://www.victusspiritus.com/2010/05/04/even-geniuses-run-off-of-cliffs/">can send it off a cliff</a>. Course correction with involved task management software requires changing priorities for task lists, milestones, emails, and miscellaneous documents that plan effort, and those activities all cost precious time.</p>
+<p>When your team is actively working towards a dead end, it's everyone's job to identify and communicate correction to assumptions and earlier data. While a startup can survive passing up an opportunity, sprinting in the wrong direction <a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/05/04/even-geniuses-run-off-of-cliffs/">can send it off a cliff</a>. Course correction with involved task management software requires changing priorities for task lists, milestones, emails, and miscellaneous documents that plan effort, and those activities all cost precious time.</p>
 <p><strong>Ducktyping Bureaucracy</strong></p>
 <p>If it looks and feels like bureaucratic overhead it is. And your startup should avoid it like the plague. Heavyweight ticket tracking and project management systems are a necessary evil for companies that need to support potentially millions of customers.  Once your startup has discovered a solid market fit automated ticket organization can help minimize repeat bug reports and explanations (DRY). Before your team identifies a scalable resource project tracking is overkill, and will cause you to miss vital early feedback. Prototypes are required to be just solid enough to generate measurable user response. <em>The filthier the hack job, the faster a product fit can be found</em>.</p>
 <p><strong>Concentration is King</strong></p>

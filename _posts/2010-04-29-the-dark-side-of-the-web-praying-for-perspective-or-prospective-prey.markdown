@@ -210,7 +210,7 @@ comments:
 - id: 4218
   author: What does Wealth Mean to You?
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/05/03/what-does-wealth-mean-to-you/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/05/03/what-does-wealth-mean-to-you/
   date: '2010-05-03 05:54:20 -0400'
   date_gmt: '2010-05-03 12:54:20 -0400'
   content: "[...] number of market places. Our attention is drawn to HUGE markets
@@ -218,7 +218,7 @@ comments:
     Adsense, or social gobbling plants from outer space like Facebook. While these
     massive [...]"
 ---
-<p><a href="http://www.flickr.com/photos/porfirio/2905439446/"><img class="aligncenter size-full wp-image-3728" title="CorricellaHDRaltramonto" src="http://www.victusspiritus.com/wp-content/uploads/2010/04/CorricellaHDRaltramonto.jpg" alt="" width="500" height="375" /></a></p>
+<p><a href="http://www.flickr.com/photos/porfirio/2905439446/"><img class="aligncenter size-full wp-image-3728" title="CorricellaHDRaltramonto" src="{{ site.url }}/assets/2010/04/CorricellaHDRaltramonto.jpg" alt="" width="500" height="375" /></a></p>
 <p>Besides a catchy title what the hell does it mean? My thoughts today aren't religious or spiritual, but instead are focused on the distribution of information through modern web media channels. By "praying for perspective" I'm writing about our ambitious need to consume all manner of information and in particular web media. This need is driven by several overlapping psychological and behaviorial motivators, of which I'll describe a few: state, curiousity, and perspective.</p>
 <h2>Who's behind the wheel?</h2>
 <p><em>You are.</em><br />

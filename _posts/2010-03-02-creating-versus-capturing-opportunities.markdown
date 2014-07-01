@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 3170
-wordpress_url: http://www.victusspiritus.com/2010/03/02/creating-versus-capturing-opportunities/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/03/02/creating-versus-capturing-opportunities/
 date: '2010-03-02 09:42:53 -0500'
 date_gmt: '2010-03-02 16:42:53 -0500'
 categories:
@@ -21,7 +21,7 @@ comments:
 - id: 3336
   author: Vectors that lead to web app adoption &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/03/14/vectors-that-lead-to-web-app-adoption/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/03/14/vectors-that-lead-to-web-app-adoption/
   date: '2010-03-14 11:24:10 -0400'
   date_gmt: '2010-03-14 18:24:10 -0400'
   content: "[...] a couple of primary methods for growing an application to meet the
@@ -29,7 +29,7 @@ comments:
 - id: 8930
   author: Startup Strategies that Survive, Prosper, and Win &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/02/12/startup-strategies-that-survive-prosper-and-win/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/02/12/startup-strategies-that-survive-prosper-and-win/
   date: '2011-02-12 16:19:05 -0500'
   date_gmt: '2011-02-12 23:19:05 -0500'
   content: "[...] devours its most promising offspring. I compared two simple categories

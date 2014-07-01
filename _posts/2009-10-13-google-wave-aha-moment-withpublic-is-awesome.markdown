@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 1827
-wordpress_url: http://www.victusspiritus.com/2009/10/13/google-wave-aha-moment-withpublic-is-awesome/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/10/13/google-wave-aha-moment-withpublic-is-awesome/
 date: '2009-10-13 05:54:18 -0400'
 date_gmt: '2009-10-13 12:54:18 -0400'
 categories:
@@ -139,6 +139,6 @@ comments:
 <p>1) Calendar and email integration was a hot topic for one poster (I'll include his ID later if he's cool with me sharing it).</p>
 <p>2) <a href="http://friendfeed.com/vmlemon">Tyson Key</a> an 18 year old wiz kid of web software and communication created a new public wave to track and share bandwidth usage for the tool as well as share some great feedback on what could easily be done with wave bots. (I invited him to wave, then he quickly educated me how to use it ). Ah, to be young and instant tech friendly again.</p>
 <p>3) I diligently looked for lift/scala robot starter code (4 second search). I quickly found a java robot wave and added my sample lift/scala template setup bat files using maven and the Google app engine, where robots live at the moment. Very nice of Google to give robots a home, now kindly set them free :).</p>
-<p>4) In the Reddit wave I came across <a href="http://louisc.com/">Louis Castrogivanni</a> (a new commenter here and fellow tech fan) who just happened to have the inside scoop on <a href="http://www.victusspiritus.com/2009/10/10/be-like-panera-bread/">why businesses should be like Panera bread</a> (Panera is lucky to have a summer employee like Louis, and he loves working there).</p>
+<p>4) In the Reddit wave I came across <a href="http://louisc.com/">Louis Castrogivanni</a> (a new commenter here and fellow tech fan) who just happened to have the inside scoop on <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/10/10/be-like-panera-bread/">why businesses should be like Panera bread</a> (Panera is lucky to have a summer employee like Louis, and he loves working there).</p>
 <p>The more people I connect to, the greater value I discover by using Google Wave. The file attachment/sharing, video embeds, and other utilities are nifty but for me the immeasurable value of any social web service is in the discovery, engagement, and connection with people. We want to share, collaborate and build better stuff and the with:public "pipeline" is an extraordinary value point for Google Wave. </p>
 <p>Can't wait till I can pull in my other rss streams and push out discoveries from robots to external sites. </p>

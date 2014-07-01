@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2333
-wordpress_url: http://www.victusspiritus.com/2009/11/24/automation-vs-customization-ideal-manifestation-of-creative-energy/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/11/24/automation-vs-customization-ideal-manifestation-of-creative-energy/
 date: '2009-11-24 05:01:18 -0500'
 date_gmt: '2009-11-24 12:01:18 -0500'
 categories:
@@ -22,7 +22,7 @@ comments: []
 ---
 <p>A short examination of how I view automation in relation to customization in my design decisions. Although I favor automation, the systematic reduction of creative ideas into paths too well grooved, erodes the heart of creativity. The seed of our imagination is the swirling mystery of freedom.</p>
 <h2>the perfect balance</h2>
-<p>Many of you like myself, endeavor to iteratively improve your efforts. We see <a href="http://www.victusspiritus.com/2009/06/12/maximize-the-value-of-your-time/">our time as our most valued resource</a> and passionately protect it. I admit to gleefully squandering this gift when it comes to my free time, but that is my choice. Woe to external agents who squander my time.</p>
+<p>Many of you like myself, endeavor to iteratively improve your efforts. We see <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/06/12/maximize-the-value-of-your-time/">our time as our most valued resource</a> and passionately protect it. I admit to gleefully squandering this gift when it comes to my free time, but that is my choice. Woe to external agents who squander my time.</p>
 <p>At each decision boundary we are both blessed and cursed with a variety of options. As we exist within a shifting society, I relish the opportunity of choice and embrace alternatives (bear hugs free will). Determining the level of flexibility, automation, or simplicity in a design is our jump point for implementing a solution. Many major design decisions are devoid of satisfactory supporting evidence. Our best choice, pursuing more information, may be too costly or impractical. Instinct and experience must be trusted to allow for the wisest decision.</p>
 <h2>Recognize that each decision has it's own identity</h2>
 <p>One of the most prevalent mistakes in judgement is miscategorizing a decision. We often go out of our way to relate a novel problem to existing solutions and systems we have in place. Fundamentally, the human mind is a pattern matching engine. Pay careful attention to the unique and vital issues of a design decision, it may save you countless hours of effort later on, or even save your project or business.</p>

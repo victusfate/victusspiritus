@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 3327
-wordpress_url: http://www.victusspiritus.com/2010/03/18/how-do-you-define-and-capture-relevance-across-the-web/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/03/18/how-do-you-define-and-capture-relevance-across-the-web/
 date: '2010-03-18 04:49:10 -0400'
 date_gmt: '2010-03-18 11:49:10 -0400'
 categories:
@@ -46,7 +46,7 @@ comments:
   author: The End of the Rainbow for Social Media, Spectacle or Solution? &raquo;
     Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/03/21/the-end-of-the-rainbow-for-social-media-spectacle-or-solution/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/03/21/the-end-of-the-rainbow-for-social-media-spectacle-or-solution/
   date: '2010-03-21 12:51:48 -0400'
   date_gmt: '2010-03-21 19:51:48 -0400'
   content: "[...] How do you define and capture relevance across the web? (victusspiritus.com)

@@ -16,7 +16,7 @@ excerpt: "<h1>Corruption is Authority Exercised without Need</h1>\r\nThe manifes
   of your community members. Authority also serves as a measure for information value.
   In this case we trust information from an authority on a topic, this I'll call expertise."
 wordpress_id: 1943
-wordpress_url: http://www.victusspiritus.com/2009/10/21/authoritys-duration/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/10/21/authoritys-duration/
 date: '2009-10-21 03:24:18 -0400'
 date_gmt: '2009-10-21 10:24:18 -0400'
 categories:

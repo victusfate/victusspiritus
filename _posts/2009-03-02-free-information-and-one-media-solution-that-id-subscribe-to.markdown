@@ -30,7 +30,7 @@ comments:
 - id: 102
   author: Kindle 2 moves control of text-to-speech feature from user to publisher
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/03/03/kindle-2-moves-control-of-text-to-speech-feature-from-user-to-publisher/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/03/03/kindle-2-moves-control-of-text-to-speech-feature-from-user-to-publisher/
   date: '2009-06-13 03:34:24 -0400'
   date_gmt: '2009-06-13 10:34:24 -0400'
   content: "[...] suggested a simple solution, one media rule that rewards any media

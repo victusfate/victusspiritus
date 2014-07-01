@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 3951
-wordpress_url: http://www.victusspiritus.com/2010/05/22/web-servers-that-live-in-your-browser/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/05/22/web-servers-that-live-in-your-browser/
 date: '2010-05-22 16:24:54 -0400'
 date_gmt: '2010-05-22 23:24:54 -0400'
 categories:

@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2753
-wordpress_url: http://www.victusspiritus.com/2010/01/15/how-you-feel-about-your-work-is-just-as-important-as-how-much-you-are-paid/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/01/15/how-you-feel-about-your-work-is-just-as-important-as-how-much-you-are-paid/
 date: '2010-01-15 05:44:05 -0500'
 date_gmt: '2010-01-15 12:44:05 -0500'
 categories:

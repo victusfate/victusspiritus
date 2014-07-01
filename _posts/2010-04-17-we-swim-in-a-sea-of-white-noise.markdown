@@ -21,7 +21,7 @@ comments:
 - id: 4589
   author: Scale Invariant Patterns - Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/06/23/scale-invariant-patterns/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/06/23/scale-invariant-patterns/
   date: '2010-06-23 05:32:11 -0400'
   date_gmt: '2010-06-23 12:32:11 -0400'
   content: "[...] you ever caught yourself staring at a white noise screen, or listening
@@ -30,7 +30,7 @@ comments:
   author: Cool Breezes, the Messenger of Change, and Fantastic Network Challenges
     | Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/09/10/cool-breezes-the-messenger-of-change-and-fantastic-network-challenges/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/09/10/cool-breezes-the-messenger-of-change-and-fantastic-network-challenges/
   date: '2010-09-10 05:42:12 -0400'
   date_gmt: '2010-09-10 12:42:12 -0400'
   content: "[...] My professional home has become, and likely always will be, tackling
@@ -38,7 +38,7 @@ comments:
     growing need for improving personal relevance as a means of filtering out noise.
     [...]"
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/04/l_500_369_1E93B520-9711-478C-A496-FEB6F5E04E1F.jpeg"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/04/l_500_369_1E93B520-9711-478C-A496-FEB6F5E04E1F.jpeg" alt="" class="alignnone size-full" /></a></p>
+<p><a href="{{ site.url }}/assets/2010/04/l_500_369_1E93B520-9711-478C-A496-FEB6F5E04E1F.jpeg"><img src="{{ site.url }}/assets/2010/04/l_500_369_1E93B520-9711-478C-A496-FEB6F5E04E1F.jpeg" alt="" class="alignnone size-full" /></a></p>
 <p>We're all familiar with uncorrelated static. As a kid when a broadcast station failed to tune in, I'd just get static. The image of light and dark accompanied by a fuzzy spectrum of sound. </p>
 <h2>What is White Noise?</h2>
 <p>The definition of <a HREF="http://en.m.wikipedia.org/wiki/White_noise?wasRedirected=true">white noise</a> is one I'm intamitely familiar with as a long time signal processing engineer. Simply stated, the signal is uncorrelated over time (or space). There are no repeating patterns and the frequency response (or power spectral density) of the signal is flat, which means signal energy is evenly distributed between all frequencies. </p>
@@ -56,4 +56,4 @@ The challenge is creating algorithms that improve over time to better adapt to t
 <li>abstraction of specific interests into topics allows the previous clustering algorithm to introduce new potential categories to people</li>
 <li>clustering by content origin or input streams is another method of raising interesting information above noise</li>
 </ul>
-<p>Because many of our friends may have interests divergent from our own, simple social sharing becomes saturated with noisy or popular mass media content. The most potent information filters will introduce intriguing finds and arouse interests we never knew we had. Serendipity has shown me time and again how little I know about even my own interests. We close ourselves off to so much in the interest of protecting our attention and limited time that our quest for relevance dead ends in <a href="http://www.victusspiritus.com/2009/11/04/leaving-a-local-optima-takes-every-ounce-of-our-resolve/">local optimas</a>. My goal with a startup is to ensure that doesn't happen. </p>
+<p>Because many of our friends may have interests divergent from our own, simple social sharing becomes saturated with noisy or popular mass media content. The most potent information filters will introduce intriguing finds and arouse interests we never knew we had. Serendipity has shown me time and again how little I know about even my own interests. We close ourselves off to so much in the interest of protecting our attention and limited time that our quest for relevance dead ends in <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/11/04/leaving-a-local-optima-takes-every-ounce-of-our-resolve/">local optimas</a>. My goal with a startup is to ensure that doesn't happen. </p>

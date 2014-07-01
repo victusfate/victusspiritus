@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<a href=\"http://www.flickr.com/photos/jemstone/\"><img class=\"aligncenter
-  size-full wp-image-995\" title=\"Sustainable\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/07/Sustainable.jpg\"
+  size-full wp-image-995\" title=\"Sustainable\" src=\"{{ site.url }}/assets/2009/07/Sustainable.jpg\"
   alt=\"Sustainable\" width=\"480\" height=\"360\" /></a>\r\n\r\nDue in part to hasty deadlines
   as well as intellectual apathy we are often unaware of the ramifications of our
   actions. Capitalism has fueled disruption in the name of efficiency. Outsourcing
@@ -276,7 +276,7 @@ comments:
     and collectively find a solution to aid displaced families (alternate career finding
     assistance, training, relocation, etc.).
 ---
-<p><a href="http://www.flickr.com/photos/jemstone/"><img class="aligncenter size-full wp-image-995" title="Sustainable" src="http://www.victusspiritus.com/wp-content/uploads/2009/07/Sustainable.jpg" alt="Sustainable" width="480" height="360" /></a></p>
+<p><a href="http://www.flickr.com/photos/jemstone/"><img class="aligncenter size-full wp-image-995" title="Sustainable" src="{{ site.url }}/assets/2009/07/Sustainable.jpg" alt="Sustainable" width="480" height="360" /></a></p>
 <p>Due in part to hasty deadlines as well as intellectual apathy we are often unaware of the ramifications of our actions. Capitalism has fueled disruption in the name of efficiency. Outsourcing work to lower cost alternatives is standard practice throughout many of our industries.</p>
 <p>After an enlightening conversation with a local construction worker I have come to understand there are deeper issues than cost savings when entire business sectors are locally disrupted. People require time and passion to become experts in their disciplines. As human beings we are likely to have strong social and financial ties to our homes. Consider for a moment the impact of choosing a remote company to handle a local construction job. In a tight economy many local workers are struggling to stay employed. They may have spent the majority of their lives supporting local businesses and infrastructure (higher property taxes for schools, higher cost of living). And this higher cost of living is built into their businesses bottom line.<a id="more"></a><a id="more-874"></a></p>
 <p>In fact by continually choosing lower cost remote services we are moving to an unsustainable local economy. Some have mentioned this concept extends to our national reliance on external but less expensive business. While in many cases I agree with choosing what's efficient, there have to be a balance on how much service and products are incoming versus outgoing. Without a counter force of exporting great value, any entity faces financial collapse.</p>

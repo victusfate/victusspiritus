@@ -22,7 +22,7 @@ comments:
 - id: 2651
   author: Adaption to the Shifting Economy &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/01/16/adaption-to-the-shifting-economy/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/01/16/adaption-to-the-shifting-economy/
   date: '2010-01-16 07:42:44 -0500'
   date_gmt: '2010-01-16 14:42:44 -0500'
   content: "[...] of parallel paths provide the same information, but by varied routes.
@@ -31,7 +31,7 @@ comments:
 - id: 2690
   author: All for One, and One for All &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/01/20/all-for-one-and-one-for-all/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/01/20/all-for-one-and-one-for-all/
   date: '2010-01-20 07:32:41 -0500'
   date_gmt: '2010-01-20 14:32:41 -0500'
   content: "[...] are part of. A single cell can live or die and have little effect

@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 5003
-wordpress_url: http://www.victusspiritus.com/2010/08/29/massive-cash-reserves-are-a-sign-of-a-broken-economy/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/08/29/massive-cash-reserves-are-a-sign-of-a-broken-economy/
 date: '2010-08-29 08:40:39 -0400'
 date_gmt: '2010-08-29 15:40:39 -0400'
 categories:

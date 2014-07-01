@@ -19,7 +19,7 @@ tags:
 - design
 comments: []
 ---
-<p style="text-align: center;"><a href="http://listicles.com/media/10-illustrated-versions-of-evolution/"><img class="aligncenter size-full wp-image-7644" title="evolution" src="http://www.victusspiritus.com/wp-content/uploads/2011/03/evolution1.jpg" alt="" width="512" height="384" /></a></p>
+<p style="text-align: center;"><a href="http://listicles.com/media/10-illustrated-versions-of-evolution/"><img class="aligncenter size-full wp-image-7644" title="evolution" src="{{ site.url }}/assets/2011/03/evolution1.jpg" alt="" width="512" height="384" /></a></p>
 <p>Do you like weekend web hacking projects? If like myself, you share a fondness for mid afternoon mini apps that automate and filter away some nagging pain point, you'll grow a backlog of tools rather quickly. The more apps you code, the greater the chance that one or more of them will fail due to any number of issues. Beyond failure, the apps may greatly benefit from changes to their architecture.</p>
 <p>The following list details a number of reasons why apps may fail or deserve some refreshing, refactoring, or rearchitecting.</p>
 <ol>

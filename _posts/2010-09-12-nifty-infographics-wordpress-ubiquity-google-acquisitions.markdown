@@ -24,5 +24,5 @@ comments: []
 <p><a href="http://www.scores.org/graphics/google/"><img src="http://www.scores.org/graphics/google/google-acquisition.jpg" border="0" alt="Google Acquisitions." /></a></p>
 <p><a href="http://www.scores.org/graphics/">Research</a> by <a href="http://www.scores.org/">Scores.org</a></p>
 <p>This blog, my soabox, is built on php and mySQL crafted by the hands of Wordpressers and open source support. Here's the state of Wordpress:</p>
-<p><a href="http://blog.page.ly/2010/08/the-prolific-wordpress-infographic/"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/09/wordpress-infographic.jpg" alt="" title="wordpress-infographic" width="520" height="2138" class="aligncenter size-full wp-image-5171" /></a></p>
+<p><a href="http://blog.page.ly/2010/08/the-prolific-wordpress-infographic/"><img src="{{ site.url }}/assets/2010/09/wordpress-infographic.jpg" alt="" title="wordpress-infographic" width="520" height="2138" class="aligncenter size-full wp-image-5171" /></a></p>
 <p>Thanks to my friend </a><a href="http://skepticgeek.com/">Mahendra</a> for sharing these on <a href="http://posterous.skepticgeek.com/">his posterous</a>.</p>

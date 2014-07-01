@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 4774
-wordpress_url: http://www.victusspiritus.com/2010/08/03/the-cage-guards-against-the-tiger-only-if-were-outside-its-bars/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/08/03/the-cage-guards-against-the-tiger-only-if-were-outside-its-bars/
 date: '2010-08-03 05:13:56 -0400'
 date_gmt: '2010-08-03 12:13:56 -0400'
 categories:
@@ -74,7 +74,7 @@ comments:
     to comprehend and defend someone in a legal court of law.<br><br>Amazing what
     our society comes up with. :)
 ---
-<p>[caption id="attachment_4775" align="aligncenter" width="468" caption="or if the tigers are outside the cage"]<a href="http://www.dailymail.co.uk/news/article-450246/Claws-encounter-Heres-fine-mesh-youve-got-into.html"><img class="size-full wp-image-4775" title="TigerBall_468x336" src="http://www.victusspiritus.com/wp-content/uploads/2010/08/TigerBall_468x336.jpg" alt="" width="468" height="336" /></a>[/caption]</p>
+<p>[caption id="attachment_4775" align="aligncenter" width="468" caption="or if the tigers are outside the cage"]<a href="http://www.dailymail.co.uk/news/article-450246/Claws-encounter-Heres-fine-mesh-youve-got-into.html"><img class="size-full wp-image-4775" title="TigerBall_468x336" src="{{ site.url }}/assets/2010/08/TigerBall_468x336.jpg" alt="" width="468" height="336" /></a>[/caption]</p>
 <p>Rules are wonderful constructs to keep us all acting in a predictable manner. There are rules at school, there are rules at work, there are rules on the web, there are a shit ton of rules for ownership, and there are rules for how to enforce other rules. Society works because we consciously follow all it's rules all the time, right? <a href="http://www.last.fm/music/Pink+Floyd/_/Another+Brick+in+the+Wall">Probably not.</a></p>
 <h2>The Public Good</h2>
 <p>The spirit of the law (motivation) is for the public good, or at least that's my interpretation*. A majority of people understand and embrace a shared sense of values, but not at the expense of (non-violent) minorities.</p>

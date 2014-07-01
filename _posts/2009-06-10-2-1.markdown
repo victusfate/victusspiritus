@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<h2><a href=\"http://friendfeed.com/scobleizer\"><img class=\"size-full
-  wp-image-549 aligncenter\" title=\"thepoweroftwo\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/06/thepoweroftwo.jpg\"
+  wp-image-549 aligncenter\" title=\"thepoweroftwo\" src=\"{{ site.url }}/assets/2009/06/thepoweroftwo.jpg\"
   alt=\"thepoweroftwo\" width=\"368\" height=\"246\" /></a></h2>\r\n<h2>Did I need
   to write a post explaining why 2 &gt; 1?</h2>\r\nThe advantages of even a single
   outside perspective are too numerous to ignore.  By reviewing the power of partnerships
@@ -64,7 +64,7 @@ comments:
 - id: 2662
   author: Team&#8217;s are Non-Linear Force Multipliers &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/01/17/teams-are-non-linear-force-multipliers/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/01/17/teams-are-non-linear-force-multipliers/
   date: '2010-01-17 07:23:00 -0500'
   date_gmt: '2010-01-17 14:23:00 -0500'
   content: "[...] that mashup of skill is the exception rather than the rule. More
@@ -81,7 +81,7 @@ comments:
 
     Here are some places where you can find a co-founder. Linkedin.com Do you have a profile there? Do you have tech people in your network? If yes you can take a look at their profile and see if you find someone interesting and contact them. If you don't...
 ---
-<h2><a href="http://friendfeed.com/scobleizer"><img class="size-full wp-image-549 aligncenter" title="thepoweroftwo" src="http://www.victusspiritus.com/wp-content/uploads/2009/06/thepoweroftwo.jpg" alt="thepoweroftwo" width="368" height="246" /></a></h2>
+<h2><a href="http://friendfeed.com/scobleizer"><img class="size-full wp-image-549 aligncenter" title="thepoweroftwo" src="{{ site.url }}/assets/2009/06/thepoweroftwo.jpg" alt="thepoweroftwo" width="368" height="246" /></a></h2>
 <h2>Did I need to write a post explaining why 2 &gt; 1?</h2>
 <p>The advantages of even a single outside perspective are too numerous to ignore.  By reviewing the power of partnerships compared to individual creations, allow me to dissuade your gut instinct to go it alone when beginning a challenging new venture.  In order to gain the most benefit from the partnership, each of the members should have skill levels in the same range (master/subordinate pairings are much less efficient and far less fun).  Although matching skill levels is wise, it's best each of the members have their own projects or areas of specialization.<a id="more"></a><a id="more-513"></a></p>
 <div>Some of the benefits of partnerships:</div>

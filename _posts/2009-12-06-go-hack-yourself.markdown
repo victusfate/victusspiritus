@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2460
-wordpress_url: http://www.victusspiritus.com/2009/12/06/go-hack-yourself/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/12/06/go-hack-yourself/
 date: '2009-12-06 07:29:01 -0500'
 date_gmt: '2009-12-06 14:29:01 -0500'
 categories:
@@ -93,7 +93,7 @@ comments:
 - id: 7747
   author: Fun Productive Rhythms &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/12/06/fun-productive-rhythms/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/12/06/fun-productive-rhythms/
   date: '2010-12-06 07:11:13 -0500'
   date_gmt: '2010-12-06 14:11:13 -0500'
   content: "[...] each have the ability to program ourselves with healthy behavior

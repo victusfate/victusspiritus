@@ -24,7 +24,7 @@ comments:
   date_gmt: '2009-10-04 18:07:19 -0400'
   content: "[...] Images Can Be Deceptive, Life Never Stands Still [...]"
 ---
-<p><a href="http://www.flickr.com/photos/dobak/116195587/sizes/l/"><img class="aligncenter size-full wp-image-1773" title="DivingEagle" src="http://www.victusspiritus.com/wp-content/uploads/2009/10/DivingEagle.jpg" alt="DivingEagle" width="480" height="330" /></a></p>
+<p><a href="http://www.flickr.com/photos/dobak/116195587/sizes/l/"><img class="aligncenter size-full wp-image-1773" title="DivingEagle" src="{{ site.url }}/assets/2009/10/DivingEagle.jpg" alt="DivingEagle" width="480" height="330" /></a></p>
 <h1>Memory: The Illusion of Distinct Moments</h1>
 <p>Tied into our mind's perception, the input from which we piece together the beautiful intricacies of reality, is a subtle illusion. Our mind can store vast amounts of information within the neurological hierarchy of network signals. But the information is "stamped" with a vague notion of time. The temporal association is created by enveloping other distinct memories and our precise knowledge of an event time is only as good as it's neighbors (see <a href="http://en.wikipedia.org/wiki/Memory">wikipedia's memory</a>).  Our state of knowledge isn't continually flowing or changing like the world around us. Only through the feedback of repeated observations can we maintain even a cursory connection to "the state of reality".</p>
 <p>We are best served by knowing canonical facts, and understanding the connections between fixed, high confidence points. From these discrete thoughts we can interpolate between events to recreate a guess at truth, or even extrapolate trends and do our best to capitalize on our predictive confidence.</p>

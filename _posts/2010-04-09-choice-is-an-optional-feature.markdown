@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 3526
-wordpress_url: http://www.victusspiritus.com/2010/04/09/choice-is-an-optional-feature/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/04/09/choice-is-an-optional-feature/
 date: '2010-04-09 05:18:46 -0400'
 date_gmt: '2010-04-09 12:18:46 -0400'
 categories:

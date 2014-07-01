@@ -41,7 +41,7 @@ comments:
 - id: 4262
   author: Hourly Wages vs Income Streams
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/05/06/hourly-wages-vs-income-streams/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/05/06/hourly-wages-vs-income-streams/
   date: '2010-05-06 05:29:42 -0400'
   date_gmt: '2010-05-06 12:29:42 -0400'
   content: "[...] hoodwinked into one while enjoying some social media, your goal
@@ -49,7 +49,7 @@ comments:
     read or heard many times the term: work on versus in your business. That just
     means [...]"
 ---
-<p><a href="http://funandfacts-captanil.blogspot.com/"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/02/l_600_393_A85C2CED-8AD1-4DF1-9451-5CC9484BDC12.jpeg" alt="" width="300" height="196" class="alignnone size-full wp-image-364" /></a></p>
+<p><a href="http://funandfacts-captanil.blogspot.com/"><img src="{{ site.url }}/assets/2010/02/l_600_393_A85C2CED-8AD1-4DF1-9451-5CC9484BDC12.jpeg" alt="" width="300" height="196" class="alignnone size-full wp-image-364" /></a></p>
 <p>Builders and makers know the seductive siren of force multipliers. Any time I can automate a task, I take the opportunity to do so. Tasks that require human clock cycles for each completed action are sure signs of a bottleneck (unless you're Amazon*). The manual labor tax can take many forms. A processing chain that halts and requires a careful choice to proceed, is a decision bottleneck. A pay wall for a service that can be replicated cheaper is another form of design tax.  </p>
 <p>The challenges I cherish are upfront design, end user feedback, and ongoing optimization, anything but monotonous busy work. These aren't random preferences, but "Mark optimal" design instincts driven by a lifetime of observation. A direct link between designer and user is best. The <a HREF="http://www.thadguy.com/comic/the-telephone-game-20-beta/205/">telephone game</a> is all the evidence needed to illustrate the failure of communication, when many human interfaces exist between a customer and a maker. Signal noise between people corrupts messages between just a handful of nodes.</p>
 <h2>The Roles of Maker & User Overlap</h2>

@@ -29,7 +29,7 @@ comments:
 - id: 92
   author: There&#8217;s No How To Guide For &#8220;Being Remarkable&#8221;
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/04/22/theres-no-how-to-guide-for-being-remarkable/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/04/22/theres-no-how-to-guide-for-being-remarkable/
   date: '2009-06-11 06:08:16 -0400'
   date_gmt: '2009-06-11 13:08:16 -0400'
   content: "[...] this post further crystallized my ideal job:  Idea Engine.  I alluded

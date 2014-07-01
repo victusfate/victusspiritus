@@ -65,7 +65,7 @@ comments:
 - id: 4289
   author: EPIC, the end of email
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/05/12/epic-the-end-of-email/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/05/12/epic-the-end-of-email/
   date: '2010-05-12 05:20:02 -0400'
   date_gmt: '2010-05-12 12:20:02 -0400'
   content: "[...] Familiarity is a core component of our decision making process.
@@ -127,7 +127,7 @@ comments:
   author: What Karate Kid and the Devil&#8217;s Advocate have in Common &raquo; Victus
     Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/12/14/what-karate-kid-and-the-devils-advocate-have-in-common/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/12/14/what-karate-kid-and-the-devils-advocate-have-in-common/
   date: '2010-12-14 06:59:52 -0500'
   date_gmt: '2010-12-14 13:59:52 -0500'
   content: "[...] and focus requires ignoring the lion&#8217;s share of it. Earlier
@@ -136,7 +136,7 @@ comments:
 - id: 8866
   author: Coding web apps is the new literacy &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/02/08/coding-web-apps-is-the-new-literacy/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/02/08/coding-web-apps-is-the-new-literacy/
   date: '2011-02-08 07:06:56 -0500'
   date_gmt: '2011-02-08 14:06:56 -0500'
   content: "[...] hardwired to process information, whether it&#8217;s visual, audio,
@@ -152,11 +152,11 @@ comments:
 ---
 <p><I>Lossy data compression methods have captured my attention and imagination from orthogonal sources (day job and Victus Media)</I></p>
 <h2>A Curious Coincidence: Photons, Neural Compression, and Perception</h2>
-<p><a href="http://www.stuckincustoms.com/2010/03/10/fairy-tale-bridge/"><img class="aligncenter size-full wp-image-3247" title="Tolkienesque Bridge" src="http://www.victusspiritus.com/wp-content/uploads/2010/03/Tolkienesque-Bridge.jpg" alt="" height="422px" width="600px" /></a></p>
+<p><a href="http://www.stuckincustoms.com/2010/03/10/fairy-tale-bridge/"><img class="aligncenter size-full wp-image-3247" title="Tolkienesque Bridge" src="{{ site.url }}/assets/2010/03/Tolkienesque-Bridge.jpg" alt="" height="422px" width="600px" /></a></p>
 <p>Long have I wondered how our minds  perform the enormous processing task of transforming incident light into a 3 dimensional reality, while triggering memory and understanding. After a great deal of reading and many years working on sensor simulations I have only a laymen's understanding of the process. Join me in a journey that crosses thousands of light years to illuminate the magic of our minds. </p>
 <h2>Photons from Distant Galaxies Become Information to Our Minds</h2>
-<p><a href="http://en.m.wikipedia.org/wiki/Accretion_disc"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/03/l_750_600_22EFE275-217B-47B1-A23D-88B0CCF0D0FE.jpeg" alt="" class="alignnone size-full" /></a></p>
-<p>Let's begin by tracing photons from a distant <a HREF="http://en.m.wikipedia.org/wiki/Quasar?wasRedirected=true">quasar*</a> at the edge of the universe all the way to a human observer looking at telescope data. The photons first leave their energetic home and traverse space and time over billions of years. Their course may bend many times as the photons near other galaxies and eventually pass close to our own sun and encounter an enormous aperture. Let's gloss over the complex signal processing that transforms data and imagery, and instead follow the newly made light from a human readable display. The light finds it's way to curious human eyes. For the next step in the information chain, I'll borrow from an <a HREF="http://www.victusspiritus.com/2009/10/23/genuine-posts-are-images-of-our-minds/">earlier post on digital and optical Images</a>:</p>
+<p><a href="http://en.m.wikipedia.org/wiki/Accretion_disc"><img src="{{ site.url }}/assets/2010/03/l_750_600_22EFE275-217B-47B1-A23D-88B0CCF0D0FE.jpeg" alt="" class="alignnone size-full" /></a></p>
+<p>Let's begin by tracing photons from a distant <a HREF="http://en.m.wikipedia.org/wiki/Quasar?wasRedirected=true">quasar*</a> at the edge of the universe all the way to a human observer looking at telescope data. The photons first leave their energetic home and traverse space and time over billions of years. Their course may bend many times as the photons near other galaxies and eventually pass close to our own sun and encounter an enormous aperture. Let's gloss over the complex signal processing that transforms data and imagery, and instead follow the newly made light from a human readable display. The light finds it's way to curious human eyes. For the next step in the information chain, I'll borrow from an <a HREF="http://victusfate.github.io/victusspiritus/uncategorized/2009/10/23/genuine-posts-are-images-of-our-minds/">earlier post on digital and optical Images</a>:</p>
 <blockquote><p>
 Our optical system quantizes measured photons in a similar manner to a digital focal plane. While rods give us black and white vision in low light conditions, our cones spatial orientation uniquely captures incident photons. While the majority are sensitive to red light (64%), some to green (32%), and only a tiny minority to blue light (2%). The proteins in the cones help trigger a nerve response which is channeled down the optical nerves to the part of brains that transforms these signals into three dimensional representations of our surroundings.
 </p></blockquote>

@@ -32,7 +32,7 @@ comments:
 - id: 8036
   author: Holy Crap Minecraft! &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/09/11/holy-crap-minecraft/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/09/11/holy-crap-minecraft/
   date: '2011-01-10 04:56:01 -0500'
   date_gmt: '2011-01-10 11:56:01 -0500'
   content: "[...] Jan 2011, Free swag for Sci-fi/Fantasy RPG fans The Children of
@@ -49,7 +49,7 @@ comments:
 
     I'm looking for the best web communities that share free sci-fi roleplaying games.  It'd be great to know who to contact to share a beta of a game I've coauthored over several years. Still fine tuning typos/misspellings, for instance in the title. R...
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2011/01/ArkShip.jpg"><img class="aligncenter size-full wp-image-6588" title="ArkShip" src="http://www.victusspiritus.com/wp-content/uploads/2011/01/ArkShip.jpg" alt="" width="500" height="250" /></a><br />
+<p><a href="{{ site.url }}/assets/2011/01/ArkShip.jpg"><img class="aligncenter size-full wp-image-6588" title="ArkShip" src="{{ site.url }}/assets/2011/01/ArkShip.jpg" alt="" width="500" height="250" /></a><br />
 We're seeking active sci-fi/fantasy roleplaying game masters, players and fans to help play test our beta of <a href="http://www.victusgames.com/COTA-beta.pdf">Children of the Ark (COTA)</a>. It's a game set in the far future and has some interesting twists over other roleplaying game systems and settings.</p>
 <blockquote><p>You awaken, dazed and confused. Your eyes open to a submerged blur. A few bubbles drift past the green-tinged watery background in front of your face. You find that you cannot move your arms; after a few seconds you realize that they've been locked down. Manacles hold them and your legs tight, another metal belt around your waist helps to keep you in place. Trying to recall how you ended up in this spot, you try to think back into the blankness that is your past. The memories slowly seep back into your brain, almost painful after what seems like thousands of years of thoughtless dreaming.</p>
 <p>You remember your DNA being set on fire, after being captured for the secret experiments of The Corporation; you remember being strapped down to a lab table, looking up through the glare of overhead surgical lights at men in lab coats, corporate logos embroidered on their pockets. The name on the logo escapes you, and then something else catches your attention - the memory of the faces of those two men wearing lab coats, smiling and looking happier than Cheshire cats with birds in their mouths. Those faces burn in your brain. You try to shake your head to clear the thought, to clear the remembered pain, and feel it snag on something. Reaching back, you feel a great metal needle-spike lodged into the back of your skull. After a second, cutting through the sense of horror and panic, you dimly remember a dream, which informed you about the neural jack they implanted in you to help in your training.</p>

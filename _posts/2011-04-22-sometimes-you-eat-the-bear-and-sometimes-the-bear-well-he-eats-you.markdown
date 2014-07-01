@@ -35,7 +35,7 @@ comments:
 
     Thanks for the heads up.
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2011/04/20110422-092315.jpg"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/04/20110422-092315.jpg" alt="20110422-092315.jpg" class="alignnone size-full" /></a></p>
+<p><a href="{{ site.url }}/assets/2011/04/20110422-092315.jpg"><img src="{{ site.url }}/assets/2011/04/20110422-092315.jpg" alt="20110422-092315.jpg" class="alignnone size-full" /></a></p>
 <h2>Some days you are the pawn</h2>
 <p>http://www.youtube.com/watch?v=TQME8mx4DMo</p>
 <h2>some days you are the player</h2>

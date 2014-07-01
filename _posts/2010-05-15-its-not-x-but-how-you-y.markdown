@@ -138,7 +138,7 @@ comments:
   content: Thanks Woody. It&#39;s embarassing to admit how often I lose sight of what  <br>matters.
     This post is a helpful reminder  to me of the big picture.
 ---
-<p><a href="http://www.stuckincustoms.com/2010/05/15/argentina-mountains/"><img class="aligncenter size-large wp-image-3843" title="RockyMorning" src="http://www.victusspiritus.com/wp-content/uploads/2010/05/RockyMorning-1024x710.jpg" alt="" width="500" height="355" /></a><strong> </strong></p>
+<p><a href="http://www.stuckincustoms.com/2010/05/15/argentina-mountains/"><img class="aligncenter size-large wp-image-3843" title="RockyMorning" src="{{ site.url }}/assets/2010/05/RockyMorning-1024x710.jpg" alt="" width="500" height="355" /></a><strong> </strong></p>
 <p><strong>It's not where you're going, but how you get there</strong></p>
 <p><strong>It's not what technology you're inventing, but how you use it to improve people's lives</strong></p>
 <p><strong>It's not what you're building, but how you treat your team and customers</strong></p>

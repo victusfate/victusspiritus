@@ -44,7 +44,7 @@ comments:
 - id: 1048
   author: 'Iter8r: Organic Crowd Shared Startup'
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/09/30/iter8r-organic-crowd-shared-startup/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/09/30/iter8r-organic-crowd-shared-startup/
   date: '2009-10-01 03:23:18 -0400'
   date_gmt: '2009-10-01 10:23:18 -0400'
   content: "[...] some of your articles with interest: Open Social Media Of the People,
@@ -73,7 +73,7 @@ comments:
     you need to do is amazingly overjoy a handful of people and they&#39;ll create
     a market for your products/services.
 ---
-<p><a href="http://www.flickr.com/photos/pikmin/2425955343/sizes/l/"><img class="aligncenter size-full wp-image-1671" title="Magic" src="http://www.victusspiritus.com/wp-content/uploads/2009/09/Magic.jpg" alt="Magic" width="480" height="330" /></a></p>
+<p><a href="http://www.flickr.com/photos/pikmin/2425955343/sizes/l/"><img class="aligncenter size-full wp-image-1671" title="Magic" src="{{ site.url }}/assets/2009/09/Magic.jpg" alt="Magic" width="480" height="330" /></a></p>
 <h1>The New Patronage Economy</h1>
 <p>I had the pleasure of getting referred to an <a href="http://www.redmonk.com/jgovernor/2007/01/04/on-jon-udell-freedom-talent-management-and-the-new-patronage-economy/">article from James Governor</a> discussing the merits of a patronage economy this morning by <a href="http://www.gapingvoid.com/">Hugh Macleod</a> (who is also referred to in the piece). In it James covers the idea of the changing of portals where we seek out information, and it is best summarized in his quote of <a href="http://www.stoweboyd.com/message/2006/12/keith_teare_on_.html">Stowe</a> on deportalization:</p>
 <blockquote><p>It's the movement of power from the large companies at the center to the edglings: we, the people.</p></blockquote>
@@ -85,5 +85,5 @@ comments:
 <li><span style="background-color: #ffffff;">Friendfeed (talent grab, but have moved the team to different areas). </span></li>
 </ul>
 <p>The earnings or payoff  for a content creator can be enormous compared to hourly pay. Thanks to <a href="http://www.techcrunch.com/2009/09/23/as-google-looks-to-get-on-the-acquisition-track-again-heres-a-map-of-where-its-been/">TechCrunch author Erick Schonfeld</a> for covering <a href="http://www.meettheboss.com/google-acquisitions-and-investments.html">MeetTheBoss's</a> image of Google's historical acquisitions you can visually see how Google's strategic purchases are unfolding (click the image to go to MeetTheBoss's site, then click it again to enlarge for a very readable version).</p>
-<p><a href="http://www.meettheboss.com/google-acquisitions-and-investments.html"><img class="aligncenter size-full wp-image-1674" title="google-acquisitions-small" src="http://www.victusspiritus.com/wp-content/uploads/2009/09/google-acquisitions-small.png" alt="google-acquisitions-small" width="480" height="600" /></a></p>
+<p><a href="http://www.meettheboss.com/google-acquisitions-and-investments.html"><img class="aligncenter size-full wp-image-1674" title="google-acquisitions-small" src="{{ site.url }}/assets/2009/09/google-acquisitions-small.png" alt="google-acquisitions-small" width="480" height="600" /></a></p>
 <div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/6ec38c19-6827-4936-888a-7f25f3be9503/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=6ec38c19-6827-4936-888a-7f25f3be9503" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>

@@ -17,7 +17,7 @@ tags:
 - web/tech
 comments: []
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/10/bubble-burst-pin_mod.jpg"><img class="aligncenter size-full wp-image-5359" title="bubble-burst-pin_mod" src="http://www.victusspiritus.com/wp-content/uploads/2010/10/bubble-burst-pin_mod.jpg" alt="" width="495" height="285" /></a></p>
+<p><a href="{{ site.url }}/assets/2010/10/bubble-burst-pin_mod.jpg"><img class="aligncenter size-full wp-image-5359" title="bubble-burst-pin_mod" src="{{ site.url }}/assets/2010/10/bubble-burst-pin_mod.jpg" alt="" width="495" height="285" /></a></p>
 <p><em>This morning's thought riff brought to you by a more sinister imagining of the web is dead meme*</em>.</p>
 <p>What if the standards based global network we call the <a href="http://en.wikipedia.org/wiki/World_Wide_Web">world wide web</a> was no longer viable? Other network <a href="http://en.wikipedia.org/wiki/Internet#Protocols">protocols</a> would still function over the <a href="http://en.wikipedia.org/wiki/Internet">Internet</a> which uses TCP/IP, but HTML and HTTP would no longer function as they are fundamental representations of the web layer. Offspring of the web, like the concept of URIs and URLs would be spared as they are now defined outside the web's context. Let's clear the air in distinguishing the global network from the web:</p>
 <blockquote><p>The Internet is a global data communications system. It is a hardware and software infrastructure that provides connectivity between computers. In contrast, the Web is one of the services communicated via the Internet</p></blockquote>

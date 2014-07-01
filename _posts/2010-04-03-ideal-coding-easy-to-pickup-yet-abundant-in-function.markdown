@@ -65,7 +65,7 @@ comments:
   author: Instant Utility, Optimal Execution, &amp; Syntactic Sugar &laquo; Victus
     Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/04/20/instant-utility-optimal-execution-syntactic-sugar/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/04/20/instant-utility-optimal-execution-syntactic-sugar/
   date: '2010-04-20 05:43:00 -0400'
   date_gmt: '2010-04-20 12:43:00 -0400'
   content: "[...] few weeks, I awoke at 4am with run time and code style anxiety.
@@ -74,7 +74,7 @@ comments:
 - id: 4403
   author: Global Communication for Free - Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/05/25/global-communication-for-free/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/05/25/global-communication-for-free/
   date: '2010-05-25 04:57:15 -0400'
   date_gmt: '2010-05-25 11:57:15 -0400'
   content: "[...] I still get fast results by asking questions and getting answers
@@ -105,7 +105,7 @@ comments:
 - id: 4666
   author: Is there a Moore&#8217;s Law for Machine Intelligence? | Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/07/03/is-there-a-moores-law-for-machine-intelligence/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/07/03/is-there-a-moores-law-for-machine-intelligence/
   date: '2010-07-03 03:41:38 -0400'
   date_gmt: '2010-07-03 10:41:38 -0400'
   content: "[...] of time) compiling, sharp developers are converging on a balance
@@ -113,14 +113,14 @@ comments:
 - id: 6232
   author: Exploring speculative execution and evaluation &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/10/02/exploring-speculative-execution-and-evaluation/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/10/02/exploring-speculative-execution-and-evaluation/
   date: '2010-10-02 20:15:26 -0400'
   date_gmt: '2010-10-03 03:15:26 -0400'
   content: "[...] blends compilation and continuous interpretation for maximum efficiency.
     I touched briefly on just in time compiling when predicting changes to programming
     in the coming [...]"
 ---
-<h2><a href="http://www.stuckincustoms.com/2010/03/26/tokyo-from-a-window/"><img class="aligncenter size-full wp-image-3445" title="StuckInCustomsTokyo" src="http://www.victusspiritus.com/wp-content/uploads/2010/04/StuckInCustomsTokyo.jpg" alt="" width="600" height="388" /></a></h2>
+<h2><a href="http://www.stuckincustoms.com/2010/03/26/tokyo-from-a-window/"><img class="aligncenter size-full wp-image-3445" title="StuckInCustomsTokyo" src="{{ site.url }}/assets/2010/04/StuckInCustomsTokyo.jpg" alt="" width="600" height="388" /></a></h2>
 <h2>Who likes waiting for more complex programs to run?</h2>
 <p>In doing some research on fast dynamic programming languages, a couple of great finds caught my attention. I'm seeking a language that feels like <a class="zem_slink" title="Ruby (programming language)" rel="homepage" href="http://www.ruby-lang.org/">Ruby</a> but can run natively faster than using the MRI for the types of problems I like to work on (some numerically intensive). Alternatively, I don't want to waste time with <a class="zem_slink" title="Program optimization" rel="wikipedia" href="http://en.wikipedia.org/wiki/Program_optimization">premature optimization</a>. I am looking for a development language that is easy for me to create in, build on, and fast to execute, and finally has the easy to read syntactical feel of Ruby (I often reread my own code to figure it out months/years later). I've looked at Scala before, but have found much more enjoyment in Ruby coding. My fear is that a faster execution environment will detract from the qualities that endear me to dynamic languages (I come from c++ my day job's default, so all of this is gravy to me). JRuby has shown some promise as well as the underlying tools (Duby) that are used to make interpreting Ruby on the JVM a more enjoyable process.</p>
 <h2>Q&amp;A on Stack Overflow</h2>
@@ -148,7 +148,7 @@ end<br />
 <p><a rel="nofollow" href="http://Blog.Headius.Com/">Charlie</a> was looking at the available options: <a rel="nofollow" href="http://Scala-Lang.Org/">Scala</a>, <a rel="nofollow" href="http://Groovy.CodeHaus.Org/">Groovy</a>, <a rel="nofollow" href="http://FanDev.Org/">Fan</a>, <a rel="nofollow" href="http://Clojure.Org/">Clojure</a>, <a rel="nofollow" href="http://Nice.SourceForge.Net/">Nice</a>, but all of them had a significant disadvantage: a fairly large language runtime. The size of the <a rel="nofollow" href="http://JRuby.Org/">JRuby</a> runtime is already a big problem in terms of memory consumption and startup latency (especially compared to <a rel="nofollow" href="https://GitHub.Com/RubySpec/MatzRuby/tree/ruby%5F1%5F8/">MRI</a> or <a rel="nofollow" href="https://GitHub.Com/RubySpec/MatzRuby/tree/trunk/">YARV</a> and even more so if you actually include the JVM itself in your measurements), and rewriting it in a language that adds its <em>own</em> runtime to that weight is simply a no-go. Unfortunately, there was no programming language which satisfied the two basic criteria <a rel="nofollow" href="http://Blog.Headius.Com/">Charlie</a> was looking for: no runtime and compiles to JVM bytecode that is at least as efficient as the equivalent Java.</p>
 <p>So, he decided to create his own. The reason why he chose to use a syntax similar to <a rel="nofollow" href="http://Ruby-Lang.Org/">Ruby</a>, is actually quite simple: he didn't need to write a parser for it, <a rel="nofollow" href="http://Duby.Kenai.Com/">Duby</a> just uses <a rel="nofollow" href="http://JRuby.Org/">JRuby</a>'s already existing parser with one minor modification to support method parameter type annotations. (Actually, he also likes <a rel="nofollow" href="http://Ruby-Lang.Org/">Ruby</a>'s syntax, that was of course also a factor.)</p></blockquote>
 <h2>Where are Programming Languages Going?</h2>
-<p>What I took away from my morning readings is that <a href="http://www.victusspiritus.com/2010/04/01/unorthodox-optimization/">unorthodox optimization</a> is already happening. People are selecting languages where they can quickly express themselves, and comprehend structures and flow easily. They're even going so far as to adapt these "syntactically pleasing" languages and highly dynamic forms to faster compilers (<a href="http://en.wikipedia.org/wiki/Just-in-time_compilation">Just in time compiling</a> on the <a href="http://en.wikipedia.org/wiki/Java_Virtual_Machine">Java Virtual Machine</a>, or even gcc)</p>
+<p>What I took away from my morning readings is that <a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/04/01/unorthodox-optimization/">unorthodox optimization</a> is already happening. People are selecting languages where they can quickly express themselves, and comprehend structures and flow easily. They're even going so far as to adapt these "syntactically pleasing" languages and highly dynamic forms to faster compilers (<a href="http://en.wikipedia.org/wiki/Just-in-time_compilation">Just in time compiling</a> on the <a href="http://en.wikipedia.org/wiki/Java_Virtual_Machine">Java Virtual Machine</a>, or even gcc)</p>
 <p>The most popular and useful programming languages of the next ten years will share some of the following characteristics:</p>
 <ul>
 <li>Super Simple, Lightweight, &amp; Easy to Get Started: the lighter the syntax and language, the more inviting it is to new programmers. New programmers come from all backgrounds and specialties. They bring their practical domain expertise to bear on problems dedicated hackers have a hard time understanding</li>

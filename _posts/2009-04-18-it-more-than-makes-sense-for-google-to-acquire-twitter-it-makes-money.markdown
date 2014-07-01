@@ -12,7 +12,7 @@ excerpt: "<p style=\"font-family: Trebuchet MS; text-align: center;\"><span><a s
   class=\"at-xid-6a0111688fdbcb970c01156f55cd1e970c\" title=\"Money_pile\" src=\"http://messel.typepad.com/.a/6a0111688fdbcb970c01156f55cd1e970c-800wi\"
   border=\"0\" alt=\"Money_pile\" /></a>\r\n</span>\r\n\r\n<p style=\"font-family:
   Trebuchet MS;\"><span>It appears I jumped the gun some time ago with my post <a
-  href=\"http://www.victusspiritus.com/2009/03/22/twitter-is-on-the-verge-of-eating-google-for-breakfast-heres-why/\">twitter
+  href=\"http://victusfate.github.io/victusspiritus/uncategorized/2009/03/22/twitter-is-on-the-verge-of-eating-google-for-breakfast-heres-why/\">twitter
   is on the verge of eating Google for breakfast, here's why</a>.  Google is well
   aware of it's \"breakfast\" and is more than likely to make a YouTube like deal
   with twitter.  Google is actively tweeting with it's account, \"acknowledging\"
@@ -49,7 +49,7 @@ comments:
 - id: 119
   author: Monetization for Web2010
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/06/21/monetization-for-web2010/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/06/21/monetization-for-web2010/
   date: '2009-06-21 06:16:12 -0400'
   date_gmt: '2009-06-21 13:16:12 -0400'
   content: "[...] It more than makes sense for Google to acquire twitter, it makes
@@ -74,7 +74,7 @@ comments:
 ---
 <p style="font-family: Trebuchet MS; text-align: center;"><span><a style="display: inline;" href="http://messel.typepad.com/.a/6a0111688fdbcb970c01156f55cd1e970c-pi"><img class="at-xid-6a0111688fdbcb970c01156f55cd1e970c" title="Money_pile" src="http://messel.typepad.com/.a/6a0111688fdbcb970c01156f55cd1e970c-800wi" border="0" alt="Money_pile" /></a><br />
 </span></p>
-<p style="font-family: Trebuchet MS;"><span>It appears I jumped the gun some time ago with my post <a href="http://www.victusspiritus.com/2009/03/22/twitter-is-on-the-verge-of-eating-google-for-breakfast-heres-why/">twitter is on the verge of eating Google for breakfast, here's why</a>.  Google is well aware of it's "breakfast" and is more than likely to make a YouTube like deal with twitter.  Google is actively tweeting with it's account, "acknowledging" the service (Oprah's tweeting why not).  Here are just a few reasons why it's a match made in heaven: </span><strong><a id="more"></a><a id="more-28"></a><br />
+<p style="font-family: Trebuchet MS;"><span>It appears I jumped the gun some time ago with my post <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/03/22/twitter-is-on-the-verge-of-eating-google-for-breakfast-heres-why/">twitter is on the verge of eating Google for breakfast, here's why</a>.  Google is well aware of it's "breakfast" and is more than likely to make a YouTube like deal with twitter.  Google is actively tweeting with it's account, "acknowledging" the service (Oprah's tweeting why not).  Here are just a few reasons why it's a match made in heaven: </span><strong><a id="more"></a><a id="more-28"></a><br />
 </strong></p>
 <h2><strong>twitter is becoming a powerful competitor in real time link sharing and search</strong></h2>
 <p><strong></strong></p>
@@ -84,7 +84,7 @@ comments:
 <h2><span style="font-size: 19px;"><strong>Google has some of the best semantic interpretation tools available, or has the best people to develop them further</strong></span><strong><strong><strong><strong><strong><span><br />
 </span></strong></strong></strong></strong></strong></h2>
 <p><strong></strong></p>
-<div class="blockquote" style="margin-left: 40px; font-family: Trebuchet MS;">Google has been developing arguably the most powerful database in the world.  Google is also the best in the world at understanding what people are looking for when they type in search terms.  It doesn't take a huge logic leap to perceive the financial power of <a href="http://www.victusspiritus.com/2009/04/09/intelligent-advertising-for-microbloggers-who-will-be-first-to-swim-in-the-riches/">contextual advertising</a> applied to microblogging.  <strong>The significant way for twitter to monetize</strong> is through contextual personalized advertising, and for this to happen they'll need powerful semantic interpreters and some pretty snappy data mining on the fly.</div>
+<div class="blockquote" style="margin-left: 40px; font-family: Trebuchet MS;">Google has been developing arguably the most powerful database in the world.  Google is also the best in the world at understanding what people are looking for when they type in search terms.  It doesn't take a huge logic leap to perceive the financial power of <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/04/09/intelligent-advertising-for-microbloggers-who-will-be-first-to-swim-in-the-riches/">contextual advertising</a> applied to microblogging.  <strong>The significant way for twitter to monetize</strong> is through contextual personalized advertising, and for this to happen they'll need powerful semantic interpreters and some pretty snappy data mining on the fly.</div>
 <p style="font-family: Trebuchet MS;">
 <h2><span>Google is able to purchase twitter now while it's still small (compared to Facebook which has aligned itself with Microsoft)</span></h2>
 <div class="blockquote" style="margin-left: 40px; font-family: Trebuchet MS;"><span style="font-size: 13px;">From a business standpoint, the timing couldn't be better for Google to align itself with twitter.  Facebook has grown rather large and expensive for an acquisition, besides the fact that is already has a pretty strong ties to Microsoft (to the tune of $200 million a year).  Alternatively twitter is small and on the rise, and is a high value purchase, precisely because of what Google can bring to microblogging.</span></div>

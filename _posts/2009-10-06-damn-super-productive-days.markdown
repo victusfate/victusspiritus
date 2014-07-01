@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 1792
-wordpress_url: http://www.victusspiritus.com/2009/10/06/damn-super-productive-days/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/10/06/damn-super-productive-days/
 date: '2009-10-06 03:36:16 -0400'
 date_gmt: '2009-10-06 10:36:16 -0400'
 categories:

@@ -74,7 +74,7 @@ comments:
 - id: 8181
   author: Identity Aggregator &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/01/25/identity-aggregator/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/01/25/identity-aggregator/
   date: '2011-01-25 09:40:40 -0500'
   date_gmt: '2011-01-25 16:40:40 -0500'
   content: "[...] Identity Aggregator  25Jan 2011  Mark Essel   TweetAfter reading
@@ -86,14 +86,14 @@ comments:
   author: How much do you rely on someone else for your digital identity? &mdash;
     Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/07/22/how-much-do-you-rely-on-someone-else-for-your-digital-identity/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/07/22/how-much-do-you-rely-on-someone-else-for-your-digital-identity/
   date: '2011-07-22 07:36:11 -0400'
   date_gmt: '2011-07-22 14:36:11 -0400'
   content: "[...] we are is another fractured piece of the digital identity puzzle.
     Late last year I commented on how Internet Identity is Broken. It&#8217;s surprising
     that we rely on something as fragile as our memory and an entity outside of [...]"
 ---
-<p><a href="http://www.myfreewallpapers.net/comics/pages/clark-kent-and-superman.shtml"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/12/20101222-081358-300x225.jpg" alt="" title="20101222-081358.jpg" width="300" height="225" class="aligncenter size-medium wp-image-6318" /></a><br />
+<p><a href="http://www.myfreewallpapers.net/comics/pages/clark-kent-and-superman.shtml"><img src="{{ site.url }}/assets/2010/12/20101222-081358-300x225.jpg" alt="" title="20101222-081358.jpg" width="300" height="225" class="aligncenter size-medium wp-image-6318" /></a><br />
 Yesterday morning I left a comment on <a href="http://www.bothsidesofthetable.com/2010/12/20/the-power-of-twitter-in-information-discovery/#comment-116246391">Mark Suster's <i>Power of Twitter</i> post</a>, relating to the challenges of identity convergence across namespaces (clarifications added).</p>
 <blockquote><p>
 Can twitter be challenged by an open protocol/channel like Evan (Prodromou) and others believe with ostatus? I believe so, but the relationship between identity and feed source needs to be resolved (UI). When I retweet a post the context and relevance of @username has significance in the twittersphere. Outside of twitter webfinger to bothsidesofthetable.com becomes a symbol for Mark Suster (specifically user@domain). This is the design issue I got caught on while working on OpenGard.in an open social feed reader and it's non-trivial. I plan to follow up and keep working it as resources allow.

@@ -50,7 +50,7 @@ comments:
   date_gmt: '2011-01-02 13:34:00 -0500'
   content: Awesome Nate, sounds fun.
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/12/lake_at_caleb_smith.jpg"><img class="aligncenter size-full wp-image-6481" title="lake_at_caleb_smith" src="http://www.victusspiritus.com/wp-content/uploads/2010/12/lake_at_caleb_smith.jpg" alt="" width="450" height="600" /></a><br />
+<p><a href="{{ site.url }}/assets/2010/12/lake_at_caleb_smith.jpg"><img class="aligncenter size-full wp-image-6481" title="lake_at_caleb_smith" src="{{ site.url }}/assets/2010/12/lake_at_caleb_smith.jpg" alt="" width="450" height="600" /></a><br />
 The past few new years have been pretty low key for me at home, sound asleep by midnight.  This year we plan on visiting a small gathering and house warming at a friend's. As with every preceding year, this one has definitely felt the quickest. In a few years I'll blink and a year will elapse.</p>
 <p>The passing of a year conjures a sense of nostalgia and looking back over its brightest and darkest moments. In the waning moments of the annum we embrace time, and our sense of mortality. Who and what was most meaningful to us this year? The irreplaceable nature of time hits hardest on new years eve.</p>
 <p>As I wrapped up a winter stroll through Caleb Smith park, I captured a couple of photos of my last walk of the year. During the walk I thought about many fantastic events of the year counterbalanced by professional goals which I have yet to meet. We have only a limited number of revolutions around our local star before our time is up. They are all precious.</p>

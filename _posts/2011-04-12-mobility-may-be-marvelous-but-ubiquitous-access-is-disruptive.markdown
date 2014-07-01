@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 8425
-wordpress_url: http://www.victusspiritus.com/2011/04/12/mobility-may-be-marvelous-but-ubiquitous-access-is-disruptive/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/04/12/mobility-may-be-marvelous-but-ubiquitous-access-is-disruptive/
 date: '2011-04-12 06:20:13 -0400'
 date_gmt: '2011-04-12 13:20:13 -0400'
 categories:
@@ -36,8 +36,8 @@ comments:
 <p>Asymmetric access isn't all doom and gloom. There's also great opportunity in disrupting asymmetric information barriers. Much like providing liquidity between steep value discrepancies, providing access to locked up personal data will be highly values by consumers and businesses alike.</p>
 <h2><a name="notes">Notes:</a></h2>
 <ol>
-<li><a href="http://www.victusspiritus.com/2009/05/28/imagine-our-mind-without-bounds/">Imagine our minds without bounds</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/05/28/imagine-our-mind-without-bounds/">Imagine our minds without bounds</a></li>
 <li>It's possible that a combination of touch gestures could induce a little drool, but only after 1 am ;), my sleep cycle is 10pm-4:30am</li>
 <li>Respecting privacy implies requiring warrants to go through personal data, tapping streams, etc. Examples of agencies who may abuse private information include corporations, criminals, and governments</li>
-<li>Asymmetric access due to information monopolies and <a href="http://www.victusspiritus.com/2011/03/31/celebrate-or-vilify-social-parasites/">parasitic relationships</a></li>
+<li>Asymmetric access due to information monopolies and <a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/03/31/celebrate-or-vilify-social-parasites/">parasitic relationships</a></li>
 </ul>

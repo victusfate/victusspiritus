@@ -17,7 +17,7 @@ tags:
 - design
 comments: []
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/04/Freedom2.jpeg"><img title="Freedom2" src="http://www.victusspiritus.com/wp-content/uploads/2010/04/Freedom2-300x225.jpg" alt="" width="300" height="225" /></a></p>
+<p><a href="{{ site.url }}/assets/2010/04/Freedom2.jpeg"><img title="Freedom2" src="{{ site.url }}/assets/2010/04/Freedom2-300x225.jpg" alt="" width="300" height="225" /></a></p>
 <p><em>Today’s post is a critical look at design elements, in particular the artistic elements of web programming and code design. I’d like to thank <a href="http://www.iamronen.com/" target="_blank">Ronen</a> for challenging me to evaluate my design philosophies.</em></p>
 <h2>Open Design is a Way of Thinking</h2>
 <p>There are hard decisions that need to be made when crafting an interface and linked data flow model. Open design translates as a sculpted default flow, with a rich form that is fully modifiable by users who are so inclined. Simply stated, I strive for maximum flexibility and minimum user frustration. Much of my recent inspiration’s origin is Ruby, an elegant programming language that manages to do what I expect a majority of the time. This follows the principle of least surprise, with a caveat that it’s from Matz’s perspective. Although Ruby compilers and interpreters may perform relatively poorly in <a href="http://shootout.alioth.debian.org/fastest-programming-language.php" target="_blank">benchmarks today</a>, there are inherent elements of freedom built into the core of the language that are not easily discarded.</p>

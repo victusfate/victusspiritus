@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 3917
-wordpress_url: http://www.victusspiritus.com/2010/05/19/viral-patterns-alpha-business-king-makers/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/05/19/viral-patterns-alpha-business-king-makers/
 date: '2010-05-19 05:23:48 -0400'
 date_gmt: '2010-05-19 12:23:48 -0400'
 categories:

@@ -58,7 +58,7 @@ comments:
 - id: 2880
   author: Can Search Discover the Spark of Life? &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/02/06/can-search-discover-the-spark-of-life/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/02/06/can-search-discover-the-spark-of-life/
   date: '2010-02-06 14:16:35 -0500'
   date_gmt: '2010-02-06 21:16:35 -0500'
   content: "[...] is a massive shift in resource gravity that has taken only a decade.
@@ -67,12 +67,12 @@ comments:
 - id: 8934
   author: Startup Strategies that Survive, Prosper, and Win &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/02/12/startup-strategies-that-survive-prosper-and-win/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/02/12/startup-strategies-that-survive-prosper-and-win/
   date: '2011-02-12 16:31:51 -0500'
   date_gmt: '2011-02-12 23:31:51 -0500'
   content: "[...] Attention Jiu Jitsu [...]"
 ---
-<p><a href="http://www.stuckincustoms.com/2009/12/17/the-edge-of-glacier-national-park-at-sunrise/"><img class="aligncenter size-full wp-image-2596" title="The Edge of Glacier National Park at Sunrise" src="http://www.victusspiritus.com/wp-content/uploads/2009/12/The-Edge-of-Glacier-National-Park-at-Sunrise.jpg" alt="" width="800" height="560" /></a></p>
+<p><a href="http://www.stuckincustoms.com/2009/12/17/the-edge-of-glacier-national-park-at-sunrise/"><img class="aligncenter size-full wp-image-2596" title="The Edge of Glacier National Park at Sunrise" src="{{ site.url }}/assets/2009/12/The-Edge-of-Glacier-National-Park-at-Sunrise.jpg" alt="" width="800" height="560" /></a></p>
 <p>To build an effective social network, we must give our attention to the right communities.</p>
 <h2>Communication is a bridge</h2>
 <p>Initial contact in the evaporating attention economy has become a fine digital art. Venture capitalist <a href="http://www.bothsidesofthetable.com/2009/12/13/comments-are-the-new-black/">Mark Suster pointed out</a> an effective "cold" introduction method described by Arnold Waldstein (a friend and fellow blogger):</p>

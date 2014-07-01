@@ -54,7 +54,7 @@ comments:
     the habitats we already have. Worst case, maybe we can do the jobs in parallel.
 ---
 <p style="text-align: center;">
-<h2><a href="http://en.wikipedia.org/wiki/Terraforming"><img class="aligncenter size-full wp-image-1614" title="180px-MarsTransitionV" src="http://www.victusspiritus.com/wp-content/uploads/2009/09/180px-MarsTransitionV2.jpg" alt="180px-MarsTransitionV" width="480" height="180" /></a></h2>
+<h2><a href="http://en.wikipedia.org/wiki/Terraforming"><img class="aligncenter size-full wp-image-1614" title="180px-MarsTransitionV" src="{{ site.url }}/assets/2009/09/180px-MarsTransitionV2.jpg" alt="180px-MarsTransitionV" width="480" height="180" /></a></h2>
 <h2>Earth-shaping</h2>
 <p>The concept of making foreign worlds habitable was discussed in detail by Carl Sagan (<a href="http://en.wikipedia.org/wiki/Terraforming">initially Venus then Mars</a>), and has continued to be a topic of interest of legendary moon walker, Buzz Aldrin. The entire system of transforming even a small encapsulated dome must be automated, compartmentalized, and redundant. I can envision the process of bringing a life supporting environment as a series of automated tasks, being both beautiful and efficient. But there's so much of own planet that we have yet to use.</p>
 <p><span style="background-color: #ffffff;">Consider the following far out environments:</span></p>

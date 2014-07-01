@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 3825
-wordpress_url: http://www.victusspiritus.com/2010/05/12/epic-the-end-of-email/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/05/12/epic-the-end-of-email/
 date: '2010-05-12 05:11:56 -0400'
 date_gmt: '2010-05-12 12:11:56 -0400'
 categories:
@@ -132,7 +132,7 @@ comments:
 ---
 <p><I>EPIC is a protocol idea outlined briefly below. If people like the idea, I'll work on an alpha form and distributed connection example.</I></p>
 <h2>Between many choices we gravitate to what is known</h2>
-<p>Familiarity is a core component of our decision making process. Everything else being equal, behaviorial bias defaults to the known quantity. It's a function of our potent pattern matching capability using the massively <a href="http://www.victusspiritus.com/2010/03/10/the-minds-image-processing/">parallel difference filter of our minds</a>. </p>
+<p>Familiarity is a core component of our decision making process. Everything else being equal, behaviorial bias defaults to the known quantity. It's a function of our potent pattern matching capability using the massively <a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/03/10/the-minds-image-processing/">parallel difference filter of our minds</a>. </p>
 <p>This bias towards the known, can create a form of behavior inertia that leads to habits in activity, brand loyalty, businesses we partner with, exercise regimines, and our diets. These ingrained habits need to cause an exceptional amount of frustration or pain before we're willing to even consider let alone try alternatives. </p>
 <p>I've chosen a couple of well known bloggers recent posts to review a case of familiarity bias, and offer a potential solution to their dilemma. Both <a HREF="http://www.avc.com/a_vc/2010/05/email-bankruptcy.html">Fred Wilson</a> and <a href="http://www.bothsidesofthetable.com/2010/05/11/the-toxic-nature-of-email/">Mark Suster</a> describe how they both have become prisoners to their inboxes but can't imagine living without email. It's important to both of these VCs to send a signal of availability to potential partners both known and unknown. Commenters suggested human filtering (an assistant) but this method appears to send a signal of remoteness, or superiority which these gents are unwilling to accept. In addition there is a great amount of trust and style that is best personalized by oneself when it comes to communication.</p>
 <h2>EPIC - Easy Protocol In Communication</h2>

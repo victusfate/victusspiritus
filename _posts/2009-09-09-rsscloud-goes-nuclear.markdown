@@ -44,7 +44,7 @@ comments:
 - id: 811
   author: Real Time Publishing, Help with RSSCloud &amp; PubHubSubbub (Push)
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/09/11/real-time-publishing-help-with-rsscloud-pubhubsubbub-push/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/09/11/real-time-publishing-help-with-rsscloud-pubhubsubbub-push/
   date: '2009-09-11 10:55:59 -0400'
   date_gmt: '2009-09-11 17:55:59 -0400'
   content: "[...] Rsscloud goes nuclear! (victusspiritus.com)     Share and Enjoy:

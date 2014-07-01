@@ -42,7 +42,7 @@ comments:
 - id: 794
   author: Influence is Earned by Inches, Yet Instantly We Recognize a Star
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/05/06/influence-is-earned-by-inches-yet-instantly-we-recognize-a-star/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/05/06/influence-is-earned-by-inches-yet-instantly-we-recognize-a-star/
   date: '2009-09-02 06:33:57 -0400'
   date_gmt: '2009-09-02 13:33:57 -0400'
   content: "[...] Influence is Earned in Inches, Slowly Accrued by Thousands of Generous

@@ -18,7 +18,7 @@ tags:
 - design
 comments: []
 ---
-<p style="text-align: center;"><a href="http://victusfate.github.com/html5-resume/#slide3"><img class="aligncenter size-full wp-image-7528" title="my_digital_shadow_css_animation" src="http://www.victusspiritus.com/wp-content/uploads/2011/03/my_digital_shadow_css_animation.png" alt="" width="517" height="415" /></a></p>
+<p style="text-align: center;"><a href="http://victusfate.github.com/html5-resume/#slide3"><img class="aligncenter size-full wp-image-7528" title="my_digital_shadow_css_animation" src="{{ site.url }}/assets/2011/03/my_digital_shadow_css_animation.png" alt="" width="517" height="415" /></a></p>
 <p>I came across a nifty CSS hack last weekend that handles animation in webkit and firefox. The folks at <a href="http://www.zurb.com/playground/css3-polaroids">ZURB</a> are generous enough to share their techniques to educate other curious designers. I decided to replace my bulleted digital shadow list with something more visually interesting, and a pile of animating polaroids was the perfect fit.</p>
 <p>I've embedded a live demo below (live on <a href="http://victusfate.github.com/html5-resume/#slide3">github pages</a>, <a href="https://github.com/victusfate/html5-resume">source</a>):<br />
 [iframe http://victusfate.github.com/html5-resume/#slide3 700 700]</p>

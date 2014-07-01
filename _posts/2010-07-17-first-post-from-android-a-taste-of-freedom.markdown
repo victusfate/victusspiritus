@@ -76,14 +76,14 @@ comments:
   date: '2010-07-18 11:23:14 -0400'
   date_gmt: '2010-07-18 16:23:14 -0400'
   content: I had to leave a comment to my posts from last year and a couple of months
-    back:<br><a href="http://www.victusspiritus.com/2009/07/14/peer-to-peer-parallel-networking-for-your-iphone/"
-    rel="nofollow">Peer to Peer Networking</a> & <a href="http://www.victusspiritus.com/2010/05/25/global-communication-for-free/"
+    back:<br><a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/07/14/peer-to-peer-parallel-networking-for-your-iphone/"
+    rel="nofollow">Peer to Peer Networking</a> & <a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/05/25/global-communication-for-free/"
     rel="nofollow">free global communication</a>.<br><br>The concept is intellectually
     intriguing, I&#39;m just not sure how to sell it to people who can make it happen.
     As I mentioned in the comment, it begins with an app and two handsets.
 ---
 <p>
-<p>It feels like a lifetime ago when I decided to make my <a href="http://www.victusspiritus.com/2010/02/07/choice-is-beauty-why-im-leaving-apple-mobile-for-android">next mobile an Android phone</a>. I picked up a Droid X Thursday and unfortunately I am once again on a platform which I don't have root access on. It's only a matter of time before some crafty Android OS folks discover a way to bypass the security. It's still baffling why I can't have administrative privileges on my hardware by default. There's a market opportunity for any hardware and software packages which are capable of providing root by default as well as commoditizing wireless bits.</p>
+<p>It feels like a lifetime ago when I decided to make my <a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/02/07/choice-is-beauty-why-im-leaving-apple-mobile-for-android">next mobile an Android phone</a>. I picked up a Droid X Thursday and unfortunately I am once again on a platform which I don't have root access on. It's only a matter of time before some crafty Android OS folks discover a way to bypass the security. It's still baffling why I can't have administrative privileges on my hardware by default. There's a market opportunity for any hardware and software packages which are capable of providing root by default as well as commoditizing wireless bits.</p>
 <p><br></p>
 <p>Biggest pro for even my restricted access Droid X thus far: much more choice for core features. I'm typing on Better Keyboard which flows a little smoother than the default while listening to music on <a href="http://www.androidzoom.com/android_applications/multimedia/just-playlists-for-donators_ifsu.html">JustPlaylists</a> (I optionally donated to the dev by purchasing the $2 version ). The biggest breakthrough is being able to copy files directly to the device without a middle man getting in the way (iTunes). Worst case I can swap handsets to get an HTC Incredible which is already rooted easily with <a href ="http://unrevoked.com/#inc">Unrevoked3</a>.</p>
 <p><br></p>

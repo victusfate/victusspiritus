@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 5127
-wordpress_url: http://www.victusspiritus.com/2010/09/07/limitless-options-limited-time/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/09/07/limitless-options-limited-time/
 date: '2010-09-07 04:50:30 -0400'
 date_gmt: '2010-09-07 11:50:30 -0400'
 categories:

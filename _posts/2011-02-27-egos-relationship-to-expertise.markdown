@@ -21,9 +21,9 @@ tags:
 - hacking education
 comments: []
 ---
-<p style="text-align: center;"><a href="http://alltelleringet.deviantart.com/art/anlagd-oversvamning-111656788"><img class="aligncenter size-full wp-image-7432" title="impossiblepath" src="http://www.victusspiritus.com/wp-content/uploads/2011/02/impossiblepath.jpg" alt="" width="490" height="439" /></a></p>
+<p style="text-align: center;"><a href="http://alltelleringet.deviantart.com/art/anlagd-oversvamning-111656788"><img class="aligncenter size-full wp-image-7432" title="impossiblepath" src="{{ site.url }}/assets/2011/02/impossiblepath.jpg" alt="" width="490" height="439" /></a></p>
 <p><em>The path of the master is neither clearly laid out nor easily traversed</em></p>
-<p>A recurring theme within Victus Spiritus is the art of leveraging internal desire and drive to create critically valued products. On a number of occasions I've touted the precious power of <a href="http://www.victusspiritus.com/2009/05/13/motivation-is-a-1000-times-more-effective-than-training-or-talent/">genuine motivation</a>. Show me a beloved tool or service, and I'll show you a team of ladies and gentlemen behind the effort who care deeply about their work. Reverence for one's craft originates from a myriad of sources which include personal meaning, collective social need, and a life time of dedication to mastery.</p>
+<p>A recurring theme within Victus Spiritus is the art of leveraging internal desire and drive to create critically valued products. On a number of occasions I've touted the precious power of <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/05/13/motivation-is-a-1000-times-more-effective-than-training-or-talent/">genuine motivation</a>. Show me a beloved tool or service, and I'll show you a team of ladies and gentlemen behind the effort who care deeply about their work. Reverence for one's craft originates from a myriad of sources which include personal meaning, collective social need, and a life time of dedication to mastery.</p>
 <blockquote><p>
 Historically, an expert was referred to as a sage (Sophos). The individual was usually a profound thinker distinguished for wisdom and sound judgment.<br />
 (<a href="http://en.wikipedia.org/wiki/Expert">source</a>)
@@ -32,8 +32,8 @@ Historically, an expert was referred to as a sage (Sophos). The individual was u
 <p>As advanced skill invades the space of personality, so to does persona manifest within mastery. The flavor of expertise exhibited is deeply tied to individual drive and motivation (personal meaning). Within the field of art we observe coarse clusters of techniques yet a great variety of nuanced styles. The same holds true for musicians, web designers, data architects, and framework crafters. All of these trades elevate those who achieve mastery, and even within narrow fields recognize the value of specialized diversity.</p>
 <p>Related posts:</p>
 <ul>
-<li><a href="http://www.victusspiritus.com/2010/12/23/celebrity-or-pro-chops-pick-one/">Celebrity or Pro Chops, pick one</a></li>
-<li><a href="http://www.victusspiritus.com/2011/01/02/one-kids-thoughts-on-childish-thinking/">One kid's thoughts on childish thinking</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/12/23/celebrity-or-pro-chops-pick-one/">Celebrity or Pro Chops, pick one</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/01/02/one-kids-thoughts-on-childish-thinking/">One kid's thoughts on childish thinking</a></li>
 </ul>
 <p>Tangents and Idea References:<br />
 <a href="http://en.wikipedia.org/wiki/Id,_ego_and_super-ego#Ego">Ego</a>:</p>

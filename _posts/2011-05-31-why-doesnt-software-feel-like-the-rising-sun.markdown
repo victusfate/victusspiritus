@@ -20,7 +20,7 @@ tags:
 - design
 comments: []
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2011/05/20110531-084723.jpg"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/05/20110531-084723-224x300.jpg" alt="" title="20110531-084723.jpg" width="224" height="300" class="aligncenter size-medium wp-image-9125" /></a><br />
+<p><a href="{{ site.url }}/assets/2011/05/20110531-084723.jpg"><img src="{{ site.url }}/assets/2011/05/20110531-084723-224x300.jpg" alt="" title="20110531-084723.jpg" width="224" height="300" class="aligncenter size-medium wp-image-9125" /></a><br />
 On my way into work this morning I waited for the transition between traffic signals just before the sun rose in the distance. Anxiety over a large project delivery was wrestling for my attention with anticipation of my usual pre-work stroll on this perfect spring morning.  </p>
 <p>As I patiently waited, the bright warmth of the sun filled my truck's cabin and lit up my face. No tinted windshield or visor could hold back the power of this brilliant behemoth. In a moment any work anxiety I harbored was banished. I wondered why can't developing and leveraging software feel like the uncompromising embrace of the morning sun? What are the aspects of sunrise that lead to the emotional response I experienced?</p>
 <h2>What does it take to develop sunrise like software</h2>
@@ -39,4 +39,4 @@ There are billions and billions of stars, yet without planets capable of and act
 <p>Art may be crafted without an audience, but when nourished and enriched by adoring fans it grows into and becomes the foundation for culture. It is under the lens of repeated and diverse attention that good projects become great, and great projects become legend.<br/></li>
 </ol>
 </blockquote>
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2011/05/20110531-084735.jpg"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/05/20110531-084735-224x300.jpg" alt="" title="20110531-084735.jpg" width="224" height="300" class="aligncenter size-medium wp-image-9126" /></a></p>
+<p><a href="{{ site.url }}/assets/2011/05/20110531-084735.jpg"><img src="{{ site.url }}/assets/2011/05/20110531-084735-224x300.jpg" alt="" title="20110531-084735.jpg" width="224" height="300" class="aligncenter size-medium wp-image-9126" /></a></p>

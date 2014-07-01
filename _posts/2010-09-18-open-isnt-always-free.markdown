@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 5213
-wordpress_url: http://www.victusspiritus.com/2010/09/18/open-isnt-always-free/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/09/18/open-isnt-always-free/
 date: '2010-09-18 08:16:44 -0400'
 date_gmt: '2010-09-18 15:16:44 -0400'
 categories:

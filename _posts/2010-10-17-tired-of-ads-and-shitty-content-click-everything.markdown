@@ -97,7 +97,7 @@ comments:
   date_gmt: '2010-10-19 14:19:00 -0400'
   content: "I missed the book deal. I had a quick back and forth with Maury on twitter
     and admitted I overreacted. \n\nI'm still not happy about the idea of requiring
-    expert lobbyists to act as courtesans to big government money. But <a href=\"http://www.victusspiritus.com/2010/01/13/think-bigger-short-sighted-thinking-has-left-those-who-inherit-our-imagination-with-a-grim-future/\"
+    expert lobbyists to act as courtesans to big government money. But <a href=\"http://victusfate.github.io/victusspiritus/uncategorized/2010/01/13/think-bigger-short-sighted-thinking-has-left-those-who-inherit-our-imagination-with-a-grim-future/\"
     rel=\"nofollow\">based on this post</a> it looks like I agree with you ;). Certain
     projects are beyond a single company to support. \n\nAgreed that monopolies break
     the natural competitive system. There's a need for government intervention at

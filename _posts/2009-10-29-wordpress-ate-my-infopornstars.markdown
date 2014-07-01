@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2009
-wordpress_url: http://www.victusspiritus.com/2009/10/29/wordpress-ate-my-infopornstars/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/10/29/wordpress-ate-my-infopornstars/
 date: '2009-10-29 09:49:50 -0400'
 date_gmt: '2009-10-29 16:49:50 -0400'
 categories:
@@ -46,7 +46,7 @@ comments:
 <h1>It happened painfully slowly</h1>
 <p>I was two and half hours into a post titled: <em>Infopornstars, we are what we read</em> when my iPhone Wordpress publishing interface literally consumed the post in it's entirety. In the never to see daylight post, I discussed some ideas to visually share our lifestreams on clothing (would come in handy at conferences or breaking the ice with strangers). Afterwards I discussed some of the nuances of social search, and the small fraction of web browsers who actually find this post (info addicts like myself). Afterall it's an obscure topic, on a blog with very few subscribers (it's cozy, stop mocking me ;)). There were several links and groovy examples, including:</p>
 <p>how I bumped into the technical design wizard behind <a href="http://victusmedia.com">Victus media</a> (<a href="http://twitter.com/tylergillies">Tyler Gillies</a>) while we both edited a Google Wave</p>
-<p>How I found out about an <a href="http://www.victusspiritus.com/2009/10/17/augmented-reality-using-google-wave-as-a-protocol/">Augmented Reality protocol schem</a>e and a group that is building it using Google Wave</p>
+<p>How I found out about an <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/10/17/augmented-reality-using-google-wave-as-a-protocol/">Augmented Reality protocol schem</a>e and a group that is building it using Google Wave</p>
 <p>Why Robert Scoble (<a href="http://scobleizer.posterous.com/why-i-dont-use-google-reader-anymore">see his posterous post last night</a>) shares info across many communities (like myself) but believes Google reader is dead</p>
 <p>Why Louis Gray (<a href="http://blog.louisgray.com/2009/10/can-twitter-replace-rss-for-sharing.html">louisgray.com</a>) digs greader, and uses it like a champ, like another super human filtering pro Mahendra (<a href="http://www.skepticgeek.com/socialweb/why-google-social-search-will-beat-facebook/">skepticgeek.com</a>)</p>
 <p>We all share a need to know and understand. The real time stream of web based information provides us with a common linking structure so we can all keep in touch.</p>

@@ -7,8 +7,8 @@ author: Mark Essel
 author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
-excerpt: "<p style=\"text-align: center;\"><a href=\"http://www.victusspiritus.com/wp-content/uploads/2009/07/IWinTheInternet.jpg\"><img
-  class=\"size-full wp-image-1076 aligncenter\" title=\"IWinTheInternet\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/07/IWinTheInternet.jpg\"
+excerpt: "<p style=\"text-align: center;\"><a href=\"{{ site.url }}/assets/2009/07/IWinTheInternet.jpg\"><img
+  class=\"size-full wp-image-1076 aligncenter\" title=\"IWinTheInternet\" src=\"{{ site.url }}/assets/2009/07/IWinTheInternet.jpg\"
   alt=\"IWinTheInternet\" width=\"480\" height=\"333\" /></a></p>\r\n<p style=\"text-align:
   center;\"><a href=\"http://frankensearch.appspot.com\">Frankensearch</a> (Intelligent
   Media Search), a real time search collage powered by social media status</p>\r\n\r\nFor
@@ -65,7 +65,7 @@ comments:
     have it take queries on the address line I&#39;ll add it as an iframe to <a href="http://frankensearch.appspot.com"
     rel="nofollow">http://frankensearch.appspot.com</a>
 ---
-<p style="text-align: center;"><a href="http://www.victusspiritus.com/wp-content/uploads/2009/07/IWinTheInternet.jpg"><img class="size-full wp-image-1076 aligncenter" title="IWinTheInternet" src="http://www.victusspiritus.com/wp-content/uploads/2009/07/IWinTheInternet.jpg" alt="IWinTheInternet" width="480" height="333" /></a></p>
+<p style="text-align: center;"><a href="{{ site.url }}/assets/2009/07/IWinTheInternet.jpg"><img class="size-full wp-image-1076 aligncenter" title="IWinTheInternet" src="{{ site.url }}/assets/2009/07/IWinTheInternet.jpg" alt="IWinTheInternet" width="480" height="333" /></a></p>
 <p style="text-align: center;"><a href="http://frankensearch.appspot.com">Frankensearch</a> (Intelligent Media Search), a real time search collage powered by social media status</p>
 <p>For regular search, finely sifting and weighting pages based on authority and rank is fine. Even if I only see the top 5-10 pages, most likely they'll contain the information or links to the information I'm searching for.</p>
 <p>But real time search is something different. We're interested in what's happening, and we want to find out about it, as it occurs. What real time search should provide is a way to view everything that's happening in relation to a specific topic, business or person. <a id="more"></a><a id="more-1074"></a>We still need to filter out spam in real time, so there needs to be some authority or connection to real, and genuine status messages or links. But what do we use as a measure of trust and value? It's too soon for backlinks or any later structures to have emerged. For real time search to be effective we must trust the source by reviewing their track record. If we allow for some crowd like review or other filtering, real time tends to become near real time and loses it's freshness.</p>

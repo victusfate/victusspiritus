@@ -54,11 +54,11 @@ comments:
     but at the same time I don't wish to see the world burn down around me. My success
     and happiness is deeply connected to my community's wealth and health."
 ---
-<p>Early this morning I read a series of articles<sup><a href="#related">1</a></sup> which expanded on my uneasy expectations of where the <a href="http://www.victusspiritus.com/2011/04/08/you-cant-have-guns-butter-and-tax-cuts/">US economy</a> is headed, and inspired me to consider what may be done to remedy the situation. The major themes of the posts can be broken down into a few significant areas. </p>
+<p>Early this morning I read a series of articles<sup><a href="#related">1</a></sup> which expanded on my uneasy expectations of where the <a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/04/08/you-cant-have-guns-butter-and-tax-cuts/">US economy</a> is headed, and inspired me to consider what may be done to remedy the situation. The major themes of the posts can be broken down into a few significant areas. </p>
 <h2>What's broken</h2>
 <ul>
 <li><strong>Divergence of GDP growth and Service Industry productivity:</strong><br />
-<a href="http://www.oftwominds.com/blogdec10/productivity12-10.html"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/04/cpi1978-2004.gif" alt="" title="cpi1978-2004" width="550" height="510" class="aligncenter size-full wp-image-8382" /></a><br />
+<a href="http://www.oftwominds.com/blogdec10/productivity12-10.html"><img src="{{ site.url }}/assets/2011/04/cpi1978-2004.gif" alt="" title="cpi1978-2004" width="550" height="510" class="aligncenter size-full wp-image-8382" /></a><br />
 Our socio-economic system is experiencing a growing disparity between GDP and service industries, which is a product of the fixed hourly cost of public services versus the exponential growth of product based markets. The phenomenon is labeled Baumol's cost diease:</p>
 <blockquote><p>
 In a range of businesses, such as the car manufacturing sector and the retail sector, workers are continually getting more productive due to technological innovations to their tools and equipment. In contrast, in some labor-intensive sectors that rely heavily on human interaction or activities, such as nursing, education, or the performing arts there is little or no growth in productivity over time. As with the string quartet example, it takes nurses the same amount of time to change a bandage, or college professors the same amount of time to mark an essay, in 2006 as it did in 1966.</p>
@@ -85,7 +85,7 @@ Bureaucracies and institutions may suffer from Baumol's Disease, but they also s
 </p></blockquote>
 </li>
 <li><strong>Real wages are contracting:</strong> The purchasing power of an average American is dropping while at the same time our nations overall productivity (GDP) is growing. Where's the additional revenue going? The solution is that wealth is compressing into the hands of fewer people, yielding flat averages but overall GDP growth.<br />
-<a href="http://www.bls.gov/home.htm"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/04/hourly-earnings-and-GDP-growth-compared-090310.gif" alt="" title="hourly earnings and GDP growth compared 090310" width="1285" height="936" class="aligncenter size-full wp-image-8389" /></a>
+<a href="http://www.bls.gov/home.htm"><img src="{{ site.url }}/assets/2011/04/hourly-earnings-and-GDP-growth-compared-090310.gif" alt="" title="hourly earnings and GDP growth compared 090310" width="1285" height="936" class="aligncenter size-full wp-image-8389" /></a>
 </li>
 </ul>
 <h2>What can be done to remedy the situation</h2>

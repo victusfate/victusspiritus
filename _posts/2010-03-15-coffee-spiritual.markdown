@@ -81,7 +81,7 @@ comments:
 - id: 7746
   author: Fun Productive Rhythms &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/12/06/fun-productive-rhythms/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/12/06/fun-productive-rhythms/
   date: '2010-12-06 07:05:19 -0500'
   date_gmt: '2010-12-06 14:05:19 -0500'
   content: "[...] Regardless of the specifics of how we unwind, human nature reinforces
@@ -89,7 +89,7 @@ comments:
     is both the blessing of healthy habits and the bane of addicts round the world.
     Raise your hand if you&#8217;re coffee spiritual. [...]"
 ---
-<p><a href="http://www.stuckincustoms.com/textures-tutorial/"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/03/l_500_332_4D5D8F12-B3A6-4C3B-BC6A-AEB400AF9538.jpeg" alt="" class="alignnone size-full" /></a></p>
+<p><a href="http://www.stuckincustoms.com/textures-tutorial/"><img src="{{ site.url }}/assets/2010/03/l_500_332_4D5D8F12-B3A6-4C3B-BC6A-AEB400AF9538.jpeg" alt="" class="alignnone size-full" /></a></p>
 <p><I>this post is about finding meaning and inspiration in the little moments we steal to ourselves</I><br />
 Late in 2008 I came across an article on a hallucinogenic tea called <a href="http://www.squidoo.com/AyahuascaBrew">Ayahuasca (I wrote this one)</a>, who's claim to fame was that it was legalized in connection to specific holy rituals. At the time I pondered how individual rights could be expanded by connection to religious freedoms, over and above what less religious folks could legally enjoy. If you look up the polar opposite of organized religion on the web you'll see me, but this doesn't imply a lack of spirituality. What resonates most with me now is the spiritual nature of consuming certain foods or beverages, and the rituals we practice when doing so.   </p>
 <p>This morning I reverently listened to the sounds of machines percolating, in an otherwise silent 7-11. As I gazed over the eyes of a half dozen other patrons, something simple yet miraculous dawned on me. Each of us was taking part in a deeply comforting ritual. The pure act of preparing our morning coffees and teas contained a chorus of meaning. After experiencing a dozen or two books on Buddhism I feel confident recognizing meditation, even in a tiny guarded moment of our overloaded lives. The act of pouring and mixing our morning beverages is something Starbucks can't quite mimick (baristas pour, we mix - and it's always in a rush). In the depths of our busy culture we've liberated precious moments to serve our spiritual needs. Nearly all 7-11s, Dunkin Donuts, and Starbucks in my area know me on a first name basis, but I'm not just a coffee junky. The act of preparing and drinking it brings meaning to my existence, and a calm reverence to my days.      </p>

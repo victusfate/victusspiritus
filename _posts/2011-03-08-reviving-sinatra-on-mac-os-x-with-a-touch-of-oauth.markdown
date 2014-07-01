@@ -18,7 +18,7 @@ tags:
 - ruby
 comments: []
 ---
-<p style="text-align: center;"><a href="http://www.sinatrarb.com/"><img class="aligncenter size-full wp-image-7577" title="sinatrarb" src="http://www.victusspiritus.com/wp-content/uploads/2011/03/sinatrarb.jpg" alt="" width="522" height="340" /></a></p>
+<p style="text-align: center;"><a href="http://www.sinatrarb.com/"><img class="aligncenter size-full wp-image-7577" title="sinatrarb" src="{{ site.url }}/assets/2011/03/sinatrarb.jpg" alt="" width="522" height="340" /></a></p>
 <p>I had time this weekend to kick around with a couple of <a href="http://www.sinatrarb.com/">Sinatra</a> apps. First my <a href="http://rvm.beginrescueend.com/">rvm</a> setup conked out so I reinstalled it from scratch, where the implode feature came in handy. After squaring away my ruby versions and a host of basic gems, my dev environment on the Mac required the do_postgres gem to happily bundle the Sinatra app I was working on*. After some doc reading this weekend I discovered how to point gem installs in the right direction for native dependencies.<br />
 <code><br />
 PATH=$PATH:/Library/PostgresSQL/bin sudo gem install do_postgres<br />

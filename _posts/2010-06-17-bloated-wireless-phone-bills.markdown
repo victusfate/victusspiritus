@@ -73,7 +73,7 @@ comments:
   content: Thanks for the feedback bro.<br>We can be first movers onto a new data
     only smart phone of our design.
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/06/l_350_250_5CBE26F4-AD31-496D-AE08-C0EEE7E29D30.jpeg"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/06/l_350_250_5CBE26F4-AD31-496D-AE08-C0EEE7E29D30.jpeg" alt="" class="alignnone size-full" /></a></p>
+<p><a href="{{ site.url }}/assets/2010/06/l_350_250_5CBE26F4-AD31-496D-AE08-C0EEE7E29D30.jpeg"><img src="{{ site.url }}/assets/2010/06/l_350_250_5CBE26F4-AD31-496D-AE08-C0EEE7E29D30.jpeg" alt="" class="alignnone size-full" /></a></p>
 <h2>We need more power kiptin</h2>
 <p>For the second time in two months my iPhone 3Gs battery failed to take a charge. The guys at the store were helpful but I'm not a big fan of having no phone (mobile net access) for a day and waiting around the store to talk to an "Apple Genius". I've been planning on picking up an Android phone for a long time now and the recent power failures prompted me to action.</p>
 <h2>All Hail the HTC EVO, or Not</h2>

@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2912
-wordpress_url: http://www.victusspiritus.com/2010/01/30/a-vision-of-whats-to-come/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/01/30/a-vision-of-whats-to-come/
 date: '2010-01-30 09:34:32 -0500'
 date_gmt: '2010-01-30 16:34:32 -0500'
 categories:

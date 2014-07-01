@@ -107,7 +107,7 @@ comments:
   date_gmt: '2010-06-30 14:16:11 -0400'
   content: thanks for the info and explanation provided
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/06/l_2048_1536_92B8B1F7-2312-4F75-819B-4F6F7B5A66DA.jpeg"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/06/l_2048_1536_92B8B1F7-2312-4F75-819B-4F6F7B5A66DA.jpeg" alt="" class="alignnone size-full" /></a></p>
+<p><a href="{{ site.url }}/assets/2010/06/l_2048_1536_92B8B1F7-2312-4F75-819B-4F6F7B5A66DA.jpeg"><img src="{{ site.url }}/assets/2010/06/l_2048_1536_92B8B1F7-2312-4F75-819B-4F6F7B5A66DA.jpeg" alt="" class="alignnone size-full" /></a></p>
 <h2>Rich in Choices: Freedom, Flexibility, & Commitment</h2>
 <p>Freedom is an easy idea to comprehend at first glance, but a challenging concept to fully grasp. It is the absence of restrictions. It's a pole diametrically opposed to predictable events. There's a strong correlation between freedom and chaos, but they are not equivalents. Living with absolute freedom is physically impossible and anything close to it is highly detrimental to life. Biological building blocks are complex but systematic, requiring a certain level of order for life to exist. </p>
 <p>While the processes of life are better served closer to the poles of determinism and order, our personal sense of freedom is driven by a mix of individual and social forces*. As soon as we limit our freedom to a set of fixed options, it drastically approaches a predictable outcome. Most of our lives are spent optimizing choices in this limited opportunity space, and it's where we focus the majority of our attention and energy. </p>
@@ -124,4 +124,4 @@ comments:
 <p>It's a little different for me now writing about the concepts of flexibility and rigidity, but not just as a newlywed. It was a few years before the ceremony where we both communicated our feelings and desire to share our lives together. Some decisions, like my life long commitment and marriage to Michelle, are as simple and fundamental as breathing. The loss of "flexibility" isn't even a consideration. There was nothing resembling a decision, there was only an irresistable feeling of <a HREF="http://en.wikipedia.org/wiki/Taoism"><i>this is the way</I></a>.</p>
 <p>Notes:<br />
 *= it's a little off topic for an already long post to dive into cultural effects on individual freedom, but worth me reading up on </p>
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/06/l_2048_1536_2B0DF394-782F-4C1E-9BAE-36A26C22EDDB.jpeg"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/06/l_2048_1536_2B0DF394-782F-4C1E-9BAE-36A26C22EDDB.jpeg" alt="" class="alignnone size-full" /></a></p>
+<p><a href="{{ site.url }}/assets/2010/06/l_2048_1536_2B0DF394-782F-4C1E-9BAE-36A26C22EDDB.jpeg"><img src="{{ site.url }}/assets/2010/06/l_2048_1536_2B0DF394-782F-4C1E-9BAE-36A26C22EDDB.jpeg" alt="" class="alignnone size-full" /></a></p>

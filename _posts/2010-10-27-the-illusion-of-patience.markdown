@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 5771
-wordpress_url: http://www.victusspiritus.com/2010/10/27/the-illusion-of-patience/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/10/27/the-illusion-of-patience/
 date: '2010-10-27 05:09:49 -0400'
 date_gmt: '2010-10-27 12:09:49 -0400'
 categories:
@@ -21,7 +21,7 @@ comments:
   author: The Fount of Energy, Enthusiasm, and Motivation is&#8230; &raquo; Victus
     Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/11/11/the-fount-of-energy-enthusiasm-and-motivation-is/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/11/11/the-fount-of-energy-enthusiasm-and-motivation-is/
   date: '2010-11-11 06:48:46 -0500'
   date_gmt: '2010-11-11 13:48:46 -0500'
   content: "[...] the illusion of patience I related patience to age. The measure

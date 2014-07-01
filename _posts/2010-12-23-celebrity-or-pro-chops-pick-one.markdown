@@ -23,14 +23,14 @@ comments:
 - id: 9048
   author: Ego&#8217;s relationship to Expertise &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/02/27/egos-relationship-to-expertise/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/02/27/egos-relationship-to-expertise/
   date: '2011-02-27 09:34:25 -0500'
   date_gmt: '2011-02-27 16:34:25 -0500'
   content: "[...] Celebrity or Pro Chops, pick one [...]"
 - id: 9893
   author: The Ephemeral Kiss of Fame &mdash; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/05/04/the-ephemeral-kiss-of-fame/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/05/04/the-ephemeral-kiss-of-fame/
   date: '2011-05-04 05:59:17 -0400'
   date_gmt: '2011-05-04 12:59:17 -0400'
   content: "[...] the decision was clear and remains so. With neither fame nor mastery,

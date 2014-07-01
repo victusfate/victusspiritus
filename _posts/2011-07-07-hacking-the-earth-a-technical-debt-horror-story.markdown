@@ -38,6 +38,6 @@ Pro Tip: Well designed IDEs are a life saver when you're bleary eyed and the alt
 <p>Technical debt has a way of demanding compensation at inopportune moments, and while it's not inevitable, it is mostly avoidable. In this case if more care was taken with specifying polymorphic base classes with clone and copy constructors, my refactor work would have been trivial. This morning I'll review last night's dicey hacks and ensure that checks for self assignment are done in the copy constructors, while validating the new code.</p>
 <p><a href="#notes" id="notes">Notes:</a></p>
 <ol>
-<li>For background see <a href="http://www.victusspiritus.com/2011/05/12/a-tale-of-two-simulations/">A Tale of Two Sims</a>, and it's <a href="http://www.victusspiritus.com/2011/06/15/crazy-east-coast-weather-wild-work-tale-of-two-sims-part-duo/">sequel</a>. </li>
+<li>For background see <a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/05/12/a-tale-of-two-simulations/">A Tale of Two Sims</a>, and it's <a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/06/15/crazy-east-coast-weather-wild-work-tale-of-two-sims-part-duo/">sequel</a>. </li>
 <li>Eric has been doing a killer job pulling the code all together with meeting "point defense" by Greg (epic tech management). The entire team has been a pleasure to work with: Mikhail my partner in modeling, as well as Dan and Cort for c++ wizardry. We've had some rough spots the past couple of days, but it's all coming together.</li>
 </ol>

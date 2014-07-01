@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2476
-wordpress_url: http://www.victusspiritus.com/2009/12/09/how-do-you-respond-to-your-tech-lead-taking-on-another-project/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/12/09/how-do-you-respond-to-your-tech-lead-taking-on-another-project/
 date: '2009-12-09 05:37:31 -0500'
 date_gmt: '2009-12-09 12:37:31 -0500'
 categories:

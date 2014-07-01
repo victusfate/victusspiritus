@@ -51,7 +51,7 @@ comments:
 - id: 4615
   author: Welcome to Ruby, Javascript and Ubuntu Linux Ben | Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/06/26/welcome-to-ruby-javascript-and-ubuntu-linux-ben/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/06/26/welcome-to-ruby-javascript-and-ubuntu-linux-ben/
   date: '2010-06-26 04:28:11 -0400'
   date_gmt: '2010-06-26 11:28:11 -0400'
   content: "[...] Instant Utility, Optimal Execution, &amp; Syntactic Sugar (victusspiritus.com)
@@ -59,14 +59,14 @@ comments:
 - id: 4664
   author: Is there a Moore&#8217;s Law for Machine Intelligence? | Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/07/03/is-there-a-moores-law-for-machine-intelligence/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/07/03/is-there-a-moores-law-for-machine-intelligence/
   date: '2010-07-03 03:34:57 -0400'
   date_gmt: '2010-07-03 10:34:57 -0400'
   content: "[...] and just in time (or ahead of time) compiling, sharp developers
     are converging on a balance between optimal performance and ease of use along
     with [...]"
 ---
-<p>As I have done all too regularly over the  past few weeks, I awoke at 4am with run time and code style anxiety. Some might label this a case of <a href="http://www.victusspiritus.com/2010/04/03/ideal-coding-easy-to-pickup-yet-abundant-in-function/">premature optimization</a>, because I'm worried about execution time and readability of code I haven't written yet. Heedless of that concern, I grabbed my phone and lowered the brightness to avoid waking Michelle. I then desparately scowered the web for a Ruby interpreter or compiler that runs as fast or faster than native C (on x86 or 64bit architectures) or speedy Java byte code. As you can imagine, I've had limited success for heavy numeric applications, but there is hope.</p>
+<p>As I have done all too regularly over the  past few weeks, I awoke at 4am with run time and code style anxiety. Some might label this a case of <a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/04/03/ideal-coding-easy-to-pickup-yet-abundant-in-function/">premature optimization</a>, because I'm worried about execution time and readability of code I haven't written yet. Heedless of that concern, I grabbed my phone and lowered the brightness to avoid waking Michelle. I then desparately scowered the web for a Ruby interpreter or compiler that runs as fast or faster than native C (on x86 or 64bit architectures) or speedy Java byte code. As you can imagine, I've had limited success for heavy numeric applications, but there is hope.</p>
 <p>My explorations have lead me to learn more about the background of both Scala and Duby (more of a Java syntax translator) to see how they've leveraged the JVM with static languages that are expressive and fast. Scala has many attractive features while Duby is a lean and mean Ruby looking front end to Java. My design inclination is to lean heavily in favor of dynamic typing and languages, which are natural fits to interpreted solutions. Unfortunately interpreters tend to be slower than compiled counterparts for heavy computations (there are exceptions).</p>
 <p>Recent readings introduced me to Lisp, particularly Paul Graham's dialect Arc, and the community variant Anarki. There is much to learn about the structure and flow of code, and language tools built into the language. I could do without the heavy parentheses (YMMV) but the language appears to include much of what I'm looking for:</p>
 <ul>
@@ -77,4 +77,4 @@ comments:
 <h2>Dynamic Ruby Approaches</h2>
 <p>I've read sufficient details about JRuby and Rubinius (both supported by our company <a href="http://victusmedia.com">Victus Media</a>'s host <a href="http://www.engineyard.com/">EngineYard</a>) to be impressed by the creativity of their project leads and supporters, but dismayed at the complexity of just in time and/or ahead of time compilers in parallel threads. The trends indicate initial work for Ruby compilers, interpreters, or translation efforts result in dramatic speed ups, then slows as more of the rich default structures are implemented. Based on <a href="http://blog.headius.com/2010/03/jruby-startup-time-tips.html">performance of JRuby with options turned off</a>, I smell a hidden knee in that compatibility curve. Or in English, there may be a good enough implementation of the Ruby language to run something Rails-like in production, be ultra fast, and have 80-90% of the utility. For many products cutting out 20% utility dramatically slashes resource costs, and makes it an irresistable value offer.  I suspect the same goes with open source languges. We must carefully weigh the impact of each feature implemented on the overall performance of the language.</p>
 <h2>Tradeoffs between speed, setup, and updating</h2>
-<p>The JavaScript translations of Ruby (<a href="http://www.victusspiritus.com/2010/04/08/a-dynamic-programming-language-defined-by-urls/">Red &amp; RubyJS</a>) bring ruby to every machine with a JavaScript enabled web browser. These translations are able to leverage JavaScript optimizations as well as cross server dynamic code inclusion. Execution speed may be exchanged to obviate the requirement of installing local gems. Remote code can be referenced/checked for updates or default to local cached versions, enabling as required or dynamic updates.</p>
+<p>The JavaScript translations of Ruby (<a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/04/08/a-dynamic-programming-language-defined-by-urls/">Red &amp; RubyJS</a>) bring ruby to every machine with a JavaScript enabled web browser. These translations are able to leverage JavaScript optimizations as well as cross server dynamic code inclusion. Execution speed may be exchanged to obviate the requirement of installing local gems. Remote code can be referenced/checked for updates or default to local cached versions, enabling as required or dynamic updates.</p>

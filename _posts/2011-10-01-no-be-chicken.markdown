@@ -17,7 +17,7 @@ tags:
 - inspiration
 comments: []
 ---
-<p><a href="http://www.avc.com/a_vc/2011/09/minimum-viable-personality.html"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/10/NOBECHICKEN.jpg" alt="" title="NOBECHICKEN" width="500" height="350" class="alignleft size-full wp-image-9865" /></a></p>
+<p><a href="http://www.avc.com/a_vc/2011/09/minimum-viable-personality.html"><img src="{{ site.url }}/assets/2011/10/NOBECHICKEN.jpg" alt="" title="NOBECHICKEN" width="500" height="350" class="alignleft size-full wp-image-9865" /></a></p>
 <blockquote><p>
 CHICKEN LIVE IN CAGE. NO CAN HAVE PERSONALITY INSIDE CAGE.  </p>
 <p>LAST STEP IS SMASH CAGE, LIGHT BARN ON FIRE. </p>

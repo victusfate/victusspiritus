@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 4579
-wordpress_url: http://www.victusspiritus.com/2010/07/15/what-walmart-facebook-and-credit-cards-have-in-common/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/07/15/what-walmart-facebook-and-credit-cards-have-in-common/
 date: '2010-07-15 05:23:28 -0400'
 date_gmt: '2010-07-15 12:23:28 -0400'
 categories:
@@ -154,7 +154,7 @@ comments:
 <li>my day job. But wait I get paid for that right? Timing is everything, and when a hot idea strikes it can cost me 3 long days and the motivation to implement the "new hotness"</li>
 <li>programming languages - which one am I most enamored with today, what will get the job done fastest. At work it's C++ but there are hidden costs in reading extraordinarily verbose code which conceal the beauty and simplicity of well implemented algorithms.<br />
 If I opt for Ruby I have to start building utility libraries from scratch and the processing time is longer*</li>
-<li>Victus Spiritus- yup this blog has had all forms of hidden costs. Hunting down pluggins, updating everything, learning the basics of php and more about HTML/CSS with a never ending quest for the perfect theme. The pay off is I'm minimally capable with these tools, but do I want to master CSS or <a href="http://www.victusspiritus.com/2010/07/14/im-a-founder-first/">found a company</a>?</li>
+<li>Victus Spiritus- yup this blog has had all forms of hidden costs. Hunting down pluggins, updating everything, learning the basics of php and more about HTML/CSS with a never ending quest for the perfect theme. The pay off is I'm minimally capable with these tools, but do I want to master CSS or <a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/07/14/im-a-founder-first/">found a company</a>?</li>
 <li>and the list goes on...</li>
 </ul>
 <p>Notes:<br />

@@ -9,7 +9,7 @@ author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<p style=\"text-align: center;\"><a href=\"http://www.flickr.com/photos/robyn-gallagher/\"><img
   class=\"aligncenter size-full wp-image-219\" title=\"faroutdesign_dontrunskipasifthepathaheadisfullofdaisies1\"
-  src=\"http://www.victusspiritus.com/wp-content/uploads/2009/03/faroutdesign_dontrunskipasifthepathaheadisfullofdaisies1.jpg\"
+  src=\"{{ site.url }}/assets/2009/03/faroutdesign_dontrunskipasifthepathaheadisfullofdaisies1.jpg\"
   alt=\"faroutdesign_dontrunskipasifthepathaheadisfullofdaisies1\" width=\"368\" height=\"277\"
   /></a></p>\r\n\r\nThe design methods introduced are by no means hard and fixed. 
   Some are impractical from a financial view for any single generation.  They are
@@ -51,7 +51,7 @@ comments:
 - id: 132
   author: How to Web Market and Use Social Media
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/04/24/how-to-web-market-and-use-social-media/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/04/24/how-to-web-market-and-use-social-media/
   date: '2009-06-22 15:05:37 -0400'
   date_gmt: '2009-06-22 22:05:37 -0400'
   content: "[...] Make Sure Your Content is Excellent -The design methods introduced
@@ -77,7 +77,7 @@ comments:
     Thanks for sharing.
     I have been searching for good articles about information architecture. This one is really good.
 ---
-<p style="text-align: center;"><a href="http://www.flickr.com/photos/robyn-gallagher/"><img class="aligncenter size-full wp-image-219" title="faroutdesign_dontrunskipasifthepathaheadisfullofdaisies1" src="http://www.victusspiritus.com/wp-content/uploads/2009/03/faroutdesign_dontrunskipasifthepathaheadisfullofdaisies1.jpg" alt="faroutdesign_dontrunskipasifthepathaheadisfullofdaisies1" width="368" height="277" /></a></p>
+<p style="text-align: center;"><a href="http://www.flickr.com/photos/robyn-gallagher/"><img class="aligncenter size-full wp-image-219" title="faroutdesign_dontrunskipasifthepathaheadisfullofdaisies1" src="{{ site.url }}/assets/2009/03/faroutdesign_dontrunskipasifthepathaheadisfullofdaisies1.jpg" alt="faroutdesign_dontrunskipasifthepathaheadisfullofdaisies1" width="368" height="277" /></a></p>
 <p>The design methods introduced are by no means hard and fixed.  Some are impractical from a financial view for any single generation.  They are simply one authors suggested guidelines to begin answering a hypothetical question:</p>
 <p><em>What I can do to create effective content, be it media or written text?</em></p>
 <ol>

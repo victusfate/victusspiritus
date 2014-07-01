@@ -52,7 +52,7 @@ comments:
 - id: 1060
   author: 'Iter8r: Organic Crowd Shared Startup'
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/09/30/iter8r-organic-crowd-shared-startup/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/09/30/iter8r-organic-crowd-shared-startup/
   date: '2009-10-02 04:16:17 -0400'
   date_gmt: '2009-10-02 11:16:17 -0400'
   content: "[...] with interest: Open Social Media Of the People, By the People, For

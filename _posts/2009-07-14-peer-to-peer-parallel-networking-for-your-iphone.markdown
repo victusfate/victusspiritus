@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<h2><a href=\"http://www.flickr.com/photos/scobleizer/\"><img class=\"aligncenter
-  size-full wp-image-1065\" title=\"Speed\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/07/Speed.jpg\"
+  size-full wp-image-1065\" title=\"Speed\" src=\"{{ site.url }}/assets/2009/07/Speed.jpg\"
   alt=\"Speed\" width=\"480\" height=\"360\" /></a></h2>\r\n<h2>Why Can't We Interact
   with the Web Faster?</h2>\r\nI first mentioned the concept to a coworker a couple
   of weeks ago. Then thought about it in a little more detail while out for a walk
@@ -74,7 +74,7 @@ comments:
 - id: 1812
   author: Social Web Neutrality
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/11/23/social-web-neutrality/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/11/23/social-web-neutrality/
   date: '2009-11-23 06:07:15 -0500'
   date_gmt: '2009-11-23 13:07:15 -0500'
   content: "[...] The connectivity of the Internet has evolved in stages. Early phone
@@ -129,7 +129,7 @@ comments:
 - id: 4577
   author: The Web Stack for Dummies (like me) - Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/06/20/the-web-stack-for-dummies-like-me/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/06/20/the-web-stack-for-dummies-like-me/
   date: '2010-06-20 05:05:12 -0400'
   date_gmt: '2010-06-20 12:05:12 -0400'
   content: "[...] The last time I talked about HTTP details was a Peer 2 Peer notion
@@ -144,7 +144,7 @@ comments:
     I appreciate your post. I also wrote that SMS advertising provides a cost effective method of targeting promotions to specific customer profiles. You might want to remind customers of specific events or promotions, but for whatever reasons, SMS allows you to pass information directly to the right customer at very affordable prices and fast delivery.
     <a href="http://www.hearingaidindia.com/" title="Hearing Aid" rel="nofollow">Hearing Aid</a>
 ---
-<h2><a href="http://www.flickr.com/photos/scobleizer/"><img class="aligncenter size-full wp-image-1065" title="Speed" src="http://www.victusspiritus.com/wp-content/uploads/2009/07/Speed.jpg" alt="Speed" width="480" height="360" /></a></h2>
+<h2><a href="http://www.flickr.com/photos/scobleizer/"><img class="aligncenter size-full wp-image-1065" title="Speed" src="{{ site.url }}/assets/2009/07/Speed.jpg" alt="Speed" width="480" height="360" /></a></h2>
 <h2>Why Can't We Interact with the Web Faster?</h2>
 <p>I first mentioned the concept to a coworker a couple of weeks ago. Then thought about it in a little more detail while out for a walk yesterday. Why don't we connect our iPhones (or any mobile phones) leveraging wifi for local communication and 2G/3G for fast parallel packet transmission over the internet.<a id="more"></a><a id="more-1064"></a></p>
 <p>The concept is simple. Wifi gives a tally of the local network of active P2P network applications, if you're isolated things work as usual. If there's one or more other mobile devices with the application on (nodes) within range things get interesting. An outgoing large signal, is broken up into packets that are distributed by wifi over the local network and then shuffled off by 2G/3G over the internet. Large data transmissions are quickly broken up into pieces and fired off reducing bottlenecking and expediting both incoming and outgoing messages. In a similar manner downloads are sent over the 2G/3G networks to active nodes in your local, and finally passed via wifi to your device.</p>

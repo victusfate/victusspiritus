@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 4947
-wordpress_url: http://www.victusspiritus.com/2010/08/23/i-desire-a-job-i-love/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/08/23/i-desire-a-job-i-love/
 date: '2010-08-23 04:46:29 -0400'
 date_gmt: '2010-08-23 11:46:29 -0400'
 categories:
@@ -114,4 +114,4 @@ I had come to the conclusion that I would have to build that job with a startup/
 <p><em>What if I could earn that lifestyle and equity in another business venture?</em></p>
 <p>Businesses which are looking to branch out and grow in areas which overlap with my areas of expertise* can benefit from my enthusiasm, while I can help build a business I believe in. I won't own much equity at the start, but I can earn it over time while building the value of the business. I can satisfy my need for a position I greatly enjoy, while helping build a nascent business. I'd like to thank regular reader and commenter Leland Creswell for opening my eyes to opportunities that fall in this category.</p>
 <p>notes<br />
-*= see <a href="http://www.victusspiritus.com/2010/07/14/im-a-founder-first/">I'm a founder first</a> which ironically details many of my skill areas if you're curious</p>
+*= see <a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/07/14/im-a-founder-first/">I'm a founder first</a> which ironically details many of my skill areas if you're curious</p>

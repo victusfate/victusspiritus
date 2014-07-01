@@ -148,7 +148,7 @@ comments:
   author_url: http://www.victusspiritus.com/
   date: '2011-05-20 10:12:00 -0400'
   date_gmt: '2011-05-20 10:12:00 -0400'
-  content: "Douglas' comment on programming being the new literacy wasn't new to me\r\nhttp://www.victusspiritus.com/2011/02/08/coding-web-apps-is-the-new-literacy/\r\nI
+  content: "Douglas' comment on programming being the new literacy wasn't new to me\r\nhttp://victusfate.github.io/victusspiritus/uncategorized/2011/02/08/coding-web-apps-is-the-new-literacy/\r\nI
     think he may have been a stressed out/nervous, as his voice and demeanor\r\nexpressed
     much pain.\r\n\r\nI enjoyed your comment on having/have nots although I didn't
     read the blog\r\npost above.  Disqus is quite a blogging platform for you :)."
@@ -232,7 +232,7 @@ comments:
 <p>It is a state of mind and being. Like energy it is neither created nor destroyed, instead it moves from one life to another. A prisoner can live free and a world leader can be trapped by circumstance. Freedom cannot be granted, it cannot be purchased, nor can it be exchanged, it must be realized and practiced.</p>
 <p>Freedom is the motivation and ability to choose a path in a world of opportunity. Freedom is not tangled in the web of fears of our forefathers, it is ours to experience and reinvent today. Your fiscal debt and bank account may restrict your actions and affect your circumstances, but neither impacts your liberty. <i>Never mind the money</I>.</p>
 <h1>Cash and Choice</h1>
-<p>At the beginning of May I revisited the <a href="http://www.victusspiritus.com/2011/05/01/oasis-surviving-the-desert-of-the-real/">relationship between capital and freedom</a>. </p>
+<p>At the beginning of May I revisited the <a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/05/01/oasis-surviving-the-desert-of-the-real/">relationship between capital and freedom</a>. </p>
 <blockquote><p>
 A moment of contemplation makes vividly clear the distinction between the pursuit of wealth, and directly nourishing that which we need, liberty
 </p></blockquote>

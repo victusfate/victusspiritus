@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 3045
-wordpress_url: http://www.victusspiritus.com/2010/02/14/social-tools-for-work-for-fun-both/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/02/14/social-tools-for-work-for-fun-both/
 date: '2010-02-14 09:36:59 -0500'
 date_gmt: '2010-02-14 16:36:59 -0500'
 categories:

@@ -35,7 +35,7 @@ comments:
 - id: 968
   author: Enhanced Vital Energy
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/09/27/enhanced-vital-energy/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/09/27/enhanced-vital-energy/
   date: '2009-09-27 04:40:16 -0400'
   date_gmt: '2009-09-27 11:40:16 -0400'
   content: "[...] sense practices to maintain healthy body energy. Enhanced vital

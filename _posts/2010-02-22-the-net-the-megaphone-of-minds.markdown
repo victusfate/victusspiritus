@@ -20,7 +20,7 @@ tags:
 - design
 comments: []
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/02/l_250_166_5AA09F61-919F-4657-9FDD-9352D61D950A.jpeg"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/02/l_250_166_5AA09F61-919F-4657-9FDD-9352D61D950A.jpeg" alt="" class="alignnone size-full" /></a></p>
+<p><a href="{{ site.url }}/assets/2010/02/l_250_166_5AA09F61-919F-4657-9FDD-9352D61D950A.jpeg"><img src="{{ site.url }}/assets/2010/02/l_250_166_5AA09F61-919F-4657-9FDD-9352D61D950A.jpeg" alt="" class="alignnone size-full" /></a></p>
 <p>Desktop applications and programming are being encompassed and enriched by connectivity to the Internet. Even closed systems gain by <a href="http://scobleizer.com/2010/02/17/marc-benioffs-enterprise-ambitions-first-look-at-salesforce-chatter/">mimicking open web services</a>. Hardware designs shared through web communities, experiences rapid prototyping and immediate feedback. The Internet has become an amplifier to our creativity. Designers can connect to builders in ways that they were not able to just 10 years ago.  </p>
 <p>The centralized hierarchy that controlled design and implementation has all but been removed.  The most creative and expressive designs are happening as hobbies outside of the control of the corporate environment. Even the concept of ownership is being questioned as many developers find that sharing their designs allows for more rapid and effective improvements. What we are witnessing is the evolution of society based on the connectivity of the net. As we explore and share, we embrace the forces that empower this design pattern, and make obsolete the barriers to it's progression.</p>
 <h2>But how do individuals cash in $$?</h2>

@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2889
-wordpress_url: http://www.victusspiritus.com/2010/01/25/perceptions-are-our-reality-emotions-define-our-culture/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/01/25/perceptions-are-our-reality-emotions-define-our-culture/
 date: '2010-01-25 05:45:30 -0500'
 date_gmt: '2010-01-25 12:45:30 -0500'
 categories:

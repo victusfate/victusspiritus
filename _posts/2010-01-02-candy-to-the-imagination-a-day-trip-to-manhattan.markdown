@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2655
-wordpress_url: http://www.victusspiritus.com/2010/01/02/candy-to-the-imagination-a-day-trip-to-manhattan/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/01/02/candy-to-the-imagination-a-day-trip-to-manhattan/
 date: '2010-01-02 07:40:26 -0500'
 date_gmt: '2010-01-02 14:40:26 -0500'
 categories:

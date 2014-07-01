@@ -80,7 +80,7 @@ comments:
 - id: 3787
   author: The Gilded Cage of Technology &laquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/04/05/the-gilded-cage-of-technology/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/04/05/the-gilded-cage-of-technology/
   date: '2010-04-05 07:03:59 -0400'
   date_gmt: '2010-04-05 14:03:59 -0400'
   content: "[...] I fell for the iHype     Share and Enjoy: [...]"
@@ -105,11 +105,11 @@ comments:
     ended up not getting one:<br><a href="http://www.iamronen.com/2010/02/not-getting-an-ipod/"
     rel="nofollow">http://www.iamronen.com/2010/02/not-getting-an-...</a>
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/04/iPad.jpg"><img class="aligncenter size-full wp-image-3458" title="iPad" src="http://www.victusspiritus.com/wp-content/uploads/2010/04/iPad.jpg" alt="" width="600" height="450" /></a></p>
+<p><a href="{{ site.url }}/assets/2010/04/iPad.jpg"><img class="aligncenter size-full wp-image-3458" title="iPad" src="{{ site.url }}/assets/2010/04/iPad.jpg" alt="" width="600" height="450" /></a></p>
 <p><em>My philosophy crumbled under the hype wave of the iPad. I had to see what many of my fellow tech geeks were seeing. I had to understand precisely what value this interface offered. How else can I cater to the imagination of this social group of early adopters. I must know what they know.</em></p>
 <p>I don't believe in the longevity of the App Store or any similar funnelled market. The free market has a way of breaking down walls. Application stores are the equivalent of captive audiences, and automatic affiliate cuts for the store owner. Why can't we go to other stores on our iGadgets? Sure the app store model will generate a wad of bills before web apps can replicate all desktop functionality. Notice a lack of flash support? How many high functionality web apps rely on flash? The answer a boatload. Apple's answer to developers who use flash has so far been "use html5 instead".</p>
 <p>For starters there are already issues with searching the App store for genuine applications referred by friends. Another issue is forced compliance with a desktop operating environment. If it's not Mac or Windows it's not good enough for iTunes. The constraint of going through iTunes to get to other portable computing devices is bizarre. Developing on an Ubuntu Linux install at home is a pleasure. Why can't I just copy media or other files over wifi to <strong>my</strong> tablet?<strong> </strong>What sort of bargain have I made just to have a nicer browser/reader. Why do I have to but a Mac box at home to sync up media on my iPrisons. What am I contributing towards?</p>
-<p>My need to understand and experience hyped gadgets trumped my principles. We're talking powerful levels of <a href="http://www.victusspiritus.com/2009/07/21/motivation-for-behavior-change-cognitive-dissonance/">cognitive dissonance</a>. My true curiosity in this recent purchase, what psychological magic has Apple pulled to cause me to override my disdain for closed markets? Could it be that deep down I believe competition has failed, and the free market and open computing environments are merely an illusion?</p>
+<p>My need to understand and experience hyped gadgets trumped my principles. We're talking powerful levels of <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/07/21/motivation-for-behavior-change-cognitive-dissonance/">cognitive dissonance</a>. My true curiosity in this recent purchase, what psychological magic has Apple pulled to cause me to override my disdain for closed markets? Could it be that deep down I believe competition has failed, and the free market and open computing environments are merely an illusion?</p>
 <p>I surely hope not.</p>
 <h6 class="zemanta-related-title" style="font-size: 1em;">Related articles by Zemanta</h6>
 <ul class="zemanta-article-ul">

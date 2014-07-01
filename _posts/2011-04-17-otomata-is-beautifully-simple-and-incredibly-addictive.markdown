@@ -30,7 +30,7 @@ comments:
 - id: 10184
   author: Visualization layered like music tracks &mdash; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/06/25/visualization-layered-like-music-tracks/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/06/25/visualization-layered-like-music-tracks/
   date: '2011-06-25 06:49:48 -0400'
   date_gmt: '2011-06-25 13:49:48 -0400'
   content: "[...] game set the stage for cellular automata, a broader field of self
@@ -39,7 +39,7 @@ comments:
 - id: 10242
   author: Songify delights as a mobile app &mdash; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/07/11/songify-delights-as-a-mobile-app/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/07/11/songify-delights-as-a-mobile-app/
   date: '2011-07-11 04:52:52 -0400'
   date_gmt: '2011-07-11 11:52:52 -0400'
   content: "[...] was inspired by otomata not long back as well as the broader field

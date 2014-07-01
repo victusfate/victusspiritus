@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 5299
-wordpress_url: http://www.victusspiritus.com/2010/09/27/not-every-dev-team-hacks-like-spiderman/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/09/27/not-every-dev-team-hacks-like-spiderman/
 date: '2010-09-27 06:08:32 -0400'
 date_gmt: '2010-09-27 13:08:32 -0400'
 categories:
@@ -19,7 +19,7 @@ tags:
 - design
 comments: []
 ---
-<p style="text-align: left;"><a href="http://www.geekologie.com/2009/03/real_life_spiderman_rescues_au.php"><img class="aligncenter size-full wp-image-5301" title="OMG_spiderman" src="http://www.victusspiritus.com/wp-content/uploads/2010/09/OMG_spiderman.jpg" alt="" width="270" height="310" /></a><br />
+<p style="text-align: left;"><a href="http://www.geekologie.com/2009/03/real_life_spiderman_rescues_au.php"><img class="aligncenter size-full wp-image-5301" title="OMG_spiderman" src="{{ site.url }}/assets/2010/09/OMG_spiderman.jpg" alt="" width="270" height="310" /></a><br />
 <em>Design for People First</em></p>
 <p>As a humble student of web hacking/dev I come across some far out "superior tech". Every coder and engineer hawks their wares as the next digital Jesus, even for crappy code, myself included^^. The pitch is usually based on optimal efficiency in the context of a particular use case or a grandiose plan. Damn those seductive master plans.</p>
 <p><strong>Hyperspeed Arithmetic</strong></p>

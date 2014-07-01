@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2464
-wordpress_url: http://www.victusspiritus.com/2009/12/08/google-social-search-true-or-false-dichotomy/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/12/08/google-social-search-true-or-false-dichotomy/
 date: '2009-12-08 06:39:43 -0500'
 date_gmt: '2009-12-08 13:39:43 -0500'
 categories:

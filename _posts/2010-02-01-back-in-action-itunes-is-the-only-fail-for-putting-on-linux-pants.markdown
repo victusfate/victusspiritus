@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2917
-wordpress_url: http://www.victusspiritus.com/2010/02/01/back-in-action-itunes-is-the-only-fail-for-putting-on-linux-pants/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/02/01/back-in-action-itunes-is-the-only-fail-for-putting-on-linux-pants/
 date: '2010-02-01 05:48:57 -0500'
 date_gmt: '2010-02-01 12:48:57 -0500'
 categories:

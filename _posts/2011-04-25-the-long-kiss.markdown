@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 8626
-wordpress_url: http://www.victusspiritus.com/2011/04/25/the-long-kiss/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/04/25/the-long-kiss/
 date: '2011-04-25 06:40:36 -0400'
 date_gmt: '2011-04-25 13:40:36 -0400'
 categories:

@@ -58,7 +58,7 @@ comments:
     background to the physical neurological chemistry of our excited states, there
     are methods to our madness ;)
 ---
-<h1><a href="http://www.flickr.com/photos/xopher/615582142/sizes/l/"><img class="aligncenter size-full wp-image-1634" title="MelloYello" src="http://www.victusspiritus.com/wp-content/uploads/2009/09/MelloYello.jpg" alt="MelloYello" width="480" height="480" /></a></h1>
+<h1><a href="http://www.flickr.com/photos/xopher/615582142/sizes/l/"><img class="aligncenter size-full wp-image-1634" title="MelloYello" src="{{ site.url }}/assets/2009/09/MelloYello.jpg" alt="MelloYello" width="480" height="480" /></a></h1>
 <h1>Action Trumps Reaction</h1>
 <p>False perceptions of negative consequences are an integral aspect of overreaction. Take for example a failed business venture.</p>
 <blockquote><p>By the way, I'm no psychology expert and have never experienced this particular financial disaster. But since I write as much for myself as for anyone else, these thoughts are helpful to keep things in perspective when I freeze up.</p></blockquote>

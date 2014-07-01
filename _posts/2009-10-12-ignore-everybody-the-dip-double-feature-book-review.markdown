@@ -50,7 +50,7 @@ comments:
 - id: 1504
   author: Leaving a local optimum takes every ounce of our resolve
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/11/04/leaving-a-local-optima-takes-every-ounce-of-our-resolve/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/11/04/leaving-a-local-optima-takes-every-ounce-of-our-resolve/
   date: '2009-11-04 05:32:03 -0500'
   date_gmt: '2009-11-04 12:32:03 -0500'
   content: "[...] Notice the shadow of the the local optima curves on the wall behind
@@ -95,7 +95,7 @@ comments:
 <p>Ok Seth, I get the message. I can cut back on my World of Warcraft hours to spend a few more hours a week working towards creating something of real long term value.</p>
 <p><strong>Related articles by Zemanta</strong></p>
 <ul class="zemanta-article-ul">
-<li class="zemanta-article-ul-li"><a href="http://www.victusspiritus.com/2009/10/09/a-purple-cow-joins-forces-with-a-gaping-void-only-greatness-results/">A Purple Cow joins forces with a Gaping Void, only greatness results</a> (victusspiritus.com)</li>
+<li class="zemanta-article-ul-li"><a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/10/09/a-purple-cow-joins-forces-with-a-gaping-void-only-greatness-results/">A Purple Cow joins forces with a Gaping Void, only greatness results</a> (victusspiritus.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.gothamgal.com/gotham_gal/2009/10/hugh-macleod-the-gaping-void.html">Hugh MacLeod, The Gaping Void</a> (gothamgal.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://stephendann.com/2009/07/01/heresy/">Heresy in the church of the latent entrepreneur</a> (stephendann.com)</li>
 </ul>

@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<h2><a href=\"http://www.flickr.com/photos/deanfranklin/\"><img class=\"aligncenter
-  size-full wp-image-1527\" title=\"MountRushmore\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/09/MountRushmore.jpg\"
+  size-full wp-image-1527\" title=\"MountRushmore\" src=\"{{ site.url }}/assets/2009/09/MountRushmore.jpg\"
   alt=\"MountRushmore\" width=\"480\" height=\"330\" /></a>\r\nA Flickering Candle</h2>\r\nThe
   analogy of a candle flame to the sum experiences of a single life is a beautiful
   reminder of our precious gift. Each of our individual existences is brief compared
@@ -32,14 +32,14 @@ comments:
 - id: 1088
   author: If you could answer one question, what would it be?
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/10/07/if-you-could-answer-one-question-what-would-it-be/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/10/07/if-you-could-answer-one-question-what-would-it-be/
   date: '2009-10-07 04:41:15 -0400'
   date_gmt: '2009-10-07 11:41:15 -0400'
   content: "[...] Which social media tools, protocols and interfaces can best be leveraged
     to connect me with others who share my vision, forging a community that will aid
     in building a lasting legacy? [...]"
 ---
-<h2><a href="http://www.flickr.com/photos/deanfranklin/"><img class="aligncenter size-full wp-image-1527" title="MountRushmore" src="http://www.victusspiritus.com/wp-content/uploads/2009/09/MountRushmore.jpg" alt="MountRushmore" width="480" height="330" /></a><br />
+<h2><a href="http://www.flickr.com/photos/deanfranklin/"><img class="aligncenter size-full wp-image-1527" title="MountRushmore" src="{{ site.url }}/assets/2009/09/MountRushmore.jpg" alt="MountRushmore" width="480" height="330" /></a><br />
 A Flickering Candle</h2>
 <p>The analogy of a candle flame to the sum experiences of a single life is a beautiful reminder of our precious gift. Each of our individual existences is brief compared to the timescales of:</p>
 <ol>

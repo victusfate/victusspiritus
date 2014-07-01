@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2994
-wordpress_url: http://www.victusspiritus.com/2010/02/09/gotta-grock-git/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/02/09/gotta-grock-git/
 date: '2010-02-09 05:34:15 -0500'
 date_gmt: '2010-02-09 12:34:15 -0500'
 categories:
@@ -49,7 +49,7 @@ comments:
 - id: 2957
   author: Augmented Reality Overload &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/02/15/augmented-reality-opportunities/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/02/15/augmented-reality-opportunities/
   date: '2010-02-15 08:28:45 -0500'
   date_gmt: '2010-02-15 15:28:45 -0500'
   content: "[...] augmented structures connected to massive back end databases. I
@@ -58,7 +58,7 @@ comments:
 - id: 3445
   author: Less than 100 Ways to Make Flexible Web Tools &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/03/19/less-than-100-ways-to-make-flexible-web-tools/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/03/19/less-than-100-ways-to-make-flexible-web-tools/
   date: '2010-03-19 07:13:04 -0400'
   date_gmt: '2010-03-19 14:13:04 -0400'
   content: "[...] There are a ton of generous hackers out there that will help you
@@ -66,7 +66,7 @@ comments:
 - id: 4614
   author: Welcome to Ruby, Javascript and Ubuntu Linux Ben | Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/06/26/welcome-to-ruby-javascript-and-ubuntu-linux-ben/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/06/26/welcome-to-ruby-javascript-and-ubuntu-linux-ben/
   date: '2010-06-26 04:27:36 -0400'
   date_gmt: '2010-06-26 11:27:36 -0400'
   content: "[...] a great tool to share code (you can explore git later [...]"
@@ -93,14 +93,14 @@ comments:
 - id: 9700
   author: One line installs, One button deploys &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/03/28/one-line-installs-one-button-deploys/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/03/28/one-line-installs-one-button-deploys/
   date: '2011-03-28 06:20:14 -0400'
   date_gmt: '2011-03-28 13:20:14 -0400'
   content: "[...] transcend corporate silos. When I wanted to leverage and learn from
     social coding, I was pointed to git and github. For endless questions about development
     tool installation and configuration I rely on [...]"
 ---
-<p>Git is a file syncronization, and source control tool. Git has been my enemy. It's still a <a href="http://www.victusspiritus.com/2010/02/08/each-time-i-get-my-hands-dirty-i-learn/">spooky animal</a>. Here's how I survive git now without letting it get in the way of me breaking new things.</p>
+<p>Git is a file syncronization, and source control tool. Git has been my enemy. It's still a <a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/02/08/each-time-i-get-my-hands-dirty-i-learn/">spooky animal</a>. Here's how I survive git now without letting it get in the way of me breaking new things.</p>
 <p>Install Git Ubuntu/Debian <a href="http://en.m.wikipedia.org/wiki/Advanced_Packaging_Tool?wasRedirected=true">linux</a>:<br />
 sudo apt-get install git-core<br />
 (refer to references for <a HREF="http://github.com/guides/using-git-and-github-for-the-windows-for-newbies">windows</a> or <a href="http://help.github.com/mac-git-installation/">mac</a> installs)</p>

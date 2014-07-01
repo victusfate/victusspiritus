@@ -32,7 +32,7 @@ comments:
 - id: 99
   author: How to Get Rich, Really Really Rich
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/06/13/how-to-get-rich-really-really-rich/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/06/13/how-to-get-rich-really-really-rich/
   date: '2009-06-13 02:48:00 -0400'
   date_gmt: '2009-06-13 09:48:00 -0400'
   content: "[...] Follow your own inner compass, be genuine to your nature [...]"
@@ -40,7 +40,7 @@ comments:
   author: Minimalist Design:sure, Feature Focused:ok, but which APIs/Platforms? &raquo;
     Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/01/04/minimalist-designsure-feature-focusedok-but-which-apisplatforms/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/01/04/minimalist-designsure-feature-focusedok-but-which-apisplatforms/
   date: '2010-01-05 13:23:19 -0500'
   date_gmt: '2010-01-05 20:23:19 -0500'
   content: "[...] our genuine instincts with a heavy dose of feedback is the surest

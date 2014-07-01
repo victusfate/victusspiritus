@@ -78,14 +78,14 @@ comments:
 <table class="image" border="0">
 <tbody>
 <tr>
-<td><a href="http://www.flickr.com/photos/scobleizer/"><img class="aligncenter size-full wp-image-1332" title="FacebookGetsFriendfeed" src="http://www.victusspiritus.com/wp-content/uploads/2009/08/FacebookGetsFriendfeed.png" alt="FacebookGetsFriendfeed" width="480" height="160" /></a></td>
+<td><a href="http://www.flickr.com/photos/scobleizer/"><img class="aligncenter size-full wp-image-1332" title="FacebookGetsFriendfeed" src="{{ site.url }}/assets/2009/08/FacebookGetsFriendfeed.png" alt="FacebookGetsFriendfeed" width="480" height="160" /></a></td>
 </tr>
 <tr>
 <td class="caption">Robert Scoble knows the deal, he's considering moving his blog comments to realtime js-kit echo</td>
 </tr>
 </tbody>
 </table>
-<p>I mentioned not long ago that I'd like to see completely <a href="http://www.victusspiritus.com/2009/07/27/open-social-media-of-the-people-by-the-people-for-the-people/">user owned open social media</a>. Now more than ever I understand the need for such a service.   All the connections and more importantly friendships I've forged online are likely to be affected by my diminished participation in a dying social platform (no firm commitment to continue the service from the friendfeed team). I hope to strengthen many of the social ties that were fairly recent but the <a class="zem_slink" title="Social network" rel="wikipedia" href="http://en.wikipedia.org/wiki/Social_network">social graph</a> we carry with us is only as good as the people who go out of their way to keep in touch.</p>
+<p>I mentioned not long ago that I'd like to see completely <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/07/27/open-social-media-of-the-people-by-the-people-for-the-people/">user owned open social media</a>. Now more than ever I understand the need for such a service.   All the connections and more importantly friendships I've forged online are likely to be affected by my diminished participation in a dying social platform (no firm commitment to continue the service from the friendfeed team). I hope to strengthen many of the social ties that were fairly recent but the <a class="zem_slink" title="Social network" rel="wikipedia" href="http://en.wikipedia.org/wiki/Social_network">social graph</a> we carry with us is only as good as the people who go out of their way to keep in touch.</p>
 <p>Years after college all of my close friends have moved out of the Long Island area. Rising costs combined with limited opportunities literally drove them out of state. I'm familiar with the mass exodus of good friends. Luckily I keep in touch with them via email, a social media platform that's been around a while.</p>
 <h6 class="zemanta-related-title" style="font-size: 1em;">Related articles by Zemanta</h6>
 <ul class="zemanta-article-ul">

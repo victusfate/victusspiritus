@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 9849
-wordpress_url: http://www.victusspiritus.com/2011/08/15/you-write-every-day-until-you-dont/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/08/15/you-write-every-day-until-you-dont/
 date: '2011-08-15 05:10:12 -0400'
 date_gmt: '2011-08-15 12:10:12 -0400'
 categories:

@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<a href=\"http://www.flickr.com/photos/alancleaver/\"><img class=\"aligncenter
-  size-full wp-image-1194\" title=\"Savings\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/07/Savings.jpg\"
+  size-full wp-image-1194\" title=\"Savings\" src=\"{{ site.url }}/assets/2009/07/Savings.jpg\"
   alt=\"Savings\" width=\"480\" height=\"724\" /></a>\r\n<h2>Capital</h2>\r\nWhen
   we talk about money, this is the first type we think of. But what is cash?\r\n<ul>\r\n\t<li>potential</li>\r\n\t<li>liquid
   assets</li>\r\n\t<li>agile\r\n<ul>\r\n\t<li>can be converted in products</li>\r\n\t<li>can
@@ -76,7 +76,7 @@ comments:
     constantly addressing the issue in our daily decisions. Is it time to cash out,
     or should we stick with a long term investment?
 ---
-<p><a href="http://www.flickr.com/photos/alancleaver/"><img class="aligncenter size-full wp-image-1194" title="Savings" src="http://www.victusspiritus.com/wp-content/uploads/2009/07/Savings.jpg" alt="Savings" width="480" height="724" /></a></p>
+<p><a href="http://www.flickr.com/photos/alancleaver/"><img class="aligncenter size-full wp-image-1194" title="Savings" src="{{ site.url }}/assets/2009/07/Savings.jpg" alt="Savings" width="480" height="724" /></a></p>
 <h2>Capital</h2>
 <p>When we talk about money, this is the first type we think of. But what is cash?</p>
 <ul>
@@ -106,7 +106,7 @@ comments:
 <p>Investments are almost always a longer term deal than cash transactions. We're willing to build longer term and greater value by giving up the right to make other purchases or investments. We're wagering that the form of investment we have chosen will outperform other types of investment or will give us greater security.</p>
 <h2>Time</h2>
 <p>Though many of our employment structures are paid with hourly wages, the true value of our time fluctuates with our productivity. Some of your time will be far more productive, like brokering a major deal or investing in a phenomenal unstoppable startup. Any type of product be it software or manufactured is an investment on behalf of the businesses involved.</p>
-<p>I'm at a point in life where I invest time into projects geared towards producing long term value. Like all gambles the outcome of my efforts is unknown. In order to minimize large mistakes, I've spent thousands of hours researching potential paths for development, and will continue to engage open minds through social media. The vision is to build a development engine team that will take tractable ideas of high potential value, and convert them into real services and products (smart web software, leveraging social media). The concepts to be worked will come from the collaborative imagination of <a href="http://www.victusspiritus.com/2009/07/16/how-to-build-business-value-for-fans-and-first-time-visitors/">our members</a>, ever vigilant of the investment of own resources and the trust outside investors place in us.</p>
+<p>I'm at a point in life where I invest time into projects geared towards producing long term value. Like all gambles the outcome of my efforts is unknown. In order to minimize large mistakes, I've spent thousands of hours researching potential paths for development, and will continue to engage open minds through social media. The vision is to build a development engine team that will take tractable ideas of high potential value, and convert them into real services and products (smart web software, leveraging social media). The concepts to be worked will come from the collaborative imagination of <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/07/16/how-to-build-business-value-for-fans-and-first-time-visitors/">our members</a>, ever vigilant of the investment of own resources and the trust outside investors place in us.</p>
 <p>If you can appreciate the type of culture I'm going to foster and:</p>
 <ul>
 <li>you're an avid web programmer (php, java, python, databases), now is a great time to join us</li>

@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2457
-wordpress_url: http://www.victusspiritus.com/2009/12/05/dr-jekyl-and-mr-hyde-founders-live-two-lives/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/12/05/dr-jekyl-and-mr-hyde-founders-live-two-lives/
 date: '2009-12-05 07:46:20 -0500'
 date_gmt: '2009-12-05 14:46:20 -0500'
 categories:
@@ -48,7 +48,7 @@ comments:
 - id: 2008
   author: The Secret Weakness of North East Investors
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/12/07/the-secret-weakness-of-north-east-investors/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/12/07/the-secret-weakness-of-north-east-investors/
   date: '2009-12-07 13:25:14 -0500'
   date_gmt: '2009-12-07 20:25:14 -0500'
   content: "[...] talent. (Victus Media is prefunding and our burn rate is very low,
@@ -56,7 +56,7 @@ comments:
 - id: 2107
   author: Leverage Known Brands to Build Your Business &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/12/19/leverage-known-brands-to-build-your-business/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/12/19/leverage-known-brands-to-build-your-business/
   date: '2009-12-19 08:07:55 -0500'
   date_gmt: '2009-12-19 15:07:55 -0500'
   content: "[...] of people that know and trust Victus Media. We&#8217;re tiny. We&#8217;re

@@ -45,7 +45,7 @@ comments:
 - id: 2882
   author: Can Search Discover the Spark of Life? &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/02/06/can-search-discover-the-spark-of-life/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/02/06/can-search-discover-the-spark-of-life/
   date: '2010-02-06 14:19:47 -0500'
   date_gmt: '2010-02-06 21:19:47 -0500'
   content: "[...] models which reward the extracted value with their user communities,
@@ -55,10 +55,10 @@ comments:
 <p>This past week I have had the pleasure of learning about <a href="http://www.Iter8r.com">Iter8r.com</a> by emailing back and forth with the founders Pandu Rao and Harish Kulkarni based out of Redmond, Washington. It all started off with this email from Pandu Rao:<a id="more"></a><a id="more-1725"></a></p>
 <p style="padding-left: 30px; ">Mark,<br />
 I read some of your articles with interest:<br />
-<a href="http://www.victusspiritus.com/2009/07/27/open-social-media-of-the-people-by-the-people-for-the-people/ ">Open Social Media Of the People, By the People, For the People</a><br />
-<a href="http://www.victusspiritus.com/2009/09/25/the-creation-of-value/">The Creation of Value</a><br />
-<a href="http://www.victusspiritus.com/2009/08/25/early-exclusivity-fosters-later-empires/">Early Exclusivity Fosters Later Empires</a><br />
-<a href="http://www.victusspiritus.com/2009/08/25/early-exclusivity-fosters-later-empires/"></a>I think the ideas mentioned in those posts can be put into practice. My co-founder, Harish and I have worked to bring some of them to fruition. Its called Iter8r <a href="(http://iter8r.com">(http://iter8r.com</a>).</p>
+<a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/07/27/open-social-media-of-the-people-by-the-people-for-the-people/ ">Open Social Media Of the People, By the People, For the People</a><br />
+<a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/09/25/the-creation-of-value/">The Creation of Value</a><br />
+<a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/08/25/early-exclusivity-fosters-later-empires/">Early Exclusivity Fosters Later Empires</a><br />
+<a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/08/25/early-exclusivity-fosters-later-empires/"></a>I think the ideas mentioned in those posts can be put into practice. My co-founder, Harish and I have worked to bring some of them to fruition. Its called Iter8r <a href="(http://iter8r.com">(http://iter8r.com</a>).</p>
 <p style="padding-left: 30px; ">Iter8r is a social news/bookmarking website that enables users to:<br />
 1. Post interesting links<br />
 2. Vote on them<br />
@@ -78,7 +78,7 @@ Thank you for your time.</p>
 <p style="padding-left: 30px; ">Best regards,<br />
 Pandu</p>
 <p>Once again I’ve been pleasantly surprised by discovering some topics I’m passionate about are already in development. Not only are these ideas shared by other folks, but they had the energy and vision to actually launch a start-up and a functional website.</p>
-<p>After a burst of emails back and forth I had both a beta account and a great feeling about the company. What Pandu and Harish are working to achieve is a self sustaining profit sharing web community. Their model is similar to <a href="http://www.squidoo.com">Squidoo.com</a> but with plans for their 32% ownership transferring to the community over 8 years following a "trigger event" of 80,000 community members (<a href="http://www.victusspiritus.com/2009/09/05/my-digital-shadow/">here's a self plug to my Squidoo lenses</a>).</p>
+<p>After a burst of emails back and forth I had both a beta account and a great feeling about the company. What Pandu and Harish are working to achieve is a self sustaining profit sharing web community. Their model is similar to <a href="http://www.squidoo.com">Squidoo.com</a> but with plans for their 32% ownership transferring to the community over 8 years following a "trigger event" of 80,000 community members (<a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/09/05/my-digital-shadow/">here's a self plug to my Squidoo lenses</a>).</p>
 <p>Harish has been the heavy for web development and coding thus far. Go Harish! I'm growing great respect for those with the skills and will to build functioning and useful web apps.  Pandu pitches in on the software end,  while working the business, marketing, and writing side of things. Truly they have an inspired sense of business innovation, and as you'll see it's infectious. They are prepared to open source (GPL V3 license) not only their web software, but their framework.</p>
 <blockquote><p>*Clarification from Pandu*, they will place under Free Software Licenses <strong>all the software they have writen (and will write in future) for Iter8r</strong>. And not just that which suits them.</p></blockquote>
 <h1>Question and Answer with the Founders</h1>
@@ -132,7 +132,7 @@ Pandu</p>
 <p style="padding-left: 30px;">
 <p style="padding-left: 30px;">
 <p>I even got some great feedback on my own project:</p>
-<p style="padding-left: 30px;"><em>Me: In a small project me and a few friends share interest in, I ran into some challenges setting up user profiles and a good database (besides an attractive front end). If you are curious that concept is a contextual search/advertising tool driven by social media. I setup a Twitter extracting example at <a href="http://www.victusmedia.com">Victusmedia.com</a> (very rough idea). I wrote up the concept here: </em><a style="color: #074d8f;" href="http://www.victusspiritus.com/2009/06/23/notional-framework-for-monetization-web2010/" target="_blank"><em>Notional Framework for Monetization Web2010</em></a><em> and the post it refers to </em><a style="color: #074d8f;" href="http://www.victusspiritus.com/2009/06/21/monetization-for-web2010/" target="_blank"><em>Monetization Web2010</em></a></p>
+<p style="padding-left: 30px;"><em>Me: In a small project me and a few friends share interest in, I ran into some challenges setting up user profiles and a good database (besides an attractive front end). If you are curious that concept is a contextual search/advertising tool driven by social media. I setup a Twitter extracting example at <a href="http://www.victusmedia.com">Victusmedia.com</a> (very rough idea). I wrote up the concept here: </em><a style="color: #074d8f;" href="http://victusfate.github.io/victusspiritus/uncategorized/2009/06/23/notional-framework-for-monetization-web2010/" target="_blank"><em>Notional Framework for Monetization Web2010</em></a><em> and the post it refers to </em><a style="color: #074d8f;" href="http://victusfate.github.io/victusspiritus/uncategorized/2009/06/21/monetization-for-web2010/" target="_blank"><em>Monetization Web2010</em></a></p>
 <p style="padding-left: 30px;">Pandu: I went through the links you mentioned. If I understand you correctly, you are suggesting a mechanism (central or otherwise) to provide context for a link. This context is distinct from the data that the link points to. And that this context can carry the history associated with a link (e.g who forwarded it, who forwarded it as an affiliate). Its a way to annotate the relationship between users and links they forward.</p>
 <p style="padding-left: 30px;">One way that I envision this being done (and maybe I am wrong here) is  to do half of what a url shortener does. i.e do not resolve completely, but resolve to a page that shows the annotation associated with a link.</p>
 <p style="padding-left: 30px;">I also think that there are a few challenges associated with adverts for microblogs/tweets. e.g Not enough context to determine appropriate ads. I have some ideas on how this can be overcome. But that's for another time.</p>

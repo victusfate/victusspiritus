@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<img class=\"aligncenter size-full wp-image-1305\" title=\"GoogleAnalytics\"
-  src=\"http://www.victusspiritus.com/wp-content/uploads/2009/08/GoogleAnalytics.jpg\"
+  src=\"{{ site.url }}/assets/2009/08/GoogleAnalytics.jpg\"
   alt=\"GoogleAnalytics\" width=\"480\" height=\"330\" />\r\n<h2>How Many People Actually
   Listen?</h2>\r\nOut of a couple thousand twitter followers I wondered how many actually
   care about what I post on a regular basis, and my estimate  is probably only a couple
@@ -79,7 +79,7 @@ comments:
 - id: 555
   author: Information Freedom Has a Price
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/08/13/information-freedom-has-a-price/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/08/13/information-freedom-has-a-price/
   date: '2009-08-13 15:13:31 -0400'
   date_gmt: '2009-08-13 22:13:31 -0400'
   content: "[...] is a followup to an earlier post ignore the stats and connect with
@@ -89,7 +89,7 @@ comments:
   author: ADD Nation, 90% of Social Media Referrals Don&#8217;t Read &raquo; Victus
     Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/12/13/add-nation-90-of-social-media-referrals-dont-read/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/12/13/add-nation-90-of-social-media-referrals-dont-read/
   date: '2009-12-13 06:46:27 -0500'
   date_gmt: '2009-12-13 13:46:27 -0500'
   content: "[...]        This is a continuation of a post I wrote in August about
@@ -122,7 +122,7 @@ comments:
     when combined on a big pipeline.  <br><br>(<a href="http://www.refollow.com" rel="nofollow">http://www.refollow.com</a>
     worked for me on Chrome)
 ---
-<p><img class="aligncenter size-full wp-image-1305" title="GoogleAnalytics" src="http://www.victusspiritus.com/wp-content/uploads/2009/08/GoogleAnalytics.jpg" alt="GoogleAnalytics" width="480" height="330" /></p>
+<p><img class="aligncenter size-full wp-image-1305" title="GoogleAnalytics" src="{{ site.url }}/assets/2009/08/GoogleAnalytics.jpg" alt="GoogleAnalytics" width="480" height="330" /></p>
 <h2>How Many People Actually Listen?</h2>
 <p>Out of a couple thousand twitter followers I wondered how many actually care about what I post on a regular basis, and my estimate  is probably only a couple dozen. If they follow like myself, they only have time to observe their undirected input streams a couple of times a day. What does it mean to have followers or subscribers for modern Internet browsing habits? Is it simply a token of approval? These questions are in some part supposed to be answered by analytics and statistics. We can see how many folks visit our sites or download files. We see how long they decide to stay on the site, how many other pages they visit, and determine if our content is valuable to them. But I hypothesize that this data is largely irrelevant to our goals.<a id="more"></a><a id="more-1303"></a></p>
 <p>If you're passionate about sharing something, you hope that the right people get your message. This group is a small fraction of the overall visitors of your content. Perhaps only 1 in a 100 are authentic audience members that will return to your site, and truly support your community. These are the folks you should concentrate your energies on. They are the ones you should provide fantastic value to and in turn they will help you build an effective community, founded on your collective message and vision.</p>

@@ -21,7 +21,7 @@ comments:
 - id: 98
   author: How to Get Rich, Really Really Rich
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/06/13/how-to-get-rich-really-really-rich/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/06/13/how-to-get-rich-really-really-rich/
   date: '2009-06-13 00:04:34 -0400'
   date_gmt: '2009-06-13 07:04:34 -0400'
   content: "[...] Discover your calling, your area of expertise and relentlessly push
@@ -29,7 +29,7 @@ comments:
 - id: 793
   author: Influence is Earned by Inches, Yet Instantly We Recognize a Star
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/05/06/influence-is-earned-by-inches-yet-instantly-we-recognize-a-star/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/05/06/influence-is-earned-by-inches-yet-instantly-we-recognize-a-star/
   date: '2009-09-02 06:32:56 -0400'
   date_gmt: '2009-09-02 13:32:56 -0400'
   content: "[...] fonts of energy, and experts in specific disciplines.  Of course
@@ -37,7 +37,7 @@ comments:
 - id: 1670
   author: Motivation is a 1000 Times More Effective than Training or Talent
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/05/13/motivation-is-a-1000-times-more-effective-than-training-or-talent/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/05/13/motivation-is-a-1000-times-more-effective-than-training-or-talent/
   date: '2009-11-14 12:22:38 -0500'
   date_gmt: '2009-11-14 19:22:38 -0500'
   content: "[...] you&#8217;re not doing what you love for a living now, every day

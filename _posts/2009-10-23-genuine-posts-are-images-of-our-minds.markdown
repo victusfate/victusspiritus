@@ -7,7 +7,7 @@ author: Mark Essel
 author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
-excerpt: "<img class=\"alignnone size-full wp-image-1955\" title=\"Reflection\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/10/Reflection.jpg\"
+excerpt: "<img class=\"alignnone size-full wp-image-1955\" title=\"Reflection\" src=\"{{ site.url }}/assets/2009/10/Reflection.jpg\"
   alt=\"Reflection\" width=\"480\" height=\"320\" />\r\n<h2>Images, Moments, What
   are Photographs?</h2>\r\nYou can chock this thought flow up to <a href=\"http://www.avc.com/a_vc/2009/10/digital-father-analog-daughter.html\">Fred
   Wilson's share</a> of his daughter Jessica's blog post,<a href=\"http://www.jessicasarawilson.com/2009/10/return-of-polaroid-through-eyes-of.html\">
@@ -34,7 +34,7 @@ tags:
 - Digital photography
 comments: []
 ---
-<p><img class="alignnone size-full wp-image-1955" title="Reflection" src="http://www.victusspiritus.com/wp-content/uploads/2009/10/Reflection.jpg" alt="Reflection" width="480" height="320" /></p>
+<p><img class="alignnone size-full wp-image-1955" title="Reflection" src="{{ site.url }}/assets/2009/10/Reflection.jpg" alt="Reflection" width="480" height="320" /></p>
 <h2>Images, Moments, What are Photographs?</h2>
 <p>You can chock this thought flow up to <a href="http://www.avc.com/a_vc/2009/10/digital-father-analog-daughter.html">Fred Wilson's share</a> of his daughter Jessica's blog post,<a href="http://www.jessicasarawilson.com/2009/10/return-of-polaroid-through-eyes-of.html"> the return of polaroid through the eyes of a teenage film photo blogger</a>. Jessica illuminates her passion for analog photography and the hands on development process. Reader's can appreciate her perspective on the surprise and excitement that comes from finally seeing an image come to life. But somewhere in the space between the words, my mind began drifting as I tried to imagine the journey of photons reflecting off of surfaces and focused through the optical system onto a digital focal plane, or specialized film. There is more to this transformation than 3D to 2D mapping. Even time's role, which plays a critical factor (exposure), is only part of the story of photography.<a id="more"></a><a id="more-1954"></a></p>
 <h2>Digital Imaging (comment from Jessica's post)</h2>

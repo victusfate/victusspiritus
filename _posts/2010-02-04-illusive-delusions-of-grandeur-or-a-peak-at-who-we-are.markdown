@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2935
-wordpress_url: http://www.victusspiritus.com/2010/02/04/illusive-delusions-of-grandeur-or-a-peak-at-who-we-are/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/02/04/illusive-delusions-of-grandeur-or-a-peak-at-who-we-are/
 date: '2010-02-04 06:21:35 -0500'
 date_gmt: '2010-02-04 13:21:35 -0500'
 categories:

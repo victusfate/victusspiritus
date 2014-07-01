@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2754
-wordpress_url: http://www.victusspiritus.com/2010/01/16/adaption-to-the-shifting-economy/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/01/16/adaption-to-the-shifting-economy/
 date: '2010-01-16 07:18:30 -0500'
 date_gmt: '2010-01-16 14:18:30 -0500'
 categories:
@@ -21,7 +21,7 @@ comments:
 - id: 3918
   author: Connect Islands of Value, then Get Out of the Way &laquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/04/12/connect-islands-of-value-then-get-out-of-the-way-2/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/04/12/connect-islands-of-value-then-get-out-of-the-way-2/
   date: '2010-04-12 05:18:40 -0400'
   date_gmt: '2010-04-12 12:18:40 -0400'
   content: "[...] this concept and graft the idea of niche verticals and horizontal
@@ -33,7 +33,7 @@ comments:
 <p>The first branch is usually referred to as <a href="http://en.m.wikipedia.org/wiki/Vertical_market?wasRedirected=true">vertical or niche marketing</a>. Vertical markets are characterized by similar businesses or customers.</p>
 <blockquote><p>The activities of participants within any given vertical market are typically similar in that they aim at solving the same or similar problems.</p></blockquote>
 <p>Service and quality are of primary importance to businesses which serve a niche. Positive differentiation is what fuels customer retention and business growth. But how can redundant services coexist in an economy that is so well connected?</p>
-<p>Redundancy is not only tolerated but required in our nervous system economy. A myriad of parallel paths provide the same information, but by varied routes. This feature is required by <a href="http://www.victusspiritus.com/2009/12/29/the-hidra-has-many-heads-cheap-disposable-resilience/">resilient systems</a>, and is intrinsic to any lasting economy. The network exists in a continual state of flux and must be capable of enduring substantial change. Some pathways fail while new routes are formed, an inherent characteristic of any dynamic network.<br />
+<p>Redundancy is not only tolerated but required in our nervous system economy. A myriad of parallel paths provide the same information, but by varied routes. This feature is required by <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/12/29/the-hidra-has-many-heads-cheap-disposable-resilience/">resilient systems</a>, and is intrinsic to any lasting economy. The network exists in a continual state of flux and must be capable of enduring substantial change. Some pathways fail while new routes are formed, an inherent characteristic of any dynamic network.<br />
 <strong>Niche domination is susceptible to rapid obsolescence.</strong> Vertical organizations must reconcile the differences between static expertise, and skill groups which are able to redeploy to adjacent opportunities. The good news is that in a network economy, new verticals are created as quickly as they vanish.</p>
 <h2>The Horizontal Web Weaves Through Many Businesses</h2>
 <p>For the broad reaching nature of<br />

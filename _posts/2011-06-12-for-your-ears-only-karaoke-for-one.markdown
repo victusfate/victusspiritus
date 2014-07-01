@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 9253
-wordpress_url: http://www.victusspiritus.com/2011/06/12/for-your-ears-only-karaoke-for-one/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/06/12/for-your-ears-only-karaoke-for-one/
 date: '2011-06-12 06:04:39 -0400'
 date_gmt: '2011-06-12 13:04:39 -0400'
 categories:

@@ -61,7 +61,7 @@ comments:
 - id: 2956
   author: Augmented Reality Opportunities &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/02/15/augmented-reality-opportunities/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/02/15/augmented-reality-opportunities/
   date: '2010-02-15 08:26:52 -0500'
   date_gmt: '2010-02-15 15:26:52 -0500'
   content: "[...] visually. Code logic and data flow can be augmented with a tactile
@@ -70,7 +70,7 @@ comments:
 - id: 2970
   author: User Interface Speedups Effect on Scaling Optimization &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/02/16/user-interface-speedups-effect-on-scaling-optimization/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/02/16/user-interface-speedups-effect-on-scaling-optimization/
   date: '2010-02-16 07:05:51 -0500'
   date_gmt: '2010-02-16 14:05:51 -0500'
   content: "[...] attention footprint. Designer&#8217;s endeavor to cultivate a user
@@ -79,7 +79,7 @@ comments:
 - id: 3307
   author: Data Silos or a Social Web Pattern &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/03/13/data-silos-or-a-social-web-pattern/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/03/13/data-silos-or-a-social-web-pattern/
   date: '2010-03-13 10:48:03 -0500'
   date_gmt: '2010-03-13 17:48:03 -0500'
   content: "[...] service is most popular today (non roach motel/data silos). As technology
@@ -130,7 +130,7 @@ comments:
   author_url: http://www.victusspiritus.com/
   date: '2010-03-14 17:56:01 -0400'
   date_gmt: '2010-03-14 22:56:01 -0400'
-  content: Here&#39;s <a href="http://www.victusspiritus.com/2010/03/07/the-adaptive-augmented-reality-web/"
+  content: Here&#39;s <a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/03/07/the-adaptive-augmented-reality-web/"
     rel="nofollow">that link</a> to what I&#39;m working on now (the Present).
 - id: 3362
   author: woodyh

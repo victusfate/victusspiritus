@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 4811
-wordpress_url: http://www.victusspiritus.com/2010/08/05/the-art-of-aggregation/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/08/05/the-art-of-aggregation/
 date: '2010-08-05 05:06:26 -0400'
 date_gmt: '2010-08-05 12:06:26 -0400'
 categories:

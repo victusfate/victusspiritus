@@ -29,7 +29,7 @@ comments:
 - id: 93
   author: Maximize the Value of Your Time
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/06/12/maximize-the-value-of-your-time/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/06/12/maximize-the-value-of-your-time/
   date: '2009-06-12 00:02:04 -0400'
   date_gmt: '2009-06-12 07:02:04 -0400'
   content: "[...] distinguishes creativity as a lucky breakthrough for a hardworking
@@ -38,7 +38,7 @@ comments:
 - id: 310
   author: Discriminating Between Interesting and Actionable Info
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/08/02/discriminating-between-interesting-and-actionable-info/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/08/02/discriminating-between-interesting-and-actionable-info/
   date: '2009-08-02 05:37:01 -0400'
   date_gmt: '2009-08-02 12:37:01 -0400'
   content: "[...] social graph or network loosely bounds one channel for our actionable

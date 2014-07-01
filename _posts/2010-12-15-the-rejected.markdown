@@ -28,7 +28,7 @@ comments:
     with your post.  Despite hearing about how startups can't fill all their openings,
     it seems fiercly competitive to even get your foot in the door at one.
 ---
-<p><a href="http://www.youtube.com/watch?v=PJYxCSXjhLI"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/12/Rejected.jpg" alt="" title="Rejected" width="300" height="240" class="aligncenter size-full wp-image-6261" /></a><br />
+<p><a href="http://www.youtube.com/watch?v=PJYxCSXjhLI"><img src="{{ site.url }}/assets/2010/12/Rejected.jpg" alt="" title="Rejected" width="300" height="240" class="aligncenter size-full wp-image-6261" /></a><br />
 <I>The Tech Scene heats up in NYC, but leaves most applicants out in the Cold</I></p>
 <p>Big tech companies are fiercely competing for talent, primarily experienced veterans. Angel and seed funding for tech startups in the NY metro area has also intensified over the past year, leading to more small companies seeking first through fiftieth employees.</p>
 <p>The trend for tech company growth is happening throughout the nation, from startup capitals like Silicon Valley, NY, and Boston to smaller tech hubs like Boulder and Portland. There simply aren't enough experienced engineers to go around. Likewise many startups are getting angel and seed funding as more investors scramble to gain ownership of nascent businesses.</p>

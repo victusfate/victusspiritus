@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 1690
-wordpress_url: http://www.victusspiritus.com/2009/09/27/enhanced-vital-energy/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/09/27/enhanced-vital-energy/
 date: '2009-09-27 03:00:24 -0400'
 date_gmt: '2009-09-27 10:00:24 -0400'
 categories:
@@ -26,7 +26,7 @@ comments:
   date_gmt: '2009-09-27 18:06:23 -0400'
   content: "[...] Enhanced Vital Energy [...]"
 ---
-<p>This post begins with essential mental focus, and a perceptual shift which can stimulate us to action. I wrap up the concept with common sense practices to maintain healthy body energy. Enhanced vital energy is part of ongoing posts <a href="http://www.victusspiritus.com/2009/04/28/a-few-surefire-tactics-to-boost-your-verve/">I have written on self energy</a>.</p>
+<p>This post begins with essential mental focus, and a perceptual shift which can stimulate us to action. I wrap up the concept with common sense practices to maintain healthy body energy. Enhanced vital energy is part of ongoing posts <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/04/28/a-few-surefire-tactics-to-boost-your-verve/">I have written on self energy</a>.</p>
 <blockquote><p>Disclaimer on self help: The best advice is the direction you figure out for yourself. As I've mentioned several times, I try and think of changes or lifestyles that make sense from my personal experience and knowledge. I don't profess to know what's best for you, only you can make that decision. If what I write about clicks with your personal compass, please let me know.</p></blockquote>
 <h1>Selflessness</h1>
 <p>The secret to maintaining a great feeling of energy each day is to focus your attention on service to others. For ourselves we can afford to be slackers and take it easy. When it comes to helping those who truly need us, sluggishness isn't an option. We simply need to recognize the needs of folks that touch our existence, and push beyond our self made excuses to take action. This is no small feat.</p>

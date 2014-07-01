@@ -103,7 +103,7 @@ comments:
   date_gmt: '2009-11-14 21:11:33 -0500'
   content: Yup this is a happier view of reality...
 ---
-<p><a href="http://www.stuckincustoms.com"><img src="http://www.victusspiritus.com/wp-content/uploads/2009/11/Sun1.jpg" alt="The Dirt Road to the Nuclear Blast Site" title="The Dirt Road to the Nuclear Blast Site" width="480" height="330" class="aligncenter size-full wp-image-2115" /></a></p>
+<p><a href="http://www.stuckincustoms.com"><img src="{{ site.url }}/assets/2009/11/Sun1.jpg" alt="The Dirt Road to the Nuclear Blast Site" title="The Dirt Road to the Nuclear Blast Site" width="480" height="330" class="aligncenter size-full wp-image-2115" /></a></p>
 <h1>wonder drives us</h1>
 <p>The experience of exploring an unknown space takes us away from our everyday concerns. We focus all our attention and conscious perception outward. Our energy is replenished by curiousity taking in magestic surroundings, riddled with rich tales of their histories. Our awareness of this wonder is strongest when we are kids, but in the process of growing and learning there's a tendency for this wonder to diminish or tarnish with age. </p>
 <p>This morning I'd like to ask each reader to take a moment, and journey back in your minds eye to a time when you had a more open view of reality (many of you have this perspective handy already). The world is full of potential adventures and exciting opportunities that are revealed only when we are open and ready to recognize them. It's easy to lose sight of this precious vision when we are stressed or uber busy.</p>

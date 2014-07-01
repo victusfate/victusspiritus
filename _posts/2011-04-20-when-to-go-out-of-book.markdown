@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 8550
-wordpress_url: http://www.victusspiritus.com/2011/04/20/when-to-go-out-of-book/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/04/20/when-to-go-out-of-book/
 date: '2011-04-20 05:38:09 -0400'
 date_gmt: '2011-04-20 12:38:09 -0400'
 categories:

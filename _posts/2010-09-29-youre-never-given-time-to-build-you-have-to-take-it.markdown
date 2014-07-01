@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 5313
-wordpress_url: http://www.victusspiritus.com/2010/09/29/youre-never-given-time-to-build-you-have-to-take-it/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/09/29/youre-never-given-time-to-build-you-have-to-take-it/
 date: '2010-09-29 04:50:27 -0400'
 date_gmt: '2010-09-29 11:50:27 -0400'
 categories:

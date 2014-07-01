@@ -79,17 +79,17 @@ comments:
 - id: 9819
   author: Re-Theming Self, I remember why people dress up &mdash; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/04/11/re-theming-self-i-remember-why-people-dress-up/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/04/11/re-theming-self-i-remember-why-people-dress-up/
   date: '2011-04-11 05:27:01 -0400'
   date_gmt: '2011-04-11 12:27:01 -0400'
   content: "[...] Style is an Invitation [...]"
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/05/l_2048_1536_462BD619-EE81-4B44-AA2F-77CD82FD935C.jpeg"><img class="alignnone size-full" src="http://www.victusspiritus.com/wp-content/uploads/2010/05/l_2048_1536_462BD619-EE81-4B44-AA2F-77CD82FD935C.jpeg" alt="" width="500" height="350" /></a></p>
+<p><a href="{{ site.url }}/assets/2010/05/l_2048_1536_462BD619-EE81-4B44-AA2F-77CD82FD935C.jpeg"><img class="alignnone size-full" src="{{ site.url }}/assets/2010/05/l_2048_1536_462BD619-EE81-4B44-AA2F-77CD82FD935C.jpeg" alt="" width="500" height="350" /></a></p>
 <h2>More than a series of Anonymous Tips</h2>
 <p>Disjoint input is filtered out by our minds as noise. From blog posts, to product releases, to warnings from the surgeon general, to ads, if information we come across is not attached to a source of trust, or part of a coherent story we gloss over the message or discard it as irrelevant. The disconnected information carries no weight.</p>
 <p>Besides the police who sometimes act on anonymous tips, most of the rest of the world appreciates knowing and trusting their sources of information. No matter what type of business you're in, it's important to build up credit with a community of folks who know who you are, and what your motivation is. This credit is composed of two major elements, style and trust.</p>
 <h2>Style says "Welcome"</h2>
-<p>Style is what get's a new visitor to stick around long enough to discover the value of whatever it is that you are offering. Human readable information requires a <a href="http://www.victusspiritus.com/2009/08/27/excellent-content-still-requires-a-pretty-package/">pretty package</a>. Style without substance won't lead to return visits. As a fairly busy guy, I think of style only offerings as distractions, unless the product itself is just eye candy.</p>
+<p>Style is what get's a new visitor to stick around long enough to discover the value of whatever it is that you are offering. Human readable information requires a <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/08/27/excellent-content-still-requires-a-pretty-package/">pretty package</a>. Style without substance won't lead to return visits. As a fairly busy guy, I think of style only offerings as distractions, unless the product itself is just eye candy.</p>
 <h2>Trust is King for Businesses Built to Last</h2>
 <p>Trust is built up consistently over time. I know of no shortcuts to building this currency besides cinematic life saving rescues*. Motivational transparency and reliability are the key aspects of an information source or solution provider that engenders trust over the long term. These "old fashioned" policies are must have features of a healthy corporate culture.</p>
 <p>For an example of motivational transparency and reliability I shamelessly submit this blog as evidence. Regular visitors of Victus Spiritus know that this blog began as a compass to guide me to a more rewarding work life in February 2009, which resulted in a founder's journey later in the year. Building businesses which focus on social information utility, is an area I have great passion for, and will contribute real value to. The blog has since been adapted into an idea and startup resonance chamber, due to the fine caliber of commenters who's brilliance in their specialties far surpasses any tricks I've picked up in the past year and a half. In no small way this blog has served as a blueprint for how I plan to build a business(es). Web startups can serve as the vessel for viral social patterns, an area rich in opportunity and increasingly fascinating as I learn more about the various network technologies.</p>

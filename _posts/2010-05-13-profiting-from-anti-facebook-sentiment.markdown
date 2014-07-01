@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 3826
-wordpress_url: http://www.victusspiritus.com/2010/05/13/profiting-from-anti-facebook-sentiment/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/05/13/profiting-from-anti-facebook-sentiment/
 date: '2010-05-13 04:40:45 -0400'
 date_gmt: '2010-05-13 11:40:45 -0400'
 categories:
@@ -213,7 +213,7 @@ comments:
 - id: 4316
   author: Waves, Timing and Becoming Real
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/05/14/waves-timing-and-becoming-real/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/05/14/waves-timing-and-becoming-real/
   date: '2010-05-14 07:02:03 -0400'
   date_gmt: '2010-05-14 14:02:03 -0400'
   content: "[...] riff brought to you care of Leland&#8217;s comment on yesterday&#8217;s

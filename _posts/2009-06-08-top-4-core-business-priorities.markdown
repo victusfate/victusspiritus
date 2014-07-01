@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<p style=\"text-align: left;\"><a href=\"http://www.flickr.com/photos/redvers/\"><img
-  class=\"size-large wp-image-495 aligncenter\" title=\"priorities\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/06/priorities-1024x768.jpg\"
+  class=\"size-large wp-image-495 aligncenter\" title=\"priorities\" src=\"{{ site.url }}/assets/2009/06/priorities-1024x768.jpg\"
   alt=\"priorities\" width=\"368\" height=\"277\" /></a></p>\r\n\r\nWhat are the most
   important resource priorities to businesses today? Surviving is the name of the
   game in a shrinking economy, but future industry leaders are preparing themselves
@@ -29,14 +29,14 @@ comments:
 - id: 234
   author: How to Build Business Value for Fans and First Time Visitors
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/07/16/how-to-build-business-value-for-fans-and-first-time-visitors/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/07/16/how-to-build-business-value-for-fans-and-first-time-visitors/
   date: '2009-07-16 13:59:25 -0400'
   date_gmt: '2009-07-16 20:59:25 -0400'
   content: "[...] expenditures should be focused on improving things for your members
     following my earlier stated top 4 business priorities. Without Member Satisfaction
     you don&#8217;t have a business, plain and simple. Your business will [...]"
 ---
-<p style="text-align: left;"><a href="http://www.flickr.com/photos/redvers/"><img class="size-large wp-image-495 aligncenter" title="priorities" src="http://www.victusspiritus.com/wp-content/uploads/2009/06/priorities-1024x768.jpg" alt="priorities" width="368" height="277" /></a></p>
+<p style="text-align: left;"><a href="http://www.flickr.com/photos/redvers/"><img class="size-large wp-image-495 aligncenter" title="priorities" src="{{ site.url }}/assets/2009/06/priorities-1024x768.jpg" alt="priorities" width="368" height="277" /></a></p>
 <p>What are the most important resource priorities to businesses today? Surviving is the name of the game in a shrinking economy, but future industry leaders are preparing themselves to gobble up new market share. I'd prefer the business cease as an entity, then leave any lasting negative effects on the customers or members of the organization. The following priority list serves as my decision architecture (unless it proved detrimental to the employees, customers or business):</p>
 <p style="text-align: left;"><a id="more"></a><a id="more-489"></a></p>
 <ol>
@@ -67,4 +67,4 @@ comments:
 </ul>
 </li>
 </ol>
-<p>Companies that focus on Member Satisfaction understand the value of having a fantastic <a href="http://www.victusspiritus.com/2009/06/01/the-importance-of-corporate-culture/">Corporate Culture</a>.  Businesses that keep their eye on cash flow and profit are in a better position to execute.  The most knowledgable corporations take research expenditures very seriously.  If that means making variants of a top product dumbed down to satisfy different sections of a market you do so (thanks to Steve Blank for teaching me this one in <a href="http://steveblank.com/2009/04/16/supermac-war-story-7-building-the-whole-product/">SuperMac War Story 7: Rabbits Out of the Hat - Product Line Extensions</a>).  Finally grow when it makes rational sense to, not just to satisfy investors.  In fact leashing company growth is a great argument for keeping your business private  as long as possible, or at least keeping it well in your control if you do decide to gather public funding.</p>
+<p>Companies that focus on Member Satisfaction understand the value of having a fantastic <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/06/01/the-importance-of-corporate-culture/">Corporate Culture</a>.  Businesses that keep their eye on cash flow and profit are in a better position to execute.  The most knowledgable corporations take research expenditures very seriously.  If that means making variants of a top product dumbed down to satisfy different sections of a market you do so (thanks to Steve Blank for teaching me this one in <a href="http://steveblank.com/2009/04/16/supermac-war-story-7-building-the-whole-product/">SuperMac War Story 7: Rabbits Out of the Hat - Product Line Extensions</a>).  Finally grow when it makes rational sense to, not just to satisfy investors.  In fact leashing company growth is a great argument for keeping your business private  as long as possible, or at least keeping it well in your control if you do decide to gather public funding.</p>

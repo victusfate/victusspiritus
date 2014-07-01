@@ -17,7 +17,7 @@ tags:
 - weather
 comments: []
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2011/05/20110524-081351.jpg"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/05/20110524-081351.jpg" alt="20110524-081351.jpg" class="aligncenter size-full" /></a></p>
+<p><a href="{{ site.url }}/assets/2011/05/20110524-081351.jpg"><img src="{{ site.url }}/assets/2011/05/20110524-081351.jpg" alt="20110524-081351.jpg" class="aligncenter size-full" /></a></p>
 <p>It's been a couple of weeks of east coast rain, with no signs of letting up. We had a tiny break last Saturday with peaks of sun, but I can see now that this is the rain apocalypse. I must have damned myself by cutting and pasting code once too often (how to stay <a href="http://en.wikipedia.org/wiki/Don't_repeat_yourself">DRY</a>).</p>
 <p>That will teach me to make light of the doomsayers. The endless rain and storms is playing havoc with my sinuses and more than a little depressing<sup><a href="#notes">1</a></sup>.</p>
 <p>Sure, this never ending cloudy rain thing is standard fair in places like Portland, but this is <del>Sparta!</del> spring time in New York. We prefer a little sunshine before the sweaty summer kicks in. At that point humidity drives folks back indoors (with air conditioners blasting around the clock), and to the beach for cool ocean breezes. I don't mind walking outdoors in 80-90F with humidity, but I'd much prefer cool, sunny and dry 60s, my ideal weather. </p>

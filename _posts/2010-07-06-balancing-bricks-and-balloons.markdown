@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 4430
-wordpress_url: http://www.victusspiritus.com/2010/07/06/balancing-bricks-and-balloons/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/07/06/balancing-bricks-and-balloons/
 date: '2010-07-06 06:03:14 -0400'
 date_gmt: '2010-07-06 13:03:14 -0400'
 categories:
@@ -58,7 +58,7 @@ comments:
 "I have a marvelous idea, <strong>we</strong> can ..."
 </p></blockquote>
 <h2>Phase 2 - Laying Disposable Bricks</h2>
-<p>Bricks are the foundation of larger structures. They're physically hard and very real. They're modular building blocks used to construct all manner of dwellings. But in the beginning, it's best <a href="http://www.victusspiritus.com/2010/01/19/marvelous-throwaway-code-is-mind-candy/">not to become too attached to your bricks</a> lest they weigh you down. At this point your working to discover a high value or socially attractive offering, and <strong>users don't care much about the bricks, they care about how your product feels and what it does</strong>.<br />
+<p>Bricks are the foundation of larger structures. They're physically hard and very real. They're modular building blocks used to construct all manner of dwellings. But in the beginning, it's best <a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/01/19/marvelous-throwaway-code-is-mind-candy/">not to become too attached to your bricks</a> lest they weigh you down. At this point your working to discover a high value or socially attractive offering, and <strong>users don't care much about the bricks, they care about how your product feels and what it does</strong>.<br />
 -<I>notable catch phrase of this building and discovery phase</I></p>
 <blockquote><p>
 "Mark, that sounds great. How about you code that up" <a href="http://pdxbrain.com/">Tyler Gillies</a>
@@ -87,8 +87,8 @@ comments:
 <p>Notes:<br />
 *=
 <ul>
-<li><a href="http://www.victusspiritus.com/2010/04/07/5-10-years/">5-10 Years</a></li>
-<li><a href="http://www.victusspiritus.com/2010/05/14/waves-timing-and-becoming-real/">Waves Timing and Becoming Real</a></li>
-<li><a href="http://www.victusspiritus.com/2010/05/24/the-startup-school-bus/">The Startup School Bus</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/04/07/5-10-years/">5-10 Years</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/05/14/waves-timing-and-becoming-real/">Waves Timing and Becoming Real</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/05/24/the-startup-school-bus/">The Startup School Bus</a></li>
 </ul>
 <p>^= Twitter rewrote some core backend stuff in scala to improve their server handling (from Rails).</p>

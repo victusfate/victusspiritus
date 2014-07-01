@@ -20,7 +20,7 @@ comments:
 - id: 9881
   author: First Steps Sorting out Python &mdash; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/05/02/first-steps-sorting-out-python/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/05/02/first-steps-sorting-out-python/
   date: '2011-05-02 06:30:09 -0400'
   date_gmt: '2011-05-02 13:30:09 -0400'
   content: "[...] post: Folding in c++ (the repo referenced includes array splitting
@@ -146,7 +146,7 @@ comments:
 <script src="https://gist.github.com/949951.js"> </script></p>
 <p>Related posts:</p>
 <ul>
-<li><a href="http://www.victusspiritus.com/2011/04/28/currying-in-c/">Currying in c++</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/04/28/currying-in-c/">Currying in c++</a></li>
 </ul>
 <p><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script><br />
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.10/jquery-ui.min.js"></script><br />

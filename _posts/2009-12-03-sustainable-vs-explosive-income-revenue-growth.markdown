@@ -21,7 +21,7 @@ tags:
 - finance
 comments: []
 ---
-<p><a href="http://www.flickr.com/photos/dhilung/"><img class="aligncenter size-large wp-image-2251" title="CloudyValley" src="http://www.victusspiritus.com/wp-content/uploads/2009/11/CloudyValley-1024x664.jpg" alt="CloudyValley" width="480" height="330" /></a></p>
+<p><a href="http://www.flickr.com/photos/dhilung/"><img class="aligncenter size-large wp-image-2251" title="CloudyValley" src="{{ site.url }}/assets/2009/11/CloudyValley-1024x664.jpg" alt="CloudyValley" width="480" height="330" /></a></p>
 <p>A brief review of the rationale for organic business and career growth. I recognize there are disparate views on this topic, and fully hope to enrich my own view with your feedback.</p>
 <h2>Let's start with sacrifices made while growing fast and furiously</h2>
 <p>1) Dominating a new market and monopolizing leaves users with little choice. Choice is the foundation of freedom, and there are few prospects with greater value.<br />

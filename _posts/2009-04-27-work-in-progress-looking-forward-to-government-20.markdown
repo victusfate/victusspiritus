@@ -21,7 +21,7 @@ comments: []
 <p style="text-align: center;"><a style="display: inline;" href="http://www.flickr.com/photos/blumpy/"><img class="at-xid-6a0111688fdbcb970c01156f5f4420970c image-full aligncenter" style="border: 0pt none;" title="WorkInProgress" src="http://messel.typepad.com/.a/6a0111688fdbcb970c01156f5f4420970c-800wi" border="0" alt="WorkInProgress" width="480" height="320" /></a></p>
 <p>I've had a wonderful opportunity these past few months.  By unplugging from the majority of my responsibilities as a simulation/systems engineer I was able to discover a passion for writing, and learn how to share my discoveries.  While I return to work today, I pledge to continue reading, processing, writing, and connecting.  The same concepts that this blog was founded on just a few months ago hold true.</p>
 <ol>
-<li>From <a href="http://www.victusspiritus.com/2009/02/22/a-new-journey/">my first post</a>: "My deepest wish is that by<br />
+<li>From <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/02/22/a-new-journey/">my first post</a>: "My deepest wish is that by<br />
 sharing my humble perspectives, you, the reader, will gain a quantum<br />
 of motivational energy sufficient to spark a powerful and positive<br />
 decision and corresponding path for your own life.</li>

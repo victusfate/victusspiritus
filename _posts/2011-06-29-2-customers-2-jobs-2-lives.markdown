@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 9397
-wordpress_url: http://www.victusspiritus.com/2011/06/29/2-customers-2-jobs-2-lives/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/06/29/2-customers-2-jobs-2-lives/
 date: '2011-06-29 04:55:53 -0400'
 date_gmt: '2011-06-29 11:55:53 -0400'
 categories:

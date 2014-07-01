@@ -33,7 +33,7 @@ comments:
 - id: 103
   author: How to Web Market and Use Social Media
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/04/24/how-to-web-market-and-use-social-media/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/04/24/how-to-web-market-and-use-social-media/
   date: '2009-06-13 03:36:18 -0400'
   date_gmt: '2009-06-13 10:36:18 -0400'
   content: "[...] Learn the Basics of Web Marketing and SEO &#8211; What is &#8220;Web

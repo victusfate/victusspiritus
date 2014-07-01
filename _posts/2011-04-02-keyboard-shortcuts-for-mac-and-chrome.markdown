@@ -29,7 +29,7 @@ comments:
 ---
 <h2>The Keys</h2>
 <p>Today's post is short and Mac-centric. Learning keyboard short cuts can shave seconds off of each point and click with a mouse, making you slightly more productive with your limited browsing time. Learn them, love them, learn to love them. There are Windows and Linux friendly keyboard equivalents to many of these bindings, many replace Command with Ctrl. </p>
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2011/04/MacKeySymbols.png"><img class="alignleft size-full wp-image-8196" title="MacKeySymbols" src="http://www.victusspiritus.com/wp-content/uploads/2011/04/MacKeySymbols.png" alt="" width="422" height="1021" /></a></p>
+<p><a href="{{ site.url }}/assets/2011/04/MacKeySymbols.png"><img class="alignleft size-full wp-image-8196" title="MacKeySymbols" src="{{ site.url }}/assets/2011/04/MacKeySymbols.png" alt="" width="422" height="1021" /></a></p>
 <h2>Mac</h2>
 <blockquote>
 <p><strong>Application and other Mac OS X keyboard commands </strong>&nbsp;</p>
@@ -551,7 +551,7 @@ comments:
 <li>other heavily used keyboard shortcuts, Command-S (save), Command-W (close window)</li>
 </ul>
 <h2>Chrome/ium</h2>
-<p style="text-align: center;"><a href="http://www.google.com/support/chrome/bin/static.py?page=guide.cs&amp;guide=25799&amp;topic=28651"><img class="aligncenter size-full wp-image-8200" title="MacChromeShortcuts" src="http://www.victusspiritus.com/wp-content/uploads/2011/04/MacChromeShortcuts.png" alt="" width="523" height="644" /></a></p>
+<p style="text-align: center;"><a href="http://www.google.com/support/chrome/bin/static.py?page=guide.cs&amp;guide=25799&amp;topic=28651"><img class="aligncenter size-full wp-image-8200" title="MacChromeShortcuts" src="{{ site.url }}/assets/2011/04/MacChromeShortcuts.png" alt="" width="523" height="644" /></a></p>
 <p>My most used Chromium keyboard shortcuts:</p>
 <ul>
 <li>Command-L, switch focus to location bar (thanks to <a href="http://news.ycombinator.com/user?id=psykotic">psykotic</a> from HN for this one!)</li>

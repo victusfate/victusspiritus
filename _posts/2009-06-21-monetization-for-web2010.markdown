@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<p style=\"text-align: center;\"><a href=\"http://www.flickr.com/photos/scobleizer/\"><img
-  class=\"size-full wp-image-784 aligncenter\" title=\"RobertScoble\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/06/RobertScoble1.jpg\"
+  class=\"size-full wp-image-784 aligncenter\" title=\"RobertScoble\" src=\"{{ site.url }}/assets/2009/06/RobertScoble1.jpg\"
   alt=\"RobertScoble\" width=\"447\" height=\"465\" /></a>Robert Scoble Gives Away
   His Photos</p>\r\n\r\n<h2>Should We Give Our Best Away for Free?</h2>\r\nFor several
   months I've been persuading readers (preaching) to discover work that compliments
@@ -136,7 +136,7 @@ comments:
 - id: 140
   author: Notional Framework for Monetization Web2010
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/06/23/notional-framework-for-monetization-web2010/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/06/23/notional-framework-for-monetization-web2010/
   date: '2009-06-23 04:00:55 -0400'
   date_gmt: '2009-06-23 11:00:55 -0400'
   content: "[...] This framework is an extension of the ideas presented in Monetization
@@ -147,8 +147,8 @@ comments:
   author_url: http://www.victusspiritus.com/
   date: '2009-06-23 05:45:08 -0400'
   date_gmt: '2009-06-23 10:45:08 -0400'
-  content: 'There&#39;s a follow up to this post now: <a href="http://www.victusspiritus.com/2009/06/23/notional-framework-for-monetization-web2010/"
-    rel="nofollow">http://www.victusspiritus.com/2009/06/23/notion...</a>'
+  content: 'There&#39;s a follow up to this post now: <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/06/23/notional-framework-for-monetization-web2010/"
+    rel="nofollow">http://victusfate.github.io/victusspiritus/uncategorized/2009/06/23/notion...</a>'
 - id: 163
   author: Jason Cronkhite
   author_email: jason@jasoncronkhite.com
@@ -204,7 +204,7 @@ comments:
 - id: 1049
   author: 'Iter8r: Organic Crowd Shared Startup'
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/09/30/iter8r-organic-crowd-shared-startup/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/09/30/iter8r-organic-crowd-shared-startup/
   date: '2009-10-01 03:23:35 -0400'
   date_gmt: '2009-10-01 10:23:35 -0400'
   content: "[...] Me: In a small project me and a few friends share interest in, I
@@ -268,46 +268,46 @@ comments:
 - id: 2703
   author: The Prize, Making Sense Out of Millions of Voices &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/01/21/the-prize-making-sense-out-of-millions-of-voices/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/01/21/the-prize-making-sense-out-of-millions-of-voices/
   date: '2010-01-21 16:24:11 -0500'
   date_gmt: '2010-01-21 23:24:11 -0500'
   content: "[...] Monetization for Web2010 (victusspiritus.com) [...]"
 - id: 7820
   author: I shit you not, it&#8217;s December 2010 &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/12/13/i-shit-you-not-its-december-2010/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/12/13/i-shit-you-not-its-december-2010/
   date: '2010-12-13 06:34:13 -0500'
   date_gmt: '2010-12-13 13:34:13 -0500'
   content: "[...] feels like only yesterday I was harping about how cool it would
     be if social communication platforms advertised serendipitously to the [...]"
 ---
-<p style="text-align: center;"><a href="http://www.flickr.com/photos/scobleizer/"><img class="size-full wp-image-784 aligncenter" title="RobertScoble" src="http://www.victusspiritus.com/wp-content/uploads/2009/06/RobertScoble1.jpg" alt="RobertScoble" width="447" height="465" /></a>Robert Scoble Gives Away His Photos</p>
+<p style="text-align: center;"><a href="http://www.flickr.com/photos/scobleizer/"><img class="size-full wp-image-784 aligncenter" title="RobertScoble" src="{{ site.url }}/assets/2009/06/RobertScoble1.jpg" alt="RobertScoble" width="447" height="465" /></a>Robert Scoble Gives Away His Photos</p>
 <h2>Should We Give Our Best Away for Free?</h2>
 <p>For several months I've been persuading readers (preaching) to discover work that compliments their passions. My fear is that the process of monetizing detracts from our best message. Any truly great work, be it art, functional or a mix, that comes from the core of our being and needs to be passed on has great value (at least to ourselves). But the manner of trying to cost that, profit, or putting a price tag on our creations may tarnish the work. It's a healthy fear to keep in mind, as it channels creative energies towards coming up with revenue streams that doesn't sully our integrity, honesty, and genuine judgement.<a id="more"></a><a id="more-507"></a></p>
 <p>raw recording of some thoughts on giving our best away for free:[podcast]http://www.victusspiritus.com/audio/MaybeWeShoudlGiveAwayOurBestForFree.mp3[/podcast]</p>
 <p>As you might have guessed, I've spent (<a href="#AdditionalInformation">insert large amount of time here</a>) thinking about different monetization models for internet content/products. One of the core concepts is centered about "how best to connect internet communication tools to businesses". The importance of this priority has been recognized by <a href="http://scobleizer.com/">Robert Scoble</a>. His vision for <a href="http://www.building43.com/">building43</a>, manifests the principle clearly "<em>make it easier for businesses to use the internet to improve their business results</em>".</p>
-<p style="text-align: center;"><a href="http://www.avc.com/a_vc/2009/06/clearing-something-up"><img class="aligncenter size-full wp-image-789" title="FredTalksAboutLinkDollars" src="http://www.victusspiritus.com/wp-content/uploads/2009/06/FredTalksAboutLinkDollars.jpg" alt="FredTalksAboutLinkDollars" width="500" height="375" /></a>The post from Fred (click image for link) got the neurons firing (thanks to <a href="http://www.flickr.com/photos/jonnygoldstein/">Jonny Goldstein</a>)</p>
+<p style="text-align: center;"><a href="http://www.avc.com/a_vc/2009/06/clearing-something-up"><img class="aligncenter size-full wp-image-789" title="FredTalksAboutLinkDollars" src="{{ site.url }}/assets/2009/06/FredTalksAboutLinkDollars.jpg" alt="FredTalksAboutLinkDollars" width="500" height="375" /></a>The post from Fred (click image for link) got the neurons firing (thanks to <a href="http://www.flickr.com/photos/jonnygoldstein/">Jonny Goldstein</a>)</p>
 <p>Fred Wilson's #140conf conference talk</p>
 <p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="520" height="303" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://blip.tv/play/AYGJ+m2JoHg" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="520" height="303" src="http://blip.tv/play/AYGJ+m2JoHg" allowfullscreen="true"></embed></object></p>
 <p><a href="http://www.avc.com/a_vc/2009/06/my-140conference-talk.html#comment-11497466">My response</a> to Fred's post suggests "an advertisement window/column (very Googlish) based upon the meta data (semantic) of passed links" :</p>
 <blockquote><p>Very excited about monetization potential for not only social media (facebook/twitter/friendfeed) but for web content in general. The economy of the internet is evolving. I labelled gratitude as the virtual currency in social media, but that is usually shown with thanks and a link.<br />
 I'm worried about one hiccup. If passed links are the currency, how will advertising piggy back on them. Anytime I'm paid to refer something, my genuine recommendation has had all it's value removed.</p></blockquote>
 <p>A series of comments and replies lead to this <a href="http://www.avc.com/a_vc/2009/06/clearing-something-up.html#comment-11044338">early idea</a> of mine:</p>
-<blockquote><p>I agree the contextual advertising isn't there yet. But imagine if you will, updating your status on any social media you frequent. Now imagine a small box off to the side with pertinent advertising targeting the semantic meaning of your status update. For an analogy, I can lookup up dentists on Google and find one locally without ever looking at their ads (above or on the side). The same can be done within social media, I can search for a preferred dentist and ignore any ads they may have (above or on the side), plus I can get first person descriptions and feedback. The technology is rapidly developing and Google, twitter, facebook amongst other businesses are doing their best to match the semantic meaning of your searches or status updates to an appropriate advertisement/business (if they're not they should be). See my comment about where pageviews are coming from to my blog, they're almost all (95-100%) social media sourced referrers. <a href="http://www.victusspiritus.com/2009/04/21/ad-money-will-play-follow-the-leader-to-the-king-of-links/">Advertising dollars will follow the link passers</a>.</p></blockquote>
+<blockquote><p>I agree the contextual advertising isn't there yet. But imagine if you will, updating your status on any social media you frequent. Now imagine a small box off to the side with pertinent advertising targeting the semantic meaning of your status update. For an analogy, I can lookup up dentists on Google and find one locally without ever looking at their ads (above or on the side). The same can be done within social media, I can search for a preferred dentist and ignore any ads they may have (above or on the side), plus I can get first person descriptions and feedback. The technology is rapidly developing and Google, twitter, facebook amongst other businesses are doing their best to match the semantic meaning of your searches or status updates to an appropriate advertisement/business (if they're not they should be). See my comment about where pageviews are coming from to my blog, they're almost all (95-100%) social media sourced referrers. <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/04/21/ad-money-will-play-follow-the-leader-to-the-king-of-links/">Advertising dollars will follow the link passers</a>.</p></blockquote>
 <p>Thanks to the creator of <a href="http://www.balsamiq.com">balsamiq</a> for this awesome mockup (big thanks Giacomo 'Peldi' Guilizzoni)</p>
-<p style="text-align: center;"><a href="http://www.balsamiq.com"><img class="aligncenter size-full wp-image-818" title="MonetizationSampleFromBalsamiq" src="http://www.victusspiritus.com/wp-content/uploads/2009/06/MonetizationSampleFromBalsamiq.png" alt="MonetizationSampleFromBalsamiq" width="525" height="440" /></a></p>
+<p style="text-align: center;"><a href="http://www.balsamiq.com"><img class="aligncenter size-full wp-image-818" title="MonetizationSampleFromBalsamiq" src="{{ site.url }}/assets/2009/06/MonetizationSampleFromBalsamiq.png" alt="MonetizationSampleFromBalsamiq" width="525" height="440" /></a></p>
 <h2><a name="AdditionalInformation"></a></h2>
-<p>Maybe the ads should be personalized to only the users updates/status. Mixed feelings on this, if you're reading Scobles lifestream you might just be persuaded to get a Prius. I've wanted one for a while (4years) but Robert's great feedback could be the tipping point. The advertising algorithm will have to "know me" in a historical data sense. Data a <a href="http://www.victusspiritus.com/2009/05/24/do-you-perceive-a-need-for-a-virtual-web-representation-of-yourself/">virtual assistant</a> would have easily be able to provide.</p>
+<p>Maybe the ads should be personalized to only the users updates/status. Mixed feelings on this, if you're reading Scobles lifestream you might just be persuaded to get a Prius. I've wanted one for a while (4years) but Robert's great feedback could be the tipping point. The advertising algorithm will have to "know me" in a historical data sense. Data a <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/05/24/do-you-perceive-a-need-for-a-virtual-web-representation-of-yourself/">virtual assistant</a> would have easily be able to provide.</p>
 <p>Check out 18.5minutes in to <a href="http://www.avc.com/a_vc/2009/06/fridays-chat-with-howard.html">Fred's Friday chat with Howard Lindzon</a> for some extra thoughts on where twitter may go for monetization.</p>
-<p>This concept has been extended to a <a href="http://www.victusspiritus.com/2009/06/23/notional-framework-for-monetization-web2010/">Notional Framework for Monetization Web2010</a></p>
+<p>This concept has been extended to a <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/06/23/notional-framework-for-monetization-web2010/">Notional Framework for Monetization Web2010</a></p>
 <p>If you're really interested in this topic feel free to read up on how my ideas developed, and by all means share/comment your own concepts. Previously, I wrote up thoughts on monetizing and design potential for social media:</p>
 <ul>
-<li><a href="http://www.victusspiritus.com/2009/06/17/the-democracy-of-attention-an-economy-of-minds/">The Democracy of Attention, an Economy of Minds</a></li>
-<li><a href="http://www.victusspiritus.com/2009/06/17/the-democracy-of-attention-an-economy-of-minds/"></a><a href="http://www.victusspiritus.com/2009/04/21/ad-money-will-play-follow-the-leader-to-the-king-of-links/">Ad Money Will Play “Follow the Leader” to the King of Links</a></li>
-<li><a href="http://www.victusspiritus.com/2009/04/09/intelligent-advertising-for-microbloggers-who-will-be-first-to-swim-in-the-riches/">Intelligent Advertising for Microbloggers: Who will be first to swim in the riches?</a></li>
-<li><a href="http://www.victusspiritus.com/2009/03/19/what-can-actually-be-accomplished-with-twitter/">What Can Be Accomplished With Twitter</a></li>
-<li><a href="http://www.victusspiritus.com/2009/03/22/twitter-is-on-the-verge-of-eating-google-for-breakfast-heres-why/">twitter is on the verge of eating Google for breakfast, here’s why</a></li>
-<li><a style="text-decoration: none;" href="http://www.victusspiritus.com/2009/04/18/it-more-than-makes-sense-for-google-to-acquire-twitter-it-makes-money/">It more than makes sense for Google to acquire twitter, it makes money</a></li>
-<li><a style="text-decoration: none;" href="http://www.victusspiritus.com/2009/04/16/vcs-building-sand-castles-that-float/">VCs building sand castles that float</a></li>
-<li><a style="text-decoration: none;" href="http://www.victusspiritus.com/2009/04/16/vcs-building-sand-castles-that-float/"></a><a href="http://www.victusspiritus.com/2009/03/29/social-media-will-be-the-dominant-design-focus-of-the-21st-century/">Social Media Will Be the Dominant Design Focus of the 21st Century</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/06/17/the-democracy-of-attention-an-economy-of-minds/">The Democracy of Attention, an Economy of Minds</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/06/17/the-democracy-of-attention-an-economy-of-minds/"></a><a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/04/21/ad-money-will-play-follow-the-leader-to-the-king-of-links/">Ad Money Will Play “Follow the Leader” to the King of Links</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/04/09/intelligent-advertising-for-microbloggers-who-will-be-first-to-swim-in-the-riches/">Intelligent Advertising for Microbloggers: Who will be first to swim in the riches?</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/03/19/what-can-actually-be-accomplished-with-twitter/">What Can Be Accomplished With Twitter</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/03/22/twitter-is-on-the-verge-of-eating-google-for-breakfast-heres-why/">twitter is on the verge of eating Google for breakfast, here’s why</a></li>
+<li><a style="text-decoration: none;" href="http://victusfate.github.io/victusspiritus/uncategorized/2009/04/18/it-more-than-makes-sense-for-google-to-acquire-twitter-it-makes-money/">It more than makes sense for Google to acquire twitter, it makes money</a></li>
+<li><a style="text-decoration: none;" href="http://victusfate.github.io/victusspiritus/uncategorized/2009/04/16/vcs-building-sand-castles-that-float/">VCs building sand castles that float</a></li>
+<li><a style="text-decoration: none;" href="http://victusfate.github.io/victusspiritus/uncategorized/2009/04/16/vcs-building-sand-castles-that-float/"></a><a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/03/29/social-media-will-be-the-dominant-design-focus-of-the-21st-century/">Social Media Will Be the Dominant Design Focus of the 21st Century</a></li>
 </ul>

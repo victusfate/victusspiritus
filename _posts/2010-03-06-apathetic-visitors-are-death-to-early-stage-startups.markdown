@@ -76,7 +76,7 @@ comments:
 <ul>
 <li>disinterested visitors are transients and won't return to your service</li>
 <li>they won't provide much needed feedback</li>
-<li>if apathetic users do give feedback, it will mislead a startup. Their interests have no concern for the startup's success, and diverges greatly from the "best" user base. Each startup has to define and understand <a href="http://www.victusspiritus.com/2010/01/24/when-building-an-organization-determine-who-we-are/">who is their ideal market</a></li>
+<li>if apathetic users do give feedback, it will mislead a startup. Their interests have no concern for the startup's success, and diverges greatly from the "best" user base. Each startup has to define and understand <a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/01/24/when-building-an-organization-determine-who-we-are/">who is their ideal market</a></li>
 <li>they won't zealously get their friends to try out the service</li>
 <li>they consume resources (time more than server costs) that should be dominated by early adopting uber fans</li>
 </ul>

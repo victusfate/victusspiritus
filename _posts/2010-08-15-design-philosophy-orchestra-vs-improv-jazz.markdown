@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 4906
-wordpress_url: http://www.victusspiritus.com/2010/08/15/design-philosophy-orchestra-vs-improv-jazz/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/08/15/design-philosophy-orchestra-vs-improv-jazz/
 date: '2010-08-15 08:26:06 -0400'
 date_gmt: '2010-08-15 15:26:06 -0400'
 categories:
@@ -26,7 +26,7 @@ comments: []
 <h2>Founders and Product Leads Decide which Model to Work With and When</h2>
 <p>Will a new startup function more like an orchestra with the lead founders and investors dictating carefully worked strategies and plans? Or will the startup have exceptionally talented improvisational artists that can blend their creative energy together to produce results on the fly. Not every company has to fall into one camp or another, in fact most don't. </p>
 <p>Certain tasks are better tackled by a rigid system with each contributor performing a precise move. Other problems are best solved by a fluid organization that can successfully  predict and react to dynamic environment changes. At other times a fixed starting strategy evolves into an improvised solution. When a team is capable of determining which strategy to go with based on their own experience, founder leadership and advisory input the new venture prospers. </p>
-<p>Alan G. Carter referred to these groups <a href="http://www.victusspiritus.com/2009/04/12/stress-makes-programmers-dumber/">as gel teams</a>, and they represent the most powerful productive force in tech today. When tech journalists and bloggers refer to talent grabs, you can bet the acquiring company is purchasing</p>
+<p>Alan G. Carter referred to these groups <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/04/12/stress-makes-programmers-dumber/">as gel teams</a>, and they represent the most powerful productive force in tech today. When tech journalists and bloggers refer to talent grabs, you can bet the acquiring company is purchasing</p>
 <ul>
 <li>a finely honed gel team or</li>
 <li>individual leaders who have proven they are capable of brewing new gel teams</li>

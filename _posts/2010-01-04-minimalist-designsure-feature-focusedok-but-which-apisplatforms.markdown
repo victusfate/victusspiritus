@@ -21,7 +21,7 @@ comments:
 - id: 8931
   author: Startup Strategies that Survive, Prosper, and Win &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/02/12/startup-strategies-that-survive-prosper-and-win/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/02/12/startup-strategies-that-survive-prosper-and-win/
   date: '2011-02-12 16:19:21 -0500'
   date_gmt: '2011-02-12 23:19:21 -0500'
   content: "[...] Minimalist Design, which APIs/platforms [...]"
@@ -29,7 +29,7 @@ comments:
 <h2>What Makes a Service Grow Exponentially</h2>
 <p>The inspiration behind this improv thought riff is Chris Dixon's post <a href="http://cdixon.org/2010/01/03/the-next-big-thing-will-start-out-looking-like-a-toy/">"the next big thing will start out looking like a toy"</a>. In it Chris talked about how the most disruptive startups and technologies appear incapable of threatening Big Companies (BigCo). The most meaningful message for myself (and others who are critical of their design theory) is in regards to positioning a product on a rising technology wave.</p>
 <blockquote><p>"you need to look at products as processes. Obviously, products get better inasmuch as the designer adds features, but this is a relatively weak force. Much more powerful are external forces: microchips getting cheaper, bandwidth becoming ubiquitous, mobile devices getting smarter, etc. For a product to be disruptive it needs to be designed to ride these changes up the utility curve."</p></blockquote>
-<p>Following our <a href="http://www.victusspiritus.com/2009/02/28/be-faithful-to-yourself-be-genuine/">genuine</a> instincts with a heavy dose of feedback is the surest way of building a product of true value when <a href="http://www.victusspiritus.com/2009/04/15/what-to-do-when-your-gurus-are-light-years-ahead-of-you/">the competition is light years ahead of us</a>. Take comfort in the fact that many big businesses have over specialized in a no longer optimal parameter space (BigCos=Big Momentum). Perception, and the rapid ability to shift to where the opportunity resides, are the aspects that give miniscule budget startups a fighting chance of traction. Who could ask for anything more?</p>
+<p>Following our <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/02/28/be-faithful-to-yourself-be-genuine/">genuine</a> instincts with a heavy dose of feedback is the surest way of building a product of true value when <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/04/15/what-to-do-when-your-gurus-are-light-years-ahead-of-you/">the competition is light years ahead of us</a>. Take comfort in the fact that many big businesses have over specialized in a no longer optimal parameter space (BigCos=Big Momentum). Perception, and the rapid ability to shift to where the opportunity resides, are the aspects that give miniscule budget startups a fighting chance of traction. Who could ask for anything more?</p>
 <h2>The Major Waves of 2010+</h2>
 <p>Now to answers you've been feverishly seeking to the all important question, "Which technologies, platforms, and/or APIs should your business embrace?"</p>
 <p>Here are what I see as the major tech force multipliers of the coming years:</p>

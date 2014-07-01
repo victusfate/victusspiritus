@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2687
-wordpress_url: http://www.victusspiritus.com/2010/01/07/feedback-works-when-youre-detached-from-the-idea/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/01/07/feedback-works-when-youre-detached-from-the-idea/
 date: '2010-01-07 05:53:22 -0500'
 date_gmt: '2010-01-07 12:53:22 -0500'
 categories:

@@ -16,7 +16,7 @@ categories:
 tags: []
 comments: []
 ---
-<p>[caption id="attachment_2625" align="aligncenter" width="733" caption="another gorgeous HDR shot by Trey Ratcliff, be sure to check out http://www.stuckincustoms.com"]<a href="http://www.stuckincustoms.com/2009/12/25/merry-christmas-from-the-land-of-the-free-where-tripods-are-illegal-but-i-used-one-anyway/"><img class="size-full wp-image-2625 " title="Merry Christmas" src="http://www.victusspiritus.com/wp-content/uploads/2009/12/4211975947_1685052739_b.jpg" alt="" width="733" height="1024" /></a>[/caption]</p>
+<p>[caption id="attachment_2625" align="aligncenter" width="733" caption="another gorgeous HDR shot by Trey Ratcliff, be sure to check out http://www.stuckincustoms.com"]<a href="http://www.stuckincustoms.com/2009/12/25/merry-christmas-from-the-land-of-the-free-where-tripods-are-illegal-but-i-used-one-anyway/"><img class="size-full wp-image-2625 " title="Merry Christmas" src="{{ site.url }}/assets/2009/12/4211975947_1685052739_b.jpg" alt="" width="733" height="1024" /></a>[/caption]</p>
 <ul>
 <li>
 <h2>Share your time with loved ones</h2>

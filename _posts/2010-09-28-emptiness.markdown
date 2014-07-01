@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 5304
-wordpress_url: http://www.victusspiritus.com/2010/09/28/emptiness/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/09/28/emptiness/
 date: '2010-09-28 05:54:35 -0400'
 date_gmt: '2010-09-28 12:54:35 -0400'
 categories:
@@ -50,7 +50,7 @@ comments:
   author: What Karate Kid and the Devil&#8217;s Advocate have in Common &raquo; Victus
     Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/12/14/what-karate-kid-and-the-devils-advocate-have-in-common/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/12/14/what-karate-kid-and-the-devils-advocate-have-in-common/
   date: '2010-12-14 09:35:37 -0500'
   date_gmt: '2010-12-14 16:35:37 -0500'
   content: "[...] fascinated by mental work states, optimal work environments, and
@@ -58,7 +58,7 @@ comments:
 - id: 9064
   author: Embrace what is, mold what will be &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/03/02/embrace-what-is-mold-what-will-be/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/03/02/embrace-what-is-mold-what-will-be/
   date: '2011-03-02 08:08:50 -0500'
   date_gmt: '2011-03-02 15:08:50 -0500'
   content: "[...] mentions passing up an attractive offer, and it reminded me of an

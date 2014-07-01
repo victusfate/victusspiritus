@@ -8,12 +8,12 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<p style=\"text-align: center;\"><a href=\"http://www.flickr.com/photos/chubbychandru/\"><img
-  class=\"aligncenter size-full wp-image-1134\" title=\"Ideal_IDE\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/07/Ideal_IDE.jpg\"
+  class=\"aligncenter size-full wp-image-1134\" title=\"Ideal_IDE\" src=\"{{ site.url }}/assets/2009/07/Ideal_IDE.jpg\"
   alt=\"Ideal_IDE\" width=\"480\" height=\"335\" /></a>\r\nAn Ideal <a class=\"zem_slink\"
   title=\"Integrated development environment\" rel=\"wikipedia\" href=\"http://en.wikipedia.org/wiki/Integrated_development_environment\">IDE</a>
   is a thing of beauty, easing code development\r\n<p style=\"text-align: center;\"></p>\r\n\r\n<p
   style=\"text-align: center;\"><a href=\"http://www.flickr.com/photos/kevincollins/\"><img
-  class=\"aligncenter size-full wp-image-1135\" title=\"Reality_IDE\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/07/Reality_IDE.jpg\"
+  class=\"aligncenter size-full wp-image-1135\" title=\"Reality_IDE\" src=\"{{ site.url }}/assets/2009/07/Reality_IDE.jpg\"
   alt=\"Reality_IDE\" width=\"480\" height=\"330\" /></a>\r\nThe reality of using
   certain IDEs is an incredible rat's nest\r\n<h2>My <a class=\"zem_slink\" title=\".NET
   Framework\" rel=\"homepage\" href=\"http://msdn.microsoft.com/netframework/\">.NET</a>
@@ -59,7 +59,7 @@ comments:
 - id: 251
   author: foo
   author_email: foo@bar.com
-  author_url: http://www.victusspiritus.com/2009/07/22/integrated-development-environment/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/07/22/integrated-development-environment/
   date: '2009-07-22 06:10:05 -0400'
   date_gmt: '2009-07-22 11:10:05 -0400'
   content: VS2008 + Resharper is still quite a way behind JDT<br><br>namely, its missing<br>
@@ -109,7 +109,7 @@ comments:
 - id: 258
   author: Web Programming Foo
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/07/24/web-programming-foo/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/07/24/web-programming-foo/
   date: '2009-07-24 12:25:20 -0400'
   date_gmt: '2009-07-24 19:25:20 -0400'
   content: "[...] one trying to unify all these web languages into an easy to start/build/deploy
@@ -125,10 +125,10 @@ comments:
     between members who simply share their carbon offsets (for no compensation!) with
     members with higher carbon footprints.
 ---
-<p style="text-align: center;"><a href="http://www.flickr.com/photos/chubbychandru/"><img class="aligncenter size-full wp-image-1134" title="Ideal_IDE" src="http://www.victusspiritus.com/wp-content/uploads/2009/07/Ideal_IDE.jpg" alt="Ideal_IDE" width="480" height="335" /></a><br />
+<p style="text-align: center;"><a href="http://www.flickr.com/photos/chubbychandru/"><img class="aligncenter size-full wp-image-1134" title="Ideal_IDE" src="{{ site.url }}/assets/2009/07/Ideal_IDE.jpg" alt="Ideal_IDE" width="480" height="335" /></a><br />
 An Ideal <a class="zem_slink" title="Integrated development environment" rel="wikipedia" href="http://en.wikipedia.org/wiki/Integrated_development_environment">IDE</a> is a thing of beauty, easing code development</p>
 <p style="text-align: center;">
-<p style="text-align: center;"><a href="http://www.flickr.com/photos/kevincollins/"><img class="aligncenter size-full wp-image-1135" title="Reality_IDE" src="http://www.victusspiritus.com/wp-content/uploads/2009/07/Reality_IDE.jpg" alt="Reality_IDE" width="480" height="330" /></a><br />
+<p style="text-align: center;"><a href="http://www.flickr.com/photos/kevincollins/"><img class="aligncenter size-full wp-image-1135" title="Reality_IDE" src="{{ site.url }}/assets/2009/07/Reality_IDE.jpg" alt="Reality_IDE" width="480" height="330" /></a><br />
 The reality of using certain IDEs is an incredible rat's nest</p>
 <h2>My <a class="zem_slink" title=".NET Framework" rel="homepage" href="http://msdn.microsoft.com/netframework/">.NET</a> experience with C++/C# vs. recent <a class="zem_slink" title="NetBeans" rel="homepage" href="http://www.netbeans.org/">Netbeans</a>/<a class="zem_slink" title="Eclipse (software)" rel="homepage" href="http://www.eclipse.org/">Eclipse</a> experience with Scala, Lift, Python, &amp; Google Application Engine</h2>
 <p>If you've used the older microsoft visual c++ IDE or the .NET express editions you're familiar with how fast you can go from installation to digging into the code. The experience has gradually improved over generations of the IDE and now setting up projects can done in short order. Functionality like "go to definition" and "code completion" are a joy to every programmer.</p>

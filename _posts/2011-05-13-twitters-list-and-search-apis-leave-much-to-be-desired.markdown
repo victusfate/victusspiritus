@@ -20,7 +20,7 @@ tags:
 - coding
 comments: []
 ---
-<p>Like polishing up an old wooden rocking chair, over the past several evenings I've been migrating an old Rails application. I was able to get the 3.1beta Rails app (<a href="http://www.victusspiritus.com/2011/05/11/the-four-horsemen-of-rails-3-1beta-coffee-script-jquery-scss-and-assets/">sweet updates</a>)  working locally without much trouble. But it's the first Heroku app I've migrated from the 1.8.7 stack to 1.9.2 Badious Bamboo, and it's not quite ready for prime time.</p>
+<p>Like polishing up an old wooden rocking chair, over the past several evenings I've been migrating an old Rails application. I was able to get the 3.1beta Rails app (<a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/05/11/the-four-horsemen-of-rails-3-1beta-coffee-script-jquery-scss-and-assets/">sweet updates</a>)  working locally without much trouble. But it's the first Heroku app I've migrated from the 1.8.7 stack to 1.9.2 Badious Bamboo, and it's not quite ready for prime time.</p>
 <p>I gutted 20 or so superfluous files and rearranged the interface to incorporate a few visual tricks I've learned since that project went into hibernation. After I was happy with the look and feel I wanted to jazz up the list search functionality and that's where I hit a roadblock. </p>
 <h2>Twitter's List API Blow's Chunks</h2>
 <p>I spent a couple of hours digging through the <a href="http://dev.twitter.com/doc">API docs</a> and refreshing myself on limits, paging and returned hash data. There's a straight forward URL to get follow (friend) ids. One call returns up to 5000 friends, with iterative calls returning lists of up to the next 5000 friends:<br />

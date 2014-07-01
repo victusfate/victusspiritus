@@ -36,6 +36,6 @@ comments: []
 <ul class="zemanta-article-ul">
 <li class="zemanta-article-ul-li"><a href="http://www.jeffisageek.net/blog/2009/09/10/pubsubhubbub-and-rsscloud-adding-them-to-your-wordpress-blog/">PubSubHubBub and RSSCloud : Adding Them To Your Wordpress Blog</a> (jeffisageek.net)</li>
 <li class="zemanta-article-ul-li"><a href="http://oreilly.com/catalog/9780596808679/">RESTful Web Services Cookbook: Rough Cuts Version</a> (oreilly.com)</li>
-<li class="zemanta-article-ul-li"><a href="http://www.victusspiritus.com/2009/09/09/rsscloud-goes-nuclear/">Rsscloud goes nuclear!</a> (victusspiritus.com)</li>
+<li class="zemanta-article-ul-li"><a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/09/09/rsscloud-goes-nuclear/">Rsscloud goes nuclear!</a> (victusspiritus.com)</li>
 </ul>
 <div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/994cc2c2-5676-4fb2-9501-d940f3aed6e2/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=994cc2c2-5676-4fb2-9501-d940f3aed6e2" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>

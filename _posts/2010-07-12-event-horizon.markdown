@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 4504
-wordpress_url: http://www.victusspiritus.com/2010/07/12/event-horizon/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/07/12/event-horizon/
 date: '2010-07-12 04:44:07 -0400'
 date_gmt: '2010-07-12 11:44:07 -0400'
 categories:
@@ -48,7 +48,7 @@ comments:
 <p>Should we always burn the bridge behind us?</p>
 <p>What if we need to step back or is revisiting old choices already a mistake?</p>
 <p>Aren't they new choices given a change of circumstances?</p>
-<p>There's little doubt <a href="http://www.victusspiritus.com/2009/07/01/decision-making/">we make our best decisions</a> with a fresh mental state. In the simplest cases you can see how many people strive for a zero inbox by performing a search. Almost 3 million web pages come up for zero inbox. How about white boards, is yours cluttered or clean? Look at your desktop, are there distractions waiting to draw just a fragment of your attention away from the important stuff? A little mental house cleaning goes a long way, and it's a large part of why I blog each morning. Dumping my mind's cache so that I'm ready for a new problem to tackle.</p>
+<p>There's little doubt <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/07/01/decision-making/">we make our best decisions</a> with a fresh mental state. In the simplest cases you can see how many people strive for a zero inbox by performing a search. Almost 3 million web pages come up for zero inbox. How about white boards, is yours cluttered or clean? Look at your desktop, are there distractions waiting to draw just a fragment of your attention away from the important stuff? A little mental house cleaning goes a long way, and it's a large part of why I blog each morning. Dumping my mind's cache so that I'm ready for a new problem to tackle.</p>
 <p><em>The backstory of this post is a good friend of mine who's going through a rough spot. After he revisited the charming movie that this post is titled after, he's come to see the film as a tragic love story about Dr. Weir (Sam Neill) dealing with the loss of his wife.</em></p>
 <p>Notes:<br />
 * = that's not quite true. Black holes have polar radiation of very high energy photons and this emission eventually leads to the end of the gravity well</p>

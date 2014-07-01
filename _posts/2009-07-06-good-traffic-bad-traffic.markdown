@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<a href=\"http://www.flickr.com/photos/carve/\"><img class=\"aligncenter
-  size-full wp-image-988\" title=\"Traffic\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/07/Traffic.jpg\"
+  size-full wp-image-988\" title=\"Traffic\" src=\"{{ site.url }}/assets/2009/07/Traffic.jpg\"
   alt=\"Traffic\" width=\"480\" height=\"360\" /></a>\r\n<h2>Bad Traffic</h2>\r\nIf
   you drive much in a populated area you're familiar with bad traffic. It's a terrifying
   site to witness gridlock first hand. Bad traffic has infected even the Internet,
@@ -68,7 +68,7 @@ comments:
     worth discussing. So many of my ideas require refinement to come into practice.
     I do hope to arouse further commentary from readers.
 ---
-<p><a href="http://www.flickr.com/photos/carve/"><img class="aligncenter size-full wp-image-988" title="Traffic" src="http://www.victusspiritus.com/wp-content/uploads/2009/07/Traffic.jpg" alt="Traffic" width="480" height="360" /></a></p>
+<p><a href="http://www.flickr.com/photos/carve/"><img class="aligncenter size-full wp-image-988" title="Traffic" src="{{ site.url }}/assets/2009/07/Traffic.jpg" alt="Traffic" width="480" height="360" /></a></p>
 <h2>Bad Traffic</h2>
 <p>If you drive much in a populated area you're familiar with bad traffic. It's a terrifying site to witness gridlock first hand. Bad traffic has infected even the Internet, a place where traffic is a golden word. Bad traffic is fickle, it's characterized by quick hits to a page and moves on. It generates no value for the page it visits, either by folks observing content, commenting, or taking any action that creates wealth (purchase or ad click).<a id="more"></a><a id="more-868"></a></p>
 <p>Web sites get bad traffic from advertising in the wrong areas or when first getting discovered. When you market a site through social media or <a class="zem_slink" title="Crowdsourcing" rel="wikipedia" href="http://en.wikipedia.org/wiki/Crowdsourcing">crowd sourcing</a>, be prepared for a very high <a class="zem_slink" title="Bounce rate" rel="wikipedia" href="http://en.wikipedia.org/wiki/Bounce_rate">bounce rate</a> at the getgo. The average attention span of a web browser and those engaging in social media, is limited for varied reasons. They could be listening to music, having multiple conversations, or taking a few minute break from working. If your content takes more than half a minute to digest or add value to, you'll have to work hard to find the right traffic at the right time. At best you'll have your audience's attention for a coffee break.</p>

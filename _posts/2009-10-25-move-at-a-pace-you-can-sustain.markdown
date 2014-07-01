@@ -22,13 +22,13 @@ comments:
 - id: 1503
   author: Leaving a local optima takes every ounce of our resolve
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/11/04/leaving-a-local-optima-takes-every-ounce-of-our-resolve/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/11/04/leaving-a-local-optima-takes-every-ounce-of-our-resolve/
   date: '2009-11-04 03:32:59 -0500'
   date_gmt: '2009-11-04 10:32:59 -0500'
   content: "[...] Move at a Pace You Can Sustain (victusspiritus.com) [...]"
 ---
 <h1>Why Hurry?</h1>
-<p>This is a classic trap I find myself falling into with my own work: overloading my schedule with tasks, or over complicating solutions. I don't think I got it quite right with <a href="http://www.victusspiritus.com/2009/09/14/procrastinate-until-youre-ready/">Procrastinate Until You're Ready</a>, or <a href="http://www.victusspiritus.com/2009/09/20/run-as-fast-as-you-can-push-yourself/">Run As Fast as You Can, Push Yourself</a>. One wonderful feature of blogging is being able to iterate on a concept.</p>
+<p>This is a classic trap I find myself falling into with my own work: overloading my schedule with tasks, or over complicating solutions. I don't think I got it quite right with <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/09/14/procrastinate-until-youre-ready/">Procrastinate Until You're Ready</a>, or <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/09/20/run-as-fast-as-you-can-push-yourself/">Run As Fast as You Can, Push Yourself</a>. One wonderful feature of blogging is being able to iterate on a concept.</p>
 <p style="padding-left: 30px;">If you are working for someone else on an hourly basis, they will instinctively push you to get more done faster. I don't know about you, but I feel rebellious to this type of whip cracking behavior.</p>
 <p style="padding-left: 30px;">If we are working on a project of our passion, solo or in collaboration, we feel compelled to put every ounce of our free time into it. We believe by spending more time on the project we'll see great improvement in results.</p>
 <p>I believe in both of the above cases, we fall prey to a fallacy. The error is in believing the results of our work is a predictable function, or even a directly linear function (pay per hour). The painful truth is that sometimes our labor will result in needless complexity that will cost us many hours to repair downstream. Other times we'll see no benefit from working more on a specific task in a preset way (reached a local optima). Finally, there are glorious moments when everything clicks, and we have breakthrough value creation days (I don't have the silver key to unlocking these days, but I'm trying).</p>

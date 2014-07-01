@@ -9,7 +9,7 @@ author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<p style=\"text-align: center;\"></p>\r\n\r\n<p style=\"text-align: center;\"><a
   href=\"http://en.wikipedia.org/wiki/Thelma_&amp;_Louise\"><img class=\"aligncenter
-  size-full wp-image-1236\" title=\"thelmaandlouise\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/08/thelmaandlouise.jpg\"
+  size-full wp-image-1236\" title=\"thelmaandlouise\" src=\"{{ site.url }}/assets/2009/08/thelmaandlouise.jpg\"
   alt=\"thelmaandlouise\" width=\"318\" height=\"228\" /></a>\r\nThere they go! But
   at least <em>they're</em> happy.\r\n\r\n<object classid=\"clsid:d27cdb6e-ae6d-11cf-96b8-444553540000\"
   width=\"480\" height=\"385\" codebase=\"http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0\"><param
@@ -85,14 +85,14 @@ comments:
   author: 'Choice is Beauty: Why I&#8217;m leaving Apple Mobile for Android &raquo;
     Victus Spiritus'
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/02/07/choice-is-beauty-why-im-leaving-apple-mobile-for-android/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/02/07/choice-is-beauty-why-im-leaving-apple-mobile-for-android/
   date: '2010-02-07 05:59:00 -0500'
   date_gmt: '2010-02-07 12:59:00 -0500'
   content: "[...] Apple &amp; AT&amp;T are Pulling a Thelma &amp; Louise [...]"
 - id: 7662
   author: Incompatible Apple Products &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/12/04/incompatible-apple-products/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/12/04/incompatible-apple-products/
   date: '2010-12-04 04:48:47 -0500'
   date_gmt: '2010-12-04 11:48:47 -0500'
   content: "[...]  04Dec 2010  Mark Essel   TweetI&#8217;ll begin by stating I&#8217;m
@@ -100,7 +100,7 @@ comments:
     I changed from a windows user early this year into a big [...]"
 ---
 <p style="text-align: center;">
-<p style="text-align: center;"><a href="http://en.wikipedia.org/wiki/Thelma_&amp;_Louise"><img class="aligncenter size-full wp-image-1236" title="thelmaandlouise" src="http://www.victusspiritus.com/wp-content/uploads/2009/08/thelmaandlouise.jpg" alt="thelmaandlouise" width="318" height="228" /></a><br />
+<p style="text-align: center;"><a href="http://en.wikipedia.org/wiki/Thelma_&amp;_Louise"><img class="aligncenter size-full wp-image-1236" title="thelmaandlouise" src="{{ site.url }}/assets/2009/08/thelmaandlouise.jpg" alt="thelmaandlouise" width="318" height="228" /></a><br />
 There they go! But at least <em>they're</em> happy.</p>
 <p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="480" height="385" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/j97SBEE-Tkw&amp;hl=en&amp;fs=1&amp;color1=0x006699&amp;color2=0x54abd6" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="480" height="385" src="http://www.youtube.com/v/j97SBEE-Tkw&amp;hl=en&amp;fs=1&amp;color1=0x006699&amp;color2=0x54abd6" allowscriptaccess="always" allowfullscreen="true"></embed></object><br />
 (pardon a little geek rage but I find nothing more frustrating then when company's make boneheaded business decisions)</p>

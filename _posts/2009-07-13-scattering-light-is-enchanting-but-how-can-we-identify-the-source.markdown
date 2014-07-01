@@ -9,7 +9,7 @@ author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<a href=\"http://www.dailymail.co.uk/sciencetech/article-1199352/Red-sky-night-Heavens-turn-crimson-Britain-Russian-volcano-erupts.html\"><img
   class=\"aligncenter size-full wp-image-1055\" title=\"ScatteredLightIsBeautiful\"
-  src=\"http://www.victusspiritus.com/wp-content/uploads/2009/07/ScatteredLightIsBeautiful1.jpg\"
+  src=\"{{ site.url }}/assets/2009/07/ScatteredLightIsBeautiful1.jpg\"
   alt=\"ScatteredLightIsBeautiful\" width=\"480\" height=\"169\" /></a>\r\n<p style=\"text-align:
   center; \">Thanks to www.dailymail.co.uk for hosting this image</p>\r\n\r\n<h2>Scattered
   Light</h2>\r\n<p style=\"text-align: left; \">The image above is explained on the
@@ -41,7 +41,7 @@ tags:
 - design
 comments: []
 ---
-<p><a href="http://www.dailymail.co.uk/sciencetech/article-1199352/Red-sky-night-Heavens-turn-crimson-Britain-Russian-volcano-erupts.html"><img class="aligncenter size-full wp-image-1055" title="ScatteredLightIsBeautiful" src="http://www.victusspiritus.com/wp-content/uploads/2009/07/ScatteredLightIsBeautiful1.jpg" alt="ScatteredLightIsBeautiful" width="480" height="169" /></a></p>
+<p><a href="http://www.dailymail.co.uk/sciencetech/article-1199352/Red-sky-night-Heavens-turn-crimson-Britain-Russian-volcano-erupts.html"><img class="aligncenter size-full wp-image-1055" title="ScatteredLightIsBeautiful" src="{{ site.url }}/assets/2009/07/ScatteredLightIsBeautiful1.jpg" alt="ScatteredLightIsBeautiful" width="480" height="169" /></a></p>
 <p style="text-align: center; ">Thanks to www.dailymail.co.uk for hosting this image</p>
 <h2>Scattered Light</h2>
 <p style="text-align: left; ">The image above is explained on the site it was shared from (<a href="http://www.dailymail.co.uk/sciencetech/article-1199352/Red-sky-night-Heavens-turn-crimson-Britain-Russian-volcano-erupts.html">Mail Online</a>):</p>

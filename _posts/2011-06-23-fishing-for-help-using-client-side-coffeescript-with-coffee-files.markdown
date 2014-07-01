@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 9330
-wordpress_url: http://www.victusspiritus.com/2011/06/23/fishing-for-help-using-client-side-coffeescript-with-coffee-files/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/06/23/fishing-for-help-using-client-side-coffeescript-with-coffee-files/
 date: '2011-06-23 05:01:35 -0400'
 date_gmt: '2011-06-23 12:01:35 -0400'
 categories:
@@ -63,7 +63,7 @@ comments:
 <ol>
 <li>Here are a few client side CoffeeScript hacks:
 <ul>
-<li><a href="http://www.victusspiritus.com/2011/05/30/clientside-coffeescript-with-jquery/">Client side intro</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/05/30/clientside-coffeescript-with-jquery/">Client side intro</a></li>
 <li><a href="http://victusfate.github.com/html5_layered_ripple/">Html5 Layered Ripple</a></li>
 <li><a href="http://victusfate.github.com/html5_chaos/">html5 chaos</a></li>
 </ul>

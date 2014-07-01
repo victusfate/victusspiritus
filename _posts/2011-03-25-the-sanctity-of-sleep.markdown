@@ -112,9 +112,9 @@ comments:
 <p>^= <a href="http://charliecrystle.com/2011/03/23/the-internet-never-sleeps-or-getting-things-done/">Charlie Crystle</a> developed an app called Focus which monitored and cut off specific communication channels. His instincts are definitely on to something, but the interface demands the browser constantly be in control. Maybe a monitoring app that yields minutes visiting various information or social sites. Do browser histories already store this information? </p>
 <p>Related posts to rest and subconscious processing:</p>
 <ul>
-<li><a href="http://www.victusspiritus.com/2009/10/26/i-dream-of-deus-ex-machina/">Dream of Deus ex Machina</a></li>
-<li><a href="http://www.victusspiritus.com/2010/02/10/sleep-dep-not-all-bad-for-creatives/">Sleep Dep not all bad for creatives</a></li>
-<li><a href="http://www.victusspiritus.com/2009/09/27/enhanced-vital-energy/">Enhanced Vital Energy</a></li>
-<li><a href="http://www.victusspiritus.com/2010/08/10/locate-the-minimize-button-for-exhaustion/">Locate the Minimize Button for Exhaustion</a></li>
-<li><a href="http://www.victusspiritus.com/2010/08/04/our-minds-never-tire-of-simulating-reality/">Our Minds Never Tire of Simulating Reality</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/10/26/i-dream-of-deus-ex-machina/">Dream of Deus ex Machina</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/02/10/sleep-dep-not-all-bad-for-creatives/">Sleep Dep not all bad for creatives</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/09/27/enhanced-vital-energy/">Enhanced Vital Energy</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/08/10/locate-the-minimize-button-for-exhaustion/">Locate the Minimize Button for Exhaustion</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/08/04/our-minds-never-tire-of-simulating-reality/">Our Minds Never Tire of Simulating Reality</a></li>
 </ul>

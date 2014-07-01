@@ -18,7 +18,7 @@ comments:
 - id: 1583
   author: The Danger of Working with Machines Nonstop
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/11/07/the-danger-of-working-with-machines-nonstop/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/11/07/the-danger-of-working-with-machines-nonstop/
   date: '2009-11-09 04:59:39 -0500'
   date_gmt: '2009-11-09 11:59:39 -0500'
   content: "[...] competition between more or less structured design methodologies.
@@ -26,7 +26,7 @@ comments:
     more disciplined design [...]"
 ---
 <h1 style="font-size: 2em;">Survival of the fittest</h1>
-<p>This is follow up commentary to this morning's share, <a href="http://www.victusspiritus.com/2009/10/24/evolutionary-engineering-linus-torvalds-preference/">Evolutionary Engineering, Linus Torvalds' Preference</a>.</p>
+<p>This is follow up commentary to this morning's share, <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/10/24/evolutionary-engineering-linus-torvalds-preference/">Evolutionary Engineering, Linus Torvalds' Preference</a>.</p>
 <p>If we agree with Linus' sentiment (and I do) in regards to evolutionary engineerings advantages over carefully controlled methods, there are some interesting implications for the early design of projects. Long term direction should be left purposely vague and open, with only a nod of the head in a general direction (in Linus' case, unix). It's reasonable to accept that we are all essentially blind to the long term future. Instead of trying to predict it accurately a few years in advance, we are best to make several independent short term guesses in parallel. Life has been successful thus far by not putting all it's eggs in one basket. There are somewhere between <a href="http://www.wri.org/publication/content/8202">1.4 - 100 million different species</a> on Earth all evolving along different paths. Many species die off in a few generations while some may last for hundreds of millions of years. Perhaps this is related to why there are so many flavors of Linux (and Unix, and operating systems in general). Kevin Kelly makes a compelling analogy from <a href="http://www.kk.org/thetechnium/archives/2009/04/ordained-becomi.php">biological to technological evolution</a>, and I suspect he and Linus Torvalds may share a vision of technological change.</p>
 <p>Given that we are limited by whatever resources we can muster we need to make some tough decisions on how to proceed with a project. Evolutionary forces on technology doesn't benefit a total lack of planning. Here's a suggested path to begin project design:</p>
 <ol>

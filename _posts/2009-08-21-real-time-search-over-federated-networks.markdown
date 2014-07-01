@@ -21,7 +21,7 @@ comments:
 - id: 3243
   author: Open Web Protocols and Discussion Groups &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/03/08/open-web-protocols-and-discussion-groups/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/03/08/open-web-protocols-and-discussion-groups/
   date: '2010-03-08 06:17:47 -0500'
   date_gmt: '2010-03-08 13:17:47 -0500'
   content: "[...] to get involved by getting feedback on a couple of protocol ideas

@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 1790
-wordpress_url: http://www.victusspiritus.com/2009/10/05/vicarious-good-days-ahead/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/10/05/vicarious-good-days-ahead/
 date: '2009-10-05 03:40:16 -0400'
 date_gmt: '2009-10-05 10:40:16 -0400'
 categories:

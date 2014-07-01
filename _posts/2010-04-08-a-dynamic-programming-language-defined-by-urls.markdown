@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 3522
-wordpress_url: http://www.victusspiritus.com/2010/04/08/a-dynamic-programming-language-defined-by-urls/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/04/08/a-dynamic-programming-language-defined-by-urls/
 date: '2010-04-08 04:55:04 -0400'
 date_gmt: '2010-04-08 11:55:04 -0400'
 categories:
@@ -55,7 +55,7 @@ comments:
   author: Instant Utility, Optimal Execution, &amp; Syntactic Sugar &laquo; Victus
     Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/04/20/instant-utility-optimal-execution-syntactic-sugar/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/04/20/instant-utility-optimal-execution-syntactic-sugar/
   date: '2010-04-20 07:04:54 -0400'
   date_gmt: '2010-04-20 14:04:54 -0400'
   content: "[...] JavaScript translations of Ruby (Red &amp; RubyJS) bring ruby to

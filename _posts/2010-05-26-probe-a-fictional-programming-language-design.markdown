@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 3967
-wordpress_url: http://www.victusspiritus.com/2010/05/26/probe-a-fictional-programming-language-design/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/05/26/probe-a-fictional-programming-language-design/
 date: '2010-05-26 08:06:05 -0400'
 date_gmt: '2010-05-26 15:06:05 -0400'
 categories:
@@ -45,7 +45,7 @@ comments:
 - id: 4427
   author: Transient Technology, how probe may handle interface mapping - Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/05/28/transient-technology-how-probe-may-handle-interface-mapping/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/05/28/transient-technology-how-probe-may-handle-interface-mapping/
   date: '2010-05-28 06:29:57 -0400'
   date_gmt: '2010-05-28 13:29:57 -0400'
   content: "[...] couple of days ago I described the beginning of a top down designed

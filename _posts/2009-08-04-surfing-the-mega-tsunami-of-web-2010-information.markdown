@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<a href=\"http://www.flickr.com/photos/thelastminute/\"><img class=\"aligncenter
-  size-full wp-image-1268\" title=\"SurfingBigWaves\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/08/SurfingBigWaves.jpg\"
+  size-full wp-image-1268\" title=\"SurfingBigWaves\" src=\"{{ site.url }}/assets/2009/08/SurfingBigWaves.jpg\"
   alt=\"SurfingBigWaves\" width=\"480\" height=\"335\" /></a>\r\n<h2>Your Input Information
   Stream is Wide Band</h2>\r\nIn order to move past the limitation of our maximum
   effective information channel, we need the assistance of advanced tools. Current
@@ -39,7 +39,7 @@ comments:
   content: Yeah!! Big waves. Id Like Surf. <h1 style="font-size:10px;"><a href="http://www.sksbr.com.br"
     style="text-decoration:none; color:#000;" rel="nofollow">SurfWear 2010</a></h1>
 ---
-<p><a href="http://www.flickr.com/photos/thelastminute/"><img class="aligncenter size-full wp-image-1268" title="SurfingBigWaves" src="http://www.victusspiritus.com/wp-content/uploads/2009/08/SurfingBigWaves.jpg" alt="SurfingBigWaves" width="480" height="335" /></a></p>
+<p><a href="http://www.flickr.com/photos/thelastminute/"><img class="aligncenter size-full wp-image-1268" title="SurfingBigWaves" src="{{ site.url }}/assets/2009/08/SurfingBigWaves.jpg" alt="SurfingBigWaves" width="480" height="335" /></a></p>
 <h2>Your Input Information Stream is Wide Band</h2>
 <p>In order to move past the limitation of our maximum effective information channel, we need the assistance of advanced tools. Current filters provide some aid but require our time to setup and regularly deploy. In addition our filters may be on keywords or tags that are never actually mentioned in an extremely relevant message. The challenge for developers is leveraging existing algorithms and database techniques to help us automatically sift through the ever increasing information wave.<a id="more"></a><a id="more-1267"></a></p>
 <h2>Essential Information</h2>

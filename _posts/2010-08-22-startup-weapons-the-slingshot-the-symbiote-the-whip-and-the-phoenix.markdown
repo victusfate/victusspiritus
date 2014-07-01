@@ -81,7 +81,7 @@ comments:
 - id: 8940
   author: Startup Strategies that Survive, Prosper, and Win &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/02/12/startup-strategies-that-survive-prosper-and-win/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/02/12/startup-strategies-that-survive-prosper-and-win/
   date: '2011-02-12 19:52:42 -0500'
   date_gmt: '2011-02-13 02:52:42 -0500'
   content: "[...] Startup Weapons: The Slightshot, the Symbiote, the Whip and the
@@ -101,7 +101,7 @@ Imagine a specific resource expended by your startup accelerated to be 100 times
 Big companies self optimize to extract all the profit they can out of a market cycle, but are often unable to transition to new markets. Their complicated structure proves fragile in the face of the winds of time.</p>
 <p>Just when a huge market and its massive corporations crumble into a heap of smoldering ashes, a new spark appears. This spark finds latent value in the remnants of large businesses that failed to transition. A handful of employees apply critical knowledge and skills mastered within the burning titan to an emerging market need^. This small project then leads to a bright new startup, the Phoenix flies again.</p>
 <p>Special thanks to my my friend <a href="http://www.twitter.com/vsagarv">Vijaya Sagar the Fifth</a> cofounder of <a href="http://shufflr.tv">Shufflr</a> and Althea Systems for his continued enthusiasm and planting the phoenix reference in my mind:</p>
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/08/l_320_257_7EA34B4C-B5D3-4717-AABA-3A6A5EA5FBDA.jpeg"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/08/l_320_257_7EA34B4C-B5D3-4717-AABA-3A6A5EA5FBDA.jpeg" alt="" class="alignnone size-full" /></a></p>
+<p><a href="{{ site.url }}/assets/2010/08/l_320_257_7EA34B4C-B5D3-4717-AABA-3A6A5EA5FBDA.jpeg"><img src="{{ site.url }}/assets/2010/08/l_320_257_7EA34B4C-B5D3-4717-AABA-3A6A5EA5FBDA.jpeg" alt="" class="alignnone size-full" /></a></p>
 <p>Notes:<br />
 *= It may be advantageous to have hyper focused market businesses working separately from Whip like execution startups. Do any venture or angel firms work like this?</p>
 <p>^= Or a shrewd investor buys capital goods or IP for pennies on the dollar and repurposes them. Alternatively, one customer is willing to pay a premium for the now defunct products of the old company. Who builds parts and repairs SGIs?</p>

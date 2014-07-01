@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 8927
-wordpress_url: http://www.victusspiritus.com/2011/05/17/rails-3-1beta-deployed-to-heroku-from-your-iphone/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/05/17/rails-3-1beta-deployed-to-heroku-from-your-iphone/
 date: '2011-05-17 06:24:12 -0400'
 date_gmt: '2011-05-17 13:24:12 -0400'
 categories:
@@ -21,7 +21,7 @@ comments:
 - id: 9985
   author: Imagebrowser Rails app ported from 2.3.4 to 3.1beta &mdash; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/05/18/imagebrowser-rails-app-ported-from-2-3-4-to-3-1beta/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/05/18/imagebrowser-rails-app-ported-from-2-3-4-to-3-1beta/
   date: '2011-05-18 06:57:32 -0400'
   date_gmt: '2011-05-18 13:57:32 -0400'
   content: "[...] and rails 2.3.4 to MRI 1.9.2 and rails 3.1beta. I&#8217;ve discussed

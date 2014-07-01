@@ -34,7 +34,7 @@ comments:
     speed back into the present moment :\n\n<b>Evolution of Technology and the Human
     Race</b>\nhttp://www.youtube.com/watch?v=JcSzqm5Whwc\n\nand then jump back into
     the present moment and appreciate the perspective of another being :\n\n<b>Mark
-    Essel Post July 2011</b>\nhttp://www.victusspiritus.com/2011/07/16/a-blast-from-the-past-legacy-tech/\n\nAll
+    Essel Post July 2011</b>\nhttp://victusfate.github.io/victusspiritus/uncategorized/2011/07/16/a-blast-from-the-past-legacy-tech/\n\nAll
     of that shows me that history is the social value stream that each of us can draw
     out.  There are far too many streams of history to pull together as one all-telling
     whole - we can appreciate history because history is but one form of technology

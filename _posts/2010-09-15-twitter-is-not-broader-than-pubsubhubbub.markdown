@@ -86,9 +86,9 @@ comments:
     uses technology we already have. We need to think more out of the box.
 ---
 <p>How can something like this:</p>
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/09/1910telephoneexchange.jpg"><img class="aligncenter size-full wp-image-5198" title="1910telephoneexchange" src="http://www.victusspiritus.com/wp-content/uploads/2010/09/1910telephoneexchange.jpg" alt="" width="597" height="380" /></a></p>
+<p><a href="{{ site.url }}/assets/2010/09/1910telephoneexchange.jpg"><img class="aligncenter size-full wp-image-5198" title="1910telephoneexchange" src="{{ site.url }}/assets/2010/09/1910telephoneexchange.jpg" alt="" width="597" height="380" /></a></p>
 <p>be broader than something like this:</p>
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/09/internet.jpg"><img class="aligncenter size-full wp-image-5199" title="internet" src="http://www.victusspiritus.com/wp-content/uploads/2010/09/internet.jpg" alt="" width="800" height="533" /></a></p>
+<p><a href="{{ site.url }}/assets/2010/09/internet.jpg"><img class="aligncenter size-full wp-image-5199" title="internet" src="{{ site.url }}/assets/2010/09/internet.jpg" alt="" width="800" height="533" /></a></p>
 <p>Right on <a href="http://www.google.com/profiles/116969159384245484847">Brett Slatkin</a> !<br />
 <a href="http://www.google.com/buzz/bslatkin/Ue1EA9BfSKx">http://www.google.com/buzz/bslatkin/Ue1EA9BfSKx</a></p>
 <p>Brett Slatkins buzz:</p>

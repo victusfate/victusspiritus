@@ -112,7 +112,7 @@ comments:
   author: Mobility may be Marvelous but Ubiquitous Access is Disruptive &mdash; Victus
     Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/04/12/mobility-may-be-marvelous-but-ubiquitous-access-is-disruptive/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/04/12/mobility-may-be-marvelous-but-ubiquitous-access-is-disruptive/
   date: '2011-04-12 06:20:50 -0400'
   date_gmt: '2011-04-12 13:20:50 -0400'
   content: "[...] monopolies and celebrate or vilify parasitic relationships  //   Share
@@ -124,7 +124,7 @@ comments:
 <p>The result is a parasitic relationship, where one party enjoys a disproportionate share of value from the majority of their exchanges. This is not merely a case of huge leverage and fees. Even if the discrepancy is minute per exchange, when scaled to millions or billions of transactions, a significant margin is recognized.</p>
 <p><I>The Counter to Parasitic Growth is Competition</I></p>
 <p>Beyond direct competition, which only leads to more efficient parasitic behavior, there's a force which diminishes market wide systematic opportunities, and efficient markets naturally trend towards this state (not to be confused with equilibrium). <br />
-<a href="http://www.victusspiritus.com/2011/02/12/startup-strategies-that-survive-prosper-and-win/">Commoditizing the complement</a> is a well understood tactic for startups and mature businesses, at least <a href="http://www.joelonsoftware.com/articles/StrategyLetterV.html">Joel</a> and <a href="http://cdixon.org/2009/12/30/whats-strategic-for-google/">Chris</a> seem to think so. Why not extend this strategy to dissuade parasites from specific fields by decreasing their margins to zero. If your market is paying an 8% liquidation tax (relative size of financial industry to the US GDP) or a loan with a 10,000% interest rate over 5 years, it's a perfect time to collaboratively create and contribute to low cost alternatives. Ultimately the market will judge the quality of your labor without hesitating. Is it beneficial, additive, multiplicative, or a necessary parasitic force.</p>
+<a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/02/12/startup-strategies-that-survive-prosper-and-win/">Commoditizing the complement</a> is a well understood tactic for startups and mature businesses, at least <a href="http://www.joelonsoftware.com/articles/StrategyLetterV.html">Joel</a> and <a href="http://cdixon.org/2009/12/30/whats-strategic-for-google/">Chris</a> seem to think so. Why not extend this strategy to dissuade parasites from specific fields by decreasing their margins to zero. If your market is paying an 8% liquidation tax (relative size of financial industry to the US GDP) or a loan with a 10,000% interest rate over 5 years, it's a perfect time to collaboratively create and contribute to low cost alternatives. Ultimately the market will judge the quality of your labor without hesitating. Is it beneficial, additive, multiplicative, or a necessary parasitic force.</p>
 <p>I'm not suggesting that life should be fair, and that everyone should enjoy equal wealth and health. <br />
 I don't belief value is equitably created or distributed, nor is wealth creation a zero sum game. Our time may be spent on creating nascent value through directed effort or siphoning value from others. </p>
 <p>That said not all efforts are productive, and even the best intentions don't guarantee the creation of value, let's not forget gratuitous errors in judgement or lady luck.  </p>

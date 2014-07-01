@@ -72,7 +72,7 @@ comments:
   author: 'Discrete Intervals of Work and Play: Minimax Productivity &mdash; Victus
     Spiritus'
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/06/17/discrete-intervals-of-work-and-play-minimax-productivity/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/06/17/discrete-intervals-of-work-and-play-minimax-productivity/
   date: '2011-06-17 06:31:47 -0400'
   date_gmt: '2011-06-17 13:31:47 -0400'
   content: "[...]  June 17, 2011     TweetThis morning&#8217;s riff is a natural extension

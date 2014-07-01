@@ -78,7 +78,7 @@ comments:
 - id: 7373
   author: I don&#8217;t miss cable tv &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/11/04/i-dont-miss-cable-tv/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/11/04/i-dont-miss-cable-tv/
   date: '2010-11-04 05:26:53 -0400'
   date_gmt: '2010-11-04 12:26:53 -0400'
   content: "[...] miss cable tv  04Nov 2010  Mark Essel   TweetAs I waited at Firestone

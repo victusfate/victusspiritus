@@ -47,7 +47,7 @@ comments:
 - id: 124
   author: Monetization for Web2010
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/06/21/monetization-for-web2010/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/06/21/monetization-for-web2010/
   date: '2009-06-21 07:25:34 -0400'
   date_gmt: '2009-06-21 14:25:34 -0400'
   content: "[...] twitter is on the verge of eating Google for breakfast, here’s why
@@ -55,7 +55,7 @@ comments:
 - id: 277
   author: How to Web Market and Use Social Media
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/04/24/how-to-web-market-and-use-social-media/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/04/24/how-to-web-market-and-use-social-media/
   date: '2009-07-28 11:51:08 -0400'
   date_gmt: '2009-07-28 18:51:08 -0400'
   content: "[...] to acquire twitter, it makes money - It appears I jumped the gun

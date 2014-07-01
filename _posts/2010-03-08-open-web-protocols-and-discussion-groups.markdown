@@ -30,14 +30,14 @@ comments:
 - id: 3248
   author: The User Service Bargain, Social Web Services &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/03/09/the-user-service-bargain-social-web-services/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/03/09/the-user-service-bargain-social-web-services/
   date: '2010-03-09 07:12:14 -0500'
   date_gmt: '2010-03-09 14:12:14 -0500'
   content: "[...] friendfeed        Open Web Protocols and Discussion Groups [...]"
 - id: 3306
   author: Data Silos or a Social Web Pattern &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/03/13/data-silos-or-a-social-web-pattern/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/03/13/data-silos-or-a-social-web-pattern/
   date: '2010-03-13 07:22:50 -0500'
   date_gmt: '2010-03-13 14:22:50 -0500'
   content: "[...] nearly everything with a distributed open social web (search is
@@ -56,7 +56,7 @@ comments:
 - id: 4328
   author: Personal Social Gardens that Live in the Browser
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/05/16/personal-social-gardens-that-live-in-the-browser/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/05/16/personal-social-gardens-that-live-in-the-browser/
   date: '2010-05-16 08:18:13 -0400'
   date_gmt: '2010-05-16 15:18:13 -0400'
   content: "[...] Open Web Protocols &amp; Discussion Groups [...]"
@@ -71,21 +71,21 @@ comments:
 - id: 8941
   author: Startup Strategies that Survive, Prosper, and Win &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/02/12/startup-strategies-that-survive-prosper-and-win/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/02/12/startup-strategies-that-survive-prosper-and-win/
   date: '2011-02-12 19:52:57 -0500'
   date_gmt: '2011-02-13 02:52:57 -0500'
   content: "[...] Open Web Protocols [...]"
 - id: 9699
   author: One line installs, One button deploys &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/03/28/one-line-installs-one-button-deploys/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/03/28/one-line-installs-one-button-deploys/
   date: '2011-03-28 06:18:35 -0400'
   date_gmt: '2011-03-28 13:18:35 -0400'
   content: "[...] my hands dirty. When I wanted to better understand distributed social
     networks, I was introduced to open social protocols which transcend corporate
     silos. When I wanted to leverage and learn from social coding, I was [...]"
 ---
-<p><a href="http://www.stuckincustoms.com"><img class="alignnone size-full" src="http://www.victusspiritus.com/wp-content/uploads/2010/03/l_500_306_BA184073-BB2C-45AB-836E-DA812368934A.jpeg" alt="" /></a><br />
+<p><a href="http://www.stuckincustoms.com"><img class="alignnone size-full" src="{{ site.url }}/assets/2010/03/l_500_306_BA184073-BB2C-45AB-836E-DA812368934A.jpeg" alt="" /></a><br />
 I suffered a deluge of information yesterday from my compatriot Tyler on the state of open protocols. My first challenge was to get a feel for the nomenclature and understand the differences between protocols, open source implementations, and specific server instances using those protocols. Only then can I help come up with a plan for how to incorporate the future state of the web information flow. Ideally we'd like to position <a href="http://victusmedia.com">Victus Media</a> to utilize open message formats (Tyler's on it).</p>
 <p>This is by no means a complete list but it captures many of the topics we discussed yesterday (and it's a cheat sheet for me to look back to):</p>
 <ul>
@@ -93,7 +93,7 @@ I suffered a deluge of information yesterday from my compatriot Tyler on the sta
 <blockquote><p>The Open Web Foundation is an attempt to create a home for community-driven specifications. Following the open source model similar to the Apache Software Foundation, the foundation is aimed at building a lightweight framework to help communities deal with the legal requirements necessary to create successful and widely adopted specification.</p>
 <p>The foundation is trying to break the trend of creating separate foundations for each specification, coming out of the realization that we could come together and generalize our efforts. The details regarding membership, governance, sponsorship, and intellectual property rights will be posted for public review and feedback in the following weeks.</p>
 <p>As we work out the fine details of the foundation, we invite and encourage individuals to come and join the discussion. To ask questions please visit our Q&amp;A page. You are also invited to join the community and discuss ideas and specifications you would like to see developed within the foundation.</p></blockquote>
-<p>I'm attempting to get involved by getting feedback on a couple of protocol ideas I was batting around. One <a href="http://www.victusspiritus.com/2009/08/21/real-time-search-over-federated-networks/">search like status</a> that will attempt to deal with distributed search over federated servers, and the other <a href="http://www.victusspiritus.com/2010/01/10/metaprotocols-minimize-restrictions-on-communication-network-evolution/">meta protocols</a> in the hopes of having a description language to generate protocols on the fly (I just found out this morning <a href="http://portal.acm.org/citation.cfm?id=1023373">this idea</a> may be <a href="http://www.cs.gmu.edu/~menasce/mp-pat/mp-abstract.html">patented</a>)</li>
+<p>I'm attempting to get involved by getting feedback on a couple of protocol ideas I was batting around. One <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/08/21/real-time-search-over-federated-networks/">search like status</a> that will attempt to deal with distributed search over federated servers, and the other <a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/01/10/metaprotocols-minimize-restrictions-on-communication-network-evolution/">meta protocols</a> in the hopes of having a description language to generate protocols on the fly (I just found out this morning <a href="http://portal.acm.org/citation.cfm?id=1023373">this idea</a> may be <a href="http://www.cs.gmu.edu/~menasce/mp-pat/mp-abstract.html">patented</a>)</li>
 <li><a href="http://code.google.com/p/pubsubhubbub/">Pubsubhubbub or Push</a><br />
 <blockquote><p>A simple, open, server-to-server web-hook-based pubsub (publish/subscribe) protocol as an extension to Atom and RSS.</p>
 <p>Parties (servers) speaking the PubSubHubbub protocol can get near-instant notifications (via webhook callbacks) when a topic (feed URL) they're interested in is updated.</p>

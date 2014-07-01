@@ -8,11 +8,11 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<a href=\"http://www.flickr.com/photos/mikebaird/\"><img class=\"aligncenter
-  size-full wp-image-1500\" title=\"Swing\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/09/Swing.jpg\"
+  size-full wp-image-1500\" title=\"Swing\" src=\"{{ site.url }}/assets/2009/09/Swing.jpg\"
   alt=\"Swing\" width=\"480\" height=\"320\" /></a>If you enjoy the vernacular creep
   from sports to business you've heard this before. Two contrasting methodologies
   are \"swinging for the fences\" or getting a series of base hits. A follow on to
-  <a href=\"http://www.victusspiritus.com/2009/05/06/influence-is-earned-by-inches-yet-instantly-we-recognize-a-star/\">influence
+  <a href=\"http://victusfate.github.io/victusspiritus/uncategorized/2009/05/06/influence-is-earned-by-inches-yet-instantly-we-recognize-a-star/\">influence
   is earned by inches</a>, in this post I'll begin to contrast the merits and flaws
   of these polarized work styles and find plausible domains for each strategy.\r\n\r\nExperienced
   marketing leaders have shed some light on the design and implementation strategies
@@ -32,7 +32,7 @@ tags:
 - far out
 comments: []
 ---
-<p><a href="http://www.flickr.com/photos/mikebaird/"><img class="aligncenter size-full wp-image-1500" title="Swing" src="http://www.victusspiritus.com/wp-content/uploads/2009/09/Swing.jpg" alt="Swing" width="480" height="320" /></a>If you enjoy the vernacular creep from sports to business you've heard this before. Two contrasting methodologies are "swinging for the fences" or getting a series of base hits. A follow on to <a href="http://www.victusspiritus.com/2009/05/06/influence-is-earned-by-inches-yet-instantly-we-recognize-a-star/">influence is earned by inches</a>, in this post I'll begin to contrast the merits and flaws of these polarized work styles and find plausible domains for each strategy.</p>
+<p><a href="http://www.flickr.com/photos/mikebaird/"><img class="aligncenter size-full wp-image-1500" title="Swing" src="{{ site.url }}/assets/2009/09/Swing.jpg" alt="Swing" width="480" height="320" /></a>If you enjoy the vernacular creep from sports to business you've heard this before. Two contrasting methodologies are "swinging for the fences" or getting a series of base hits. A follow on to <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/05/06/influence-is-earned-by-inches-yet-instantly-we-recognize-a-star/">influence is earned by inches</a>, in this post I'll begin to contrast the merits and flaws of these polarized work styles and find plausible domains for each strategy.</p>
 <p>Experienced marketing leaders have shed some light on the design and implementation strategies that have worked for them. But the effective tactics outlined are based on perserverance by repeatedly realizing short term goals. This method builds up businesses, communities, or influence incrementally and results in long term value. It's great if your timeline allows for it, but there are many exceptions.<a id="more"></a><a id="more-1483"></a></p>
 <p>If you're working on a project that has the potential to disrupt an entire business sector, slow and steady isn't going to cut it. By acting quickly and swinging for the fences you enable your business the opportunity for unmatched success. The stakes and risks are higher compared to more conservative strategies.</p>
 <p>For instance, a technology that enabled  efficient communication over a new wireless broadband could superseed the wired Internet. Of course it would communicate with the existing network but would be the new default data transmission infrastructure. A form of personalized relevant semantic search that "knew" user interests could erode at the usage of current search technologies. A cheap form of <a class="zem_slink" title="Renewable Energy" rel="wikinvest" href="http://www.wikinvest.com/industry/Renewable_Energy">renewable energy</a> could replace carbon based fossil fuels. Wireless relays* of power over great distances could even displace our current power grid.</p>

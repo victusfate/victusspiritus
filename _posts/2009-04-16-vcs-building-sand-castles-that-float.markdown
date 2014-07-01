@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<p style=\"text-align: center;\"><a href=\"http://www.flickr.com/photos/johanl/\"><img
-  class=\"aligncenter size-full wp-image-201\" title=\"sandcastle\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/04/sandcastle.jpg\"
+  class=\"aligncenter size-full wp-image-201\" title=\"sandcastle\" src=\"{{ site.url }}/assets/2009/04/sandcastle.jpg\"
   alt=\"sandcastle\" width=\"614\" height=\"461\" /></a></p>\r\n\r\nMo Koyfman's post
   <a href=\"http://www.mokoyfman.com/post/91637951/first-destruction-then-creation\">\"First
   Destruction, Then Creation\"</a> challenged my imagination of the ideal information
@@ -35,12 +35,12 @@ comments:
 - id: 121
   author: Monetization for Web2010
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/06/21/monetization-for-web2010/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/06/21/monetization-for-web2010/
   date: '2009-06-21 06:28:30 -0400'
   date_gmt: '2009-06-21 13:28:30 -0400'
   content: "[...] VCs building sand castles that float [...]"
 ---
-<p style="text-align: center;"><a href="http://www.flickr.com/photos/johanl/"><img class="aligncenter size-full wp-image-201" title="sandcastle" src="http://www.victusspiritus.com/wp-content/uploads/2009/04/sandcastle.jpg" alt="sandcastle" width="614" height="461" /></a></p>
+<p style="text-align: center;"><a href="http://www.flickr.com/photos/johanl/"><img class="aligncenter size-full wp-image-201" title="sandcastle" src="{{ site.url }}/assets/2009/04/sandcastle.jpg" alt="sandcastle" width="614" height="461" /></a></p>
 <p>Mo Koyfman's post <a href="http://www.mokoyfman.com/post/91637951/first-destruction-then-creation">"First Destruction, Then Creation"</a> challenged my imagination of the ideal information business.  In it he briefly discusses the large gradients of change in today's economy.  The needs of our society are being fulfilled by changing business models.  Fundamentally different systems are being formed in the new market space.</p>
 <p>The following are key concerns raised by Mr. Koyfman for any emerging entrepreneur or company:</p>
 <p>"We have to start by asking what does the consumer or customer *really*<br />

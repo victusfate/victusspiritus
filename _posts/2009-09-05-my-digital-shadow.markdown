@@ -89,7 +89,7 @@ comments:
 - id: 1047
   author: 'Iter8r: Organic Crowd Shared Startup'
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/09/30/iter8r-organic-crowd-shared-startup/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/09/30/iter8r-organic-crowd-shared-startup/
   date: '2009-10-01 03:18:21 -0400'
   date_gmt: '2009-10-01 10:18:21 -0400'
   content: "[...] After a burst of emails back and forth I had both a beta account

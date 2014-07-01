@@ -17,8 +17,8 @@ tags:
 - mind
 comments: []
 ---
-<p>[caption id="attachment_6612" align="aligncenter" width="450" caption="beautiful shot of Hong Kong Trey Ratcliff"]<a href="http://www.stuckincustoms.com/2010/12/30/flowing-through-china/"><img class="size-full wp-image-6612 " title="742619186_jRix2-900x900" src="http://www.victusspiritus.com/wp-content/uploads/2011/01/742619186_jRix2-900x900.jpg" alt="" width="450" height="295" /></a>[/caption]<br />
-<em>This riff complements an earlier post <a href="http://www.victusspiritus.com/2010/09/30/end-information-addiction-digital-baggage/">End Information Addiction and Digital Baggage</a>, while shifting focus to possessions. Physical things have a tendency of growing into huge out of control mountains, if left unchecked.</em></p>
+<p>[caption id="attachment_6612" align="aligncenter" width="450" caption="beautiful shot of Hong Kong Trey Ratcliff"]<a href="http://www.stuckincustoms.com/2010/12/30/flowing-through-china/"><img class="size-full wp-image-6612 " title="742619186_jRix2-900x900" src="{{ site.url }}/assets/2011/01/742619186_jRix2-900x900.jpg" alt="" width="450" height="295" /></a>[/caption]<br />
+<em>This riff complements an earlier post <a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/09/30/end-information-addiction-digital-baggage/">End Information Addiction and Digital Baggage</a>, while shifting focus to possessions. Physical things have a tendency of growing into huge out of control mountains, if left unchecked.</em></p>
 <p><em><a href="http://en.wikipedia.org/wiki/Compulsive_hoarding">Compulsive Hoarding</a></em></p>
 <p>Instinct drives us to act as gluttons for consumables and possessions we crave. We're hard wired to associate pleasure and satisfaction with the states (imagined or real) that precede extremely positive sensations (endorphin rush). Reason dictates that poor eating habits and over expenditure leads to inevitable pain. Yet for many, the clear thinking portion of the mind is short circuited by voracious craving. Individual persona gives way to a hunger elemental.</p>
 <p><em>What you really want is priceless</em></p>

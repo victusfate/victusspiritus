@@ -17,7 +17,7 @@ tags:
 - inspiration
 comments: []
 ---
-<p><a href="http://www.stuckincustoms.com"><img class="aligncenter size-full wp-image-2358" title="New York City is Alive and Well" src="http://www.victusspiritus.com/wp-content/uploads/2009/11/NewYorkisAliveAndWell.jpg" alt="New York City is Alive and Well" width="480" height="330" /></a><br />
+<p><a href="http://www.stuckincustoms.com"><img class="aligncenter size-full wp-image-2358" title="New York City is Alive and Well" src="{{ site.url }}/assets/2009/11/NewYorkisAliveAndWell.jpg" alt="New York City is Alive and Well" width="480" height="330" /></a><br />
 This picture from Trey really captures the feel of Times Square this time of year. The <a href="http://www.nbc.com/Macys_Parade/">Thanksgiving parade</a> will be going through there shortly, props to Macy's and all the folks that contribute to it.</p>
 <h2>Home is friends and family</h2>
 <p>For students and many workers it's a long weekend. We're afforded the luxury of catching up with the people who are very much a part of who we are today. </p>

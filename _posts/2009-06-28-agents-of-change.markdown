@@ -9,7 +9,7 @@ author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<p style=\"text-align: center;\"><a href=\"http://www.flickr.com/photos/nostri-imago/\"><img
   class=\"aligncenter size-full wp-image-896\" title=\"AgentOfChange_JeffersonMemorial\"
-  src=\"http://www.victusspiritus.com/wp-content/uploads/2009/06/AgentOfChange_JeffersonMemorial.jpg\"
+  src=\"{{ site.url }}/assets/2009/06/AgentOfChange_JeffersonMemorial.jpg\"
   alt=\"AgentOfChange_JeffersonMemorial\" width=\"461\" height=\"614\" /></a></p>\r\n<p
   style=\"text-align: center;\">Thomas Jefferson an Agent of Change</p>\r\n\r\nAgents
   of change, social entrepreneurs, and there are other names that express a mindset
@@ -91,7 +91,7 @@ comments:
 - id: 196
   author: Investors to Support Passionate Work
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/07/05/investors-to-support-passionate-work/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/07/05/investors-to-support-passionate-work/
   date: '2009-07-05 05:40:56 -0400'
   date_gmt: '2009-07-05 12:40:56 -0400'
   content: "[...] For Our Calling, But Only in the Short Term, the Barriers to Social
@@ -136,7 +136,7 @@ comments:
     to ignite a spark of inspiration in a single reader is well worth all the hours
     of thinking/writing (and much more editing to clear up my mangled ideas).'
 ---
-<p style="text-align: center;"><a href="http://www.flickr.com/photos/nostri-imago/"><img class="aligncenter size-full wp-image-896" title="AgentOfChange_JeffersonMemorial" src="http://www.victusspiritus.com/wp-content/uploads/2009/06/AgentOfChange_JeffersonMemorial.jpg" alt="AgentOfChange_JeffersonMemorial" width="461" height="614" /></a></p>
+<p style="text-align: center;"><a href="http://www.flickr.com/photos/nostri-imago/"><img class="aligncenter size-full wp-image-896" title="AgentOfChange_JeffersonMemorial" src="{{ site.url }}/assets/2009/06/AgentOfChange_JeffersonMemorial.jpg" alt="AgentOfChange_JeffersonMemorial" width="461" height="614" /></a></p>
 <p style="text-align: center;">Thomas Jefferson an Agent of Change</p>
 <p>Agents of change, social entrepreneurs, and there are other names that express a mindset that is open to large scale improvements within our social and financial structures. Dennis Stevenson does an excellent job of characterizing the concept in <a href="http://it.toolbox.com/blogs/original-thinking/what-is-a-change-agent-23764">What is a "Change Agent?"</a>.<a id="more"></a><a id="more-865"></a></p>
 <p>How do we create a social framework for anyone interested in becoming an agent of change? It's self energizing to make a positive impact. To know that time and effort expended improves the quality of peoples lives, even just a little bit, is immensely satisfying.</p>

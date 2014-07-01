@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 4826
-wordpress_url: http://www.victusspiritus.com/2010/08/08/design-to-inspire-fanatic-customers-align-with-motivated-partners-and-execute/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/08/08/design-to-inspire-fanatic-customers-align-with-motivated-partners-and-execute/
 date: '2010-08-08 09:01:36 -0400'
 date_gmt: '2010-08-08 16:01:36 -0400'
 categories:
@@ -21,7 +21,7 @@ tags:
 comments: []
 ---
 <p><em>3 Steps because you have don't have time to read 4</em><br />
-<a href="http://www.stuckincustoms.com/2010/07/19/new-york-times-square/"><img title="from the blog www.stuckincustoms.com" src="http://www.victusspiritus.com/wp-content/uploads/2010/08/TimesSquare.jpg" alt="" /></a></p>
+<a href="http://www.stuckincustoms.com/2010/07/19/new-york-times-square/"><img title="from the blog www.stuckincustoms.com" src="{{ site.url }}/assets/2010/08/TimesSquare.jpg" alt="" /></a></p>
 <h2>Step 1)</h2>
 <p><strong>Design and Cultivate a Product with Fanatic Customer Enthusiasm and Support</strong></p>
 <ul>

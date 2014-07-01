@@ -23,7 +23,7 @@ comments:
   author: Connected Canvas, Adaptive Web Portals to Unlimited Information &raquo;
     Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/01/03/connected-canvas-adaptive-web-portals-to-unlimited-information/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/01/03/connected-canvas-adaptive-web-portals-to-unlimited-information/
   date: '2011-01-03 14:50:01 -0500'
   date_gmt: '2011-01-03 21:50:01 -0500'
   content: "[...] 2011  Mark Essel   TweetNot long back I wrote about malleable web
@@ -31,7 +31,7 @@ comments:
     I shared was a retro modification of the twitter web UI with a larger content
     area and [...]"
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/10/MarksTwitterWebUI.png"><img class="aligncenter size-full wp-image-5430" title="MarksTwitterWebUI" src="http://www.victusspiritus.com/wp-content/uploads/2010/10/MarksTwitterWebUI.png" alt="" width="500" height="420" /></a><br />
+<p><a href="{{ site.url }}/assets/2010/10/MarksTwitterWebUI.png"><img class="aligncenter size-full wp-image-5430" title="MarksTwitterWebUI" src="{{ site.url }}/assets/2010/10/MarksTwitterWebUI.png" alt="" width="500" height="420" /></a><br />
 If you're tired of giving up half your browser window real estate to the greedy twitter web UI here's a nifty hack that puts you back in control of your local css.</p>
 <p>First install the Stylish extension or plugin.</p>
 <ul>

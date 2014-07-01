@@ -49,7 +49,7 @@ comments:
     exceptions like Mashable (Pete Cashmore sometimes wrote 7+ entries a day) and
     that took a few years to really catch on (currently 6million unique visitors+
     per month). They are heavily connected to a twitter based social media strategy.<br><br>My
-    intro (and free) advice is <a href="http://www.victusspiritus.com/2009/04/24/how-to-web-market-and-use-social-media/"
+    intro (and free) advice is <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/04/24/how-to-web-market-and-use-social-media/"
     rel="nofollow">How to Web Market and Use Social Media</a>. If you like what you
     see, please hit me up at messel at victusmedia dot com if you need more specific
     help with your business and would like to work some short term consulting.<br><br>I
@@ -451,14 +451,14 @@ comments:
 - id: 8029
   author: The most elaborate game &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/01/09/the-most-elaborate-game/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/01/09/the-most-elaborate-game/
   date: '2011-01-09 05:29:02 -0500'
   date_gmt: '2011-01-09 12:29:02 -0500'
   content: "[...] and cities are continually reorganizing our social systems. Technology
     achieves change through increased links between minds and reduced social and information
     friction. Cities lead to change through physical adjacency and [...]"
 ---
-<p><a href="http://www.stuckincustoms.com"><img src="http://www.victusspiritus.com/wp-content/uploads/2009/11/LoneCypress.jpg" alt="The Lone Cypress - a drive down Highway 1 from San Francisco to San Diego" title="The Lone Cypress - a drive down Highway 1 from San Francisco to San Diego" width="480" height="670" class="aligncenter size-full wp-image-2108" /></a></p>
+<p><a href="http://www.stuckincustoms.com"><img src="{{ site.url }}/assets/2009/11/LoneCypress.jpg" alt="The Lone Cypress - a drive down Highway 1 from San Francisco to San Diego" title="The Lone Cypress - a drive down Highway 1 from San Francisco to San Diego" width="480" height="670" class="aligncenter size-full wp-image-2108" /></a></p>
 <h2>Each of our minds stands alone </h2>
 <p>The island of self is separated by an ocean of understanding from adjacent minds (more on this later). To connect with others, we must cross the communication chasm that is the product of diverse perceptions. One of the difficulties of deep and meaningful communication is conveying our genuine thoughts and feelings. Another barrier is syncronization, for each message we must be ready and willing to send or recieve it. Beyond willingness, we must also be capable. Skill and effort are required to effectively communicate. Consider the example of web blogs. It takes focused effort to distill abstract thoughts into meaningful written messages, and it takes time to read and interpret those messages.</p>
 <h2>Enter the Internet</h2>

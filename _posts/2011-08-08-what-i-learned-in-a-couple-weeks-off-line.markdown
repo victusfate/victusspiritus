@@ -93,7 +93,7 @@ comments:
   author: The wiggle in world economies plays a critical role in value estimation
     &mdash; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/08/10/the-wiggle-in-world-economies-plays-a-critical-role-in-value-estimation/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/08/10/the-wiggle-in-world-economies-plays-a-critical-role-in-value-estimation/
   date: '2011-08-10 04:31:10 -0400'
   date_gmt: '2011-08-10 11:31:10 -0400'
   content: "[...] was only after a couple of weeks offline that I realized how little
@@ -191,33 +191,33 @@ comments:
 <ol>
 <li>
 <strong>The world keeps on spinning</strong> with our without us pushing. It's natural to step away from the wheel to refresh a struggling perspective. Especially when life feels upside down.<br />
-<a href="http://www.victusspiritus.com/wp-content/uploads/2011/08/upside_down.jpg"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/08/upside_down-764x1024.jpg" alt="" title="upside_down" width="630" height="844" class="alignleft size-large wp-image-9828" /></a>
+<a href="{{ site.url }}/assets/2011/08/upside_down.jpg"><img src="{{ site.url }}/assets/2011/08/upside_down-764x1024.jpg" alt="" title="upside_down" width="630" height="844" class="alignleft size-large wp-image-9828" /></a>
 </li>
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2011/08/water.jpg"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/08/water-1024x764.jpg" alt="" title="water" width="630" height="470" class="alignleft size-large wp-image-9825" /></a><br />
+<p><a href="{{ site.url }}/assets/2011/08/water.jpg"><img src="{{ site.url }}/assets/2011/08/water-1024x764.jpg" alt="" title="water" width="630" height="470" class="alignleft size-large wp-image-9825" /></a><br />
 Take a break and come on in, the water feels fine. Don't forget to bring a friend.<br />
-<a href="http://www.victusspiritus.com/wp-content/uploads/2011/08/mark_and_michelle_sunken_meadow.jpg"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/08/mark_and_michelle_sunken_meadow-764x1024.jpg" alt="" title="mark_and_michelle_sunken_meadow" width="630" height="844" class="alignleft size-large wp-image-9827" /></a>
+<a href="{{ site.url }}/assets/2011/08/mark_and_michelle_sunken_meadow.jpg"><img src="{{ site.url }}/assets/2011/08/mark_and_michelle_sunken_meadow-764x1024.jpg" alt="" title="mark_and_michelle_sunken_meadow" width="630" height="844" class="alignleft size-large wp-image-9827" /></a>
 </li>
 <li>
 <strong>Soak in some sun</strong>, but not too much. There's a quality of sunlight that both refreshes and centers.<br />
-<a href="http://www.victusspiritus.com/wp-content/uploads/2011/08/sun.jpg"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/08/sun-764x1024.jpg" alt="" title="sun" width="630" height="844" class="alignleft size-large wp-image-9830" /></a>
+<a href="{{ site.url }}/assets/2011/08/sun.jpg"><img src="{{ site.url }}/assets/2011/08/sun-764x1024.jpg" alt="" title="sun" width="630" height="844" class="alignleft size-large wp-image-9830" /></a>
 </li>
 <li>
 <strong>Look around</strong> for a paradise not far from home. My house is just a half hour away from the ocean, and in the summer it's a great place to cool off and relax.<br />
-<a href="http://www.victusspiritus.com/wp-content/uploads/2011/08/ocean_view.jpg"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/08/ocean_view-1024x764.jpg" alt="" title="ocean_view" width="630" height="470" class="alignleft size-large wp-image-9831" /></a><br />
+<a href="{{ site.url }}/assets/2011/08/ocean_view.jpg"><img src="{{ site.url }}/assets/2011/08/ocean_view-1024x764.jpg" alt="" title="ocean_view" width="630" height="470" class="alignleft size-large wp-image-9831" /></a><br />
 The sounds of the waves are calming, there are quiet stories in the breezes, and beacons along the shore.<br />
-<a href="http://www.victusspiritus.com/wp-content/uploads/2011/08/beacon.jpg"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/08/beacon-764x1024.jpg" alt="" title="beacon" width="630" height="844" class="alignleft size-large wp-image-9832" /></a>
+<a href="{{ site.url }}/assets/2011/08/beacon.jpg"><img src="{{ site.url }}/assets/2011/08/beacon-764x1024.jpg" alt="" title="beacon" width="630" height="844" class="alignleft size-large wp-image-9832" /></a>
 </li>
 <li>
 <strong>Let yourself unwind</strong>. Even those with the most voracious appetites know how to relax.<br />
-<a href="http://www.victusspiritus.com/wp-content/uploads/2011/08/laid_back_piranha.jpg"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/08/laid_back_piranha-1024x764.jpg" alt="" title="laid_back_piranha" width="630" height="470" class="alignleft size-large wp-image-9833" /></a>
+<a href="{{ site.url }}/assets/2011/08/laid_back_piranha.jpg"><img src="{{ site.url }}/assets/2011/08/laid_back_piranha-1024x764.jpg" alt="" title="laid_back_piranha" width="630" height="470" class="alignleft size-large wp-image-9833" /></a>
 </li>
 <li>
 <strong>Share your space</strong> with others. I'm continually astonished at how beautiful a place can become when filled with life.<br />
-<a href="http://www.victusspiritus.com/wp-content/uploads/2011/08/share_your_space.jpg"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/08/share_your_space-1024x764.jpg" alt="" title="share_your_space" width="630" height="470" class="alignleft size-large wp-image-9834" /></a>
+<a href="{{ site.url }}/assets/2011/08/share_your_space.jpg"><img src="{{ site.url }}/assets/2011/08/share_your_space-1024x764.jpg" alt="" title="share_your_space" width="630" height="470" class="alignleft size-large wp-image-9834" /></a>
 </li>
 <li>
 <strong>Literally alter your perspective</strong> by moving to a different vantage. Just a couple of weeks ago we paddled along the surface of the Peconic river by kayak. Yesterday we viewed the same passage from high up above, revealing the riverside environment.<br />
-<a href="http://www.victusspiritus.com/wp-content/uploads/2011/08/changing_perspective.jpg"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/08/changing_perspective-1024x764.jpg" alt="" title="changing_perspective" width="630" height="470" class="alignleft size-large wp-image-9835" /></a>
+<a href="{{ site.url }}/assets/2011/08/changing_perspective.jpg"><img src="{{ site.url }}/assets/2011/08/changing_perspective-1024x764.jpg" alt="" title="changing_perspective" width="630" height="470" class="alignleft size-large wp-image-9835" /></a>
 </li>
 </ol>
 <h2>What did I miss while (mostly) offline?</h2>

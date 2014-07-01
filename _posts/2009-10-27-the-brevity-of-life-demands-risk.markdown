@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2000
-wordpress_url: http://www.victusspiritus.com/2009/10/27/the-brevity-of-life-demands-risk/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/10/27/the-brevity-of-life-demands-risk/
 date: '2009-10-27 03:37:20 -0400'
 date_gmt: '2009-10-27 10:37:20 -0400'
 categories:

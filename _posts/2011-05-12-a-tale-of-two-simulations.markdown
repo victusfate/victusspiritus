@@ -50,7 +50,7 @@ comments:
   author: Crazy East Coast Weather, Wild Work Tale of Two Sims Part Duo &mdash; Victus
     Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/06/15/crazy-east-coast-weather-wild-work-tale-of-two-sims-part-duo/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/06/15/crazy-east-coast-weather-wild-work-tale-of-two-sims-part-duo/
   date: '2011-06-15 04:50:46 -0400'
   date_gmt: '2011-06-15 11:50:46 -0400'
   content: "[...] BIG hybrid sim I&#8217;ve been cranking on since mid March is coming
@@ -58,7 +58,7 @@ comments:
 - id: 10238
   author: Hacking the Earth, a Technical Debt Horror Story &mdash; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/07/07/hacking-the-earth-a-technical-debt-horror-story/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/07/07/hacking-the-earth-a-technical-debt-horror-story/
   date: '2011-07-07 19:55:54 -0400'
   date_gmt: '2011-07-08 02:55:54 -0400'
   content: "[...] background see A Tale of Two Sims, and it&#8217;s [...]"

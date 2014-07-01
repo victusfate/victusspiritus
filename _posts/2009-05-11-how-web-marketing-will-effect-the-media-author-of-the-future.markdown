@@ -10,7 +10,7 @@ author_url: http://messel.myopenid.com/
 excerpt: "<p style=\"margin-bottom: 0in; color: #c00000; font-size: 18px; font-family:
   'Trebuchet MS'; text-align: center;\"><a href=\"http://www.flickr.com/photos/jurvetson/\"><img
   class=\"aligncenter size-full wp-image-838\" title=\"FractalCenterWebMarketing\"
-  src=\"http://www.victusspiritus.com/wp-content/uploads/2009/05/FractalCenterWebMarketing.gif\"
+  src=\"{{ site.url }}/assets/2009/05/FractalCenterWebMarketing.gif\"
   alt=\"FractalCenterWebMarketing\" width=\"384\" height=\"288\" /></a></p>\r\n<p
   style=\"margin-bottom: 0in; color: #c00000; font-size: 18px; font-family: Trebuchet
   MS;\">What's the Relation Between Creating Content and Marketing?</p>\r\n<p style=\"margin-bottom:
@@ -31,7 +31,7 @@ categories: []
 tags: []
 comments: []
 ---
-<p style="margin-bottom: 0in; color: #c00000; font-size: 18px; font-family: 'Trebuchet MS'; text-align: center;"><a href="http://www.flickr.com/photos/jurvetson/"><img class="aligncenter size-full wp-image-838" title="FractalCenterWebMarketing" src="http://www.victusspiritus.com/wp-content/uploads/2009/05/FractalCenterWebMarketing.gif" alt="FractalCenterWebMarketing" width="384" height="288" /></a></p>
+<p style="margin-bottom: 0in; color: #c00000; font-size: 18px; font-family: 'Trebuchet MS'; text-align: center;"><a href="http://www.flickr.com/photos/jurvetson/"><img class="aligncenter size-full wp-image-838" title="FractalCenterWebMarketing" src="{{ site.url }}/assets/2009/05/FractalCenterWebMarketing.gif" alt="FractalCenterWebMarketing" width="384" height="288" /></a></p>
 <p style="margin-bottom: 0in; color: #c00000; font-size: 18px; font-family: Trebuchet MS;">What's the Relation Between Creating Content and Marketing?</p>
 <p style="margin-bottom: 0in;">It is a simple question that has complex ties into other businesses and industries. If you are (or are going to be) any kind of a content creator, you will likely want your content to be visible.  You're going to have to learn the <a href="http://www.victusspiritus.com/tag/web-marketing/">marketing ropes</a> or hire an expert.  A marketer will have connections and ties to different social media and crowd sourcing tools, as well as public relations channel for putting out messages on popular media.  The specific choices of interfaces (i.e. landing pages, ads, fliers) from your media to the world will be specific to the content that you are going to provide and your potential customer group. The web marketer will have to be familiar (or learn) how to connect to that niche.<a id="more"></a><a id="more-4797"></a></p>
 <p style="margin-bottom: 0in;">In the beginning of most projects, an individual is both developing and marketing the media.  At best a small group of friends will help spread the information to see if it catches on. The good news is, you really don't have to pay for the old advertising system anymore.  You don't need publishers.  Although the greatest publishers will survive by evolving their into powerful conduits to existing markets.  All you<br />
@@ -55,7 +55,7 @@ You're going to find out that people don't see things the same way<br />
 that you see them or perceive them.</p>
 <ul>
 <li>That's the whole idea behind<br />
-<a href="http://www.victusspiritus.com/2009/04/24/how-to-web-market-and-use-social-media/">social media design</a>, but that's another subject.</li>
+<a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/04/24/how-to-web-market-and-use-social-media/">social media design</a>, but that's another subject.</li>
 </ul>
 </li>
 </ol>
@@ -64,7 +64,7 @@ that you see them or perceive them.</p>
 <p style="margin-bottom: 0in;"><span style="color: #c00000; font-size: 18px; font-family: Trebuchet MS;"><br />
 </span></p>
 <p style="margin-bottom: 0in;"><span style="color: #c00000; font-size: 18px; font-family: Trebuchet MS;">Analogy to Open Spectrum</span></p>
-<p style="margin-bottom: 0in;">You can take that concept all the way to the wireless internet and <a href="http://www.victusspiritus.com/2009/04/10/sick-and-tired-of-paying-extra-for-voice-and-sms-text-message-data/">open spectrum</a>.  Providing wireless internet to much of our nation (and perhaps globally) could be made less expensive, if an individual or organization develops efficient methods for using the full spectrum (electromagnetic bands we transmit information on).  If telecommunication companies are unable of leading in this area, they<br />
+<p style="margin-bottom: 0in;">You can take that concept all the way to the wireless internet and <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/04/10/sick-and-tired-of-paying-extra-for-voice-and-sms-text-message-data/">open spectrum</a>.  Providing wireless internet to much of our nation (and perhaps globally) could be made less expensive, if an individual or organization develops efficient methods for using the full spectrum (electromagnetic bands we transmit information on).  If telecommunication companies are unable of leading in this area, they<br />
 are in danger of becoming obsolete as wireless providers.  While massive data flow still requires<br />
 land lines, in the as technology advances wireless transmissions will become more effective over new opened up spectrum.  I suspect there will always be some mix of physical lines and wireless information flow.  Imagine all communications as local wireless packets, to ultra wide band width land lines, back to local wireless somewhere else.</p>
 <p style="margin-bottom: 0in;"><span style="color: #c00000; font-size: 18px; font-family: Trebuchet MS;"><br />

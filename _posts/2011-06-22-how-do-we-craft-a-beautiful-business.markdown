@@ -28,7 +28,7 @@ Does this make sense?
 <p>When I write of company beauty I'm not referring to gorgeous products, else we may confuse brothels and Apple with a beautiful company. Both of those examples could be beautiful, but an attractive offering is only a byproduct of a beautiful company. It's one external signal among all the inner workings of the entire enterprise.</p>
 <h2>How do we begin</h2>
 <p>Beauty is in the eyes of the beholder, so strict rules make little sense for constructing a handsome company. I'm going to assume you have gotten past the substantial hurdle of <a href="http://andyswan.com/blog/2011/02/21/finding-your-niche/">finding your niche</a>.<br />
-<a href="http://www.victusspiritus.com/wp-content/uploads/2011/06/20110622-080127.jpg"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/06/20110622-080127.jpg" alt="20110622-080127.jpg" class="alignnone size-full" /></a><br />
+<a href="{{ site.url }}/assets/2011/06/20110622-080127.jpg"><img src="{{ site.url }}/assets/2011/06/20110622-080127.jpg" alt="20110622-080127.jpg" class="alignnone size-full" /></a><br />
 Identify three things that you associate with beauty and jot down a quick sentence about how your company exemplifies each of these qualities. </p>
 <p>My list right now:</p>
 <ul>

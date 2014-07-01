@@ -20,7 +20,7 @@ excerpt: "Great works of art, literature, and science are all given to us by ind
   limiting. It is likely the biproduct of external expectations, from those who dare
   not tread towards their own dreams."
 wordpress_id: 1568
-wordpress_url: http://www.victusspiritus.com/2009/09/14/procrastinate-until-youre-ready/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/09/14/procrastinate-until-youre-ready/
 date: '2009-09-14 03:12:34 -0400'
 date_gmt: '2009-09-14 10:12:34 -0400'
 categories:
@@ -66,7 +66,7 @@ comments:
 - id: 856
   author: Run as Fast as You Can, Push Yourself!
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/09/20/run-as-fast-as-you-can-push-yourself/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/09/20/run-as-fast-as-you-can-push-yourself/
   date: '2009-09-20 08:46:25 -0400'
   date_gmt: '2009-09-20 15:46:25 -0400'
   content: "[...] until the the right moment, to push forward with all our might at
@@ -75,7 +75,7 @@ comments:
 - id: 1284
   author: Move at a Pace You Can Sustain
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/10/25/move-at-a-pace-you-can-sustain/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/10/25/move-at-a-pace-you-can-sustain/
   date: '2009-10-25 05:37:01 -0400'
   date_gmt: '2009-10-25 12:37:01 -0400'
   content: "[...] schedule with tasks, or over complicating solutions. I don&#8217;t

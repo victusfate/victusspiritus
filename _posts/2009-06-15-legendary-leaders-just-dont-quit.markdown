@@ -9,7 +9,7 @@ author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "[caption id=\"attachment_643\" align=\"aligncenter\" width=\"220\" caption=\"Dean
   Karnazes &amp; Sam Thompson\"]<img class=\"size-full wp-image-643 \" title=\"thompson.karnazes3\"
-  src=\"http://www.victusspiritus.com/wp-content/uploads/2009/06/thompson.karnazes3.jpeg\"
+  src=\"{{ site.url }}/assets/2009/06/thompson.karnazes3.jpeg\"
   alt=\"thompson.karnazes3\" width=\"220\" height=\"168\" />[/caption]\r\n<h2>Willpower
   Overdose?</h2>\r\n<p style=\"text-align: left;\">What happens when people just keep
   on pushing past what we commonly refer to as \"the limits\"? The real physical limitations
@@ -31,7 +31,7 @@ comments:
 - id: 113
   author: Barriers to Social Change
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/06/18/barriers-to-social-change/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/06/18/barriers-to-social-change/
   date: '2009-06-18 07:54:54 -0400'
   date_gmt: '2009-06-18 14:54:54 -0400'
   content: "[...] likely to question the status quo and sample new methods within
@@ -40,7 +40,7 @@ comments:
 - id: 211
   author: Leaders Instill Confidence
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/07/08/leaders-instill-confidence/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/07/08/leaders-instill-confidence/
   date: '2009-07-08 04:53:00 -0400'
   date_gmt: '2009-07-08 11:53:00 -0400'
   content: "[...] themselves daily by keeping their views open. They show us that
@@ -49,7 +49,7 @@ comments:
 - id: 241
   author: Gut Check, Are You an Entrepreneur?
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/07/20/gut-check-are-you-an-entrepreneur/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/07/20/gut-check-are-you-an-entrepreneur/
   date: '2009-07-20 05:27:54 -0400'
   date_gmt: '2009-07-20 12:27:54 -0400'
   content: "[...] In Steve&#8217;s post at the end of June, Agile Opportunism &#8211;
@@ -67,7 +67,7 @@ comments:
 - id: 859
   author: What If You Succeed?
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/09/21/what-if-you-succeed/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/09/21/what-if-you-succeed/
   date: '2009-09-21 04:52:07 -0400'
   date_gmt: '2009-09-21 11:52:07 -0400'
   content: "[...] leaders have a knack for finding deeper reserves of resolve than
@@ -106,7 +106,7 @@ comments:
 - id: 4636
   author: Highs and Lows Come and Go, But Will is Relentless | Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/06/28/highs-and-lows-come-and-go-but-will-is-relentless/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/06/28/highs-and-lows-come-and-go-but-will-is-relentless/
   date: '2010-06-28 11:25:21 -0400'
   date_gmt: '2010-06-28 18:25:21 -0400'
   content: "[...] two, or three&#8230;) into the victory circle. Whether it&#8217;s
@@ -114,7 +114,7 @@ comments:
     a business you&#8217;ll recognize a discrete change in the world around you as
     you near [...]"
 ---
-<p>[caption id="attachment_643" align="aligncenter" width="220" caption="Dean Karnazes &amp; Sam Thompson"]<img class="size-full wp-image-643 " title="thompson.karnazes3" src="http://www.victusspiritus.com/wp-content/uploads/2009/06/thompson.karnazes3.jpeg" alt="thompson.karnazes3" width="220" height="168" />[/caption]</p>
+<p>[caption id="attachment_643" align="aligncenter" width="220" caption="Dean Karnazes &amp; Sam Thompson"]<img class="size-full wp-image-643 " title="thompson.karnazes3" src="{{ site.url }}/assets/2009/06/thompson.karnazes3.jpeg" alt="thompson.karnazes3" width="220" height="168" />[/caption]</p>
 <h2>Willpower Overdose?</h2>
 <p style="text-align: left;">What happens when people just keep on pushing past what we commonly refer to as "the limits"? The real physical limitations of <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2Fs%3Fie%3DUTF8%26x%3D0%26ref%255F%3Dnb%255Fss%255Fgw%26y%3D0%26field-keywords%3Ddean%2520karnazes%26url%3Dsearch-alias%253Daps&amp;tag=dream06-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=390957">Dean Karnazes</a> and Sam Thompson are clearly in the class of legendary endurance. These gentlemen kept pushing their own boundaries, perhaps sometimes mercilessly, in the face of physical exhaustion. Yet they have demonstrably shown what it takes to be a legendary leader, never giving up.<a id="more"></a><a id="more-511"></a></p>
 <p style="text-align: left;">Is there anything positive in your life that you just can't stop doing? Maybe your personal passion is video games, or reading science fiction books, or catching up on the latest music gadgets. Is there anything within your realm of activities that you can imagine excelling far enough in, to become legendary? Not just skilled or even excellent but extreme in a matter similar to the marathon madness that Sam and Dean have managed to pull off. Our culture is fascinated by extremes, we are enamored with stories of the nigh unstoppable human spirit.</p>

@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2409
-wordpress_url: http://www.victusspiritus.com/2009/11/28/can-foursquare-and-farmville-spur-the-dollars-recovery/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/11/28/can-foursquare-and-farmville-spur-the-dollars-recovery/
 date: '2009-11-28 06:28:23 -0500'
 date_gmt: '2009-11-28 13:28:23 -0500'
 categories:

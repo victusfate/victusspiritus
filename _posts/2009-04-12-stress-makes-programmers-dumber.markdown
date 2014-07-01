@@ -120,7 +120,7 @@ comments:
 - id: 170
   author: Breaking the Slave Clock
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/04/19/breaking-the-slave-clock/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/04/19/breaking-the-slave-clock/
   date: '2009-06-27 07:19:06 -0400'
   date_gmt: '2009-06-27 14:19:06 -0400'
   content: "[...] effective employees work well under pressure.  These exceptional
@@ -129,7 +129,7 @@ comments:
 - id: 727
   author: Optimal Design Performance Under Stress
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/08/21/optimal-design-performance-under-stress/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/08/21/optimal-design-performance-under-stress/
   date: '2009-08-23 06:46:30 -0400'
   date_gmt: '2009-08-23 13:46:30 -0400'
   content: "[...] Stress makes programmer&#8217;s dumber I brought additional attention
@@ -137,7 +137,7 @@ comments:
 - id: 5371
   author: 'Design Philosophy: Orchestra vs Improv Jazz | Victus Spiritus'
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/08/15/design-philosophy-orchestra-vs-improv-jazz/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/08/15/design-philosophy-orchestra-vs-improv-jazz/
   date: '2010-08-15 08:31:51 -0400'
   date_gmt: '2010-08-15 15:31:51 -0400'
   content: "[...] G. Carter referred to these groups as gel teams, and they represent
@@ -249,7 +249,7 @@ comments:
 <p>That's the hypothesis put forth by Alan G. Carter in a brilliant web series found at "<a href="http://the-programmers-stone.com/about/">The Programmer's Stone</a>".  It begins as a critical examination of the effect of stress on creative solution finding.  What the author refers to as juxtapositional thinking is a method of holding multiple opposing proposed solutions in one's mind at the same time.  This type of advanced conceptual problem solving forms the basis of effective and intelligent design, programming or otherwise.  Discover how our body's response to stress is to focus on frontal lobe thinking which is predictable and methodical but highly concentrated.  The Programmer's Stone continues by suggesting solutions addressing the issue of stress for individuals and organizations.  In addition to mitigating the effect, techniques for inducing advanced cognitive states are given for those who are stuck in procedural or stressed mental conditions.  Some of the ideas are fairly advanced (to readers like myself who are new to the concept) so the brief but dense series may require a careful (re)read and time to digest.</p>
 <p>Some of my own thoughts to add to the topic:</p>
 <ul>
-<li>Connect to other designers who are dealing with the same difficulties as yourself through <a href="http://www.victusspiritus.com/2009/04/24/how-to-web-market-and-use-social-media/">social media</a> (programming or otherwise)</li>
+<li>Connect to other designers who are dealing with the same difficulties as yourself through <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/04/24/how-to-web-market-and-use-social-media/">social media</a> (programming or otherwise)</li>
 <li>regular exercise does a great job of resetting my bodies stress system</li>
 <li>determining the magic stress threshold that optimizes our<br />
 cognitive performance is unique to each individual.  A simple hypothesis is that<br />

@@ -20,7 +20,7 @@ comments:
 - id: 8943
   author: Startup Strategies that Survive, Prosper, and Win &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/02/12/startup-strategies-that-survive-prosper-and-win/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/02/12/startup-strategies-that-survive-prosper-and-win/
   date: '2011-02-13 04:09:36 -0500'
   date_gmt: '2011-02-13 11:09:36 -0500'
   content: "[...] How Device Apps will Merge with the Web [...]"
@@ -28,7 +28,7 @@ comments:
 <p>Each day a plethora* of new apps are written for smart phones, tablets and a great many more are written for the web. Now device applications  are distinct software products from web applications. Device apps can leverage the additional functionality of the hardware they reside on, as well as connecting to the web. By leveraging web development languages like JavaScript, enthusiastic hackers are working to bridge the gap.</p>
 <h2>Network Effects</h2>
 <p>In a fully linked network environment, additional nodes add an exponential^ increase in the number of possible connections. With this value driver, dedicated device or web apps which can connect will improve in value to end users as more link together. It's not hard to imagine massive high value networks (but isolated/distinct) for device applications.</p>
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/04/mobile_app_predictions.001.png"><img class="aligncenter size-full wp-image-3531" title="mobile_app_predictions.001" src="http://www.victusspiritus.com/wp-content/uploads/2010/04/mobile_app_predictions.001.png" alt="" width="600" height="480" /></a></p>
+<p><a href="{{ site.url }}/assets/2010/04/mobile_app_predictions.001.png"><img class="aligncenter size-full wp-image-3531" title="mobile_app_predictions.001" src="{{ site.url }}/assets/2010/04/mobile_app_predictions.001.png" alt="" width="600" height="480" /></a></p>
 <p>Fax machines are a classic network value example highlighted by <a class="zem_slink" title="Kevin Kelly" rel="homepage" href="http://www.kk.org">Kevin Kelly</a> in New Rules for a New Economy. The first two machines were very expensive and of limited utility. As nodes were added and became cheaper the value added to the fax network made them irresistible to new businesses and homes corresponding with a plummeting price per machine.</p>
 <h2>The Network of Applications</h2>
 <p>The value proposition to new users is shifting drastically when we consider the set of all web and device apps as a new super network. As users and customers, we have come to expect the majority of device applications to be connected to the web whenever it may add value, and often times when it's not obvious. Novel geo-location representations of events for specific activities has proven to be a form of human global connection or belonging. <em>Revolutionary</em> and even <em>magical</em> devices and web apps can interact with each other providing enhanced functionality (accessing remote interfaces or data). My hypothesis is that the distinction between dedicated device and web applications will vanish due to market forces and technological changes. The forces that will eventually cause device and web apps to merge:</p>

@@ -42,12 +42,12 @@ comments:
   author: Probability of Profitability due to Team, Market and Density &raquo; Victus
     Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/10/16/probability-of-profitability-due-to-team-market-and-density/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/10/16/probability-of-profitability-due-to-team-market-and-density/
   date: '2010-10-16 05:39:01 -0400'
   date_gmt: '2010-10-16 12:39:01 -0400'
   content: "[...] on startup location and how it interacts with the goal of profitability
     for a nascent business. The original startup location* post was three overlapping
     spheres with no common area to all topics. I began with a fuzzy image [...]"
 ---
-<p>[caption id="attachment_5464" align="aligncenter" width="576" caption="how I see startup location"]<a href="http://www.victusspiritus.com/wp-content/uploads/2010/10/StartupHubs2.png"><img class="size-full wp-image-5464" title="StartupHubs" src="http://www.victusspiritus.com/wp-content/uploads/2010/10/StartupHubs2.png" alt="" width="576" height="432" /></a>[/caption]</p>
+<p>[caption id="attachment_5464" align="aligncenter" width="576" caption="how I see startup location"]<a href="{{ site.url }}/assets/2010/10/StartupHubs2.png"><img class="size-full wp-image-5464" title="StartupHubs" src="{{ site.url }}/assets/2010/10/StartupHubs2.png" alt="" width="576" height="432" /></a>[/caption]</p>
 <p style="text-align: center;">

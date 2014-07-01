@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2490
-wordpress_url: http://www.victusspiritus.com/2009/12/12/reduce-your-teams-bug-tax/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/12/12/reduce-your-teams-bug-tax/
 date: '2009-12-12 07:46:32 -0500'
 date_gmt: '2009-12-12 14:46:32 -0500'
 categories:
@@ -61,7 +61,7 @@ comments:
 <h2>What's Bug Tax</h2>
 <p>The bug tax is a form of friction that increases with the pace of development. For each new feature added, your software gains a number of new bugs. Minimizing the time your team spends bug chasing results in greater productivity, and coincidentally more time to add new features (which introduces more bugs). Good job, you just made yourself more work.</p>
 <p>There is a well known question software developers face. Is additional utility worth the complexity and cost in debugging or redesigning existing structure? It sits at the forefront of every serious designer's mind, and when increased functionality is favored too much we call it feature creep.  This concept transcends software design and is evident in just about any project design (my blog layout is a perfect example of feature creep with information overload).</p>
-<p>These bugs are introduced by state complexity and the limitations of individual developers to hold entire applications, all dependent libraries, and there interactions in mind simultaneously. On my best day I can keep two large applications and many of their nuances in mind, add a third and everything falls apart. In fact if I'm <a href="http://www.victusspiritus.com/2009/07/18/autopilot-for-our-brain-allows-multitasking-efficiency/">working on just one</a>, I'm much more productive. Let's review state complexity briefly.</p>
+<p>These bugs are introduced by state complexity and the limitations of individual developers to hold entire applications, all dependent libraries, and there interactions in mind simultaneously. On my best day I can keep two large applications and many of their nuances in mind, add a third and everything falls apart. In fact if I'm <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/07/18/autopilot-for-our-brain-allows-multitasking-efficiency/">working on just one</a>, I'm much more productive. Let's review state complexity briefly.</p>
 <h2>Exponential Network Interaction Growth</h2>
 <p>Say I have one type of data structure and two possible states (on or off). The state complexity of a single structure is nice and simple (size 2).  Scaling that structure is a matter of geometric growth (<a href="http://en.m.wikipedia.org/wiki/Exponential_growth?wasRedirected=true">wiki reference</a>). Add N more instances of that structure and I've added two to the N possible states to be concerned with (this is how numbers are described with binary data). Now introduce one additional interaction or state and expand the number of total states many fold (an additional base state causes system expansion to 3 to the Nth power unique states).</p>
 <h2>Why it's not that bad</h2>
@@ -73,6 +73,6 @@ comments:
 <p>Now it's time I get back to debugging at  <a href="http://victusmedia.com">Victus Media</a>. We introduced some bugs while fixing others last night.</p>
 <p>Related Links:</p>
 <ul>
-<li><a href="http://www.victusspiritus.com/2009/08/07/protect-your-peace-of-mind-construct-an-optimal-workspace/">Protect Your Peace of Mind, Construct an Optimal Workspace</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/08/07/protect-your-peace-of-mind-construct-an-optimal-workspace/">Protect Your Peace of Mind, Construct an Optimal Workspace</a></li>
 <li><a href="http://www.joelonsoftware.com/articles/BionicOffice.html">Bionic Office</a> by Joel Spolsky</li>
 </ul>

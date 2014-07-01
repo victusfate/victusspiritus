@@ -19,7 +19,7 @@ tags:
 - family
 comments: []
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2011/01/AppleTree2.jpg"><img class="aligncenter size-medium wp-image-6634" title="AppleTree" src="http://www.victusspiritus.com/wp-content/uploads/2011/01/AppleTree2.jpg" alt="" width="400" height="500" /></a></p>
+<p><a href="{{ site.url }}/assets/2011/01/AppleTree2.jpg"><img class="aligncenter size-medium wp-image-6634" title="AppleTree" src="{{ site.url }}/assets/2011/01/AppleTree2.jpg" alt="" width="400" height="500" /></a></p>
 <p>In the wee hours of the morning I spent some time relating my own professional aspirations with my pop's work history. Allow me to share some background about my dad's life long career in communication.</p>
 <p><i>Ron Essel's Career</i></p>
 <p>My father earned a communications bachelors from Colgate in 1965, served in the Air Force for six years and attended grad school for a couple of semesters. After rejoining civilian life he landed a job at AT&T in Manhattan in the early 1970s, to support my mom and then tiny older bro Ron. My pop worked in sales support and networking and eventually transferred to a job out in Melville on Long Island to cut down his 3-4 hour daily commute. After AT&T's breakup he moved onto a county job managing phone network installations and repairs. He retired just recently from a rich career working closely with communication networks.</p>

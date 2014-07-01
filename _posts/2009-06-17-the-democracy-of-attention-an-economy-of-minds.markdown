@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<h2 style=\"text-align: center;\"><a href=\"http://www.flickr.com/photos/fhashemi/\"><img
-  class=\"size-full wp-image-725\" title=\"Democracy\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/06/Democracy.jpg\"
+  class=\"size-full wp-image-725\" title=\"Democracy\" src=\"{{ site.url }}/assets/2009/06/Democracy.jpg\"
   alt=\"Democracy\" width=\"490\" height=\"326\" /></a></h2>\r\n<p style=\"text-align:
   center;\">Protesters in Tehran 5 days after the election</p>\r\n\r\n<h2>Internet
   Attention is Democratic</h2>\r\nIncreasingly effective web directories are powered
@@ -39,7 +39,7 @@ comments:
 - id: 120
   author: Monetization for Web2010
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/06/21/monetization-for-web2010/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/06/21/monetization-for-web2010/
   date: '2009-06-21 06:28:15 -0400'
   date_gmt: '2009-06-21 13:28:15 -0400'
   content: "[...] The Democracy of Attention, an Economy of Minds [...]"
@@ -55,18 +55,18 @@ comments:
 - id: 8933
   author: Startup Strategies that Survive, Prosper, and Win &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/02/12/startup-strategies-that-survive-prosper-and-win/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/02/12/startup-strategies-that-survive-prosper-and-win/
   date: '2011-02-12 16:19:53 -0500'
   date_gmt: '2011-02-12 23:19:53 -0500'
   content: "[...] The Democracy of Attention, an Economy of Minds    Share and Enjoy:
     [...]"
 ---
-<h2 style="text-align: center;"><a href="http://www.flickr.com/photos/fhashemi/"><img class="size-full wp-image-725" title="Democracy" src="http://www.victusspiritus.com/wp-content/uploads/2009/06/Democracy.jpg" alt="Democracy" width="490" height="326" /></a></h2>
+<h2 style="text-align: center;"><a href="http://www.flickr.com/photos/fhashemi/"><img class="size-full wp-image-725" title="Democracy" src="{{ site.url }}/assets/2009/06/Democracy.jpg" alt="Democracy" width="490" height="326" /></a></h2>
 <p style="text-align: center;">Protesters in Tehran 5 days after the election</p>
 <h2>Internet Attention is Democratic</h2>
 <p>Increasingly effective web directories are powered by millions of people reviewing, voting, and filtering much of the most popular material. There still remain rare gems that are unseen by the mass of reviewers, but even these smaller finds are being discovered by niche communities within greater crowd sourcing sites (sub-reddit, HackerNews, twitter followers, friendfeed groups, etc.) The democratization of the web, applies to the way in which you find and publish information. While a web search (Google, bing) will give you appropriate links to SEO (search engine optimization) centric pages, usually these results are dominated by only a few big names. This information is generally older but may not be what you are searching for. Through crowd sourced (ranked) pages we have at our fingertips user reviewed information, much of which is updated in real time. We can also publish our own creations to these sites and have them judged/reviewed in real time.<a id="more"></a><a id="more-702"></a></p>
 <h2>The New Economy is Based On Minds</h2>
-<p>The concept of an economy based on interaction is an extension of the <a href="http://www.victusspiritus.com/2009/05/08/the-virtual-currency-of-social-media-gratitude/">virtual currency of gratitude</a> I alluded to in an earlier post. While attention can be capitalized on by effective advertising, the heart of an internet economy is based on the flow of information between minds. Excellent ideas spur on communal action, more so in an environment of trust. Concepts may start with potential, and develop into something much stronger by social iteration/design (blogging being a simple example). Simple platforms with open APIs allow for easier development of user desired tools (twitter being a prime example, the APP store another). Markets are created from the user community, their interactions requiring additional tools to fulfill business needs. Ultimately dollar values are placed on premium services, or pertinent (hopefully) advertisements.</p>
+<p>The concept of an economy based on interaction is an extension of the <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/05/08/the-virtual-currency-of-social-media-gratitude/">virtual currency of gratitude</a> I alluded to in an earlier post. While attention can be capitalized on by effective advertising, the heart of an internet economy is based on the flow of information between minds. Excellent ideas spur on communal action, more so in an environment of trust. Concepts may start with potential, and develop into something much stronger by social iteration/design (blogging being a simple example). Simple platforms with open APIs allow for easier development of user desired tools (twitter being a prime example, the APP store another). Markets are created from the user community, their interactions requiring additional tools to fulfill business needs. Ultimately dollar values are placed on premium services, or pertinent (hopefully) advertisements.</p>
 <p><span style="font-size: 14px;">There are several newer tools which will empower additional social markets. <a href="http://wordpress.org/extend/themes/p2">P2</a> is a social platform that works within wordpress (it's a template). This easily integrated, decentralized micro-blogging/communication tool has allowed the wordpress team to communicate effectively and efficiently. This open source tool has advantages over tools like twitter in that moderation can also be decentralized (as it is in friendfeed). Another promising communication platform that's also open source is Google Wave. Here's a few features of Google Wave that are geared for social collaboration:</span></p>
 <ul>
 <li><span style="font-size: 14px;">concurrent editing</span></li>

@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 4689
-wordpress_url: http://www.victusspiritus.com/2010/07/28/open-the-factory-doors-let-in-the-breeze-and-sunshine/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/07/28/open-the-factory-doors-let-in-the-breeze-and-sunshine/
 date: '2010-07-28 05:04:47 -0400'
 date_gmt: '2010-07-28 12:04:47 -0400'
 categories:

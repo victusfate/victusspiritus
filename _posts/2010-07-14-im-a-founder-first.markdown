@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 4578
-wordpress_url: http://www.victusspiritus.com/2010/07/14/im-a-founder-first/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/07/14/im-a-founder-first/
 date: '2010-07-14 04:06:03 -0400'
 date_gmt: '2010-07-14 11:06:03 -0400'
 categories:
@@ -20,7 +20,7 @@ comments:
 - id: 4773
   author: What Walmart, Facebook, and Credit Cards Have in Common | Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/07/15/what-walmart-facebook-and-credit-cards-have-in-common/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/07/15/what-walmart-facebook-and-credit-cards-have-in-common/
   date: '2010-07-15 05:42:36 -0400'
   date_gmt: '2010-07-15 12:42:36 -0400'
   content: "[...] Nourishment for the Soul. A tool of introspection that resulted
@@ -30,7 +30,7 @@ comments:
 - id: 4835
   author: Why Investing Resources in Web Apps is Good Business | Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/07/25/why-investing-resources-in-web-apps-is-good-business/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/07/25/why-investing-resources-in-web-apps-is-good-business/
   date: '2010-07-25 09:39:10 -0400'
   date_gmt: '2010-07-25 16:39:10 -0400'
   content: "[...] I&#8217;m neither a professional web developer, nor remotely a genius.
@@ -44,7 +44,7 @@ comments:
 - id: 5457
   author: I desire a job I love | Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/08/23/i-desire-a-job-i-love/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/08/23/i-desire-a-job-i-love/
   date: '2010-08-23 09:27:21 -0400'
   date_gmt: '2010-08-23 16:27:21 -0400'
   content: "[...] *= see I&#8217;m a founder first which ironically details many of
@@ -52,7 +52,7 @@ comments:
 - id: 5893
   author: If you can&#8217;t beat them, join them | Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/09/13/if-you-cant-beat-them-join-them/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/09/13/if-you-cant-beat-them-join-them/
   date: '2010-09-13 05:46:42 -0400'
   date_gmt: '2010-09-13 12:46:42 -0400'
   content: "[...] get stronger, faster, and hyper connected to have a shot at success.
@@ -61,7 +61,7 @@ comments:
 - id: 8387
   author: Introspection 18 months later, are you an entrepreneur? &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/01/31/introspection-18-months-later-are-you-an-entrepreneur/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/01/31/introspection-18-months-later-are-you-an-entrepreneur/
   date: '2011-01-31 05:36:34 -0500'
   date_gmt: '2011-01-31 12:36:34 -0500'
   content: "[...] first considered the question at the end of 2008, and again in 2009

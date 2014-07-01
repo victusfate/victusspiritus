@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2915
-wordpress_url: http://www.victusspiritus.com/2010/01/31/cutting-ties-with-my-old-friend-microsoft/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/01/31/cutting-ties-with-my-old-friend-microsoft/
 date: '2010-01-31 08:35:07 -0500'
 date_gmt: '2010-01-31 15:35:07 -0500'
 categories:
@@ -24,7 +24,7 @@ comments:
 - id: 3403
   author: DRM and the Web, Conflicting Ideologies &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/03/17/drm-and-the-web-conflicting-ideologies/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/03/17/drm-and-the-web-conflicting-ideologies/
   date: '2010-03-17 05:17:26 -0400'
   date_gmt: '2010-03-17 12:17:26 -0400'
   content: "[...] to constantly have to monitor, soothe, and coax into functionality.
@@ -33,7 +33,7 @@ comments:
 - id: 4642
   author: Fat Guy in a little coat, Ruby on Windows | Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/06/29/fat-guy-in-a-little-coat-ruby-on-windows/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/06/29/fat-guy-in-a-little-coat-ruby-on-windows/
   date: '2010-06-29 05:25:05 -0400'
   date_gmt: '2010-06-29 12:25:05 -0400'
   content: "[...] system and groaning over failed native gem builds which finally

@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 9319
-wordpress_url: http://www.victusspiritus.com/2011/06/21/blinded-by-vc-tinted-goggles-we-missed-the-birth-of-a-new-corporate-archetype/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/06/21/blinded-by-vc-tinted-goggles-we-missed-the-birth-of-a-new-corporate-archetype/
 date: '2011-06-21 06:23:26 -0400'
 date_gmt: '2011-06-21 13:23:26 -0400'
 categories:
@@ -57,6 +57,6 @@ comments: []
 <p><a href="http://bijansabet.com/">Bijan Sabet</a></li>
 </ul>
 </li>
-<li>I refer to the Von Neumann minimax shuffle once again. This maximum gains for minimum energy or Pareto's 80/20 rule is getting monotonous. I'll take the <a href="http://www.victusspiritus.com/2011/05/31/why-doesnt-software-feel-like-the-rising-sun/">sunrise</a> anytime.</li>
+<li>I refer to the Von Neumann minimax shuffle once again. This maximum gains for minimum energy or Pareto's 80/20 rule is getting monotonous. I'll take the <a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/05/31/why-doesnt-software-feel-like-the-rising-sun/">sunrise</a> anytime.</li>
 <li>JavaScript code can quickly converge on a labyrinth of implicit scope, clojures, function callbacks, and JSON structures. CoffeeScript helps me read through existing code faster, and focus on data and algorithm flow, instead of the syntax</li>
 </ol>

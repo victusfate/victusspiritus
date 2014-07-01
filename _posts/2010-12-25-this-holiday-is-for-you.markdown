@@ -33,6 +33,6 @@ comments:
     as an excuse to do so. Why can't we get together simply because we wish to, not
     because it's Day X? I guess it helps coordinate free time.
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/12/ChristmasTree.jpg"><img class="aligncenter size-full wp-image-6355" title="ChristmasTree" src="http://www.victusspiritus.com/wp-content/uploads/2010/12/ChristmasTree.jpg" alt="" width="400" height="500" /></a></p>
+<p><a href="{{ site.url }}/assets/2010/12/ChristmasTree.jpg"><img class="aligncenter size-full wp-image-6355" title="ChristmasTree" src="{{ site.url }}/assets/2010/12/ChristmasTree.jpg" alt="" width="400" height="500" /></a></p>
 <p>If you're not into cultural and religious celebrations (like me), if you're far from home, or far from loved ones, here's one trick to make this time of year more enjoyable. The holidays have existed for hundreds of years not because of mass consumption, or even religious institutions, but because of social gravity that defies physical proximity. It's great to meet up with friends and family to celebrate life, even if only a couple of times a year, and we find great comfort in sharing each other's presence.</p>
 <p>Take a moment to appreciate precious memories and kind thoughts of those who are impossible to visit, and hold the best parts of who they are close.</p>

@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 5209
-wordpress_url: http://www.victusspiritus.com/2010/09/17/lazymiracledb-because-youre-never-alone-on-a-network/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/09/17/lazymiracledb-because-youre-never-alone-on-a-network/
 date: '2010-09-17 06:04:27 -0400'
 date_gmt: '2010-09-17 13:04:27 -0400'
 categories:

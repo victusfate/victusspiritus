@@ -67,7 +67,7 @@ comments:
 - id: 357
   author: Crowd Sourced Funding, Pitching, and Entrepreneurs
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/08/06/crowd-sourced-funding-pitching-and-entrepreneurs/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/08/06/crowd-sourced-funding-pitching-and-entrepreneurs/
   date: '2009-08-06 04:20:49 -0400'
   date_gmt: '2009-08-06 11:20:49 -0400'
   content: "[...] Crowd Sourced Venture Capitalism (victusspiritus.com) [...]"

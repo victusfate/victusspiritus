@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<p style=\"text-align: center;\"><a href=\"http://www.flickr.com/photos/walkadog/\"><img
-  class=\"size-full wp-image-1178 alignnone\" title=\"AuroraBorealis\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/07/AuroraBorealis.jpg\"
+  class=\"size-full wp-image-1178 alignnone\" title=\"AuroraBorealis\" src=\"{{ site.url }}/assets/2009/07/AuroraBorealis.jpg\"
   alt=\"AuroraBorealis\" width=\"480\" height=\"320\" /></a>\r\nSolar Ions Find Their
   Way to the North Pole In Magnificent Fashion</p>\r\n\r\n<h2>Take a Gambit towards
   your Goals</h2>\r\n<p style=\"text-align: left;\">You take chances each day without
@@ -28,7 +28,7 @@ tags:
 - startups
 comments: []
 ---
-<p style="text-align: center;"><a href="http://www.flickr.com/photos/walkadog/"><img class="size-full wp-image-1178 alignnone" title="AuroraBorealis" src="http://www.victusspiritus.com/wp-content/uploads/2009/07/AuroraBorealis.jpg" alt="AuroraBorealis" width="480" height="320" /></a><br />
+<p style="text-align: center;"><a href="http://www.flickr.com/photos/walkadog/"><img class="size-full wp-image-1178 alignnone" title="AuroraBorealis" src="{{ site.url }}/assets/2009/07/AuroraBorealis.jpg" alt="AuroraBorealis" width="480" height="320" /></a><br />
 Solar Ions Find Their Way to the North Pole In Magnificent Fashion</p>
 <h2>Take a Gambit towards your Goals</h2>
 <p style="text-align: left;">You take chances each day without considering the vast majority of them. We live in a continuum of the unknown intertwined wheel of fate, whether you believe it is sewn before or after our actions is a choice entirely up to you. What if at this very moment there are a series of chances that if taken (the gambit) will move you inexorably towards a direction entirely of your own design?<a id="more"></a><a id="more-1177"></a></p>

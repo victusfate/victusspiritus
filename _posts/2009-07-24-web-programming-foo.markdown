@@ -52,7 +52,7 @@ comments:
 - id: 1308
   author: 14 million ways to skin a cat &#8211; web programming
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/10/28/14-million-ways-to-skin-a-cat-web-programming/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/10/28/14-million-ways-to-skin-a-cat-web-programming/
   date: '2009-10-28 04:43:33 -0400'
   date_gmt: '2009-10-28 11:43:33 -0400'
   content: "[...] Practical Web Programming with the friendfeed API &amp; Google App

@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 3171
-wordpress_url: http://www.victusspiritus.com/2010/03/03/centralized-versus-distributed-web/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/03/03/centralized-versus-distributed-web/
 date: '2010-03-03 05:28:15 -0500'
 date_gmt: '2010-03-03 12:28:15 -0500'
 categories:

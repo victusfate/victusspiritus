@@ -33,7 +33,7 @@ comments:
   date_gmt: '2011-03-15 15:49:00 -0400'
   content: Howdy Leland, long time no chat. I'll shoot you an email.
 ---
-<p>At a quarter after five each weekday my wife and I get up and go through our daily <a href="http://www.victusspiritus.com/2010/12/21/lifes-default-rituals-or-jeez-my-workdays-are-boring/">morning rituals</a>. When my day job gets busy it swallows nearly all curious or creative energy I can cultivate. The industry from which I earn a living, is not one which supports free associative thinking or building. </p>
+<p>At a quarter after five each weekday my wife and I get up and go through our daily <a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/12/21/lifes-default-rituals-or-jeez-my-workdays-are-boring/">morning rituals</a>. When my day job gets busy it swallows nearly all curious or creative energy I can cultivate. The industry from which I earn a living, is not one which supports free associative thinking or building. </p>
 <p>In busy times like this there's little room for reading or self directed projects until the weekend, and by then I'm pretty burnt out. I squeeze in a little exploration or work in the morning before we leave and sometimes before bed. After work our dominant pattern is exercise, dinner, restful Netflixing and popcorn reading (light non-technical).</p>
 <p><I>Before 5:15am I do what I choose</I></p>
 <p>Each and every morning before I fall back into step like a good soldier <b>I'm Free</b>. I read whatever I find valuable. I comment on fascinating posts and reply to engaging comments. I articulate ideas into posts which free up my conscious imagination from haunting concerns*. </p>

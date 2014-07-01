@@ -131,7 +131,7 @@ comments:
 <p><span style="background-color: #ffffff;">1) Short term goals include incorporation, and improvements on the efficacy of the algorithm (pattern matching techniques, subgroups, clustering).</span></p>
 <p>2) Longer term plans include powerful intelligent search assistant tools, to enable richer and more fluid user browsing experiences as well as personally relevant ads (dumb ads are history).</p>
 <p>We setup a business web site at <a href="http://victusmedia.com">victusmedia.com</a></p>
-<p><span style="background-color: #ffffff;">To see the history of this project check <a href="http://www.victusspiritus.com/2009/06/23/notional-framework-for-monetization-web2010/">Monetization Web 2010</a>.</span></p>
+<p><span style="background-color: #ffffff;">To see the history of this project check <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/06/23/notional-framework-for-monetization-web2010/">Monetization Web 2010</a>.</span></p>
 <p><strong>Related articles by Zemanta</strong></p>
 <ul class="zemanta-article-ul">
 <li class="zemanta-article-ul-li"><a href="http://www.zemanta.com/blog/new-zemanta-engine-api-release/">New Zemanta engine &amp; API release</a> (zemanta.com)</li>

@@ -77,12 +77,12 @@ comments:
 - id: 4827
   author: Deciphering Reactions to a Change of Plans | Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/07/22/deciphering-reactions-to-a-change-of-plans/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/07/22/deciphering-reactions-to-a-change-of-plans/
   date: '2010-07-22 05:49:16 -0400'
   date_gmt: '2010-07-22 12:49:16 -0400'
   content: "[...] * = Hacking Minds, Leverage Your Habitual Nature [...]"
 ---
-<p><a href="http://www.flickr.com/photos/dhilung/"><img class="aligncenter size-full wp-image-2251" title="CloudyValley" src="http://www.victusspiritus.com/wp-content/uploads/2009/11/CloudyValley.jpg" alt="CloudyValley" width="480" height="300" /></a></p>
+<p><a href="http://www.flickr.com/photos/dhilung/"><img class="aligncenter size-full wp-image-2251" title="CloudyValley" src="{{ site.url }}/assets/2009/11/CloudyValley.jpg" alt="CloudyValley" width="480" height="300" /></a></p>
 <h2>Bad Habits</h2>
 <p>The world loves to dwell on our bad habits. Smoking, eating, drinking, drugs, and even sex. It's as if calling out our bad habits is a form of societal confession. Perception and action are too entirely different motive forces though, and it's arguable that paying attention to terrible activity only makes them more desirable (taboo) to young folks. What if we could leverage the addictive and habitual aspects of our psyche to positive activities? </p>
 <h2>Hacking Your Subconscious</h2>

@@ -22,7 +22,7 @@ comments:
   author: Browsers aren&#8217;t Operating Systems, but will Dominate as an Application
     Platform | Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/09/14/browsers-arent-operating-systems-but-will-dominate-as-an-application-platform/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/09/14/browsers-arent-operating-systems-but-will-dominate-as-an-application-platform/
   date: '2010-09-14 07:24:29 -0400'
   date_gmt: '2010-09-14 14:24:29 -0400'
   content: "[...] recently, I covered my first impression of Minecraft. Along with
@@ -102,7 +102,7 @@ comments:
 - id: 7408
   author: The Roulette Wheel of Organic Search Traffic &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/11/05/the-roulette-wheel-of-organic-search-traffic/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/11/05/the-roulette-wheel-of-organic-search-traffic/
   date: '2010-11-05 04:33:03 -0400'
   date_gmt: '2010-11-05 11:33:03 -0400'
   content: "[...] year&#8217;s search post is Holy Crap Minecraft! This post receives
@@ -149,7 +149,7 @@ comments:
   date_gmt: '2013-08-31 16:16:54 -0400'
   content: "[&#8230;] Bigger than my castle   [&#8230;]"
 ---
-<p><a href="http://www.minecraft.net"><img class="aligncenter size-full wp-image-5162" title="MineCraftCastle" src="http://www.victusspiritus.com/wp-content/uploads/2010/09/MineCraftCastle.jpg" alt="" width="500" height="328" /></a></p>
+<p><a href="http://www.minecraft.net"><img class="aligncenter size-full wp-image-5162" title="MineCraftCastle" src="{{ site.url }}/assets/2010/09/MineCraftCastle.jpg" alt="" width="500" height="328" /></a></p>
 <p>The above image is a beautiful castle constructed by 10-15 people over a few days within a single world node. I don't have much time to capture the wonder and awesomeness that was my first hour of digging down to lava, or jump box laying up to the world ceiling, but building in <a href="http://www.minecraft.net">Minecraft</a> is truly a pleasure. It's a simple but elegantly designed cube based game that places an avatar in a randomly generated world. The official blog for Minecraft is Markus Persson's own Tumblog, <a href="http://notch.tumblr.com/">The Word of Notch</a>.</p>
 <p><b>update July 22nd, 2011 F-18 buzzes airport with Zeplin Mod</b><br />
 (thanks to <a href="https://plus.google.com/115459243651688775505/posts">Matt Mastracci</a> for this link)</p>
@@ -159,7 +159,7 @@ comments:
 <p><b>The <a href="http://theminecraftdiaries.tumblr.com/">Minecraft Diaries</a>, update April 24th, 2011</b><br />
 My friend <a href="http://twitter.com/nslater">Noah</a> loves Minecraft (so much so that he yearns to fix their bugs) and has crafted wondrous tales of brave virtual adventurer Sean!<br />
 Sean aspires to build better bacon making machines and swim in oceans of pigs.<br />
-<a href="http://theminecraftdiaries.tumblr.com/"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/09/Sean.png" alt="" title="Sean" width="500" height="281" class="aligncenter size-full wp-image-8613" /></a></p>
+<a href="http://theminecraftdiaries.tumblr.com/"><img src="{{ site.url }}/assets/2010/09/Sean.png" alt="" title="Sean" width="500" height="281" class="aligncenter size-full wp-image-8613" /></a></p>
 <p><b>update April 23rd, 2011</b><br />
 Deathwing, Giant Terminator and the Colliseum<br />
 <iframe title="YouTube video player" width="640" height="390" src="http://www.youtube.com/embed/Au4cqkCly_o" frameborder="0" allowfullscreen></iframe><br />
@@ -167,7 +167,7 @@ Deathwing, Giant Terminator and the Colliseum<br />
 <iframe title="YouTube video player" width="640" height="390" src="http://www.youtube.com/embed/hBn5qun8VRY" frameborder="0" allowfullscreen></iframe></p>
 <p><b>update April 7th, 2011</b><br />
 This Kinect hack was pretty awesome. Imagine converting 3D imagery or even regular pictures into Minecraft virtual worlds.<br />
-<a href="http://www.geek.com/articles/games/kinect-hack-builds-living-minecraft-monuments-20110124/"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/09/minecraft-kinect-580x423.jpg" alt="" title="minecraft-kinect-580x423" width="580" height="423" class="aligncenter size-full wp-image-8303" /></a></p>
+<a href="http://www.geek.com/articles/games/kinect-hack-builds-living-minecraft-monuments-20110124/"><img src="{{ site.url }}/assets/2010/09/minecraft-kinect-580x423.jpg" alt="" title="minecraft-kinect-580x423" width="580" height="423" class="aligncenter size-full wp-image-8303" /></a></p>
 <p><b>update March 28, 2011</b><br />
 Minecraft meets Lord of the Rings<br />
 Minas Tirith<br />
@@ -179,7 +179,7 @@ Saruman's Tower<br />
 My friend Tyler discovered this music video created with Minecraft:<br />
 <object width="500" height="306"><param name="movie" value="http://www.youtube.com/v/vIhs8_m5qPc?fs=1&amp;hl=en_US&amp;color1=0x006699&amp;color2=0x54abd6"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/vIhs8_m5qPc?fs=1&amp;hl=en_US&amp;color1=0x006699&amp;color2=0x54abd6" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="306"></embed></object></p>
 <p><strong>update Jan 2011, Free swag for Sci-fi/Fantasy RPG fans</strong><br />
-The <a href="http://www.victusspiritus.com/2011/01/09/children-of-the-ark-free-sci-fi-tabletop-roleplaying-game/">Children of the Ark</a> tabletop role-playing game open beta is out and available for download. We invite any and all gamers to check out the system, it's a labor of love slowly baked over a decade of play testing and rewriting. My coauthor Aakin Patel is integrating changes now so we'll periodically update the core rules which are available at this time for free. If we see sufficient interest we'll begin releasing supplements with background materials and setting in small packages (app sized booklets).</p>
+The <a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/01/09/children-of-the-ark-free-sci-fi-tabletop-roleplaying-game/">Children of the Ark</a> tabletop role-playing game open beta is out and available for download. We invite any and all gamers to check out the system, it's a labor of love slowly baked over a decade of play testing and rewriting. My coauthor Aakin Patel is integrating changes now so we'll periodically update the core rules which are available at this time for free. If we see sufficient interest we'll begin releasing supplements with background materials and setting in small packages (app sized booklets).</p>
 <p><strong>update Nov 5</strong><br />
 I've taken the content here and moved it to it's own Squidoo lens, <a href="http://www.squidoo.com/minecraft-castle">Minecraft Castle</a>, where new discoveries will be appended to this info. There's plenty of interest in blue prints and tools that aid crafting virtual worlds in Minecraft. I'll keep my eyes peeled and update that source.</p>
 <p><strong>update Nov 1</strong><br />
@@ -189,8 +189,8 @@ I've taken the content here and moved it to it's own Squidoo lens, <a href="http
 <p><strong>update Oct 28th 2010</strong> fresh from Notch's twitter stream, biome test.</p>
 <p>http://www.youtube.com/watch?v=953XeQ3qwMM</p>
 <p>Also came across an interview of Markus Persson from <a href="http://www.indiegames.com/blog/2010/09/indiegamescom_podcast_2_minecr.html">IndieGames</a><br />
-[podcast]http://www.victusspiritus.com/wp-content/uploads/2010/09/16194.mp3[/podcast]<br />
-<a href="http://www.victusspiritus.com/wp-content/uploads/2010/09/16194.mp3">The Indiegames Interview</a></p>
+[podcast]{{ site.url }}/assets/2010/09/16194.mp3[/podcast]<br />
+<a href="{{ site.url }}/assets/2010/09/16194.mp3">The Indiegames Interview</a></p>
 <p><strong>update</strong> the Columbia from Bioshock Infinite</p>
 <p>http://www.youtube.com/watch?v=9ggNKbsBj7s</p>
 <p><strong>update</strong> just came across this soothing video on <a href="http://notch.tumblr.com">notch's Tumblog</a><br />

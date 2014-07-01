@@ -38,7 +38,7 @@ comments:
   author: Delicious Dies, no worries Hillary Mason Hacked out a Replacment &raquo;
     Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/12/17/delicious-dies-no-worries-hillary-mason-hacked-out-a-replacment/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/12/17/delicious-dies-no-worries-hillary-mason-hacked-out-a-replacment/
   date: '2010-12-17 05:42:41 -0500'
   date_gmt: '2010-12-17 12:42:41 -0500'
   content: "[...] who just happens to be hacking out a future evolution of Delicious,
@@ -47,7 +47,7 @@ comments:
   author: Life&#8217;s Default Rituals or Jeez my workdays are boring &raquo; Victus
     Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/12/21/lifes-default-rituals-or-jeez-my-workdays-are-boring/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/12/21/lifes-default-rituals-or-jeez-my-workdays-are-boring/
   date: '2010-12-24 01:33:29 -0500'
   date_gmt: '2010-12-24 08:33:29 -0500'
   content: "[...] edit a post, then catch up on a few of my favorite blogs and check

@@ -25,7 +25,7 @@ comments:
   author: Twitter&#8217;s List and Search APIs leave much to be desired &mdash; Victus
     Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/05/13/twitters-list-and-search-apis-leave-much-to-be-desired/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/05/13/twitters-list-and-search-apis-leave-much-to-be-desired/
   date: '2011-05-13 07:58:21 -0400'
   date_gmt: '2011-05-13 14:58:21 -0400'
   content: "[...] an entity visualization layer on top of Twitter streams. I was able
@@ -34,7 +34,7 @@ comments:
 - id: 9988
   author: Imagebrowser Rails app ported from 2.3.4 to 3.1beta &mdash; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/05/18/imagebrowser-rails-app-ported-from-2-3-4-to-3-1beta/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/05/18/imagebrowser-rails-app-ported-from-2-3-4-to-3-1beta/
   date: '2011-05-18 15:33:40 -0400'
   date_gmt: '2011-05-18 22:33:40 -0400'
   content: "[...] I found some time last night and this morning to finish migrating
@@ -83,7 +83,7 @@ comments:
     Does the require only work when using CoffeeScript with node.js/Rhino/ other js servers? I thought that would be a great way to include coffeescript libraries.
 ---
 <h1>A brief description of CoffeeScript, jQuery, SCSS and Assets</h1>
-<p><a href="http://www.victusspiritus.com/2011/05/06/wakeup-with-a-fresh-cup-of-coffeescript/">CoffeeScript</a> is a translation and JavaScript with additional features to ease development, code readability, and functionality. It has all the best features of JavaScript as it IS JavaScript, but adds on essential development perks like terse syntax, local variable scoping, and utilities.</p>
+<p><a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/05/06/wakeup-with-a-fresh-cup-of-coffeescript/">CoffeeScript</a> is a translation and JavaScript with additional features to ease development, code readability, and functionality. It has all the best features of JavaScript as it IS JavaScript, but adds on essential development perks like terse syntax, local variable scoping, and utilities.</p>
 <p>jQuery is a wonderful JavaScript development library which works smoothly with or without CoffeeScript. For my personal development usage, jQuery gives me a consistent selector and reliable cross browser interface functionality. It's a great resource for any JavaScript work.</p>
 <p>SCSS files, or <a href="http://sass-lang.com/">SASS</a> is a dynamic version of CSS with variables and mixins (blocks or structures). This is one of features that you say, oh yeah why'd it take the web language folks so long to get this right. Although I haven't had a chance to use this feature yet, I look forward to doing so. Say good bye to cut and paste errors cropping up in your style code.<br />
 <script src="https://gist.github.com/975057.js"> </script></p>

@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 9316
-wordpress_url: http://www.victusspiritus.com/2011/06/20/the-client-server-class-war/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/06/20/the-client-server-class-war/
 date: '2011-06-20 06:18:25 -0400'
 date_gmt: '2011-06-20 13:18:25 -0400'
 categories:
@@ -48,7 +48,7 @@ Servers are able to temporarily extend or customize the functionality of a clien
 </p></blockquote>
 <p>Now that we have a firm footing on what client and server mean in the context of RESTful services, we're ready to explore alternatives. After a quick tour of Peer to Peer protocols and services, (hopefully) we'll better understand the conflict between client-server and peer to peer architectures.</p>
 <h2>"Headless" Networks</h2>
-<p>Peer to Peer distributed software has experienced periods of rising and falling widespread appeal. Napster was the internet's answer to getting files quickly, often without permission from the original owner of the data. Bit torrent has been the go to utility for distributed file sharing for most of my net connected years. As I covered here a <a href="http://www.victusspiritus.com/2011/02/04/sing-ly-where-local-apps-compete-on-value-not-network-lock-in/">few months back, Telehash.org</a> has risen as another route for peer to peer communication. </p>
+<p>Peer to Peer distributed software has experienced periods of rising and falling widespread appeal. Napster was the internet's answer to getting files quickly, often without permission from the original owner of the data. Bit torrent has been the go to utility for distributed file sharing for most of my net connected years. As I covered here a <a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/02/04/sing-ly-where-local-apps-compete-on-value-not-network-lock-in/">few months back, Telehash.org</a> has risen as another route for peer to peer communication. </p>
 <p>While gratuitous volumes of data have been pushed and pulled through these pipes, they have never had the wide scale commercial success and attraction that web servers have had. One rationale is that businesses don't have obvious bottlenecks in Peer to Peer networks, like they do for web servers. An elementary control surface for organizations is to author the peer to peer software themselves. An open source strategy would have a greater chance of adoption, encourage healthy competition and provide  additional security to developers on top of the protocol.</p>
 <p><a href="#notes" id="notes">Notes</a></p>
 <ol>

@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2641
-wordpress_url: http://www.victusspiritus.com/2009/12/28/failx3-win/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/12/28/failx3-win/
 date: '2009-12-28 05:43:35 -0500'
 date_gmt: '2009-12-28 12:43:35 -0500'
 categories:
@@ -152,7 +152,7 @@ comments:
 </ul>
 <p>Each decision to enjoy a particular activity, steals time away from a vital work task. If you're serious about building real long term value the distinction between what is essential and non-essential will become painfully clear. Just cancelled plans to meet up with a friend and my bro because the time cost is too large right now. But that decision was only the beginning.</p>
 <h2>Executing What Hasn't Been Done</h2>
-<p>I've set about a task that I've never seen done before. An <a href="http://www.victusspiritus.com/2009/12/23/read-write-social-bot/">interactive social search bot</a>, that "lives" on the web. My hope is that this type of tool will be remarkable enough to bring folks to our user designed discovery portal. It's not hubris that beckons me to try, but desparation. Building something of lasting value to others, is validation for the biological footprint of my life. Life is a gift, squandering it will not be my legacy.</p>
+<p>I've set about a task that I've never seen done before. An <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/12/23/read-write-social-bot/">interactive social search bot</a>, that "lives" on the web. My hope is that this type of tool will be remarkable enough to bring folks to our user designed discovery portal. It's not hubris that beckons me to try, but desparation. Building something of lasting value to others, is validation for the biological footprint of my life. Life is a gift, squandering it will not be my legacy.</p>
 <p>Our life's worth:<br />
 No man can judge it, but all men do.</p>
 <p>My deepest concern is to earn social freedom for my and my loved one's future (aka choose my projects from here out). I believe this motivation in various forms is shared by all first time startup founders. The unobstructed freedom to create and choose our labor drives us more clearly and powerfully than any whip or fear.</p>

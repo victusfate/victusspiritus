@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 9066
-wordpress_url: http://www.victusspiritus.com/2011/05/26/stop-bleeding-on-the-edge-of-technology/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/05/26/stop-bleeding-on-the-edge-of-technology/
 date: '2011-05-26 04:04:07 -0400'
 date_gmt: '2011-05-26 11:04:07 -0400'
 categories:

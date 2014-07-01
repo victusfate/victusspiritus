@@ -30,7 +30,7 @@ comments:
 - id: 122
   author: Monetization for Web2010
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/06/21/monetization-for-web2010/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/06/21/monetization-for-web2010/
   date: '2009-06-21 07:13:16 -0400'
   date_gmt: '2009-06-21 14:13:16 -0400'
   content: "[...] Intelligent Advertising for Microbloggers: Who will be first to
@@ -39,7 +39,7 @@ comments:
   author: Motivation is a 1000 Times More Effective than Training or Talent &raquo;
     Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/05/13/motivation-is-a-1000-times-more-effective-than-training-or-talent/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/05/13/motivation-is-a-1000-times-more-effective-than-training-or-talent/
   date: '2011-02-28 02:19:33 -0500'
   date_gmt: '2011-02-28 09:19:33 -0500'
   content: "[...] create software that understands natural language (Advertising example)
@@ -48,7 +48,7 @@ comments:
   author: Motivation is a 1000 Times More Effective than Training or Talent &raquo;
     Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/05/13/motivation-is-a-1000-times-more-effective-than-training-or-talent/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/05/13/motivation-is-a-1000-times-more-effective-than-training-or-talent/
   date: '2011-02-28 02:19:33 -0500'
   date_gmt: '2011-02-28 09:19:33 -0500'
   content: "[...] create software that understands natural language (Advertising example)

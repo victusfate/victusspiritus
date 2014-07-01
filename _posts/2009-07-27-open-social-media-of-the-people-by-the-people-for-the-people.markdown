@@ -42,7 +42,7 @@ comments:
   author_url: http://identi.ca/notice/7114160
   date: '2009-07-27 16:58:58 -0400'
   date_gmt: '2009-07-27 23:58:58 -0400'
-  content: "[...]  http://www.victusspiritus.com/2009/07/27/open-social-media-of-the-people-by-the-people-for-the-peop...
+  content: "[...]  http://victusfate.github.io/victusspiritus/uncategorized/2009/07/27/open-social-media-of-the-people-by-the-people-for-the-peop...
     [...]"
 - id: 273
   author: Brian Hendrickson (brianjesse) 's status on Tuesday, 28-Jul-09 00:11:19
@@ -51,7 +51,7 @@ comments:
   author_url: http://identi.ca/notice/7114600
   date: '2009-07-27 17:11:22 -0400'
   date_gmt: '2009-07-28 00:11:22 -0400'
-  content: "[...]  http://www.victusspiritus.com/2009/07/27/open-social-media-of-the-people-by-the-people-for-the-peop...
+  content: "[...]  http://victusfate.github.io/victusspiritus/uncategorized/2009/07/27/open-social-media-of-the-people-by-the-people-for-the-peop...
     [...]"
 - id: 278
   author: David Semeria
@@ -120,7 +120,7 @@ comments:
 - id: 526
   author: Friendfeed Is Fading
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/08/11/friendfeed-is-fading/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/08/11/friendfeed-is-fading/
   date: '2009-08-12 03:01:51 -0400'
   date_gmt: '2009-08-12 10:01:51 -0400'
   content: "[...] mentioned not long ago that I&#8217;d like to see completely user
@@ -129,7 +129,7 @@ comments:
 - id: 805
   author: The Message &gt; the media
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/09/06/the-message-the-media/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/09/06/the-message-the-media/
   date: '2009-09-06 03:50:59 -0400'
   date_gmt: '2009-09-06 10:50:59 -0400'
   content: "[...] my take on open social media, please check out this popular post
@@ -137,7 +137,7 @@ comments:
 - id: 908
   author: You Define Open Social Media
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/09/24/you-define-open-social-media/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/09/24/you-define-open-social-media/
   date: '2009-09-24 07:48:48 -0400'
   date_gmt: '2009-09-24 14:48:48 -0400'
   content: "[...] Here&#8217;s an earlier post I put together capture some ideas:
@@ -145,7 +145,7 @@ comments:
 - id: 1046
   author: 'Iter8r: Organic Crowd Shared Startup'
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/09/30/iter8r-organic-crowd-shared-startup/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/09/30/iter8r-organic-crowd-shared-startup/
   date: '2009-10-01 03:18:06 -0400'
   date_gmt: '2009-10-01 10:18:06 -0400'
   content: "[...] I read some of your articles with interest: Open Social Media Of

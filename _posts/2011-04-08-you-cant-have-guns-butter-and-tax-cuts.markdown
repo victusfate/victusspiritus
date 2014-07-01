@@ -23,7 +23,7 @@ comments:
   author: What&#8217;s broken in our economy and how we may repair it &mdash; Victus
     Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/04/10/whats-broken-in-our-economy-and-how-we-may-repair-it/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/04/10/whats-broken-in-our-economy-and-how-we-may-repair-it/
   date: '2011-04-10 05:34:17 -0400'
   date_gmt: '2011-04-10 12:34:17 -0400'
   content: "[...] this morning I read a series of articles1 which expanded on my uneasy
@@ -39,11 +39,11 @@ David M. Walker, Comptroller of the US 1998-2008</p>
 <p>“I sincerely believe... that the principle of spending money to be paid by posterity under the name of funding is but swindling futurity on a large scale.”<br />
 — Thomas Jefferson</p>
 <p>The Federal Reserve sells off Treasury bills, issuing debt to access immediate capital. The deficits our federal government run at consistently adds to the US Federal Debt. The income generated from selling off bills is used to prop up the government and keep it running, a titanic mockery of Weekend at Bernies.<br />
-<a href="http://www.victusspiritus.com/wp-content/uploads/2011/04/weekend_at_bernies.jpg"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/04/weekend_at_bernies.jpg" alt="" title="weekend_at_bernies" width="351" height="500" class="aligncenter size-full wp-image-8329" /></a></p>
+<a href="{{ site.url }}/assets/2011/04/weekend_at_bernies.jpg"><img src="{{ site.url }}/assets/2011/04/weekend_at_bernies.jpg" alt="" title="weekend_at_bernies" width="351" height="500" class="aligncenter size-full wp-image-8329" /></a></p>
 <p>The following is a living reminder of the estimated federal debt:<br />
 [iframe http://victusfate.github.com/Debt-Clock/ 600 400]</p>
 <p>The approximate breakdown of US debt is available live at usdebtclock.org<sup>3</sup>, linked through the image below.  <b>Caution</b> the site is flakey and ties up browsers (Flash based).<br />
-<a href="http://www.usdebtclock.org/"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/04/us_debt_clock.png" alt="" title="us_debt_clock" width="1031" height="735" class="aligncenter size-full wp-image-8311" /></a><br />
+<a href="http://www.usdebtclock.org/"><img src="{{ site.url }}/assets/2011/04/us_debt_clock.png" alt="" title="us_debt_clock" width="1031" height="735" class="aligncenter size-full wp-image-8311" /></a><br />
 The numerical size and rate of growth of US national debt is disturbing. If citizens spent like this in our personal lives, we'd quickly converge on both bankruptcy and poverty. What's even more sickening is what happens when the cash pipes stop flowing.</p>
 <blockquote><p>
 Elected officials, including Boehner, Reid and Obama, all would be paid during a shutdown, unless Congress changes the law. Soldiers, law enforcement officers and other government employees whose jobs are deemed “essential” would keep working yet wouldn’t get paychecks until the standoff is resolved. (<a href="http://www.bloomberg.com/news/2011-04-08/long-government-shutdown-would-harm-u-s-economy-hit-washington-hardest.html">source</a><sup>1</sup>)

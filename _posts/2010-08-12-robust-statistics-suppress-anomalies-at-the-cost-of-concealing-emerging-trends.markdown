@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 4864
-wordpress_url: http://www.victusspiritus.com/2010/08/12/robust-statistics-suppress-anomalies-at-the-cost-of-concealing-emerging-trends/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/08/12/robust-statistics-suppress-anomalies-at-the-cost-of-concealing-emerging-trends/
 date: '2010-08-12 06:22:02 -0400'
 date_gmt: '2010-08-12 13:22:02 -0400'
 categories:
@@ -21,7 +21,7 @@ tags:
 - influence
 comments: []
 ---
-<h2><a href="http://silvertonconsulting.com/blog/2010/03/23/spc-results-iops-vs-capacity-chart-of-the-month/"><img class="aligncenter wp-image-4867" title="Clusters" src="http://www.victusspiritus.com/wp-content/uploads/2010/08/Clusters1.jpg" alt="" width="500" height="350" /></a>The Source of Anomalies</h2>
+<h2><a href="http://silvertonconsulting.com/blog/2010/03/23/spc-results-iops-vs-capacity-chart-of-the-month/"><img class="aligncenter wp-image-4867" title="Clusters" src="{{ site.url }}/assets/2010/08/Clusters1.jpg" alt="" width="500" height="350" /></a>The Source of Anomalies</h2>
 <p>Real data sets are plagued by the disruptive presence of artifacts. Spike like responses can result from any number of electronic, physical, or social phenomena. Digital gain can change dramatically with temperature or <a class="zem_slink" title="Quantum tunnelling" rel="wikipedia" href="http://en.wikipedia.org/wiki/Quantum_tunnelling">electron tunneling</a>. Physical effects like unpredictable radiation bursts (solar activity), flash weather, and geometric specular points and glint (peak surface reflection) all contribute to edge data. Social spikes occur when a novel message virally spreads from a few sources to saturation levels in a short period of time.</p>
 <h2>Edge Points Dominate Statistical Representations</h2>
 <p>Much of research is spent improving models and reducing the impact of anomalous measurements. If special care isn't taken to minimize the impact of spikes, iterative estimates based on models will divert from true state. System models completely break down in the presence of severe artifacts.</p>

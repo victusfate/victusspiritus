@@ -33,7 +33,7 @@ comments:
     her.  And she will get to be with her family  and see her Dad for the first time
     in over  5 years.  '
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/12/hotspot_over_DC.png"><img class="aligncenter size-full wp-image-6371" title="hotspot_over_DC" src="http://www.victusspiritus.com/wp-content/uploads/2010/12/hotspot_over_DC.png" alt="" width="500" height="160" /></a><br />
+<p><a href="{{ site.url }}/assets/2010/12/hotspot_over_DC.png"><img class="aligncenter size-full wp-image-6371" title="hotspot_over_DC" src="{{ site.url }}/assets/2010/12/hotspot_over_DC.png" alt="" width="500" height="160" /></a><br />
 While tracking the snowstorm that battered the east coast early this morning, I picked up on a curious mix of ice and rain over DC. Leaning on Occam's Razor, the simplest solution is that it was just a coincidence and the snow changed to a mix in a spherical pattern due to weather systems. But what if there were some cause behind the shape?</p>
 <p>At first I theorized the city must be much warmer than the surrounding area, but I'm pretty sure that wouldn't change the precipitation or affect the Doppler radar used in it's mapping. In addition I've never seen a hot spot like that over New York before, a much denser city.</p>
 <p>It could be that we're seeing the effects of strong local radar due to the elliptical shape. After all it is the US federal capital, and likely has multiple forms of local active sensors.  If it is indeed the result of local radars, I still can't guess the direct cause. The spot is either the effect of interference (likely) or mixed precipitation caused by heavy radiation interaction with the storm and changing the snow to a wintry mix. </p>

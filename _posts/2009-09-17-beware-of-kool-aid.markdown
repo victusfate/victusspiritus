@@ -14,7 +14,7 @@ excerpt: The terminlogy "don't drink the Kool Aid" refers to the <a href="http:/
   very emotional topic of faith, the future of our society and economy depends heavily
   on our adherence to reason as a driving force for social evolution.
 wordpress_id: 1603
-wordpress_url: http://www.victusspiritus.com/2009/09/17/beware-of-kool-aid/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/09/17/beware-of-kool-aid/
 date: '2009-09-17 06:26:22 -0400'
 date_gmt: '2009-09-17 13:26:22 -0400'
 categories:

@@ -23,7 +23,7 @@ comments:
   author: The Fount of Energy, Enthusiasm, and Motivation is&#8230; &raquo; Victus
     Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/11/11/the-fount-of-energy-enthusiasm-and-motivation-is/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/11/11/the-fount-of-energy-enthusiasm-and-motivation-is/
   date: '2010-11-11 06:43:54 -0500'
   date_gmt: '2010-11-11 13:43:54 -0500'
   content: "[...] Hunting the Miracle of Motivation I began searching for the origin
@@ -32,7 +32,7 @@ comments:
   author: The Fount of Energy, Enthusiasm, and Motivation is&#8230; &raquo; Victus
     Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/11/11/the-fount-of-energy-enthusiasm-and-motivation-is/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/11/11/the-fount-of-energy-enthusiasm-and-motivation-is/
   date: '2010-11-11 06:43:54 -0500'
   date_gmt: '2010-11-11 13:43:54 -0500'
   content: "[...] Hunting the Miracle of Motivation I began searching for the origin

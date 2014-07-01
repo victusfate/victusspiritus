@@ -25,7 +25,7 @@ comments:
   author: Want to Startup America, fund Mega Projects and R&amp;D not more web apps
     &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/02/03/want-to-startup-america-fund-mega-projects-and-rd-not-more-web-apps/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/02/03/want-to-startup-america-fund-mega-projects-and-rd-not-more-web-apps/
   date: '2011-02-03 05:58:34 -0500'
   date_gmt: '2011-02-03 12:58:34 -0500'
   content: "[...] avenues with healthy commerce. I spoke to the importance and government
@@ -69,7 +69,7 @@ comments:
     do you want done, and how many lives are you willing to lose while I and everyone
     else pays for your dreams?"
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/01/l_600_600_92C4C316-080A-4C05-B853-331935008036.jpeg"><img class="alignnone size-full wp-image-364" src="http://www.victusspiritus.com/wp-content/uploads/2010/01/l_600_600_92C4C316-080A-4C05-B853-331935008036.jpeg" alt="" width="300" height="300" /></a></p>
+<p><a href="{{ site.url }}/assets/2010/01/l_600_600_92C4C316-080A-4C05-B853-331935008036.jpeg"><img class="alignnone size-full wp-image-364" src="{{ site.url }}/assets/2010/01/l_600_600_92C4C316-080A-4C05-B853-331935008036.jpeg" alt="" width="300" height="300" /></a></p>
 <h2>How the Hell do Big Infrastructure Projects Succeed?</h2>
 <p>This question and brief study was prompted by several conversations I engaged in yesterday. Andy Swan has been working towards getting to the root of <a href="http://andyswan.com/blog/2010/01/11/wealth-thought-experiment-1/#comment-29496512">contrasting social versus capitalistic systems</a> of motivation. At the same time another asynchronous discussion happened on <a href="http://www.avc.com/a_vc/2010/01/would-att-or-comcast-have-created-google.html">AVC, "Would AT&amp;T or Comcast have created Google?"</a>. Fred was thinking out loud about the assumptions for his position on Net Neutrality. Finally I wrapped up the day with a good chat with coworker Eric Jansen. We talked briefly about the history of the US government support of large scale infrastructure projects. The specific relationship between the US Government (ultimate in crowd sourcing) and private business execution is what I'll review.</p>
 <p>First off, I spent some time basking in the glow of Net knowledge. I read about the history of the US railroads, the Panama Canal, the Hoover Dam, and the Internet and it's infastructure (random sample).</p>

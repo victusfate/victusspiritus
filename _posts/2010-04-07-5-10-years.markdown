@@ -19,7 +19,7 @@ tags:
 - mind
 comments: []
 ---
-<p><a href="http://www.photoshoppix.com/Content/pid=44.html"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/04/l_700_466_5AED2823-B279-4F25-97F6-F5BA4DF3CE1D.jpeg" alt="" class="alignnone size-full" /></a></p>
+<p><a href="http://www.photoshoppix.com/Content/pid=44.html"><img src="{{ site.url }}/assets/2010/04/l_700_466_5AED2823-B279-4F25-97F6-F5BA4DF3CE1D.jpeg" alt="" class="alignnone size-full" /></a></p>
 <h2>Startups: Blood, Sweat & Tears</h2>
 <p>Nearly without exception, every startup story includes the tremendous  effort and <a href="http://epaley.posterous.com/fantasies-and-fantasies-with-money-0">emotional roller coaster</a>* that founders and early employers endure. This rings true for both brilliant success and sullen defeat. </p>
 <p>The first hurdle is making a conscious decision to build a company no matter what barriers arise along your team's journey. By perceiving an opportunity and a wonderful solution you take action to rapidly gather information and determine course changes. Each day you work to make your startup stronger and a little more <a HREF="http://www.scruffles.net/spielberg/movies/ai.html">"real"</a>. The second hurdle for breaking through is putting yourself in a position of risk. In order to successfully build a (large) self sustaining business there has to be a real chance of failure. Risking time, savings, investments, and your reputation are all essential first time founder risks. For those that have a successful exit or two notched on their belt, self funding earlier phases, a potent business network, and the knowledge acquired reduces the risk of failure. </p>

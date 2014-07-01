@@ -93,7 +93,7 @@ comments:
 - id: 4632
   author: Highs and Lows Come and Go, But Will is Relentless | Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/06/28/highs-and-lows-come-and-go-but-will-is-relentless/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/06/28/highs-and-lows-come-and-go-but-will-is-relentless/
   date: '2010-06-28 05:10:56 -0400'
   date_gmt: '2010-06-28 12:10:56 -0400'
   content: "[...] in December I mentioned the importance of persistence with respect

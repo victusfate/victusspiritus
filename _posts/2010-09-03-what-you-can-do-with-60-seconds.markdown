@@ -37,7 +37,7 @@ comments:
     left with only a few million minutes. I think it''s time you got cracking on that
     conscious transfer to a robot body to buy some more time.'
 ---
-<h2><a href="http://www.stuckincustoms.com/2010/09/03/the-rainbow-after-the-storm/"><img class="aligncenter size-full wp-image-5039" title="rainbowafterthestorm" src="http://www.victusspiritus.com/wp-content/uploads/2010/09/rainbowafterthestorm.jpg" alt="" width="500" height="350" /></a></h2>
+<h2><a href="http://www.stuckincustoms.com/2010/09/03/the-rainbow-after-the-storm/"><img class="aligncenter size-full wp-image-5039" title="rainbowafterthestorm" src="{{ site.url }}/assets/2010/09/rainbowafterthestorm.jpg" alt="" width="500" height="350" /></a></h2>
 <h2>You can</h2>
 <ul>
 <li>quickly read this post</li>

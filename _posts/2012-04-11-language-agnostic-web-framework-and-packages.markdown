@@ -65,7 +65,7 @@ comments:
     the few day delay in my reading them :D. \n\nI think I'd like to see how you put
     this together, do you have a handy screen cast of it or a public repo link?\n\n"
 ---
-<p>I'm thinking about designing a web framework and packages without a host language. The patterns will be logical descriptions, and pseudo code in a fictional programming language (maybe I'll use <a href="http://www.victusspiritus.com/2010/05/26/probe-a-fictional-programming-language-design/">Probe</a>).</p>
+<p>I'm thinking about designing a web framework and packages without a host language. The patterns will be logical descriptions, and pseudo code in a fictional programming language (maybe I'll use <a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/05/26/probe-a-fictional-programming-language-design/">Probe</a>).</p>
 <p>The design will consist of pictures, pseudo code blocks, descriptions, and comments. A wiki or github repo with markdown will serve as the best drawing board for this effort. </p>
 <p>Any and all participation will be welcome after I construct a rough draft to serve as a skeleton. The design will include fictional fault tolerant persistence as well. I figure if I'm going to fantasize, I might as well do so at the highest level possible with balloon strings down to practical logical constructs. The concepts will be implementable in a variety of host languages, but I'll leave that effort up to folks who are eager to do so.</p>
 <p>A design goal is to limit interaction between functional components to strictly defined interfaces. The dream is many loosely coupled simple components which are nearly self documenting.</p>

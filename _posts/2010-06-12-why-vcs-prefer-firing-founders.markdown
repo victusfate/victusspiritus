@@ -46,7 +46,7 @@ comments:
   content: Absolutely.<br><br>This topic is heated and important. Noted a bunch of
     retweets from my Twitter community.
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/06/p_2048_1536_E6495EBD-744C-4EA0-A94D-DAF5D0DDF199.jpeg"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/06/p_2048_1536_E6495EBD-744C-4EA0-A94D-DAF5D0DDF199.jpeg" alt="" class="alignnone size-full" /></a></p>
+<p><a href="{{ site.url }}/assets/2010/06/p_2048_1536_E6495EBD-744C-4EA0-A94D-DAF5D0DDF199.jpeg"><img src="{{ site.url }}/assets/2010/06/p_2048_1536_E6495EBD-744C-4EA0-A94D-DAF5D0DDF199.jpeg" alt="" class="alignnone size-full" /></a></p>
 <p><I>Getting kicked out of your own company means watching your ownership position going down hill fast</I></p>
 <h2>AVC Community Speaks Up on Founder Firing</h2>
 <p>Fred Wilson brought up the touchy subject of <a HREF="http://www.avc.com/a_vc/2010/06/parting-ways-with-a-founding-team-member.html">Parting Ways with a Founding Team Member</a> and got a very strong and rich set of community feedback. The comments on the post were some of the highest caliber I've read there. Regular AVC commenters like <a HREF="http://www.avc.com/a_vc/2010/06/parting-ways-with-a-founding-team-member.html#comment-56047369">Chris Dixon</a> argued strongly for keeping founders on the team (until the company becomes liquid).</p>
@@ -63,4 +63,4 @@ It's definitely painful. When we decided to sell ChiliSoft, I was fired 6 months
 <p>After the post and comments I was curious about if and when any business partner should be fired. Liquidation is the only course I can see as legitamite. Pay off a founder, or investor their current ownership of the business and bid them farewell. If you can't afford to do this, you can't afford to fire them. Much like the "double trigger" where a company is purchased and it's founders fired, full ownership shares are paid out.</p>
 <h2>My visit to San Francisco is just about over</h2>
 <p><I>The Albino Alligator at the California Academy of Sciences was one of the many wonderful discoveries Michelle and I discovered about San Francisco  over the past few days. The gator represents something anomalous and special to visitors of the academy. More pictures and images available on my current <a href="http://www.victusspiritus.com/photovideo-posterous/">photo/video blog</a></I></p>
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/06/p_2048_1536_D9298738-FEDE-4D83-BA39-711AAB59C5AB.jpeg"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/06/p_2048_1536_D9298738-FEDE-4D83-BA39-711AAB59C5AB.jpeg" alt="" class="alignnone size-full" /></a></p>
+<p><a href="{{ site.url }}/assets/2010/06/p_2048_1536_D9298738-FEDE-4D83-BA39-711AAB59C5AB.jpeg"><img src="{{ site.url }}/assets/2010/06/p_2048_1536_D9298738-FEDE-4D83-BA39-711AAB59C5AB.jpeg" alt="" class="alignnone size-full" /></a></p>

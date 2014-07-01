@@ -20,7 +20,7 @@ comments:
 - id: 10118
   author: Pandora is leaving money on the table &mdash; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/06/09/pandora-is-leaving-money-on-the-table/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/06/09/pandora-is-leaving-money-on-the-table/
   date: '2011-06-09 04:25:22 -0400'
   date_gmt: '2011-06-09 11:25:22 -0400'
   content: "[...] Pandora is leaving money on the table  June 9, 2011     TweetI dig

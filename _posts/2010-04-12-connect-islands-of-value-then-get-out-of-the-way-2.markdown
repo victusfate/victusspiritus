@@ -22,7 +22,7 @@ comments:
 - id: 4385
   author: Technological and Product Commitment - Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/05/23/technological-and-product-commitment/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/05/23/technological-and-product-commitment/
   date: '2010-05-23 06:48:02 -0400'
   date_gmt: '2010-05-23 13:48:02 -0400'
   content: "[...] deadlines on specific products and technologies. Otherwise in your
@@ -31,7 +31,7 @@ comments:
 - id: 4625
   author: Analogy and Machine Intelligence | Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/06/27/analogy-and-machine-intelligence/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/06/27/analogy-and-machine-intelligence/
   date: '2010-06-27 12:22:18 -0400'
   date_gmt: '2010-06-27 19:22:18 -0400'
   content: "[...] common area for web services to provide value is bridging to disconnected
@@ -41,7 +41,7 @@ comments:
   author: Want to Startup America, fund Mega Projects and R&amp;D not more web apps
     &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/02/03/want-to-startup-america-fund-mega-projects-and-rd-not-more-web-apps/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/02/03/want-to-startup-america-fund-mega-projects-and-rd-not-more-web-apps/
   date: '2011-02-03 05:56:03 -0500'
   date_gmt: '2011-02-03 12:56:03 -0500'
   content: "[...] of startup ecosystems throughout the nation are large Research and
@@ -49,12 +49,12 @@ comments:
     the way. I encourage our government leaders to fund technology breakthroughs**
     [...]"
 ---
-<p><a href="http://www.flickr.com/photos/visulogik/"><img class="aligncenter size-full wp-image-3553" title="Connection" src="http://www.victusspiritus.com/wp-content/uploads/2010/04/Connection.jpg" alt="" width="500" height="375" /></a><br />
+<p><a href="http://www.flickr.com/photos/visulogik/"><img class="aligncenter size-full wp-image-3553" title="Connection" src="{{ site.url }}/assets/2010/04/Connection.jpg" alt="" width="500" height="375" /></a><br />
 <I>Thinking over market forces and what direction aggregate need is pushing business opportunity</I></p>
 <p>Bridges are an iconic form of connection, allowing people and resources to traverse bodies of water. There's an enormous market for linking separate resources together. Telegraphs and later phones showed us that sending messages back and forth over great distances was not only feasible, but incredibly valuable. Fast forward a couple of hundred years from the telegraph and behold the marvel of Internet connectivity. It is the vastest network in the world, recently surpassing voice data carried by the global telecom network. </p>
 <p>Businesses that specialize in being networks, don't provide end users greater value by diluting resources and also being islands (content). Competition and user value flourish when network companies focus on connecting isolated value, and get out of the way. I can't enumerate the number of fumbled opportunities caused by organizations that forget who and what they were, which is the fault of poor leadership. Corporations tend to optimize the space they compete in or die out. What this results in are companies that are best at connecting islands, or alternatively businesses that focus on being the best type of island. Large corporations mingle these ideas together and dilute their value by trying to be everything to everyone. If corporations aren't willing to spin off dedicated companies, the free market forces their hand with leaner and more focused competitors. This corrective force fails in the presence of monopolies, and social unrest results without government intervention. If only governments were subject to free market forces (that's a topic for a different post).  </p>
 <h2>Fully Connected Networks Favor Verticals</h2>
-<p>Take this concept and graft the idea of <a HREF="http://www.victusspiritus.com/2010/01/16/adaption-to-the-shifting-economy/">niche verticals and horizontal markets</a> (this is the kind of freedom and fun you can have as a blogger). Horizontal markets have broad appeal and general utility to a large segment of people or businesses. In a world that is hyper connected I'm unsure what necessity the horizontal markets provide other than as connectors. There is a much greater demand for connectivity than there is for one size fits all solutions.</p>
+<p>Take this concept and graft the idea of <a HREF="http://victusfate.github.io/victusspiritus/uncategorized/2010/01/16/adaption-to-the-shifting-economy/">niche verticals and horizontal markets</a> (this is the kind of freedom and fun you can have as a blogger). Horizontal markets have broad appeal and general utility to a large segment of people or businesses. In a world that is hyper connected I'm unsure what necessity the horizontal markets provide other than as connectors. There is a much greater demand for connectivity than there is for one size fits all solutions.</p>
 <h2>Case Review: The Stages of Social Network Value</h2>
 <p>From my limited perspective I can extract a framework from the social and business trends over the past 15 years or so since the Internet became commercialized:</p>
 <ul>

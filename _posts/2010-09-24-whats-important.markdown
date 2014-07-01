@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 5279
-wordpress_url: http://www.victusspiritus.com/2010/09/24/whats-important/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/09/24/whats-important/
 date: '2010-09-24 08:35:54 -0400'
 date_gmt: '2010-09-24 15:35:54 -0400'
 categories:

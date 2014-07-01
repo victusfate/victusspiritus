@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2658
-wordpress_url: http://www.victusspiritus.com/2010/01/03/ludicrous-bear-story-we-dont-get-the-net/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/01/03/ludicrous-bear-story-we-dont-get-the-net/
 date: '2010-01-03 08:05:00 -0500'
 date_gmt: '2010-01-03 15:05:00 -0500'
 categories:

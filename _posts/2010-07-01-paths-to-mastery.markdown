@@ -18,7 +18,7 @@ tags:
 - inspiration
 comments: []
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/07/l_2048_1536_63EF159B-0DFE-422F-B1D1-EDF37E7631FC.jpeg"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/07/l_2048_1536_63EF159B-0DFE-422F-B1D1-EDF37E7631FC.jpeg" alt="" class="alignnone size-full" width="500" height="400"  /></a></p>
+<p><a href="{{ site.url }}/assets/2010/07/l_2048_1536_63EF159B-0DFE-422F-B1D1-EDF37E7631FC.jpeg"><img src="{{ site.url }}/assets/2010/07/l_2048_1536_63EF159B-0DFE-422F-B1D1-EDF37E7631FC.jpeg" alt="" class="alignnone size-full" width="500" height="400"  /></a></p>
 <h2>Which comes first Loving Your Job or Master Craftsmanship</h2>
 <p>When I began Victus Spiritus, I was extremely confident of a path to time value mastery and job satisfaction. If we match our dearest interests and a form of labor, eventually extraordinary value is the result of that pairing. While I continue to hold this belief, another path to value became clear. Between mastery and passion for work, It may not matter which precedes the other. </p>
 <p>The subject of our labor may not be more important than the <a href="http://www.victusspiritus.com/?s=relentless+will&submit=Search">conviction</a> we bear towards it's execution. Instead of having an enthusiasm for a specific type of work, some of us can find satisfaction in the process of mastering it. </p>

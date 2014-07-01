@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2137
-wordpress_url: http://www.victusspiritus.com/2009/11/08/art-technology-are-co-evolving/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/11/08/art-technology-are-co-evolving/
 date: '2009-11-08 08:35:09 -0500'
 date_gmt: '2009-11-08 15:35:09 -0500'
 categories:
@@ -161,12 +161,12 @@ comments:
 - id: 9617
   author: Form, Function and Feel &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/03/23/form-function-and-feel/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/03/23/form-function-and-feel/
   date: '2011-03-23 05:04:46 -0400'
   date_gmt: '2011-03-23 12:04:46 -0400'
   content: "[...] Art and Technology are Coevolving [...]"
 ---
-<p style="text-align: center;"><a href="http://www.stuckincustoms.com/2009/10/13/solar-flower-the-giant-robot-of-buenos-aires/"><img class="size-full wp-image-2106 aligncenter" title="Solar Flower of Buenos Aired" src="http://www.victusspiritus.com/wp-content/uploads/2009/11/SolarFlowofBuenosAires1.jpg" alt="Solar Flower of Buenos Aired" width="480" height="340" /></a></p>
+<p style="text-align: center;"><a href="http://www.stuckincustoms.com/2009/10/13/solar-flower-the-giant-robot-of-buenos-aires/"><img class="size-full wp-image-2106 aligncenter" title="Solar Flower of Buenos Aired" src="{{ site.url }}/assets/2009/11/SolarFlowofBuenosAires1.jpg" alt="Solar Flower of Buenos Aired" width="480" height="340" /></a></p>
 <h1>Giant Mechanical Flower</h1>
 <p>I can think of no better example of the blending of artistic and technological evolution than the huge mechanical flower of Buenos Aires, <a href="http://ricardosblog.com/blog/2006/08/floralis_generica_sculpture_in_buenos_aires.html">Floralis Generica</a>. Unfortunately I don't believe there is a functional purpose for the behemoth sculpture, but one could imagine modifications that would allow solar collection with high efficiency. There is a also a flickr group of associated images, <a href="http://www.flickr.com/groups/floralisgenerica/">Floralis Generica</a>. We have discovered new forms of self and group expression, enabled by advanced technology.</p>
 <h1>Art Dova</h1>

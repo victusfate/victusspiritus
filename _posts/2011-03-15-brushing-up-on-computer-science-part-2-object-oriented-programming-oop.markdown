@@ -35,7 +35,7 @@ comments:
 - id: 9373
   author: Brushing up on Computer Science Part 1, Big O &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/03/14/brushing-up-on-computer-science-part-1-big-o/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/03/14/brushing-up-on-computer-science-part-1-big-o/
   date: '2011-03-15 08:44:34 -0400'
   date_gmt: '2011-03-15 15:44:34 -0400'
   content: "[...] Object Oriented Programming [...]"
@@ -49,7 +49,7 @@ comments:
 - id: 9445
   author: Brushing Up on Computer Science Part 3, Data Structures &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/03/16/brushing-up-on-computer-science-part-3-data-structures/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/03/16/brushing-up-on-computer-science-part-3-data-structures/
   date: '2011-03-16 05:04:16 -0400'
   date_gmt: '2011-03-16 12:04:16 -0400'
   content: "[...] Object Oriented Programming [...]"
@@ -64,7 +64,7 @@ comments:
 - id: 9515
   author: Brushing Up on Computer Science Part 4, Algorithms &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/03/17/brushing-up-on-computer-science-part-4-algorithms/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/03/17/brushing-up-on-computer-science-part-4-algorithms/
   date: '2011-03-17 06:34:44 -0400'
   date_gmt: '2011-03-17 13:34:44 -0400'
   content: "[...] Object Oriented Programming [...]"
@@ -72,7 +72,7 @@ comments:
   author: Brushing up on Computer Science Part 5, Graphs, Networks, and Operating
     Systems &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/03/17/brushing-up-on-computer-science-part-5-graphs-networks-and-operating-systems/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/03/17/brushing-up-on-computer-science-part-5-graphs-networks-and-operating-systems/
   date: '2011-03-17 15:58:21 -0400'
   date_gmt: '2011-03-17 22:58:21 -0400'
   content: "[...] Object Oriented Programming [...]"
@@ -81,11 +81,11 @@ comments:
 Pablo Picasso</p>
 <p>This is the second part in a brief review of a selection of topics from Computer Science.</p>
 <ol>
-<li><a href="http://www.victusspiritus.com/2011/03/14/brushing-up-on-computer-science-part-1-big-o/">Intro and Big O</a></li>
-<li><a href="http://www.victusspiritus.com/2011/03/15/brushing-up-on-computer-science-part-2-object-oriented-programming-oop/">Object Oriented Programming</a></li>
-<li><a href="http://www.victusspiritus.com/2011/03/16/brushing-up-on-computer-science-part-3-data-structures/">Data Structures</a>: arrays, lists, trees, hash tables</li>
-<li><a href="http://www.victusspiritus.com/2011/03/17/brushing-up-on-computer-science-part-4-algorithms/">Algorithms</a> (searches, sorts, maths!)</li>
-<li><a href="http://www.victusspiritus.com/2011/03/17/brushing-up-on-computer-science-part-5-graphs-networks-and-operating-systems/">Graphs, Networks, and Operating Systems</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/03/14/brushing-up-on-computer-science-part-1-big-o/">Intro and Big O</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/03/15/brushing-up-on-computer-science-part-2-object-oriented-programming-oop/">Object Oriented Programming</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/03/16/brushing-up-on-computer-science-part-3-data-structures/">Data Structures</a>: arrays, lists, trees, hash tables</li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/03/17/brushing-up-on-computer-science-part-4-algorithms/">Algorithms</a> (searches, sorts, maths!)</li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/03/17/brushing-up-on-computer-science-part-5-graphs-networks-and-operating-systems/">Graphs, Networks, and Operating Systems</a></li>
 </ol>
 <p>The content within this post focuses on one of the most popular software design pattern groups, <a href="http://en.wikipedia.org/wiki/Object-oriented_programming">OOP</a>. In fact our encyclopedic ally wikipedia refers to OOP as a paradigm.</p>
 <blockquote><p>Object-oriented programming (OOP) is a programming paradigm using "objects" – data structures consisting of data fields and methods together with their interactions – to design applications and computer programs. Programming techniques may include features such as data abstraction, encapsulation, messaging, modularity, polymorphism, and inheritance. Many modern programming languages now support OOP.</p></blockquote>

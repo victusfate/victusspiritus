@@ -18,7 +18,7 @@ comments:
 - id: 9867
   author: Subscribe by Tag &mdash; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/04/27/subscribe-by-tag/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/04/27/subscribe-by-tag/
   date: '2011-04-27 20:01:22 -0400'
   date_gmt: '2011-04-28 03:01:22 -0400'
   content: "[...] tags [...]"

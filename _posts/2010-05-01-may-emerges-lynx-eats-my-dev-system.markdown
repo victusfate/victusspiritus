@@ -54,7 +54,7 @@ comments:
   date_gmt: '2010-05-02 21:32:08 -0400'
   content: Thanks Denton :)!
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/05/l_2048_1536_C8D1F279-1920-450C-813F-8E71B6A00EF4.jpeg"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/05/l_2048_1536_C8D1F279-1920-450C-813F-8E71B6A00EF4.jpeg" alt="" class="alignnone size-full" /></a></p>
+<p><a href="{{ site.url }}/assets/2010/05/l_2048_1536_C8D1F279-1920-450C-813F-8E71B6A00EF4.jpeg"><img src="{{ site.url }}/assets/2010/05/l_2048_1536_C8D1F279-1920-450C-813F-8E71B6A00EF4.jpeg" alt="" class="alignnone size-full" /></a></p>
 <h2>The Month of May</h2>
 <p>The glorious sun joins forces with waves of pollen this time of year. Yesterday I was laid low by the evil dust, and only compounded the issue by taking some no frills Nyquil (anti-histamine). Today my strategy is to just suck it up while walking, then Michelle and I will visit the arboretum, and finally I'll resurrect my development system after a problematic upgrade.</p>
 <h2>Ubuntu 10.04 Lucid Lynx Eats my Mouse</h2>
@@ -63,7 +63,7 @@ comments:
 <p>Some interesting facts about May if you're me.</p>
 <ul>
 <li>May 5th 1968, Ronald ties the knot with Nanette, my parents are married</li>
-<li>May 15th 1969, <a href="http://www.victusspiritus.com/2009/05/01/do-you-have-a-spaceship-i-could-borrow/">Ronald my older bro is born</a>. The world will never be the same</li>
+<li>May 15th 1969, <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/05/01/do-you-have-a-spaceship-i-could-borrow/">Ronald my older bro is born</a>. The world will never be the same</li>
 <li>May 22nd 1974, I join the world. What a peculiar lot you guys are</li>
 <li>May 30th 2010, Michelle and I are to be wed</li>
 </ul>

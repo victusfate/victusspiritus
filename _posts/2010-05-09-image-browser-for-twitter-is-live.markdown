@@ -21,7 +21,7 @@ tags:
 - victus media
 comments: []
 ---
-<p><a href="http://imagebrowser.heroku.com"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/05/ImageBrowser.png" alt="" title="ImageBrowser" width="500" height="325" class="aligncenter size-full wp-image-3813" /></a><br />
+<p><a href="http://imagebrowser.heroku.com"><img src="{{ site.url }}/assets/2010/05/ImageBrowser.png" alt="" title="ImageBrowser" width="500" height="325" class="aligncenter size-full wp-image-3813" /></a><br />
 This is an adaption of the <a href="http://victusmedia.com/intelligent-advertising/">IMM (Intelligent Media Manager)</a> focused on dynamic images. It includes a search within function (search within user tweets or search within list tweets) by clicking on an image.</p>
 <p>Here are the routes if you don't feel like clicking through</p>
 <ul>

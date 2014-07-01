@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 1814
-wordpress_url: http://www.victusspiritus.com/2009/10/11/insert-your-compulsion-here/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/10/11/insert-your-compulsion-here/
 date: '2009-10-11 06:06:26 -0400'
 date_gmt: '2009-10-11 13:06:26 -0400'
 categories:

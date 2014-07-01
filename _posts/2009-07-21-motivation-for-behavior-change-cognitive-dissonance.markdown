@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<p style=\"text-align: center;\"><a href=\"http://www.flickr.com/photos/randysonofrobert/\"><img
-  class=\"aligncenter size-full wp-image-1129\" title=\"Dissonance\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/07/Dissonance.jpg\"
+  class=\"aligncenter size-full wp-image-1129\" title=\"Dissonance\" src=\"{{ site.url }}/assets/2009/07/Dissonance.jpg\"
   alt=\"Dissonance\" width=\"480\" height=\"330\" /></a>The Old and New</p>\r\nUpdate\r\n\r\nWell
   it looks like my marketing guru, Seth Godin just released a book dedicated towards
   shedding light on our instinctive reaction to resist positive change. He calls it
@@ -92,7 +92,7 @@ comments:
 - id: 828
   author: I&#8217;m Ordering You Not to Read This Post
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/09/15/im-ordering-you-not-to-read-this-post/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/09/15/im-ordering-you-not-to-read-this-post/
   date: '2009-09-15 06:51:54 -0400'
   date_gmt: '2009-09-15 13:51:54 -0400'
   content: "[...] psychology and specifically the declared disagreement, NO. After
@@ -118,7 +118,7 @@ comments:
 - id: 2575
   author: Inspiration is Rooted in Action &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/01/11/inspiration-is-rooted-in-action/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/01/11/inspiration-is-rooted-in-action/
   date: '2010-01-11 07:06:25 -0500'
   date_gmt: '2010-01-11 14:06:25 -0500'
   content: "[...] following February. I still have a way to go on my journey, but
@@ -126,7 +126,7 @@ comments:
 - id: 3751
   author: I fell for the iHype &laquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/04/04/i-fell-for-the-ihype/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/04/04/i-fell-for-the-ihype/
   date: '2010-04-04 04:47:23 -0400'
   date_gmt: '2010-04-04 11:47:23 -0400'
   content: "[...] and experience hyped gadgets trumped my principles. We&#8217;re
@@ -135,14 +135,14 @@ comments:
 - id: 4904
   author: All Things End | Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/08/06/all-things-end/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/08/06/all-things-end/
   date: '2010-08-06 09:40:07 -0400'
   date_gmt: '2010-08-06 16:40:07 -0400'
   content: "[...] pain, exquisite pleasure, and the continuum between these emotional
     peaks. Performing activities in contradiction to our nature leaves lasting scars
     on our spirit. No talent is more tragic than our ability to conjure excuses; [...]"
 ---
-<p style="text-align: center;"><a href="http://www.flickr.com/photos/randysonofrobert/"><img class="aligncenter size-full wp-image-1129" title="Dissonance" src="http://www.victusspiritus.com/wp-content/uploads/2009/07/Dissonance.jpg" alt="Dissonance" width="480" height="330" /></a>The Old and New</p>
+<p style="text-align: center;"><a href="http://www.flickr.com/photos/randysonofrobert/"><img class="aligncenter size-full wp-image-1129" title="Dissonance" src="{{ site.url }}/assets/2009/07/Dissonance.jpg" alt="Dissonance" width="480" height="330" /></a>The Old and New</p>
 <p>Update</p>
 <p>Well it looks like my marketing guru, Seth Godin just released a book dedicated towards shedding light on our instinctive reaction to resist positive change. He calls it the <a href="http://sethgodin.typepad.com/seths_blog/2010/01/quieting-the-lizard-brain.html">lizard brain</a>, and it's something Linchpins have learned to overcome. The good news is, so can we!</p>
 <div><a title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/23d37786-fbd8-4379-89c5-2b8d99e6ad33/"></a></div>

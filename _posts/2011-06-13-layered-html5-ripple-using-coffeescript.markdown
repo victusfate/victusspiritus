@@ -43,7 +43,7 @@ comments:
 - id: 10227
   author: The secret art of the tutorial &mdash; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/07/05/the-secret-art-of-the-tutorial/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/07/05/the-secret-art-of-the-tutorial/
   date: '2011-07-05 21:01:08 -0400'
   date_gmt: '2011-07-06 04:01:08 -0400'
   content: "[...] is my early experience with CoffeeScript. I&#8217;ve found it much
@@ -53,7 +53,7 @@ comments:
 <p>This weekend I researched various methods for approximating the effect of rippling water. After reviewing a few great options I went with the effect shown <a href="http://www.nixuz.com:8080/html5/water/water.html">here at nixuz.com</a>.</p>
 <p>I scaled the canvas element to the size of the background to speed computation, but further work will need to be done to pretty it up.</p>
 <p>The <a href="http://victusfate.github.com/html5_layered_ripple/">html5_layered_ripple repo</a> and a snapshot of what it looks like so far:</p>
-<p><a href="http://victusfate.github.com/html5_layered_ripple/"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/06/html5_layered_ripple-1024x919.png" alt="" title="html5_layered_ripple" width="630" height="565" class="aligncenter size-large wp-image-9258" /></a></p>
+<p><a href="http://victusfate.github.com/html5_layered_ripple/"><img src="{{ site.url }}/assets/2011/06/html5_layered_ripple-1024x919.png" alt="" title="html5_layered_ripple" width="630" height="565" class="aligncenter size-large wp-image-9258" /></a></p>
 <p>Warning: There are some minor UI tweaks I need to make (ie if you set the refraction or shading you have to reselect an image for the background).</p>
 <p><b>Update:</b><br />
 In my haste to rush out the door this morning I forgot to embed the key coffeescript. Here's a gist of that code:<br />

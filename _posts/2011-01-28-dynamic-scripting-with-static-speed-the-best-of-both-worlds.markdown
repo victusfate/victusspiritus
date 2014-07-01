@@ -83,20 +83,20 @@ Protocol buffers transfer encoded data into binary streams. Not only are dynamic
 <blockquote><p>
 Node.js Overall Structure</p>
 <p>The JavaScript implementation in node.js is Google's V8. As mentioned in an earlier article, V8 compiles the source JavaScript directly to machine code the first time it is executed. There is no intermediate bytecode format and no JS interpreter. In addition to V8, node.js relies on libev for its event loop, libeio for asynchronous I/O, and c-ares for asynchronous DNS support. Like everything else in the known universe, it relies on OpenSSL for cryptography and SSL/TLS support.</p>
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2011/01/nodejsarch.png"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/01/nodejsarch.png" alt="" title="nodejsarch" width="256" height="206" class="aligncenter size-full wp-image-6964" /></a></p>
+<p><a href="{{ site.url }}/assets/2011/01/nodejsarch.png"><img src="{{ site.url }}/assets/2011/01/nodejsarch.png" alt="" title="nodejsarch" width="256" height="206" class="aligncenter size-full wp-image-6964" /></a></p>
 <p>A standard library in JavaScript is supplied. This provides access to the underlying C++ implementation, and also has helpful bits like a URL parser and a REPL shell for easy experimentation. One thing it does not provide is the DOM. Node.js is not a browser, there is no HTML document to interact with.
 </p></blockquote>
 <p>There are likely dozens of examples of bindings for dynamic scripting languages to static structures and executable pipelines. For my own personal usage it's just a matter of selecting the right tools for the job after a little more research. I'm leaning towards ruby, javascript or python calling c++ dynamic libraries with narrow exposed interfaces.</p>
 <p>Notes:<br />
 *= Ideal software structure posts</p>
 <ul>
-<li><a href="http://www.victusspiritus.com/2010/02/08/each-time-i-get-my-hands-dirty-i-learn/">Each time I get my hands dirty I learn</a></li>
-<li><a href="http://www.victusspiritus.com/2010/02/11/mind-tools-dynamic-and-static-typing/">Mind tools dynamic and static typing</a></li>
-<li><a href="http://www.victusspiritus.com/2010/04/03/ideal-coding-easy-to-pickup-yet-abundant-in-function/">Ideal coding easy to pickup yet abundant in function</a></li>
-<li><a href="http://www.victusspiritus.com/2010/04/20/instant-utility-optimal-execution-syntactic-sugar/">Instant utility optimal execution syntactic sugar</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/02/08/each-time-i-get-my-hands-dirty-i-learn/">Each time I get my hands dirty I learn</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/02/11/mind-tools-dynamic-and-static-typing/">Mind tools dynamic and static typing</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/04/03/ideal-coding-easy-to-pickup-yet-abundant-in-function/">Ideal coding easy to pickup yet abundant in function</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/04/20/instant-utility-optimal-execution-syntactic-sugar/">Instant utility optimal execution syntactic sugar</a></li>
 </ul>
 <p>Probe, loose ideas for a programming language</p>
 <ul>
-<li><a href="http://www.victusspiritus.com/2010/05/26/probe-a-fictional-programming-language-design/">Probe a fictional programming language</a></li>
-<li><a href="http://www.victusspiritus.com/2010/05/28/transient-technology-how-probe-may-handle-interface-mapping/">Transient technology how probe may handle interface mapping</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/05/26/probe-a-fictional-programming-language-design/">Probe a fictional programming language</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/05/28/transient-technology-how-probe-may-handle-interface-mapping/">Transient technology how probe may handle interface mapping</a></li>
 </ul>

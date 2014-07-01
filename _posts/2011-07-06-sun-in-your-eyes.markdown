@@ -27,7 +27,7 @@ comments:
   date_gmt: '2011-07-07 11:24:00 -0400'
   content: I need more time to digest the concepts you've described above.
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2011/07/sunrise.jpg"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/07/sunrise-1024x764.jpg" alt="" title="sunrise" width="630" height="470" class="aligncenter size-large wp-image-9621" /></a></p>
+<p><a href="{{ site.url }}/assets/2011/07/sunrise.jpg"><img src="{{ site.url }}/assets/2011/07/sunrise-1024x764.jpg" alt="" title="sunrise" width="630" height="470" class="aligncenter size-large wp-image-9621" /></a></p>
 <h2>Too focused</h2>
 <p>For a guy who's attention drifts like a summer breeze, I had thought it impossible to be too focused. But I was wrong. While strolling in the southern outskirts of Tucson's desert this morning and quietly listening to the chorus of birds and crickets, I could clearly see the drawbacks of getting lost in the details.</p>
 <p>The idea for this morning's riff was born in a place far from the quiet desert dawn, in the chaotic realm of startups. The concept coalesced as a pattern between technical founders and naive business plans, which I admit to observing in my own startup thinking. The recognition was triggered by Patrick McKenzie's well thought and articulated analysis of customer acquisition channels. Fellow <a href="http://news.ycombinator.com/">Hacker News</a> regulars might recognize Mr. McKenzie's handle there, he's <a href="http://news.ycombinator.com/user?id=patio11">patio11</a>. Here's an excerpt from <a href="http://www.kalzumeus.com/2011/01/18/hacking-customers-technology-adoption-cycles/">Patrick's post</a> which describes the naivete of technical founders when it comes to business strategy:</p>

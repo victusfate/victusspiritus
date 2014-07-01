@@ -48,15 +48,15 @@ comments:
   date_gmt: '2011-04-05 16:17:00 -0400'
   content: 'Enjoying KAI''s morning email. '
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2011/04/20110405-082140.jpg"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/04/20110405-082140.jpg" alt="20110405-082140.jpg" class="alignnone size-full" /></a></p>
+<p><a href="{{ site.url }}/assets/2011/04/20110405-082140.jpg"><img src="{{ site.url }}/assets/2011/04/20110405-082140.jpg" alt="20110405-082140.jpg" class="alignnone size-full" /></a></p>
 <p>We're all short on time, but many of us are big on curiosity. The desire to be connected to our friends, and tuned in to beloved hobbies and careers is only human nature. When we're not careful we are inclined to flood our attention with too many subscriptions, likes, and become frustrated with all the sources of information that are available. We effectively hear nothing because everyone's shouting for our precious attention. That's where KnowAbout.it comes to our rescue*. </p>
 <p>KnowAbout.it brings order to communication chaos, it reigns in the attention escalation war, and rewards my attention with a handful of high quality links from my already personalized social news stream. Each morning I wake up to an opt in email which captures the best of my stream from the previous day. Now I don't miss quiet sources or interest matching links in the stream.<br />
-<a href="http://www.victusspiritus.com/wp-content/uploads/2011/04/20110405-081644.jpg"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/04/20110405-081644.jpg" alt="" title="20110405-081644.jpg" width="640" height="960" class="aligncenter size-full wp-image-8251" /></a></p>
+<a href="{{ site.url }}/assets/2011/04/20110405-081644.jpg"><img src="{{ site.url }}/assets/2011/04/20110405-081644.jpg" alt="" title="20110405-081644.jpg" width="640" height="960" class="aligncenter size-full wp-image-8251" /></a></p>
 <p><I>No twitter friends, no problem</I></p>
 <p>I use twitter as a context sensitive list subscription tool so my default follow list is empty because I believe attention and participation are scarce resources. This would cause most other services to come up empty, but not KAI.<br />
 [blackbirdpie url="http://twitter.com/VictusFate/status/53618518037495808"]<br />
 A recent feature crafted into the service enables me to pull in my entire Google Reader collection with a single click, in addition to Twitter, Facebook, and Buzz integration. KAI is agnostic to the source of your dynamic content, and translates your favorite content into the lingua franca of the web.<br />
-<a href="http://www.victusspiritus.com/wp-content/uploads/2011/04/20110405-081700.jpg"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/04/20110405-081700.jpg" alt="20110405-081700.jpg" class="alignnone size-full" /></a></p>
+<a href="{{ site.url }}/assets/2011/04/20110405-081700.jpg"><img src="{{ site.url }}/assets/2011/04/20110405-081700.jpg" alt="20110405-081700.jpg" class="alignnone size-full" /></a></p>
 <p><I>Local Search not quite ready yet</I></p>
 <p>One of my favorite features of social filtering apps is personal search filtered by content source. Search is a hard problem and it isn't quite ready for primetime on KAI yet (it doesn't satisfy my memory assistant needs). But another startup that I'm actively working with is hyper targeted on the challenges of social search, and I'm excited to share that as soon as it goes live. </p>
 <p>I perceive opportunities for collaboration between structured social information services. There are strategic advantages of leveraging the strength of each companies' api to provide their clients with an amazing experience that no business could provide on its own.</p>

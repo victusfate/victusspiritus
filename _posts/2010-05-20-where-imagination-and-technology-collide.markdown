@@ -77,7 +77,7 @@ comments:
   date_gmt: '2010-05-22 14:20:04 -0400'
   content: I&#39;m looking forward to that. :)
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/05/l_2048_1536_B13DFB0D-E56A-4BDE-91E9-EF0D3D7A340F.jpeg"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/05/l_2048_1536_B13DFB0D-E56A-4BDE-91E9-EF0D3D7A340F.jpeg" alt="" class="alignnone size-full" height="350" width="500" /></a></p>
+<p><a href="{{ site.url }}/assets/2010/05/l_2048_1536_B13DFB0D-E56A-4BDE-91E9-EF0D3D7A340F.jpeg"><img src="{{ site.url }}/assets/2010/05/l_2048_1536_B13DFB0D-E56A-4BDE-91E9-EF0D3D7A340F.jpeg" alt="" class="alignnone size-full" height="350" width="500" /></a></p>
 <p>Throughout our lives we rely on the technological designs of others. From baby formulas and clothing to transportation and education the world we live in is an extraordinary mashup of legacy and new technology. For the majority of tech we use, it's a process of adopting some one else's standards. We treat the majority of our world as a black box. </p>
 <p>This is no different in the space of software. In fact due to complexity of organization we have an ever growing reliance on layers of software that we don't understand which knowingly or not inflict constraints on derivative work.  We're constantly exploring other group's thought systems and mental constructs in order to accomplish tasks. And based on time restrictions we are forced in many cases to adopt "techno religions" without spending sufficient time understanding the nuances of previous design decisions. </p>
 <h2>c++ is killing me softly</h2>

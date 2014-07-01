@@ -19,7 +19,7 @@ comments:
 - id: 8919
   author: It&#8217;s time to Retire the Spreadsheet &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/02/11/its-time-to-retire-the-spreadsheet/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/02/11/its-time-to-retire-the-spreadsheet/
   date: '2011-02-11 10:47:25 -0500'
   date_gmt: '2011-02-11 17:47:25 -0500'
   content: "[...]  11Feb 2011  Mark Essel   TweetDeep down the community I can most

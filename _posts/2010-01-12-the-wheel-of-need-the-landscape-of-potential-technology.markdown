@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2729
-wordpress_url: http://www.victusspiritus.com/2010/01/12/the-wheel-of-need-the-landscape-of-potential-technology/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/01/12/the-wheel-of-need-the-landscape-of-potential-technology/
 date: '2010-01-12 05:44:37 -0500'
 date_gmt: '2010-01-12 12:44:37 -0500'
 categories:
@@ -99,7 +99,7 @@ comments:
   author: Motivate the Mean, Empower the Peak, or Support a Social Shift &raquo; Victus
     Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/03/29/motivate-the-mean-empower-the-peak-or-support-a-social-shift/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/03/29/motivate-the-mean-empower-the-peak-or-support-a-social-shift/
   date: '2010-03-29 06:35:03 -0400'
   date_gmt: '2010-03-29 13:35:03 -0400'
   content: "[...] implementation and feedback that a more productive path can be selected
@@ -108,14 +108,14 @@ comments:
 - id: 3783
   author: The Gilded Cage of Technology &laquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/04/05/the-gilded-cage-of-technology/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/04/05/the-gilded-cage-of-technology/
   date: '2010-04-05 05:23:31 -0400'
   date_gmt: '2010-04-05 12:23:31 -0400'
   content: "[...] collective vitality of all people defines the great wheel of need
     and potential technology. We are a people who embrace change, and work to manifest
     a brighter world than the one we are born [...]"
 ---
-<p><a href="http://www.stuckincustoms.com"><img class="alignnone size-full wp-image-364" src="http://www.victusspiritus.com/wp-content/uploads/2010/01/l_308_288_1BD1534D-F188-4CEA-8011-890F091C29FF.jpeg" alt="" width="300" height="280" /></a></p>
+<p><a href="http://www.stuckincustoms.com"><img class="alignnone size-full wp-image-364" src="{{ site.url }}/assets/2010/01/l_308_288_1BD1534D-F188-4CEA-8011-890F091C29FF.jpeg" alt="" width="300" height="280" /></a></p>
 <p>Consider the following analogy of technology and social evolution. Our desire is a massive wheel who's various sections represent basic human needs, and who's surface is complex (each of us has different priorities/expressions of need). The landscape the wheel crosses represents all possible technologies. As the wheel turns, new areas of technology are within reach. Great gaps appear between the rough surface of the wheel and the technologies it touches. By providing just the right effort, researchers, hardware designers, and software developers create the best match for technology to the social surface. The more fluid and adaptive technology, the smoother the motion. You can envision the social adoption of the philosophy of open design, as a choice that changes the direction of the great wheel. Intentionally navigating the wheel is a complex topic, and is beyond the scope of this post (it requires potent and accurate tech forecasting).</p>
 <h2>Exploration through development</h2>
 <p>Today's web software companies are at a point in time where exploration of value spaces is done by developing small application prototypes. The process begins with an idea, a mockup, or even a minimally functional design. Most developers and software designers have little knowledge of how successful an app will be before they release it. The environment changes rapidly, altering the importance of assumptions a design is based on. Enormous advances in manufacturing have made possible much more fluid hardware prototyping as well.</p>

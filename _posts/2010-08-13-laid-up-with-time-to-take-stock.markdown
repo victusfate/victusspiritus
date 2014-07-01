@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 4878
-wordpress_url: http://www.victusspiritus.com/2010/08/13/laid-up-with-time-to-take-stock/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/08/13/laid-up-with-time-to-take-stock/
 date: '2010-08-13 03:52:09 -0400'
 date_gmt: '2010-08-13 10:52:09 -0400'
 categories:

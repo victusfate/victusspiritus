@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 1813
-wordpress_url: http://www.victusspiritus.com/2009/10/10/be-like-panera-bread/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/10/10/be-like-panera-bread/
 date: '2009-10-10 12:20:29 -0400'
 date_gmt: '2009-10-10 19:20:29 -0400'
 categories:
@@ -217,7 +217,7 @@ comments:
 - id: 1190
   author: Google Wave AHA! moment, with:public is Awesome
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/10/13/google-wave-aha-moment-withpublic-is-awesome/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/10/13/google-wave-aha-moment-withpublic-is-awesome/
   date: '2009-10-13 07:04:05 -0400'
   date_gmt: '2009-10-13 14:04:05 -0400'
   content: "[...] (a new commenter here and fellow tech fan) who just happened to
@@ -234,7 +234,7 @@ comments:
 - id: 4189
   author: Where are You on the Financial Food Chain
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/05/02/where-are-you-on-the-financial-food-chain/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/05/02/where-are-you-on-the-financial-food-chain/
   date: '2010-05-02 12:01:37 -0400'
   date_gmt: '2010-05-02 19:01:37 -0400'
   content: "[...] cashier at Panera Bread gets paid between $7-8 dollar an hour pre

@@ -43,7 +43,7 @@ comments: []
 <ul>
 <li>satisfaction is a direct result of completing a task
 <ul>
-<li>Ideally a <a href="http://www.victusspiritus.com/2009/05/14/promises-we-make-to-ourselves-are-beyond-duty/">promise we make to ourselves</a></li>
+<li>Ideally a <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/05/14/promises-we-make-to-ourselves-are-beyond-duty/">promise we make to ourselves</a></li>
 <li>it is achieved whether or not we are successful, as long as a lesson was learned</li>
 </ul>
 </li>

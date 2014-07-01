@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 1804
-wordpress_url: http://www.victusspiritus.com/2009/10/08/youre-not-the-right-duracell-battery-unit/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/10/08/youre-not-the-right-duracell-battery-unit/
 date: '2009-10-08 06:16:46 -0400'
 date_gmt: '2009-10-08 13:16:46 -0400'
 categories:

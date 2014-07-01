@@ -55,14 +55,14 @@ comments:
   author: Fishing for help using Client Side CoffeeScript with .coffee files &mdash;
     Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/06/23/fishing-for-help-using-client-side-coffeescript-with-coffee-files/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/06/23/fishing-for-help-using-client-side-coffeescript-with-coffee-files/
   date: '2011-06-23 05:01:45 -0400'
   date_gmt: '2011-06-23 12:01:45 -0400'
   content: "[...] Client side intro [...]"
 - id: 10189
   author: Visualization layered like music tracks &mdash; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/06/25/visualization-layered-like-music-tracks/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/06/25/visualization-layered-like-music-tracks/
   date: '2011-06-26 01:57:50 -0400'
   date_gmt: '2011-06-26 08:57:50 -0400'
   content: "[...] side CoffeeScript in Henri Bergius&#8217; gist (bottom of post)
@@ -71,7 +71,7 @@ comments:
 - id: 10222
   author: The secret art of the tutorial &mdash; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/07/05/the-secret-art-of-the-tutorial/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/07/05/the-secret-art-of-the-tutorial/
   date: '2011-07-05 10:19:47 -0400'
   date_gmt: '2011-07-05 17:19:47 -0400'
   content: "[...] is my early experience with CoffeeScript. I&#8217;ve found it much

@@ -54,7 +54,7 @@ Okay, we are an LP; there is venture firm A; and we want to evaluate their perfo
 <blockquote><p>
 <b>Me</b><br />
 1) Unbiased estimators depend on an underlying assumption about statistical distributions. If you're model is off, your optimization is as well. Also there are a number of documented cases where L1 (absolute value) outperforms L2 (least squares) which much of the classical theory relies on.</p>
-<p>2) "And that's why we laugh at much of 'data mining, machine learning, big data, heuristics, and artificial intelligence'. ", I agree that there are common <a href="http://www.victusspiritus.com/2011/05/23/common-datamining-fallacies/">fallacies</a>, but I think you'll enjoy <a href="http://jeffjonas.typepad.com/jeff_jonas/2011/04/data-beats-math.html">Jeff Jonas'</a> counter point and humorous title, "data beats math". </p>
+<p>2) "And that's why we laugh at much of 'data mining, machine learning, big data, heuristics, and artificial intelligence'. ", I agree that there are common <a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/05/23/common-datamining-fallacies/">fallacies</a>, but I think you'll enjoy <a href="http://jeffjonas.typepad.com/jeff_jonas/2011/04/data-beats-math.html">Jeff Jonas'</a> counter point and humorous title, "data beats math". </p>
 <p>Mr. Jonas' findings:</p>
 <p>"My gripe, if any, is that way too many people are chipping away at hard problems and making no material gains in decades (e.g., entity extraction and classification) … when what they actually need is more data. Not more of same data, by the way. No, they more likely need orthogonal data – data from a different sensor sharing some of the same domain, entities and features (e.g., name and driver’s license number)."
 </p></blockquote>

@@ -68,12 +68,12 @@ comments:
   author_url: http://www.cyber-junk.de/reality/augmented/chris-olstrom-augmented-reality-using-google-wave-as-a-protocol/
   date: '2009-10-22 12:04:41 -0400'
   date_gmt: '2009-10-22 19:04:41 -0400'
-  content: "[...] Olstrom  Augmented Reality Using Google Wave as a Protocol - http://www.victusspiritus.com/2009...
+  content: "[...] Olstrom  Augmented Reality Using Google Wave as a Protocol - http://victusfate.github.io/victusspiritus/uncategorized/2009...
     \ 4 minutes ago from Google Reader - Comment - Like      &nbsp; [...]"
 - id: 1334
   author: Wordpress ate my infopornstars
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/10/29/wordpress-ate-my-infopornstars/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/10/29/wordpress-ate-my-infopornstars/
   date: '2009-10-29 12:18:11 -0400'
   date_gmt: '2009-10-29 19:18:11 -0400'
   content: "[...] I found out about an Augmented Reality protocol scheme and a group
@@ -101,7 +101,7 @@ comments:
 ---
 <p>Browsing wave this morning I came across a few folks interested in laying the foundation for a common augmented reality system. <a href="http://www.lostagain.nl/tempspace/PrototypeDiagram.html">Here's a diagram</a> showing a conceptual information flow, but instead of IRC wave may be a better choice of data channel. Users can select waves to layer perception of augmented objects. Some waves could represent Yelp like reviews, others could be banner ads floating over a beach, while even apparel or hairstyles could be virtually attached to real world objects. The applications are unlimited but first there are barriers to implementation.<a id="more"></a><a id="more-1893"></a></p>
 <p>Here's the initial concept (using IRC as a communication channel) from <a href="http://www.ugotrade.com/2009/08/19/everything-everywhere-thomas-wrobels-proposal-for-an-open-augmented-reality-network/">Thomas Wrobel</a>:</p>
-<p><span style="background-color: #ffffff;"><a href="http://www.victusspiritus.com/wp-content/uploads/2009/10/PrototypeDiagram3_wave1_11.png"><img class="alignnone size-full wp-image-1900" title="PrototypeDiagram3_wave1_1" src="http://www.victusspiritus.com/wp-content/uploads/2009/10/PrototypeDiagram3_wave1_11.png" alt="PrototypeDiagram3_wave1_1" width="480" height="250" /></a></span></p>
+<p><span style="background-color: #ffffff;"><a href="{{ site.url }}/assets/2009/10/PrototypeDiagram3_wave1_11.png"><img class="alignnone size-full wp-image-1900" title="PrototypeDiagram3_wave1_1" src="{{ site.url }}/assets/2009/10/PrototypeDiagram3_wave1_11.png" alt="PrototypeDiagram3_wave1_1" width="480" height="250" /></a></span></p>
 <p>Bandwidth usage for complex visual or animating objects could be intensive. Current solutions for virtual worlds involve large client databases or rendering software (second life, World of Warcraft). So in all likelihood a rich augmented reality protocol will have some simple defaults, but allow localized users to scale up the visual quality as far as their local devices and databases allow.</p>
 <p>You may remember a few months back I posted this video (created with <a href="http://ge.ecomagination.com/smartgrid/#/augmented_reality">GE's smart grid tech</a>):<br />
 <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="480" height="360" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowScriptAccess" value="sameDomain" /><param name="allowfullscreen" value="true" /><param name="src" value="http://technology.todaysbigthing.com/betamax/betamax.swf?item_id=1310&amp;fullscreen=1" /><embed type="application/x-shockwave-flash" width="480" height="360" src="http://technology.todaysbigthing.com/betamax/betamax.swf?item_id=1310&amp;fullscreen=1" allowfullscreen="true" allowscriptaccess="sameDomain"></embed></object></p>

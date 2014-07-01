@@ -137,7 +137,7 @@ comments:
   date_gmt: '2010-06-19 18:00:18 -0400'
   content: Muchas Gracias
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/05/p_480_320_87CEECD0-1085-4FE6-8064-C88BFE998C20.jpeg"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/05/p_480_320_87CEECD0-1085-4FE6-8064-C88BFE998C20.jpeg" alt="" class="alignnone size-full" /></a></p>
+<p><a href="{{ site.url }}/assets/2010/05/p_480_320_87CEECD0-1085-4FE6-8064-C88BFE998C20.jpeg"><img src="{{ site.url }}/assets/2010/05/p_480_320_87CEECD0-1085-4FE6-8064-C88BFE998C20.jpeg" alt="" class="alignnone size-full" /></a></p>
 <p>I'm living proof that wonderful things can happen to quasi-good people (I have my moments). I was fortunate in that Michelle didn't come to her senses last minute ;). One of my common jokes is that she'll get fed up with my corny jokes and startup dreams and run off with her world travelling lover "Pedro". So far so good!</p>
 <h2>Wedding Toast</h2>
 <p>My brother Ron killed the delivery, people wept, myself included. The core of the toast he snagged online and customized the rest with input from my folks.</p>

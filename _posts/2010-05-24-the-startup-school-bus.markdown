@@ -27,7 +27,7 @@ comments:
     you to talk about how important it is to have the right people on the "startup
     bus". Glad to see I was mistaken. :)
 ---
-<p><a href="http://m.flickr.com/#/photos/stuckincustoms/2258004241/"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/05/l_500_421_C1EEF942-20C3-4229-AFFF-AC5AD34569AD.jpeg" alt="" class="alignnone size-full" /></a></p>
+<p><a href="http://m.flickr.com/#/photos/stuckincustoms/2258004241/"><img src="{{ site.url }}/assets/2010/05/l_500_421_C1EEF942-20C3-4229-AFFF-AC5AD34569AD.jpeg" alt="" class="alignnone size-full" /></a></p>
 <h2>The Awakening</h2>
 <p>After what feels like an eternity of uneasy rest your alarm forces you out of bed just long enough to get a loose shoe thrown at it, quieting it's annoying siren.<br />
 <I>You may work at one job or many, but are never satisfied with the way things are run, the product development, or the long term goals of the company. It's path is too well set or far beyond your influence to adjust.</I></p>

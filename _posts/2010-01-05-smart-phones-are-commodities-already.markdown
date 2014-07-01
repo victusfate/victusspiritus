@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2682
-wordpress_url: http://www.victusspiritus.com/2010/01/05/smart-phones-are-commodities-already/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/01/05/smart-phones-are-commodities-already/
 date: '2010-01-05 06:18:35 -0500'
 date_gmt: '2010-01-05 13:18:35 -0500'
 categories:
@@ -34,7 +34,7 @@ comments: []
 <li>Speakers, "has sound" is a killer feature</li>
 </ul>
 <h2>Local Apps versus the Internet</h2>
-<p>Although there are many solid local apps for the iPod/iPhone, Blackberries, and Android variant smart phones, most users leverage the Internet connection for reading, writing, and web services. Even apps that are natively Net functional (Foursquare) are much more engaging than stand alone games (Bejewelled). As my friends get Foursquare it gains in utility, but Bejewelled (as fun as it is) remains linear in improvements (developers hours). This ties into <a href="http://www.victusspiritus.com/2010/01/04/minimalist-designsure-feature-focusedok-but-which-apisplatforms/">designs that leverage Network effects</a> to ride the wave of mutiple user value added.</p>
+<p>Although there are many solid local apps for the iPod/iPhone, Blackberries, and Android variant smart phones, most users leverage the Internet connection for reading, writing, and web services. Even apps that are natively Net functional (Foursquare) are much more engaging than stand alone games (Bejewelled). As my friends get Foursquare it gains in utility, but Bejewelled (as fun as it is) remains linear in improvements (developers hours). This ties into <a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/01/04/minimalist-designsure-feature-focusedok-but-which-apisplatforms/">designs that leverage Network effects</a> to ride the wave of mutiple user value added.</p>
 <p>The next generation of smart phone has more in common with its siblings than differentiating features. The shared interface between human and machine is the convergent quality. Look for the leaders to address this interface as a primary design concern going forward. Perfect voice activation is one level of interface, but imagine interfaces that recognize gesture, neural signals to muscles, and ultimately a device that is capable of recognizing the electronic signals of your mind.</p>
 <h6 class="zemanta-related-title" style="font-size: 1em;">Related articles by Zemanta</h6>
 <ul class="zemanta-article-ul">

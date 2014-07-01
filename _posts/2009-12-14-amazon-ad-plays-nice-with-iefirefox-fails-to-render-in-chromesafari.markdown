@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2520
-wordpress_url: http://www.victusspiritus.com/2009/12/14/amazon-ad-plays-nice-with-iefirefox-fails-to-render-in-chromesafari/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/12/14/amazon-ad-plays-nice-with-iefirefox-fails-to-render-in-chromesafari/
 date: '2009-12-14 05:49:49 -0500'
 date_gmt: '2009-12-14 12:49:49 -0500'
 categories:

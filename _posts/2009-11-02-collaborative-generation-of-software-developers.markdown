@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2063
-wordpress_url: http://www.victusspiritus.com/2009/11/02/collaborative-generation-of-software-developers/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/11/02/collaborative-generation-of-software-developers/
 date: '2009-11-02 04:42:15 -0500'
 date_gmt: '2009-11-02 11:42:15 -0500'
 categories:

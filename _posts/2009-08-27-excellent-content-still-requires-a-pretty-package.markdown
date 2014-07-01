@@ -8,9 +8,9 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<a href=\"http://www.flickr.com/photos/j_gresham/\"><img class=\"aligncenter
-  size-full wp-image-1443\" title=\"ChristmasPresents\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/08/ChristmasPresents.jpg\"
+  size-full wp-image-1443\" title=\"ChristmasPresents\" src=\"{{ site.url }}/assets/2009/08/ChristmasPresents.jpg\"
   alt=\"ChristmasPresents\" width=\"480\" height=\"640\" /></a>\r\n<h2>Warning Signs</h2>\r\n<ol>\r\n\t<li><span
-  style=\"background-color: #ffffff;\">Your product or service is <a href=\"http://www.victusspiritus.com/2009/08/11/can-your-concept-scale/\">10
+  style=\"background-color: #ffffff;\">Your product or service is <a href=\"http://victusfate.github.io/victusspiritus/uncategorized/2009/08/11/can-your-concept-scale/\">10
   times better</a> than the competition, but no one's buying.</span></li>\r\n\t<li><span
   style=\"background-color: #ffffff;\">You've gotten fantastic feedback on the utility
   the product, but no one has mentioned anything about the look</span></li>\r\n\t<li><span
@@ -29,7 +29,7 @@ comments:
 - id: 783
   author: Gateways to User Creativity
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/08/29/gateways-to-user-creativity/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/08/29/gateways-to-user-creativity/
   date: '2009-08-29 10:17:24 -0400'
   date_gmt: '2009-08-29 17:17:24 -0400'
   content: "[...] application programming interfaces (API). If the underlying platform
@@ -38,7 +38,7 @@ comments:
 - id: 4336
   author: Style is an Invitation &laquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/05/17/style-is-an-invitation/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/05/17/style-is-an-invitation/
   date: '2010-05-17 05:12:45 -0400'
   date_gmt: '2010-05-17 12:12:45 -0400'
   content: "[...] discover the value of whatever it is that you are offering. Human
@@ -47,15 +47,15 @@ comments:
 - id: 9818
   author: Re-Theming Self, I remember why people dress up &mdash; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/04/11/re-theming-self-i-remember-why-people-dress-up/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/04/11/re-theming-self-i-remember-why-people-dress-up/
   date: '2011-04-11 05:25:56 -0400'
   date_gmt: '2011-04-11 12:25:56 -0400'
   content: "[...] Excellent Content Still Requires a Pretty Package [...]"
 ---
-<p><a href="http://www.flickr.com/photos/j_gresham/"><img class="aligncenter size-full wp-image-1443" title="ChristmasPresents" src="http://www.victusspiritus.com/wp-content/uploads/2009/08/ChristmasPresents.jpg" alt="ChristmasPresents" width="480" height="640" /></a></p>
+<p><a href="http://www.flickr.com/photos/j_gresham/"><img class="aligncenter size-full wp-image-1443" title="ChristmasPresents" src="{{ site.url }}/assets/2009/08/ChristmasPresents.jpg" alt="ChristmasPresents" width="480" height="640" /></a></p>
 <h2>Warning Signs</h2>
 <ol>
-<li><span style="background-color: #ffffff;">Your product or service is <a href="http://www.victusspiritus.com/2009/08/11/can-your-concept-scale/">10 times better</a> than the competition, but no one's buying.</span></li>
+<li><span style="background-color: #ffffff;">Your product or service is <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/08/11/can-your-concept-scale/">10 times better</a> than the competition, but no one's buying.</span></li>
 <li><span style="background-color: #ffffff;">You've gotten fantastic feedback on the utility the product, but no one has mentioned anything about the look</span></li>
 <li><span style="background-color: #ffffff;">None of your friends are talking about the product when you're not around<a id="more"></a><a id="more-1416"></a><br />
 </span></li>

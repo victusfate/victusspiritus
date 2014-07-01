@@ -62,7 +62,7 @@ comments:
 - id: 1237
   author: What Inspires You?
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/10/15/what-inspires-you/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/10/15/what-inspires-you/
   date: '2009-10-15 11:15:41 -0400'
   date_gmt: '2009-10-15 18:15:41 -0400'
   content: "[...] Victus Spiritus Nourishment for the Soul. The current focus is inspiration
@@ -189,7 +189,7 @@ comments:
   author_url: http://www.martinklinke.com/2010/06/03/quick-guide-embedding-google-wave-in-a-blog-post-or-web-site/
   date: '2010-06-03 10:16:48 -0400'
   date_gmt: '2010-06-03 17:16:48 -0400'
-  content: "[...] http://www.victusspiritus.com/2009/10/15/how-to-embed-google-wave-on-your-wordpress-blog/
+  content: "[...] http://victusfate.github.io/victusspiritus/uncategorized/2009/10/15/how-to-embed-google-wave-on-your-wordpress-blog/
     [...]"
 - id: 4506
   author: gucci
@@ -238,7 +238,7 @@ comments:
 - id: 7407
   author: The Roulette Wheel of Organic Search Traffic &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/11/05/the-roulette-wheel-of-organic-search-traffic/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/11/05/the-roulette-wheel-of-organic-search-traffic/
   date: '2010-11-05 04:25:46 -0400'
   date_gmt: '2010-11-05 11:25:46 -0400'
   content: "[...] get a steady flow of traffic each day from keyword search. The first
@@ -253,7 +253,7 @@ comments:
 <p>Then get your Wave ID</p>
 <p>[wave id="googlewave.com!w+ZZjLgImEY"]</p>
 <p>and in your blog post simply type in<br />
-<img class="aligncenter size-medium wp-image-1864" title="WaveID" src="http://www.victusspiritus.com/wp-content/uploads/2009/10/WaveID-300x48.jpg" alt="WaveID" width="300" height="48" /></p>
+<img class="aligncenter size-medium wp-image-1864" title="WaveID" src="{{ site.url }}/assets/2009/10/WaveID-300x48.jpg" alt="WaveID" width="300" height="48" /></p>
 <p>I also am embedding my wave reference guide which is likely to grow over the coming weeks:<br />
 [wave id="googlewave.com!w+BPfngnK9B"]</p>
 <h1>Alternate Method Using Javascript</h1>
@@ -291,7 +291,7 @@ More importantly a the waverz site mentioned earlier has an archived site page: 
 <p style="padding-left: 30px; margin: 0px;"><span style="background-color: #ffe500;">removing any trailing characters including a trailing .</span></p>
 <p style="padding-left: 30px; margin: 0px;">
 <p style="padding-left: 30px; margin: 0px;">Here's a working example of using the ID on my blog:</p>
-<p style="padding-left: 30px; margin: 0px;"><a style="font-family: arial, sans-serif; color: #664d9f;" href="http://www.victusspiritus.com/2009/10/15/how-to-embed-google-wave-on-your-wordpress-blog/" target="_blank">http://www.victusspiritus.com/2009/10/15/how-to-embed-google-wave-on-your-wordpress-blog/</a></p>
+<p style="padding-left: 30px; margin: 0px;"><a style="font-family: arial, sans-serif; color: #664d9f;" href="http://victusfate.github.io/victusspiritus/uncategorized/2009/10/15/how-to-embed-google-wave-on-your-wordpress-blog/" target="_blank">http://victusfate.github.io/victusspiritus/uncategorized/2009/10/15/how-to-embed-google-wave-on-your-wordpress-blog/</a></p>
 <p style="padding-left: 30px; margin: 0px;">
 <p style="padding-left: 30px; margin: 0px;"><span style="background-color: #ffffff;">Thanks to Ian Norris for his explanation here: <a style="font-family: arial, sans-serif; color: #003ea8;" href="https://wave.google.com/wave/#restored:wave:googlewave.com!w%2BIsniw_SoA">Blog test</a></span></p>
 <p style="padding-left: 30px; margin: 0px;">

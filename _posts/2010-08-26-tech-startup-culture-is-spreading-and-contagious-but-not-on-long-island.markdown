@@ -70,7 +70,7 @@ comments:
     to go to obtain requisite permits, certificates and even discover how to get power
     lines installed. Ah yes, I remember it well!"
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/08/l_2048_1536_B67F3B75-0A53-4E36-AB0E-05118BD3BCB9.jpeg"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/08/l_2048_1536_B67F3B75-0A53-4E36-AB0E-05118BD3BCB9.jpeg" alt="" class="alignnone size-full" /></a></p>
+<p><a href="{{ site.url }}/assets/2010/08/l_2048_1536_B67F3B75-0A53-4E36-AB0E-05118BD3BCB9.jpeg"><img src="{{ site.url }}/assets/2010/08/l_2048_1536_B67F3B75-0A53-4E36-AB0E-05118BD3BCB9.jpeg" alt="" class="alignnone size-full" /></a></p>
 <p><i>A break in the east coast rain</I></p>
 <p>I think we're just about done imitating Portland with respect to a rainy season (omg 3 days of rain). The reason I bring up a small city in the upper north west is that they have a fantastic tech and startup community. If a city Portland's size (100k ish) can foster many hacker and tech conferences, why can't other areas follow their lead?</p>
 <p>There's over 3 million people on Long Island although the people density ramps up as you get closer to Manhattan. We've got a handful of good universities (I can vouch for Stony Brook), and a number of tech companies, although not nearly enough dedicated to web development. So why is there absolutely no startup culture within 50 miles of my house?</p>

@@ -240,7 +240,7 @@ comments:
     I have a commitment to an upcoming project.  Even this FREEDOM OASIS does not
     prevent mortal souls like me from the responsibility of making a living :-)<br><br>Cheers<br><b>[Em]</b>
 ---
-<p><a href="http://www.stuckincustoms.com/2010/07/10/the-metal-bull-new-ebooks-from-friends/"><img class="aligncenter size-full wp-image-4656" title="from the blog www.stuckincustoms.com" src="http://www.victusspiritus.com/wp-content/uploads/2010/07/Moose.jpg" alt="" /></a></p>
+<p><a href="http://www.stuckincustoms.com/2010/07/10/the-metal-bull-new-ebooks-from-friends/"><img class="aligncenter size-full wp-image-4656" title="from the blog www.stuckincustoms.com" src="{{ site.url }}/assets/2010/07/Moose.jpg" alt="" /></a></p>
 <p>As most of you are well aware, there are fanatics on both sides of the feature fence. Microsoft is known for spooky bloatware, while 37 Signals holds minimalism sacred*. While I acknowledge the benefits of rich features or dedicated lean apps, I don't believe either of these philosophies are focused enough on my dearest design priority, minimizing constraints on creativity.</p>
 <h2>Who's Creativity?</h2>
 <p>Myself, other developers and users can all stake a claim on constrained creativity. Much like modern publishing, the distinction between content creators (developers) and end users is becoming a matter of degree in lieu of distinct roles. So the question becomes are we maximizing our creativity as designers or are we limiting how much we constrain the imagination of end users. The answer is clearly dependent on the intended consumer - our self or others.</p>

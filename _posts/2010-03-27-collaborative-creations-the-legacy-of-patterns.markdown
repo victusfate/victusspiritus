@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 3385
-wordpress_url: http://www.victusspiritus.com/2010/03/27/collaborative-creations-the-legacy-of-patterns/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/03/27/collaborative-creations-the-legacy-of-patterns/
 date: '2010-03-27 09:30:11 -0400'
 date_gmt: '2010-03-27 16:30:11 -0400'
 categories:

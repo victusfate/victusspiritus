@@ -60,7 +60,7 @@ comments:
   author_url: http://www.victusspiritus.com/
   date: '2010-07-21 15:21:21 -0400'
   date_gmt: '2010-07-21 20:21:21 -0400'
-  content: Thanks again, it was the first <a href="http://www.victusspiritus.com/2010/07/17/first-post-from-android-a-taste-of-freedom/"
+  content: Thanks again, it was the first <a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/07/17/first-post-from-android-a-taste-of-freedom/"
     rel="nofollow">android post</a>. When copying in the text it appends an extra
     a href tag in front of the a href and defaults with a link to the page/post you&#39;re
     on.<br><br>Really appreciate your help pointing it out.

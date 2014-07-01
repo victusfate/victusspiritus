@@ -58,7 +58,7 @@ comments:
     to the Client Browser, which includes some of what you refer to.<br><br>Fixing
     it now.
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/06/PancakesAreBetterThanTheWeb.jpg"><img class="aligncenter size-medium wp-image-4208" title="PancakesAreBetterThanTheWeb" src="http://www.victusspiritus.com/wp-content/uploads/2010/06/PancakesAreBetterThanTheWeb.jpg" alt="" width="500" height="380" /></a><br />
+<p><a href="{{ site.url }}/assets/2010/06/PancakesAreBetterThanTheWeb.jpg"><img class="aligncenter size-medium wp-image-4208" title="PancakesAreBetterThanTheWeb" src="{{ site.url }}/assets/2010/06/PancakesAreBetterThanTheWeb.jpg" alt="" width="500" height="380" /></a><br />
 <em>pancake stacks are better than web stacks</em></p>
 <p>Let's follow some bytes as they make the journey from their source server  to a client system over <a class="zem_slink" title="Hypertext Transfer Protocol" rel="wikipedia" href="http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol">HTTP</a>.</p>
 <ol>
@@ -111,7 +111,7 @@ comments:
 <p><a href="http://www.sinatrarb.com/intro.html">Sinatra</a> (framework) using <a href="http://datamapper.org/">Datamapper</a> (ORM) with <a href="http://www.sqlite.org/">Sqlite</a> (database) &amp; <a href="http://code.macournoyer.com/thin/">Thin</a> (web server)</p>
 <p>References:</p>
 <ul>
-<li>The last time I talked about HTTP details was a <a href="http://www.victusspiritus.com/2009/07/14/peer-to-peer-parallel-networking-for-your-iphone/">Peer 2 Peer notion</a></li>
+<li>The last time I talked about HTTP details was a <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/07/14/peer-to-peer-parallel-networking-for-your-iphone/">Peer 2 Peer notion</a></li>
 <li>Alex Reisner's <a href="http://code.alexreisner.com/articles/anatomy-of-a-ruby-web-application.html">Anatomy of a Ruby Web Application</a></li>
 <li>I was happy to get additional inspiration for this post from <a href="http://www.solosignal.com/solo-signal-series-the-web-stack-explained">this SoloSignal.com post</a> after a little searching. Here's Solo's web stack:
 <ol>

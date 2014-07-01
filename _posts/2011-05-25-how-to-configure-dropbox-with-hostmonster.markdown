@@ -21,10 +21,10 @@ comments: []
 <table>
 <tr>
 <td>
-<a href="http://www.dropbox.com"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/05/DropBox_images-300x101.jpg" alt="" title="DropBox_images" width="300" height="101" class="aligncenter size-medium wp-image-9037" /></a>
+<a href="http://www.dropbox.com"><img src="{{ site.url }}/assets/2011/05/DropBox_images-300x101.jpg" alt="" title="DropBox_images" width="300" height="101" class="aligncenter size-medium wp-image-9037" /></a>
 </td>
 <td>
-<a href="http://www.hostmonster.com"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/05/Hostmonster.jpg" alt="" title="Hostmonster" width="300" height="157" class="aligncenter size-full wp-image-9051" /></a>
+<a href="http://www.hostmonster.com"><img src="{{ site.url }}/assets/2011/05/Hostmonster.jpg" alt="" title="Hostmonster" width="300" height="157" class="aligncenter size-full wp-image-9051" /></a>
 </td>
 </tr>
 </table>

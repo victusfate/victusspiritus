@@ -32,7 +32,7 @@ comments:
 - id: 111
   author: Barriers to Social Change
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/06/18/barriers-to-social-change/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/06/18/barriers-to-social-change/
   date: '2009-06-18 07:50:38 -0400'
   date_gmt: '2009-06-18 14:50:38 -0400'
   content: "[...] notions blind us to what others may find appealing. The greatest
@@ -41,7 +41,7 @@ comments:
 - id: 3081
   author: The Stark Contrast of Enthusiasm versus Apathy &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/02/26/the-stark-contrast-of-enthusiasm-versus-apathy/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/02/26/the-stark-contrast-of-enthusiasm-versus-apathy/
   date: '2010-02-26 06:23:10 -0500'
   date_gmt: '2010-02-26 13:23:10 -0500'
   content: "[...] energy. In fact enthusiasm finds a way of manifesting in the most

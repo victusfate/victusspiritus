@@ -34,8 +34,8 @@ comments:
   date: '2009-06-30 06:57:51 -0400'
   date_gmt: '2009-06-30 11:57:51 -0400'
   content: Kevin I would argue there&#39;s no how to guide to being remarkable (<a
-    href="http://www.victusspiritus.com/2009/04/22/theres-no-how-to-guide-for-being-remarkable/"
-    rel="nofollow">http://www.victusspiritus.com/2009/04/22/theres...</a> ). <br><br>I
+    href="http://victusfate.github.io/victusspiritus/uncategorized/2009/04/22/theres-no-how-to-guide-for-being-remarkable/"
+    rel="nofollow">http://victusfate.github.io/victusspiritus/uncategorized/2009/04/22/theres...</a> ). <br><br>I
     do have to concede there are common traits to remarkable people. And there&#39;s
     a choice each of us makes whether or not to try and be remarkable. We decide on
     how far we are willing to go with any endeavor.
@@ -56,8 +56,8 @@ comments:
   date: '2009-06-30 12:57:51 -0400'
   date_gmt: '2009-06-30 17:57:51 -0400'
   content: Kevin I would argue there&#39;s no how to guide to being remarkable (<a
-    href="http://www.victusspiritus.com/2009/04/22/theres-no-how-to-guide-for-being-remarkable/"
-    rel="nofollow">http://www.victusspiritus.com/2009/04/22/theres...</a> ). <br><br>I
+    href="http://victusfate.github.io/victusspiritus/uncategorized/2009/04/22/theres-no-how-to-guide-for-being-remarkable/"
+    rel="nofollow">http://victusfate.github.io/victusspiritus/uncategorized/2009/04/22/theres...</a> ). <br><br>I
     do have to concede there are common traits to remarkable people. And there&#39;s
     a choice each of us makes whether or not to try and be remarkable. We decide on
     how far we are willing to go with any endeavor.

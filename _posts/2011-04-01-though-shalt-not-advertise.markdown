@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 8189
-wordpress_url: http://www.victusspiritus.com/2011/04/01/though-shalt-not-advertise/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/04/01/though-shalt-not-advertise/
 date: '2011-04-01 06:17:36 -0400'
 date_gmt: '2011-04-01 13:17:36 -0400'
 categories:

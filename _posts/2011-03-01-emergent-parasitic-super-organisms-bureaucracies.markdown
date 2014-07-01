@@ -18,7 +18,7 @@ tags:
 - far out
 comments: []
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2011/03/the_blob.jpeg"><img class="aligncenter size-full wp-image-7468" title="the_blob" src="http://www.victusspiritus.com/wp-content/uploads/2011/03/the_blob.jpeg" alt="" width="187" height="269" /></a></p>
+<p><a href="{{ site.url }}/assets/2011/03/the_blob.jpeg"><img class="aligncenter size-full wp-image-7468" title="the_blob" src="{{ site.url }}/assets/2011/03/the_blob.jpeg" alt="" width="187" height="269" /></a></p>
 <p>Have you ever witnessed a <a href="http://en.wikipedia.org/wiki/Bureaucracy">bureaucracy</a> like this?</p>
 <blockquote><p>The purpose of a bureaucracy is to successfully implement the actions of an organization of any size (but often associated with large entities such as government, corporations, and non-governmental organizations), in achieving its purpose and mission, and the bureaucracy is tasked to determine how it can achieve its purpose and mission with the greatest possible efficiency and at the least cost of any resources</p></blockquote>
 <p>Daniel, Raphael, Eli, Patrick and Andre are a few sharp penpals of mine that enjoy asking each other questions (mostly Daniel) and discuss answers. Early this morning I caught up on Daniel's mention of a famous Algebra researcher who wasn't allowed to teach Algebra because he was hired by the Analysis department of his University. The discussion quickly converged on the features that plague bureaucracies in practice.</p>

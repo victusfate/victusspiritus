@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 4970
-wordpress_url: http://www.victusspiritus.com/2010/08/25/seeking-relevance-by-seeing-people-differently/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/08/25/seeking-relevance-by-seeing-people-differently/
 date: '2010-08-25 05:54:55 -0400'
 date_gmt: '2010-08-25 12:54:55 -0400'
 categories:
@@ -160,7 +160,7 @@ comments:
   date_gmt: '2011-02-01 21:34:00 -0500'
   content: True dat!
 ---
-<p><a href="http://en.wikipedia.org/wiki/M._C._Escher"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/08/hand_with_sphere_large-210x300.jpg" alt="" title="hand_with_sphere_large" width="210" height="300" class="aligncenter size-medium wp-image-4973" /></a><br />
+<p><a href="http://en.wikipedia.org/wiki/M._C._Escher"><img src="{{ site.url }}/assets/2010/08/hand_with_sphere_large-210x300.jpg" alt="" title="hand_with_sphere_large" width="210" height="300" class="aligncenter size-medium wp-image-4973" /></a><br />
 Each person we communicate with is unique, yet we share and are loosely connected by topics of interest. Instinctively we are drawn to communities that share our deepest desires. Leaders and trend setters pave the way for community formation by defining it's core and identity.</p>
 <p><I>Defining ourselves by what we love</I></p>
 <p>Imagine a human abstraction which ignores social standing, location, native language, wealth, and fame. Instead this representation focuses only on interests and depth, individual style and persona, and as much background knowledge and expertise of a person as possible. </p>

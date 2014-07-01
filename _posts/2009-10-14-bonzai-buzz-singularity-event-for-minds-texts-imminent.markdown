@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 1832
-wordpress_url: http://www.victusspiritus.com/2009/10/14/bonzai-buzz-singularity-event-for-minds-texts-imminent/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/10/14/bonzai-buzz-singularity-event-for-minds-texts-imminent/
 date: '2009-10-14 05:45:48 -0400'
 date_gmt: '2009-10-14 12:45:48 -0400'
 categories:

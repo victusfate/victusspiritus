@@ -42,7 +42,7 @@ comments:
     out to large swaths of people. (is this already happening in twitter? probably..
     and it has been happening in Digg for awile)
 ---
-<div style="width: "100%"; height: 300; border: 1px solid blue; padding: 5px;"><a href="http://messel.posterous.com/?sort=&search=cas"><img class="size-medium wp-image-4179" style="float: left;" title="CAS_Evolution_1" src="http://www.victusspiritus.com/wp-content/uploads/2010/06/CAS_Evolution_1.jpg" alt="" width="50%" height="300" /></a><img class="size-medium wp-image-4182" style="float: left;" title="CAS_Evolution_2" src="http://www.victusspiritus.com/wp-content/uploads/2010/06/CAS_Evolution_2.jpg" alt="" width="50%" height="300" /></div>
+<div style="width: "100%"; height: 300; border: 1px solid blue; padding: 5px;"><a href="http://messel.posterous.com/?sort=&search=cas"><img class="size-medium wp-image-4179" style="float: left;" title="CAS_Evolution_1" src="{{ site.url }}/assets/2010/06/CAS_Evolution_1.jpg" alt="" width="50%" height="300" /></a><img class="size-medium wp-image-4182" style="float: left;" title="CAS_Evolution_2" src="{{ site.url }}/assets/2010/06/CAS_Evolution_2.jpg" alt="" width="50%" height="300" /></div>
 <p style="text-align: left;">The hypothesis is that our world is accelerating it's evolution, perhaps not physically but culturally*.</p>
 <p style="text-align: left;">We are in the very midst of major social and cultural revolutions. How we process information, how we share our discoveries, and how we determine what's most valuable are all undergoing rapid shifts and sweeping changes with varied merits of fitness. Societies which tend towards rigorous control and forced social replication are fracturing in the wake of frictionless information spread. In comparison, social alternatives with greater personal freedom and choice grow with improved communication.</p>
 <h2 style="text-align: left;">How I process and share information</h2>
@@ -63,4 +63,4 @@ comments:
 <li><a href="http://www.swarthmore.edu/SocSci/rbannis1/SD.preface.html">Social Darwinism Science and Myth</a></li>
 <li><a href="http://eclectic.ss.uci.edu/~drwhite/Civ/SergeiSeminar.html">The Theory of Demographic Cycles and Social Evolution of Ancient and Medieval Oriental Societies</a></li>
 </ul>
-<p style="text-align: left;"><a href="http://sangrea.net/free-cartoons/social-cartoons.html"><img class="aligncenter size-medium wp-image-4181" title="social_evolution" src="http://www.victusspiritus.com/wp-content/uploads/2010/06/social_evolution1.jpg" alt="" width="500" height="380" /></a></p>
+<p style="text-align: left;"><a href="http://sangrea.net/free-cartoons/social-cartoons.html"><img class="aligncenter size-medium wp-image-4181" title="social_evolution" src="{{ site.url }}/assets/2010/06/social_evolution1.jpg" alt="" width="500" height="380" /></a></p>

@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 4464
-wordpress_url: http://www.victusspiritus.com/2010/07/08/the-rise-of-net-nations-and-political-mobility/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/07/08/the-rise-of-net-nations-and-political-mobility/
 date: '2010-07-08 04:24:03 -0400'
 date_gmt: '2010-07-08 11:24:03 -0400'
 categories:

@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2064
-wordpress_url: http://www.victusspiritus.com/2009/11/03/will-wireless-internet-disrupt-cable-modems/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/11/03/will-wireless-internet-disrupt-cable-modems/
 date: '2009-11-03 04:38:54 -0500'
 date_gmt: '2009-11-03 11:38:54 -0500'
 categories:

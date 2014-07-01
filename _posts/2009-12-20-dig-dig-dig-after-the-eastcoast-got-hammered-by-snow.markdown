@@ -34,7 +34,7 @@ comments:
   content: hahahah.<br>Hope your back held up ok, cya tomorrow.
 ---
 <h2>Huge Snowstorm</h2>
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2009/12/09-001.jpg"><img class="aligncenter size-large wp-image-2586" title="09 001" src="http://www.victusspiritus.com/wp-content/uploads/2009/12/09-001-1024x768.jpg" alt="" width="800" height="580" /></a><br />
+<p><a href="{{ site.url }}/assets/2009/12/09-001.jpg"><img class="aligncenter size-large wp-image-2586" title="09 001" src="{{ site.url }}/assets/2009/12/09-001-1024x768.jpg" alt="" width="800" height="580" /></a><br />
 <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="640" height="505" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/ofVUvUGV3IQ&amp;hl=en_US&amp;fs=1&amp;color1=0x006699&amp;color2=0x54abd6" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="640" height="505" src="http://www.youtube.com/v/ofVUvUGV3IQ&amp;hl=en_US&amp;fs=1&amp;color1=0x006699&amp;color2=0x54abd6" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
 <p>I had originally planned on writing about Jiu Jitsu Attention in today's social web but that will have to wait for another day. A MONSTROUS snow storm hit overnight. What struck me as the most definitive feature of this storm was the the terrific rate of snow fall.</p>
 <p>The maximum snow fall was 4inches/hour. That's bizarre even for a blizzard. I passed out last night with only the lightest of dustings, but awoke to over two feet of snow with larger drifts.</p>

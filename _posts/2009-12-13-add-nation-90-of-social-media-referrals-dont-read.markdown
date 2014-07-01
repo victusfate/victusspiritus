@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2501
-wordpress_url: http://www.victusspiritus.com/2009/12/13/add-nation-90-of-social-media-referrals-dont-read/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/12/13/add-nation-90-of-social-media-referrals-dont-read/
 date: '2009-12-13 06:29:09 -0500'
 date_gmt: '2009-12-13 13:29:09 -0500'
 categories:
@@ -122,7 +122,7 @@ comments:
 - id: 2095
   author: Marketing Oneself is a Distraction &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/12/15/marketing-oneself-is-a-distraction/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/12/15/marketing-oneself-is-a-distraction/
   date: '2009-12-15 06:34:05 -0500'
   date_gmt: '2009-12-15 13:34:05 -0500'
   content: "[...] ADD Nation, 90% of Social Media Referrals Don&#8217;t Read  [...]"
@@ -165,14 +165,14 @@ comments:
 - id: 3267
   author: Which web are you from? &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/03/11/which-web-are-you-from/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/03/11/which-web-are-you-from/
   date: '2010-03-11 07:11:57 -0500'
   date_gmt: '2010-03-11 14:11:57 -0500'
   content: "[...] in those who prefer popularity over relevance to the number of browsers
     who only skim articles (85-90%)? This group would define a large surface browsing
     web. Of course there&#8217;s an entire sub-web [...]"
 ---
-<p>This is a continuation of a post I wrote in August about reader stats and attention, <a href="http://www.victusspiritus.com/2009/08/08/ignore-the-stats-connect-with-your-authentic-audience/">Ignore the Stats Connect with Your Authentic Audience</a>. I firmly believe the real value in social media is in connecting with your authentic audience. A 1000 people read my blog last month, 9000 people didn't like the font and left.</p>
+<p>This is a continuation of a post I wrote in August about reader stats and attention, <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/08/08/ignore-the-stats-connect-with-your-authentic-audience/">Ignore the Stats Connect with Your Authentic Audience</a>. I firmly believe the real value in social media is in connecting with your authentic audience. A 1000 people read my blog last month, 9000 people didn't like the font and left.</p>
 <h2>Some Shifts In View Since August</h2>
 <p>1) With the release of lists I was able to keep track of groups of people on Twitter while at the same time shrinking my follow list to under a hundred people. Hooray for empowering super human filters (<a href="http://www.scripting.com/">or mortal portals, another shiny nickel Louis Gray!</a>). </p>
 <p>2) Not all stats are to be ignored. <a href="http://wordpress.org/extend/plugins/google-analytics-for-wordpress/">Google Analytics</a> is every blogger's or site host's friend. There's <a href="http://wordpress.org/extend/plugins/google-analytics-for-wordpress/">a Wordpress plugin</a>, or you can copy a script to the footer of your page. An alternative analytics tool <a href="http://wordpress.org/extend/plugins/google-analytics-for-wordpress/">Clicky</a> keeps track of real time visitor information. </p>

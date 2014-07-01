@@ -19,7 +19,7 @@ tags:
 - time
 comments: []
 ---
-<p><a href="http://www.stuckincustoms.com/2010/11/26/the-louvre/"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/11/20101130-085616.jpg" alt="" class="alignnone size-full" /></a><br />
+<p><a href="http://www.stuckincustoms.com/2010/11/26/the-louvre/"><img src="{{ site.url }}/assets/2010/11/20101130-085616.jpg" alt="" class="alignnone size-full" /></a><br />
 It's not just the right time twice a day, it's my wife Michelle's birthday. She's 29 years old at 7 am this morning. That's really 29 as opposed to fictional 29 for the next decade. It's hard to believe we've known each other for almost four years already. Each moment I share with her is a blessing that I dare not take for granted. Recognizing her birthday has given me time to reflect on the flow of time, and the role it plays as a constant partner in our lives.</p>
 <p><i>Time <strike>In</strike>Variant Systems</i><br />
 With weeks whipping by the way they're apt to do, I'm concerned about finding time to appreciate each moment, day, month or year. One obvious signal of time marching on is seasonal change. This time of year colder days force me to walk indoors and swap into pants from shorts as necessary. November's symbol in my mind is a container of a single long weekend with a big meal (Thanksgiving) followed by Michelle's birthday. The rest of the month is made up of discrete time chunks of focused work, cathartic walking and writing, and relaxing with family and friends.</p>

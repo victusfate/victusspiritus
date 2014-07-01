@@ -51,12 +51,12 @@ comments:
 - id: 8935
   author: Startup Strategies that Survive, Prosper, and Win &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/02/12/startup-strategies-that-survive-prosper-and-win/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/02/12/startup-strategies-that-survive-prosper-and-win/
   date: '2011-02-12 16:32:06 -0500'
   date_gmt: '2011-02-12 23:32:06 -0500'
   content: "[...] Personal Social Gardens that live in the browser [...]"
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/05/NorthernCentralParkPond1.jpg"><img class="aligncenter size-full wp-image-3867" title="NorthernCentralParkPond" src="http://www.victusspiritus.com/wp-content/uploads/2010/05/NorthernCentralParkPond1.jpg" alt="" width="500" height="375" /></a></p>
+<p><a href="{{ site.url }}/assets/2010/05/NorthernCentralParkPond1.jpg"><img class="aligncenter size-full wp-image-3867" title="NorthernCentralParkPond" src="{{ site.url }}/assets/2010/05/NorthernCentralParkPond1.jpg" alt="" width="500" height="375" /></a></p>
 <p>My esteemed colleague and cofounder Tyler hacked out a 100 line message sharing server. He used Ruby and Sinatra and we chatted on it briefly this morning. But the model follows the way of Facebook and Twitter with one database back end serving as a middle man between people. <a href="http://joindiaspora.com/2010/04/30/a-response-to-mr-villa.html">Even Diaspora</a>'s proposed solution involves a server middle layer route if you opt for their suggested hosted solution (i.e. they host "seeds" on a .com domain). They're stand alone "seeds" or servers are no different than many web servers that serve html pages today, with the added promise of intercommunication. I suspect stand alone servers will be more difficult than an average user will be capable or want to set up. I'd like to offer an alternative.</p>
 <h2>Proposal: OpenGard.in a Network of Personal Gardens or Social Servers</h2>
 <p>Desired elements of a truly distributed social web network:</p>
@@ -81,8 +81,8 @@ comments:
 <p>Peer 2 Peer networks may provide guidance on infrastructure or usage patterns for dynamic social networks. In these type of networks, nodes dynamically appear and vanish. Users of personal gardens won't be able to hit a static URL like http://mark.com/ to pull my updates unless hosted by standard web servers, which are setup to serve social information in that way. Instead they are free to browse their own personal garden if they subscribe to my updates. My information goes to them (Push), they don't have to come to, or hit my page with a request.</p>
 <p>Related Links &amp; References:</p>
 <ul>
-<li><a href="http://www.victusspiritus.com/2010/03/08/open-web-protocols-and-discussion-groups/">Open Web Protocols &amp; Discussion Groups</a></li>
-<li><a href="http://www.victusspiritus.com/2010/03/13/data-silos-or-a-social-web-pattern/">Data Silos or a Social Web Pattern</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/03/08/open-web-protocols-and-discussion-groups/">Open Web Protocols &amp; Discussion Groups</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/03/13/data-silos-or-a-social-web-pattern/">Data Silos or a Social Web Pattern</a></li>
 <li><a href="http://www.victusspiritus.com/?s=%22opengard.in%22">Open Garden</a></li>
 <li><a href="http://diso-project.org/">DiSo</a></li>
 <li><a href="http://www.peerson.net/">PeerSon</a></li>

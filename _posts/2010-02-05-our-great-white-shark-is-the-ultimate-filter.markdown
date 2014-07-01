@@ -42,7 +42,7 @@ comments:
 <blockquote><p>
 The immune system, which responds to an invading pathogen, is an intricate system of defense mechanisms designed to block and destroy any foreign substance entering the body.  It is made up of many cells, which help it to perform its function... White blood cells fight infections, and protect our body from foreign particles, which includes harmful germs, and bacteria.
 </p></blockquote>
-<p>The immune system is an example of a complex information filtering and processing system. It's intricate design, superb pattern matching, and <a href="http://www.victusspiritus.com/2009/12/29/the-hidra-has-many-heads-cheap-disposable-resilience/">cheap disposable resilience</a> has evolved to enable our survival. The features I'm most interested in are the advanced filtering technique and dispersed nature of our white blood cells.</p>
+<p>The immune system is an example of a complex information filtering and processing system. It's intricate design, superb pattern matching, and <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/12/29/the-hidra-has-many-heads-cheap-disposable-resilience/">cheap disposable resilience</a> has evolved to enable our survival. The features I'm most interested in are the advanced filtering technique and dispersed nature of our white blood cells.</p>
 <h2>Filtering and Motive Abilities Combined</h2>
 <p>Work done by <a href="http://www.sciencedaily.com/releases/2009/05/090504094424.htm">Ronen Alon and Ziv Shulman</a> has shown tiny leg like structures that sprout from the white blood cell as it moves through tissue.</p>
 <blockquote><p>

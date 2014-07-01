@@ -121,7 +121,7 @@ comments:
 ---
 <p>Today's post was made possible thanks to an anonymous commenter that requested I stop spamming reddit. Over the past year I have submitted links to different subreddits that I found topically matched a specific post. Today I accept that this was a error in judgement.  </p>
 <ul>
-<li>First because very few users of crowd source sites actually <a href="http://www.victusspiritus.com/2009/12/13/add-nation-90-of-social-media-referrals-dont-read/">read web pages</a>, and I write for only a small subset of the readers (in addition to myself)</li>
+<li>First because very few users of crowd source sites actually <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/12/13/add-nation-90-of-social-media-referrals-dont-read/">read web pages</a>, and I write for only a small subset of the readers (in addition to myself)</li>
 <li>Second because it's a distraction from writing. <strong>Commenting and discussing posts on Reddit is like trying to sell Quantum Mechanics texts at a strip club</strong> (<a href="http://en.m.wikipedia.org/wiki/Surely_You%27re_Joking,_Mr._Feynman!">unless Richard Feynman was there</a>)</li>
 </ul>
 <p>I'll still share my posts on twitter or other subscription based architectures. Folks can opt in or out on those anytime.</p>

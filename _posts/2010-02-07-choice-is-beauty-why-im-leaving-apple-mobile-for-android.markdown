@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2971
-wordpress_url: http://www.victusspiritus.com/2010/02/07/choice-is-beauty-why-im-leaving-apple-mobile-for-android/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/02/07/choice-is-beauty-why-im-leaving-apple-mobile-for-android/
 date: '2010-02-07 05:51:23 -0500'
 date_gmt: '2010-02-07 12:51:23 -0500'
 categories:
@@ -162,7 +162,7 @@ comments:
   date: '2010-02-08 16:17:57 -0500'
   date_gmt: '2010-02-08 21:17:57 -0500'
   content: It&#39;s relevant from my perspective. I&#39;ve been a dedicated windows
-    user for many years. Just <a href="http://www.victusspiritus.com/2010/01/31/cutting-ties-with-my-old-friend-microsoft/"
+    user for many years. Just <a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/01/31/cutting-ties-with-my-old-friend-microsoft/"
     rel="nofollow">under two weeks back</a> I switched gears and took a look at my
     computing needs from a different perspective.
 - id: 2913
@@ -254,7 +254,7 @@ comments:
 - id: 4818
   author: First Post from Android, a Taste of Freedom | Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/07/17/first-post-from-android-a-taste-of-freedom/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/07/17/first-post-from-android-a-taste-of-freedom/
   date: '2010-07-21 08:19:52 -0400'
   date_gmt: '2010-07-21 15:19:52 -0400'
   content: "[...] feels like a lifetime ago when I decided to make my next mobile
@@ -274,7 +274,7 @@ comments:
 <li>iPhone is a fundamentally closed architecture. Sure lots of developers are working through the store to get access to a large market, but the store's cut isn't the only tax. Apple is the gatekeeper and has proven that it will block competition. For examples see Skype &amp; Google Voice. Additionally the approval time for updates is too slow, <a href="http://www.paulgraham.com/apple.html">taking weeks or more</a></li>
 <li>Web apps are much more appealing alternative for developers who want the biggest market without having to rewrite the same app for multiple architectures. I recognize that web apps don't have full access to the device hardware. Expect this trend to change rapidly</li>
 <li>I'm not the administrator on my own hardware (without jailbreaking) which is a pita without a mac. Software apps or Apple can push updates I don't want. Jailbreaking an Android is trivial by comparison. Being in the drivers seat of my own hardware destiny matters to me</li>
-<li>No choice of data provider. Put aside the debate of <a href="http://www.victusspiritus.com/2010/01/10/metaprotocols-minimize-restrictions-on-communication-network-evolution/">dumb pipes</a>, AT&amp;T vs Verizon vs Sprint vs Tmobile. Choice is the foundation of competition. I want businesses competing ferociously to be my mobile web service provider. I want the mobile Net commodotized and absolutely transparent. Providers should be dynamic not static, the cheapest bit wins</li>
+<li>No choice of data provider. Put aside the debate of <a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/01/10/metaprotocols-minimize-restrictions-on-communication-network-evolution/">dumb pipes</a>, AT&amp;T vs Verizon vs Sprint vs Tmobile. Choice is the foundation of competition. I want businesses competing ferociously to be my mobile web service provider. I want the mobile Net commodotized and absolutely transparent. Providers should be dynamic not static, the cheapest bit wins</li>
 <li>iTunes doesn't work on Linux. Sure I can get wine to emulate windows and the push the iPod patch and it may work (it flaked on my setup) but why should I have to?</li>
 <li>For the same reason Microsoft was a monopoly for integrating their crappy Internet Explorer browser Apple should have to decouple their store from their hardware. Let me buy through whoever I want (go Magnatune &amp; Last.fm!). I admit IE has gotten better since they were forced to decouple their web browser from the OS. Competition is a good thing for users/customers and the stability of businesses</li>
 <li>For me it comes down to user experience. I'd much prefer a solid under the hood infrastructure and choice of windowing/interface environmet. It's why Ubuntu flavored Linux is working great for me. If only I could slap that on my mobile...</li>
@@ -283,5 +283,5 @@ comments:
 <ul>
 <li>Tethering. One monthly bill for all my data usage (4G I'm looking at you). No special tax for voice or SMS colored data or cost multipliers because I have a laptop or desktop at home. $70/month for fat bandwidth is more than enough to cover my data needs. I shouldn't have to lay $80-110 per device or an extra $50 for a landline</li>
 </ul>
-<p>This is a followup to <a href="http://www.victusspiritus.com/2009/08/01/apple-att-are-pulling-a-thelma-and-louise/">Apple and AT&amp;T are pulling a Thelma &amp; Louise</a>.</p>
+<p>This is a followup to <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/08/01/apple-att-are-pulling-a-thelma-and-louise/">Apple and AT&amp;T are pulling a Thelma &amp; Louise</a>.</p>
 <p>Disclaimer: I don't hate Apple, I've enjoyed my iPhone mobile for a few years for the Net access it has given me (2G and 3Gs). My fiancé Michelle had a wonderful experience setting up her iMac.</p>

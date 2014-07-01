@@ -17,7 +17,7 @@ excerpt: "The short answer: yes, it probably will although it will have to share
   interaction to occur on their specific platforms.  I envision a near future where
   a dominant open architecture social media will cover it's maintenance cost via network
   knowledge, business enhancement, and revolutionary design methods (natural language
-  processing &amp; <a href=\"http://www.victusspiritus.com/2009/04/09/intelligent-advertising-for-microbloggers-who-will-be-first-to-swim-in-the-riches/\">intelligent
+  processing &amp; <a href=\"http://victusfate.github.io/victusspiritus/uncategorized/2009/04/09/intelligent-advertising-for-microbloggers-who-will-be-first-to-swim-in-the-riches/\">intelligent
   advertising</a>)."
 wordpress_id: 40
 wordpress_url: http://www.victusspiritus.com/?p=40
@@ -34,7 +34,7 @@ comments: []
 ---
 <p>The short answer: yes, it probably will although it will have to share market with alltop and friendfeed amongst others.</p>
 <p>The long answer:</p>
-<p>There's a struggle going on right now between social media companies who are vying for your attention.  Their corporate leaders are competing to leverage your attention into profit.  While the financial path has yet to be revealed we can expect product promotions (contextual ads) and software sales (social games).  The way humanity is communicating over the web is evolving as all languages do.  Social media companies want that interaction to occur on their specific platforms.  I envision a near future where a dominant open architecture social media will cover it's maintenance cost via network knowledge, business enhancement, and revolutionary design methods (natural language processing &amp; <a href="http://www.victusspiritus.com/2009/04/09/intelligent-advertising-for-microbloggers-who-will-be-first-to-swim-in-the-riches/">intelligent advertising</a>).<a id="more"></a><a id="more-40"></a></p>
+<p>There's a struggle going on right now between social media companies who are vying for your attention.  Their corporate leaders are competing to leverage your attention into profit.  While the financial path has yet to be revealed we can expect product promotions (contextual ads) and software sales (social games).  The way humanity is communicating over the web is evolving as all languages do.  Social media companies want that interaction to occur on their specific platforms.  I envision a near future where a dominant open architecture social media will cover it's maintenance cost via network knowledge, business enhancement, and revolutionary design methods (natural language processing &amp; <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/04/09/intelligent-advertising-for-microbloggers-who-will-be-first-to-swim-in-the-riches/">intelligent advertising</a>).<a id="more"></a><a id="more-40"></a></p>
 <p>Tangent to and social media in their own right are <a href="http://en.wikipedia.org/wiki/RSS_%28file_format%29">RSS feed</a> readers or aggregators.  These are umbrella software platforms/websites which are designed to be the one place you go for your information on a regular basis.  What they are trying to capitalize on is the fairly common method of browsing feeds from a single page, as opposed to visiting each of our favorite information sites.</p>
 <p>A "short" list of the popular feed readers follows, most of these tools provide some additional utility to distinguish them.</p>
 <ul>

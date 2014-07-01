@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2612
-wordpress_url: http://www.victusspiritus.com/2009/12/23/read-write-social-bot/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/12/23/read-write-social-bot/
 date: '2009-12-23 05:30:44 -0500'
 date_gmt: '2009-12-23 12:30:44 -0500'
 categories:
@@ -44,7 +44,7 @@ comments:
 - id: 2730
   author: Failx3, Win! &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/12/28/failx3-win/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/12/28/failx3-win/
   date: '2010-01-24 17:13:25 -0500'
   date_gmt: '2010-01-25 00:13:25 -0500'
   content: "[...] set about a task that I&#8217;ve never seen done before. An interactive

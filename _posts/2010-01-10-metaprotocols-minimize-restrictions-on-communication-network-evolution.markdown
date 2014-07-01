@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2694
-wordpress_url: http://www.victusspiritus.com/2010/01/10/metaprotocols-minimize-restrictions-on-communication-network-evolution/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/01/10/metaprotocols-minimize-restrictions-on-communication-network-evolution/
 date: '2010-01-10 08:18:54 -0500'
 date_gmt: '2010-01-10 15:18:54 -0500'
 categories:
@@ -25,14 +25,14 @@ comments:
   author: 'Choice is Beauty: Why I&#8217;m leaving Apple Mobile for Android &raquo;
     Victus Spiritus'
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/02/07/choice-is-beauty-why-im-leaving-apple-mobile-for-android/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/02/07/choice-is-beauty-why-im-leaving-apple-mobile-for-android/
   date: '2010-02-07 05:57:59 -0500'
   date_gmt: '2010-02-07 12:57:59 -0500'
   content: "[...] choice of data provider. Put aside the debate of dumb pipes, AT&amp;T
     vs Verizon vs Sprint vs Tmobile. Choice is the foundation of competition. I want
     [...]"
 ---
-<p style="text-align: center;"><a href="http://twitter.com/VictusFate/status/7581924561"><img class="size-large wp-image-2700" title="Status" src="http://www.victusspiritus.com/wp-content/uploads/2010/01/Status-1024x640.png" alt="" width="800" height="500" /></a><br />
+<p style="text-align: center;"><a href="http://twitter.com/VictusFate/status/7581924561"><img class="size-large wp-image-2700" title="Status" src="{{ site.url }}/assets/2010/01/Status-1024x640.png" alt="" width="800" height="500" /></a><br />
 my background is from <a href="http://www.stuckincustoms.com">Trey Ratcliff at http://www.stuckincustoms.com</a></p>
 <h2>Dumb Pipes Enable Optimization &amp; Resilience for an Unpredictable Future</h2>
 <p>Last night I sent out an off the cuff ideal:</p>

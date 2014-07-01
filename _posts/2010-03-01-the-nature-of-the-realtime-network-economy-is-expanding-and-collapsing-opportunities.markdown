@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 3168
-wordpress_url: http://www.victusspiritus.com/2010/03/01/the-nature-of-the-realtime-network-economy-is-expanding-and-collapsing-opportunities/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/03/01/the-nature-of-the-realtime-network-economy-is-expanding-and-collapsing-opportunities/
 date: '2010-03-01 06:23:42 -0500'
 date_gmt: '2010-03-01 13:23:42 -0500'
 categories:

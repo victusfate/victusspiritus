@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2899
-wordpress_url: http://www.victusspiritus.com/2010/01/28/we-dont-need-no-stinkin-bubbles-intrinsic-traded-value/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/01/28/we-dont-need-no-stinkin-bubbles-intrinsic-traded-value/
 date: '2010-01-28 07:45:02 -0500'
 date_gmt: '2010-01-28 14:45:02 -0500'
 categories:

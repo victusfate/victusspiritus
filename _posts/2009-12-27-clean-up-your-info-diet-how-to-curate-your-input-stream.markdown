@@ -59,7 +59,7 @@ comments:
 - id: 3446
   author: Less than 100 Ways to Make Flexible Web Tools &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/03/19/less-than-100-ways-to-make-flexible-web-tools/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/03/19/less-than-100-ways-to-make-flexible-web-tools/
   date: '2010-03-19 07:13:19 -0400'
   date_gmt: '2010-03-19 14:13:19 -0400'
   content: "[...] last guideline of garbage in, garbage out extends way beyond programs
@@ -68,7 +68,7 @@ comments:
 - id: 8959
   author: Beware compulsive bookmarking &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/02/15/beware-compulsive-bookmarking/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/02/15/beware-compulsive-bookmarking/
   date: '2011-02-15 18:31:15 -0500'
   date_gmt: '2011-02-16 01:31:15 -0500'
   content: "[...] Beware compulsive bookmarking  15Feb 2011  Mark Essel   Tweet A
@@ -83,7 +83,7 @@ comments:
 </ul>
 <p>To see who I rely on for serendipitous discovery and perspective, you can view my <a href="http://www.victusspiritus.com/my-friends-and-influencers/">friends and influencer page</a>. I challenge you to construct a list with a finer group of folks (and don't be shy, please share). </p>
 <h2>Super Human Filters or Mortal Portals</h2>
-<p><a HREF="http://www.victusspiritus.com/2009/07/12/super-human-filters/">Super Human Filters</a> are <a HREF="http://blog.louisgray.com/2009/11/keep-close-eye-on-chris-messina-for.html">mortal portals</a> who we enlist and trust to consistently discover relevant news and describe it in a way we can quickly ingest and act upon. </p>
-<p><a HREF="http://www.victusspiritus.com/2009/08/02/discriminating-between-interesting-and-actionable-info/">Actionable versus interesting information</a> is the decision boundary which has been adopted by a generation of startup founders, financial leaders, scientists, and makers. As greedy as I am for every interesting discovery, it is imperative to balance consuming this knowledge with creating value. Every hour spent diligently reading articles is another hour of constructive/development work lost.</p>
+<p><a HREF="http://victusfate.github.io/victusspiritus/uncategorized/2009/07/12/super-human-filters/">Super Human Filters</a> are <a HREF="http://blog.louisgray.com/2009/11/keep-close-eye-on-chris-messina-for.html">mortal portals</a> who we enlist and trust to consistently discover relevant news and describe it in a way we can quickly ingest and act upon. </p>
+<p><a HREF="http://victusfate.github.io/victusspiritus/uncategorized/2009/08/02/discriminating-between-interesting-and-actionable-info/">Actionable versus interesting information</a> is the decision boundary which has been adopted by a generation of startup founders, financial leaders, scientists, and makers. As greedy as I am for every interesting discovery, it is imperative to balance consuming this knowledge with creating value. Every hour spent diligently reading articles is another hour of constructive/development work lost.</p>
 <h2>Diversify Your Super Human Filters</h2>
 <p>Because you'll be counting on these information nexi as your eyes and ears on world events it is of great value to have a varied list. My friends and influencers are primarily focused on technology, startups and the entrepreneurship scene. But there are a number of folks that fall outside this broad categorization that I tune into to. The reasoning for this is to keep your world view in perspective. No matter how much value I see in actively participating in several social channels, much of the rest of the world is content to read a web news aggregator site, and watch prefiltered television stations. Society is not defined by a single interest segment.     </p>

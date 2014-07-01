@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 9799
-wordpress_url: http://www.victusspiritus.com/2011/07/27/a-shorter-bill-of-rights/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/07/27/a-shorter-bill-of-rights/
 date: '2011-07-27 09:09:34 -0400'
 date_gmt: '2011-07-27 16:09:34 -0400'
 categories:

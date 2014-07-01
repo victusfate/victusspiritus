@@ -21,7 +21,7 @@ comments:
 - id: 7360
   author: Dreamy First Night with MacBook Air &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/11/02/dreamy-first-night-with-macbook-air/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/11/02/dreamy-first-night-with-macbook-air/
   date: '2010-11-02 06:15:58 -0400'
   date_gmt: '2010-11-02 13:15:58 -0400'
   content: "[...] the depot last night. Setup this time was incredibly smooth since
@@ -31,7 +31,7 @@ comments:
   author: How to persuade corporate IT into making your next computer upgrade an Apple
     &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/01/24/how-to-persuade-corporate-it-into-making-your-next-computer-upgrade-an-apple/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/01/24/how-to-persuade-corporate-it-into-making-your-next-computer-upgrade-an-apple/
   date: '2011-01-24 09:01:31 -0500'
   date_gmt: '2011-01-24 16:01:31 -0500'
   content: "[...] it would also server as the ideal setup at work as well. I transitioned
@@ -47,7 +47,7 @@ comments:
 <p>The GUI to the OS feels well polished and supports the type of snappy unix terminal I've grown accustomed to on Ubuntu over the past 8 months. The .bash_profile worked for any customizations I needed, as I didn't spot a .bashrc or .cshrc nor did they autoload with a new terminal (might have had to fully relog).</p>
 <p><I>Setting Up the Dev Environment</I></p>
 <p>Ubuntu leverages apt-get or your choice of other package manager for grabbing and automatically updating libraries and applications. If there aren't any tricks about the name of dependent packages or libs it just works. If there are you have to roll up your sleeves and do a little searching.</p>
-<p>First thing to do on a Mac is to grab the latest version of XCode. I had the 3 GByte zipped file on my portable passbook drive. I came across Home Brew for Mac OSX while installing <a href="http://www.victusspiritus.com/2010/10/24/prediction-a-pinhole-look-at-the-future/">Ruby Version Manager and Rails 3</a> yesterday morning. I prefer a single smooth command line installation of packages to the standard Mac way: </p>
+<p>First thing to do on a Mac is to grab the latest version of XCode. I had the 3 GByte zipped file on my portable passbook drive. I came across Home Brew for Mac OSX while installing <a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/10/24/prediction-a-pinhole-look-at-the-future/">Ruby Version Manager and Rails 3</a> yesterday morning. I prefer a single smooth command line installation of packages to the standard Mac way: </p>
 <ul>
 <li>open new web browser (File, new window is getting old quick)</li>
 <li>search for Mac app</li>
@@ -60,4 +60,4 @@ comments:
 <p><I>Snags on Mac OS X</I></p>
 <p>I've only had a couple of hick ups on the iMac so far. The Skype .dmg package failed to install so I tried again and it worked. I noted that as an oddity. Graphically, the continually upgraded but aging World of Warcraft game caused stuttering in a heavily populated city. As to the physical interface the default blue tooth mouse and keyboard are way too small and flat respectively. I swapped them both out for USB equivalents.</p>
 <p><I>The back story</I></p>
-<p>I was in the market for a <a href="http://www.victusspiritus.com/2010/10/21/decisions-decisions-zeroing-in-on-a-mobile-solution/">mobile system</a> last week. Last weekend I picked up a MacBook pro 13", then opted to return it to give the latest MacBook Air a chance. I switched up at the store, broke down and selected a 27" iMac. It's a much bigger canvas to paint on for code editing, and TextMate is the kind of project editor I always wanted, the perfect blend of interface simplicity with high utility. The bad news, it's way too big to lug around safely or easily, so I'll still be SOL when the next great hack event in Manhattan happens. </p>
+<p>I was in the market for a <a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/10/21/decisions-decisions-zeroing-in-on-a-mobile-solution/">mobile system</a> last week. Last weekend I picked up a MacBook pro 13", then opted to return it to give the latest MacBook Air a chance. I switched up at the store, broke down and selected a 27" iMac. It's a much bigger canvas to paint on for code editing, and TextMate is the kind of project editor I always wanted, the perfect blend of interface simplicity with high utility. The bad news, it's way too big to lug around safely or easily, so I'll still be SOL when the next great hack event in Manhattan happens. </p>

@@ -52,7 +52,7 @@ comments:
   content: Try signing in with twitter later, let me know if it&#39;s not updating
     properly or doing nice things with your data stream.
 ---
-<p><a href="http://www.stuckincustoms.com"><img class="aligncenter size-full wp-image-2116" title="no pool this beautiful should be empty at a time like this" src="http://www.victusspiritus.com/wp-content/uploads/2009/11/SunsetPool.jpg" alt="no pool this beautiful should be empty at a time like this" width="480" height="330" /></a></p>
+<p><a href="http://www.stuckincustoms.com"><img class="aligncenter size-full wp-image-2116" title="no pool this beautiful should be empty at a time like this" src="{{ site.url }}/assets/2009/11/SunsetPool.jpg" alt="no pool this beautiful should be empty at a time like this" width="480" height="330" /></a></p>
 <h1>Victus Media</h1>
 <p>Our tagline: <strong>We are about providing incredible user value by doing novel things with information.</strong></p>
 <p>Our mission: <strong>To create tools and services that provide improved two way search, and allow for people to serendipitously discover both information and other folks who share their interests. The monetary force that will drive this mission is based on contextual, personal advertisements created from social media.</strong></p>

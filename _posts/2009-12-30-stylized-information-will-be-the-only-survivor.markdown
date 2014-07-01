@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2646
-wordpress_url: http://www.victusspiritus.com/2009/12/30/stylized-information-will-be-the-only-survivor/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/12/30/stylized-information-will-be-the-only-survivor/
 date: '2009-12-30 05:51:50 -0500'
 date_gmt: '2009-12-30 12:51:50 -0500'
 categories:

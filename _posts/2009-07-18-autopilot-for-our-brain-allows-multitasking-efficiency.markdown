@@ -20,7 +20,7 @@ comments:
 - id: 286
   author: Semantic Web, Can it Happen?
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/07/30/semantic-web-can-it-happen/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/07/30/semantic-web-can-it-happen/
   date: '2009-07-30 10:05:58 -0400'
   date_gmt: '2009-07-30 17:05:58 -0400'
   content: "[...] walk a lot. Exercise gets my brain going, and I&#8217;m a big fan
@@ -28,14 +28,14 @@ comments:
 - id: 2074
   author: Reduce Your (team&#8217;s) Bug Tax
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/12/12/reduce-your-teams-bug-tax/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/12/12/reduce-your-teams-bug-tax/
   date: '2009-12-12 07:47:40 -0500'
   date_gmt: '2009-12-12 14:47:40 -0500'
   content: "[...] and many of their nuances in mind, add a third and everything falls
     apart. In fact if I&#8217;m working on just one, I&#8217;m much more productive.
     Let&#8217;s review state complexity [...]"
 ---
-<p><a href="http://www.flickr.com/photos/jurvetson/"><img class="aligncenter size-full wp-image-1094" title="Multitasking" src="http://www.victusspiritus.com/wp-content/uploads/2009/07/Multitasking.jpg" alt="Multitasking" width="480" height="300" /></a></p>
+<p><a href="http://www.flickr.com/photos/jurvetson/"><img class="aligncenter size-full wp-image-1094" title="Multitasking" src="{{ site.url }}/assets/2009/07/Multitasking.jpg" alt="Multitasking" width="480" height="300" /></a></p>
 <p style="text-align: center; ">A Natural Multitasker, thanks to <a href="http://www.flickr.com/photos/jurvetson/">Steve Jurvetson</a> of <a href="http://www.dfj.com/">DFJ</a></p>
 <h2>Update, Game Example</h2>
 <p>Just found this wonderful <a HREF="http://www.kongregate.com/games/IcyLime/multitask">Kongregate Multitask Game</a> thanks to Eli and Phil for the find. A game is worth a thousand words in explaining our limited ability to multitask.</p>

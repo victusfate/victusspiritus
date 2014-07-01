@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 8713
-wordpress_url: http://www.victusspiritus.com/2011/05/02/first-steps-sorting-out-python/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/05/02/first-steps-sorting-out-python/
 date: '2011-05-02 06:29:24 -0400'
 date_gmt: '2011-05-02 13:29:24 -0400'
 categories:
@@ -140,7 +140,7 @@ comments:
 <li>An endless stream of docs from my <a href="http://www.instapaper.com/folder/952699/rss/419835/4zvNFfgw07bdO7xB3CN7QidITk">Instapaper pythonic feed</a></li>
 </ul>
 </li>
-<li>Related post: <a href="http://www.victusspiritus.com/2011/04/30/folding-in-c">Folding in c++</a> (the repo referenced includes array splitting and in place qsorts)</li>
+<li>Related post: <a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/04/30/folding-in-c">Folding in c++</a> (the repo referenced includes array splitting and in place qsorts)</li>
 </ol>
 <p><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script><br />
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.10/jquery-ui.min.js"></script><br />

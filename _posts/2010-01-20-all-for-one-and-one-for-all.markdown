@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2782
-wordpress_url: http://www.victusspiritus.com/2010/01/20/all-for-one-and-one-for-all/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/01/20/all-for-one-and-one-for-all/
 date: '2010-01-20 07:22:41 -0500'
 date_gmt: '2010-01-20 14:22:41 -0500'
 categories:
@@ -22,7 +22,7 @@ comments: []
 <p>This famed <a href="http://en.m.wikipedia.org/wiki/The_Three_Musketeers?wasRedirected=true">Three Musketeers</a> unifying call is based on the latin phrase Unus pro omnibus, omnes pro uno.</p>
 <p>The ideal relationship between the dynamic demands of community, contrasted with the needs of the individual is a timeless human interest. We are instinctually social, a tribal species. The balance of tribe versus member seesaws through varied political structures, economic systems, and cultures. The transience of social communities is a sure sign that we are in a state of flux, seeking harmony. Exploring the space of personal liberties relative to group needs is intrinsically human. The changing balance is a macro mirror of nature itself.</p>
 <h2>Biology's Value Shift of Micro to Macro</h2>
-<p>Compare the value of single cells to the larger organisms they are part of. A single cell can live or die and have little effect to the whole, as nature favors <a href="http://www.victusspiritus.com/2009/12/29/the-hidra-has-many-heads-cheap-disposable-resilience/">disposable resilience</a> for organism survival. But the single cell of origin (fertilized cell) is arguably just as important as all cells later on. Nature appears to shift its favor from the needs of one, to the needs of many.</p>
+<p>Compare the value of single cells to the larger organisms they are part of. A single cell can live or die and have little effect to the whole, as nature favors <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/12/29/the-hidra-has-many-heads-cheap-disposable-resilience/">disposable resilience</a> for organism survival. But the single cell of origin (fertilized cell) is arguably just as important as all cells later on. Nature appears to shift its favor from the needs of one, to the needs of many.</p>
 <p>The balance of resources between one and many was decided through the relentless trial and error of survival. Poor mutations result in stastical pressures driving them out of a species. Still, the diversity of a species now ensures a great potential for future adaption. Humanity has developed social structures which change the weighting of traits, and a great example is our economic networks.</p>
 <h2>Businesses Exhibit Measures of One to Many</h2>
 <p>Corporate structures, startups, family businesses, free agents, and non-profits all represent evolutionary financial structures. They have adapted different methods for valuing and compensating individual and team efforts. I'll contrast the one to many value trade of large corporations (BigCo) versus startups.</p>

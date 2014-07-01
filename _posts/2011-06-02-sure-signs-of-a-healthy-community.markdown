@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 9143
-wordpress_url: http://www.victusspiritus.com/2011/06/02/sure-signs-of-a-healthy-community/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/06/02/sure-signs-of-a-healthy-community/
 date: '2011-06-02 06:14:02 -0400'
 date_gmt: '2011-06-02 13:14:02 -0400'
 categories:

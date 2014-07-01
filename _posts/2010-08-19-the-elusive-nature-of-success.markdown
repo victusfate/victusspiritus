@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 4932
-wordpress_url: http://www.victusspiritus.com/2010/08/19/the-elusive-nature-of-success/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/08/19/the-elusive-nature-of-success/
 date: '2010-08-19 06:14:57 -0400'
 date_gmt: '2010-08-19 13:14:57 -0400'
 categories:
@@ -19,7 +19,7 @@ comments:
 - id: 9082
   author: Minimum Viable Market &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/03/06/minimum-viable-market/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/03/06/minimum-viable-market/
   date: '2011-03-06 11:41:48 -0500'
   date_gmt: '2011-03-06 18:41:48 -0500'
   content: "[...] Viable market is a continuation of the ideas I discussed in the

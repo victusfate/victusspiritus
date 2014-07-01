@@ -52,7 +52,7 @@ comments:
   author: Connected Canvas, Adaptive Web Portals to Unlimited Information &raquo;
     Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/01/03/connected-canvas-adaptive-web-portals-to-unlimited-information/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/01/03/connected-canvas-adaptive-web-portals-to-unlimited-information/
   date: '2011-01-03 14:47:46 -0500'
   date_gmt: '2011-01-03 21:47:46 -0500'
   content: "[...] Web Portals to Unlimited Information  03Jan 2011  Mark Essel   TweetNot

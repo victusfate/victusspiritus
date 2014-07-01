@@ -20,7 +20,7 @@ tags:
 - design
 comments: []
 ---
-<p><a href="http://www.flickr.com/people/dhilung/"><img class="aligncenter size-full wp-image-2283" title="ShimmeringCity" src="http://www.victusspiritus.com/wp-content/uploads/2009/11/ShimmeringCity.jpg" alt="ShimmeringCity" width="480" height="330" /></a></p>
+<p><a href="http://www.flickr.com/people/dhilung/"><img class="aligncenter size-full wp-image-2283" title="ShimmeringCity" src="{{ site.url }}/assets/2009/11/ShimmeringCity.jpg" alt="ShimmeringCity" width="480" height="330" /></a></p>
 <h2>But Mark what's a terminal?</h2>
 <p>If you're unfamiliar with older computer architectures here's the low down on terminals. Back in the olden days, when the Internet was a gleam in engineers eye's (and even further), most business and educational computer system architectures consisted of one or more mainframes/super servers, and many terminal nodes. Terminals had limited memory and functionality but were capable of directing resources on a heavy hitting server. Terminals were cheap and would allow many users to access central processing systems. Meanwhile home computers (the desktop) were just coming into existence (commodore/ vic20, TI99). In parallel both servers and desktop systems evolved. Eventually, in most businesses the desktop prevailed as a more useful node than the dumb terminal. </p>
 <p>The web has captured many of our imaginations. And Google percieves (among others) a user need for dedicated portals to web services. In effect Chrome OS will allow for advanced terminals to one super mainframe of information, the Internet.</p>

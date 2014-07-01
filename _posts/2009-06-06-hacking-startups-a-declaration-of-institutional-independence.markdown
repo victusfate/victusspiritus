@@ -241,7 +241,7 @@ comments:
 <li>In his post, Fred made some spot on comments about <a href="http://www.time.com/time/printout/0,8816,1902604,00.html#">Steven Johnson's TIME magazine cover story</a>.  Here's an essential quote: <em>"That's the thing that gets me so excited to get up and get going every day. Technology has reached a point where anyone can get involved with innovation. Patents and degrees matter a lot less. Imagining something and then coding it up is what its all about these days."</em></li>
 </ul>
 </li>
-<li>I cobbled some quick thoughts together <a href="http://www.victusspiritus.com/2009/06/04/the-future-is-open/">The Future is Open</a></li>
+<li>I cobbled some quick thoughts together <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/06/04/the-future-is-open/">The Future is Open</a></li>
 <li>Back at AVC I shared the following <a href="http://www.avc.com/a_vc/2009/06/open-platforms-and-innovation.html#comment-10519185">comment</a> (here's the thread)</li>
 </ol>
 <p style="padding-left: 30px; "><a id="dsq-author-user-10529983" rel="nofollow" href="http://www.victusspiritus.com/" target="_blank">Mark Essel</a> <a id="dsq-time-10519185" class="dsq-header-time" title="Permalink" href="http://www.avc.com/a_vc/2009/06/open-platforms-and-innovation.html#comment-10519185">1 day ago</a></p>

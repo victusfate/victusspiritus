@@ -70,16 +70,16 @@ comments:
   author: Springtime renews optimism, will it be enough to jump start the economy
     &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/02/21/springtime-renews-optimism-will-it-be-enough-to-jump-start-the-economy/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/02/21/springtime-renews-optimism-will-it-be-enough-to-jump-start-the-economy/
   date: '2010-02-21 13:59:50 -0500'
   date_gmt: '2010-02-21 20:59:50 -0500'
   content: "[...] to make money off of web attention, but have limited availability
     to new businesses (exception Zappos who was picked up by Amazon for $900 million).
     But the web may have found a way to work around the [...]"
 ---
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-1151" title="ZapposIsDead" src="http://www.victusspiritus.com/wp-content/uploads/2009/07/ZapposIsDead.png" alt="ZapposIsDead" width="480" height="724" />I took some liberties with one of Robert Scoble's pictures</p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-1151" title="ZapposIsDead" src="{{ site.url }}/assets/2009/07/ZapposIsDead.png" alt="ZapposIsDead" width="480" height="724" />I took some liberties with one of Robert Scoble's pictures</p>
 <p>It's ironic that one of the stated rationales for Amazon purchasing Zappos was for their corporate culture. Such a purchase will ultimately result in the end of Zappos' independent identity and with it any resemblance to the culture it once had. The real reason I suspect Amazon purchased Zappos is to cheaply remove a future competitor. Yeah, I just said $900,000,000 was cheap. To own internet sales in the US a little longer, it's probably worth a lot more to Amazon.</p>
-<p>I have little doubt that Zappos would have continued to grow in strength and become a real force within the internet sales business. They had something <a href="http://www.victusspiritus.com/2009/06/01/the-importance-of-corporate-culture/">unique and wonderful going on</a>, and unfortunately I can't imagine how that can survive when your only shareholder is the 800lb gorilla of internet sales, Amazon. I'd really like to be proven wrong on this hypothesis.</p>
+<p>I have little doubt that Zappos would have continued to grow in strength and become a real force within the internet sales business. They had something <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/06/01/the-importance-of-corporate-culture/">unique and wonderful going on</a>, and unfortunately I can't imagine how that can survive when your only shareholder is the 800lb gorilla of internet sales, Amazon. I'd really like to be proven wrong on this hypothesis.</p>
 <h6 class="zemanta-related-title" style="font-size: 1em;">Related articles by Zemanta</h6>
 <ul class="zemanta-article-ul">
 <li class="zemanta-article-ul-li"><a href="http://thenextweb.com/2009/07/22/amazon-acquires-online-shoe-retailer-zappos/"> Amazon Acquires Online Shoe Retailer Zappos.com </a> (thenextweb.com)</li>

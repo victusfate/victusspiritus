@@ -50,7 +50,7 @@ comments:
 - id: 3233
   author: The Adaptive Augmented Reality Web &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/03/07/the-adaptive-augmented-reality-web/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/03/07/the-adaptive-augmented-reality-web/
   date: '2010-03-07 09:40:15 -0500'
   date_gmt: '2010-03-07 16:40:15 -0500'
   content: "[...] but one piece of the puzzle to seemlessly weave the web within our
@@ -59,7 +59,7 @@ comments:
 - id: 3892
   author: Strange things are afoot at the Circle-K &laquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/04/11/strange-things-are-afoot-at-the-circle-k/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/04/11/strange-things-are-afoot-at-the-circle-k/
   date: '2010-04-11 05:05:06 -0400'
   date_gmt: '2010-04-11 12:05:06 -0400'
   content: "[...] wrote a few weeks back about some opportunities in the augmented
@@ -88,7 +88,7 @@ The <a class="zem_slink" title="Bing Maps" rel="homepage" href="http://www.bing.
 <li>mind blowing 3D simulated structures that would make <a href="http://www.bing.com/images/search?q=mc+escher&amp;go=&amp;form=QBIL&amp;qs=n&amp;sc=8-3">M.C. Escher </a>swoon</li>
 </ul>
 <h2>Tools</h2>
-<p>Consider augmented 3D interactive programming tools. You could literally see the database and manipulate structures visually. Code logic and data flow can be augmented with a tactile user interface. With the <a href="http://www.victusspiritus.com/2010/01/29/the-ideal-computer-converges-on-invisible/">right hardware </a>elaborate collaborative teams will co-create augmented structures connected to massive back end databases. I like to think a future version of <a href="http://www.victusspiritus.com/2010/02/09/gotta-grock-git/">git</a> may be like the <a href="http://www.youtube.com/watch?v=Y70vcs3oV14">rows of guns from the matrix</a> with millions of applications streaming by, to allow serendipitous adjacent or social search.</p>
+<p>Consider augmented 3D interactive programming tools. You could literally see the database and manipulate structures visually. Code logic and data flow can be augmented with a tactile user interface. With the <a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/01/29/the-ideal-computer-converges-on-invisible/">right hardware </a>elaborate collaborative teams will co-create augmented structures connected to massive back end databases. I like to think a future version of <a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/02/09/gotta-grock-git/">git</a> may be like the <a href="http://www.youtube.com/watch?v=Y70vcs3oV14">rows of guns from the matrix</a> with millions of applications streaming by, to allow serendipitous adjacent or social search.</p>
 <p>These are just a handful of the ideas that flowed through my mind as I watched Blaise's talk. I look forward to seeing what other developers are dreaming up.</p>
 <h6 class="zemanta-related-title" style="font-size: 1em;">Related articles by Zemanta</h6>
 <ul class="zemanta-article-ul">

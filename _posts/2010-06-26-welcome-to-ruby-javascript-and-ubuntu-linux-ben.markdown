@@ -58,7 +58,7 @@ comments:
     most of the time. <br><br>Thanks for writing the script, I&#39;ll give it another
     go time permitting.
 ---
-<p>[caption id="attachment_4300" align="aligncenter" width="500" caption="You asked for the Firehose"]<a href="http://www.youtube.com/watch?v=TQME8mx4DMo"><img class="size-full wp-image-4300" title="Madhouse Scene, Planet of the Apes" src="http://www.victusspiritus.com/wp-content/uploads/2010/06/Madhouse3.jpg" alt="" width="500" height="319" /></a>[/caption]</p>
+<p>[caption id="attachment_4300" align="aligncenter" width="500" caption="You asked for the Firehose"]<a href="http://www.youtube.com/watch?v=TQME8mx4DMo"><img class="size-full wp-image-4300" title="Madhouse Scene, Planet of the Apes" src="{{ site.url }}/assets/2010/06/Madhouse3.jpg" alt="" width="500" height="319" /></a>[/caption]</p>
 <p>My friend Ben Carroll recently expressed some interest in learning the basics of web programming through a high level scripting language. I figured he may not be the only one that may benefit from some of the web documents I have come across and grown to rely on heavily, while making my splash into sea of web development over the past eight months.</p>
 <p>Begin with Ruby:<br />
 <a href="http://tryruby.org"> tryruby.org</a></p>
@@ -76,7 +76,7 @@ comments:
 <a href="http://www.quicklycode.com/cheatsheets"> http://www.quicklycode.com/cheatsheets</a></p>
 <p><strong>Package Manager</strong></p>
 <p>sudo apt-get will be your friend (<a class="zem_slink" title="Synaptic (software)" rel="homepage" href="http://www.nongnu.org/synaptic/">synaptic package manager</a>)</p>
-<p><a href="http://www.dropbox.com">Dropbox</a> a great tool to share code (you can explore <a href="http://www.victusspiritus.com/2010/02/09/gotta-grock-git/">git</a> later on)</p>
+<p><a href="http://www.dropbox.com">Dropbox</a> a great tool to share code (you can explore <a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/02/09/gotta-grock-git/">git</a> later on)</p>
 <ul>
 <li>referral link so I get more space: <a href="https://www.dropbox.com/referrals/NTExMjcwOTI5">https://www.dropbox.com/referrals/NTExMjcwOTI5</a></li>
 <li>if you want the latest version on linux: <a href="http://forums.dropbox.com/topic.php?id=12153">http://forums.dropbox.com/topic.php?id=12153</a></li>
@@ -107,7 +107,7 @@ comments:
 <p><strong>Rails</strong> the most popular MVC framework for Ruby<br />
 <a href="http://rubyonrails.org/"> http://rubyonrails.org/</a><br />
 <a href="https://help.ubuntu.com/community/RubyOnRails"> https://help.ubuntu.com/community/RubyOnRails</a><br />
-back when I had windows: <a href="http://www.victusspiritus.com/2009/11/15/walking-down-the-tracks-of-ruby-on-rails/">http://www.victusspiritus.com/2009/11/15/walking-down-the-tracks-of-ruby-on-rails/</a></p>
+back when I had windows: <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/11/15/walking-down-the-tracks-of-ruby-on-rails/">http://victusfate.github.io/victusspiritus/uncategorized/2009/11/15/walking-down-the-tracks-of-ruby-on-rails/</a></p>
 <h2>Web Hosting</h2>
 <p><strong>Free hosting</strong>:</p>
 <ul>
@@ -233,5 +233,5 @@ yajl-ruby (0.7.6)</p>
 <ul class="zemanta-article-ul">
 <li class="zemanta-article-ul-li"><a href="http://aurametrix.blogspot.com/2010/05/to-ruby-or-not-to-ruby.html">To Ruby or not to Ruby?</a> (aurametrix.blogspot.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.slideshare.net/johnwoodell/meetup-4023645">2010-05-04 App Engine Meetup</a> (slideshare.net)</li>
-<li class="zemanta-article-ul-li"><a href="http://www.victusspiritus.com/2010/04/20/instant-utility-optimal-execution-syntactic-sugar/">Instant Utility, Optimal Execution, &amp; Syntactic Sugar</a> (victusspiritus.com)</li>
+<li class="zemanta-article-ul-li"><a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/04/20/instant-utility-optimal-execution-syntactic-sugar/">Instant Utility, Optimal Execution, &amp; Syntactic Sugar</a> (victusspiritus.com)</li>
 </ul>

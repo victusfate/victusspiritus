@@ -87,7 +87,7 @@ comments:
     you wanna check it out.<br>check out <a href="http://scraplr.com" rel="nofollow">scraplr.com</a>
     too, I still couldn&#39;t get an invite tho..
 ---
-<p><a href="http://www.stuckincustoms.com/2010/04/07/super-happy-hoppy-fun-beer"><img class="alignnone size-full" src="http://www.victusspiritus.com/wp-content/uploads/2010/04/l_1024_683_12110C9E-5D13-49AE-B405-D976A1281BB2.jpeg" alt="" width="600" height="400" /></a></p>
+<p><a href="http://www.stuckincustoms.com/2010/04/07/super-happy-hoppy-fun-beer"><img class="alignnone size-full" src="{{ site.url }}/assets/2010/04/l_1024_683_12110C9E-5D13-49AE-B405-D976A1281BB2.jpeg" alt="" width="600" height="400" /></a></p>
 <p><em>this post covers concentration + focus, how little of these two I have on certain days, and how much I covet them</em></p>
 <h2>Work Flow</h2>
 <p>To get into a good work flow on Victus Media at night or on days off I need to find at least 4-5 hour blocks without distractions. Spending quality time with Michelle trumps everything else at minimum a few times a week. Two incredible munchkin dogs haven't aided the concentration quest either*. <a href="http://www.paulgraham.com/makersschedule.html">Paul Graham captures the work flow dilemma</a> and the body of time needed to get anything useful done when programming. If you are a founder or early employee of any energized workplace doing creative design or technical work, than you can relate to these time blocks for productivity. I'm confident that many of us suffer the extended 15+ hour days as a result of not finding enough 4-5 hour productive blocks. Distractions throughout an 8-9 hour day yield severely limited productivity.</p>

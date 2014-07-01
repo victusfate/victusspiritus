@@ -228,7 +228,7 @@ comments:
   date: '2010-05-05 10:02:33 -0400'
   date_gmt: '2010-05-05 15:02:33 -0400'
   content: Thanks JP, Seth&#39;s a big inspiration to where I&#39;m at now. He was
-    generous enough to wish me luck on my first ebook last year, <a href="http://www.victusspiritus.com/2009/05/29/my-first-ebook/"
+    generous enough to wish me luck on my first ebook last year, <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/05/29/my-first-ebook/"
     rel="nofollow">3 steps to satisfaction</a> which is a collection of early posts.
     I plan to do another, when time allows, with professional assistance (Ars Vox
     on my blog).
@@ -377,14 +377,14 @@ comments:
 - id: 4790
   author: When it comes to Startup Tasks, There can be only one | Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/07/18/when-it-comes-to-startup-tasks-there-can-be-only-one/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/07/18/when-it-comes-to-startup-tasks-there-can-be-only-one/
   date: '2010-07-18 08:34:49 -0400'
   date_gmt: '2010-07-18 15:34:49 -0400'
   content: "[...] data. While a startup can survive passing up an opportunity, sprinting
     in the wrong direction can send it off a cliff. Course correction with involved
     task management software requires changing priorities for task [...]"
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/05/l_498_319_FEBB7CAD-08E7-4B96-AE73-1F7B90D7B0C4.jpeg"><img class="alignnone size-full" src="http://www.victusspiritus.com/wp-content/uploads/2010/05/l_498_319_FEBB7CAD-08E7-4B96-AE73-1F7B90D7B0C4.jpeg" alt="" /></a></p>
+<p><a href="{{ site.url }}/assets/2010/05/l_498_319_FEBB7CAD-08E7-4B96-AE73-1F7B90D7B0C4.jpeg"><img class="alignnone size-full" src="{{ site.url }}/assets/2010/05/l_498_319_FEBB7CAD-08E7-4B96-AE73-1F7B90D7B0C4.jpeg" alt="" /></a></p>
 <p>Wiley E. Coyote, grand ACME customer &amp; self identified super genius</p>
 <h2>Unquestionable Assumptions</h2>
 <p><em>This short post is dedicated to my brother who questions everything, yet has faith in outlandish and wild possibilities. We're more similar than different in this regard</em></p>

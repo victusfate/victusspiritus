@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 4214
-wordpress_url: http://www.victusspiritus.com/2010/06/22/the-promise-of-telepresence-the-reality-of-blogs-and-scaling-problems/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/06/22/the-promise-of-telepresence-the-reality-of-blogs-and-scaling-problems/
 date: '2010-06-22 05:16:22 -0400'
 date_gmt: '2010-06-22 12:16:22 -0400'
 categories:

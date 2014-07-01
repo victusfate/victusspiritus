@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 3363
-wordpress_url: http://www.victusspiritus.com/2010/03/23/social-tagging-for-a-social-browser/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/03/23/social-tagging-for-a-social-browser/
 date: '2010-03-23 04:11:55 -0400'
 date_gmt: '2010-03-23 11:11:55 -0400'
 categories:

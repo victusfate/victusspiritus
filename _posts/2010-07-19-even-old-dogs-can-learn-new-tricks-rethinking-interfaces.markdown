@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 4630
-wordpress_url: http://www.victusspiritus.com/2010/07/19/even-old-dogs-can-learn-new-tricks-rethinking-interfaces/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/07/19/even-old-dogs-can-learn-new-tricks-rethinking-interfaces/
 date: '2010-07-19 05:04:17 -0400'
 date_gmt: '2010-07-19 12:04:17 -0400'
 categories:

@@ -46,7 +46,7 @@ comments:
 - id: 5329
   author: What will Drive the US Economy 10 Years from Now? | Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/08/09/what-will-drive-the-us-economy-10-years-from-now/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/08/09/what-will-drive-the-us-economy-10-years-from-now/
   date: '2010-08-09 07:11:23 -0400'
   date_gmt: '2010-08-09 14:11:23 -0400'
   content: "[...] They&#8217;re becoming increasingly efficient at extracting value

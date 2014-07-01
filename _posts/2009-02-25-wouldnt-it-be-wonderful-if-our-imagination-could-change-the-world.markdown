@@ -31,7 +31,7 @@ comments:
 - id: 1282
   author: How to Build an Optimal Organization
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/05/17/how-to-build-an-optimal-organization/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/05/17/how-to-build-an-optimal-organization/
   date: '2009-10-24 11:29:54 -0400'
   date_gmt: '2009-10-24 18:29:54 -0400'
   content: "[...] super group needs an eccentric data miner concerned primarily with
@@ -40,7 +40,7 @@ comments:
 - id: 1703
   author: Open = Freedom
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/11/16/open-freedom/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/11/16/open-freedom/
   date: '2009-11-16 07:36:02 -0500'
   date_gmt: '2009-11-16 14:36:02 -0500'
   content: "[...] Wouldn&#8217;t it be wonderful if our imaginations could change

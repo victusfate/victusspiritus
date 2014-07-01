@@ -99,7 +99,7 @@ comments:
 
     For example...http://portal.eqentia.com/contentmarketing
 ---
-<h2><a href="http://scobleizer.com/2010/04/11/is-2011-like-1994-for-apple-twitter-facebook-and-the-web/"><img class="aligncenter size-full wp-image-3602" title="RobertnVader" src="http://www.victusspiritus.com/wp-content/uploads/2010/04/RobertnVader.jpg" alt="" width="500" height="333" /></a></h2>
+<h2><a href="http://scobleizer.com/2010/04/11/is-2011-like-1994-for-apple-twitter-facebook-and-the-web/"><img class="aligncenter size-full wp-image-3602" title="RobertnVader" src="{{ site.url }}/assets/2010/04/RobertnVader.jpg" alt="" width="500" height="333" /></a></h2>
 <p style="text-align: center;"><span style="font-weight: normal;"><em>Vader and Robert Scoble Hanging at Industrial Light and Magic</em></span></p>
 <h2>The Gravity of Social Topics</h2>
 <p>Like many "new bloggers"* I receive a majority of visitors from social web locations. Social sharing sites like Twitter, HackerNews, and comments^ are my dominant referral sites, comprising a large fraction of this blogs monthly traffic. What this means is that 80-90% of readers here are familiar with social media and feel comfortable sharing these posts with their friends and commenting (engagement/resonance). This causes social web topics to dominate in page views and virality (retweets, likes) not just for Victus Spiritus, but for many new bloggers. Social web users (the social web is read/write) are self selecting content that falls into known categories and grooves that are familiar. </p>

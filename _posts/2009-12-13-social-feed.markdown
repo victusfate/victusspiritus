@@ -18,7 +18,7 @@ comments:
 - id: 6268
   author: Dead on Arrival Startup Products &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/10/04/dead-on-arrival-startup-products/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/10/04/dead-on-arrival-startup-products/
   date: '2010-10-04 06:05:08 -0400'
   date_gmt: '2010-10-04 13:05:08 -0400'
   content: "[...] Please join me on my journey.    HomeAboutVictus Mediainfluencers

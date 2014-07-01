@@ -30,7 +30,7 @@ comments:
 - id: 276
   author: How to Web Market and Use Social Media
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/04/24/how-to-web-market-and-use-social-media/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/04/24/how-to-web-market-and-use-social-media/
   date: '2009-07-28 11:50:51 -0400'
   date_gmt: '2009-07-28 18:50:51 -0400'
   content: "[...] Social Media Is the Meeting Point of the Viral Spread of Ideas With
@@ -40,7 +40,7 @@ comments:
 - id: 2881
   author: Imagine Our Mind Without Bounds &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/05/28/imagine-our-mind-without-bounds/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/05/28/imagine-our-mind-without-bounds/
   date: '2010-02-06 14:18:38 -0500'
   date_gmt: '2010-02-06 21:18:38 -0500'
   content: "[...] Can minds share the same infrastructure and coexist?  Imagine the

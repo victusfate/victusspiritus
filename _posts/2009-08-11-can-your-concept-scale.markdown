@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<h2><a href=\"http://rst.gsfc.nasa.gov/Sect16/Sect16_1.html\"><img class=\"aligncenter
-  size-full wp-image-1324\" title=\"full-20earth2\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/08/full-20earth2.jpg\"
+  size-full wp-image-1324\" title=\"full-20earth2\" src=\"{{ site.url }}/assets/2009/08/full-20earth2.jpg\"
   alt=\"full-20earth2\" width=\"310\" height=\"310\" /></a></h2>\r\n<h2>Numerous Advantages
   of Concepts that Scale</h2>\r\nBeyond the decrease in cost associated with mass
   production, there is measurable advantage to having massive revenue. Even a small
@@ -34,7 +34,7 @@ comments:
 - id: 767
   author: Excellent Content Still Requires a Pretty Package
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/08/27/excellent-content-still-requires-a-pretty-package/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/08/27/excellent-content-still-requires-a-pretty-package/
   date: '2009-08-27 04:00:49 -0400'
   date_gmt: '2009-08-27 11:00:49 -0400'
   content: "[...] product or service is 10 times better than the competition, but
@@ -42,20 +42,20 @@ comments:
 - id: 782
   author: Gateways to User Creativity
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/08/29/gateways-to-user-creativity/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/08/29/gateways-to-user-creativity/
   date: '2009-08-29 05:04:46 -0400'
   date_gmt: '2009-08-29 12:04:46 -0400'
   content: "[...] by a shared application programming interfaces (API). If the underlying
     platform is simple, scalable, with an elegant front end the technology is more
     probable of gaining adoption by users, as well [...]"
 ---
-<h2><a href="http://rst.gsfc.nasa.gov/Sect16/Sect16_1.html"><img class="aligncenter size-full wp-image-1324" title="full-20earth2" src="http://www.victusspiritus.com/wp-content/uploads/2009/08/full-20earth2.jpg" alt="full-20earth2" width="310" height="310" /></a></h2>
+<h2><a href="http://rst.gsfc.nasa.gov/Sect16/Sect16_1.html"><img class="aligncenter size-full wp-image-1324" title="full-20earth2" src="{{ site.url }}/assets/2009/08/full-20earth2.jpg" alt="full-20earth2" width="310" height="310" /></a></h2>
 <h2>Numerous Advantages of Concepts that Scale</h2>
 <p>Beyond the decrease in cost associated with mass production, there is measurable advantage to having massive revenue. Even a small increase in efficiency can increase profits by a large margin. Having thousands or millions of customers requires a different approach when minimizing customer dissatisfaction (or maximizing customer satisfaction). Beyond the guessing game of new product offerings, with massive user bases, wide data sets can be collected to understand how and why users prefer your products or services (offering). Localized demand may be low, but global demand could be enormous for our offering.<a id="more"></a><a id="more-1323"></a></p>
 <h2>Obvious Requirements</h2>
 <p>Is there demand for your offering?</p>
 <p style="padding-left: 30px;">The required demand to sustain a product or service is not only dependent on the size of the user base, but on the value measured by each member. If your offering provides great value to asset fund investors or governments, you likely may only need at most a handful of customers to support a healthy revenue.</p>
-<p style="padding-left: 30px;">For lower cost and value offerings necessary scale may be measured in the thousands or millions. Electronic books have a low cost per copy (<a href="http://www.victusspiritus.com/2009/05/29/my-first-ebook/">some are free</a>), but when many millions of copies are sold your business can generate sustainable revenue.</p>
+<p style="padding-left: 30px;">For lower cost and value offerings necessary scale may be measured in the thousands or millions. Electronic books have a low cost per copy (<a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/05/29/my-first-ebook/">some are free</a>), but when many millions of copies are sold your business can generate sustainable revenue.</p>
 <p>Is the demand for your offering sustainable?</p>
 <p style="padding-left: 30px;">Will there only be a fixed event for the sale and distribution of your offering, or will there be recurring sales? Services can usually be provided on an as needed recurring basis. Some products are "built to last" and require limited replacement over time. A preferred offering requires the business to research and innovate more valued replacements (computers, Internet connectivity, communication/social media systems) instead of relying on short product lifespans (cars, tires) to drive replenishment needs.</p>
 <p>Is your offering reproducible?</p>

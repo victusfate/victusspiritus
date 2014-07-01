@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 4388
-wordpress_url: http://www.victusspiritus.com/2010/07/02/patent-taxing-startups-is-like-child-labor/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/07/02/patent-taxing-startups-is-like-child-labor/
 date: '2010-07-02 04:31:02 -0400'
 date_gmt: '2010-07-02 11:31:02 -0400'
 categories:

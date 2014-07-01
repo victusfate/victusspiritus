@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2890
-wordpress_url: http://www.victusspiritus.com/2010/01/26/scotty-macgyver-doctor-who-are-hackers/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/01/26/scotty-macgyver-doctor-who-are-hackers/
 date: '2010-01-26 06:36:58 -0500'
 date_gmt: '2010-01-26 13:36:58 -0500'
 categories:
@@ -47,7 +47,7 @@ comments:
 - id: 7346
   author: BigCo vs Pre IPO Gangbuster &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/10/31/bigco-vs-pre-ipo-gangbuster/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/10/31/bigco-vs-pre-ipo-gangbuster/
   date: '2010-10-31 01:40:01 -0400'
   date_gmt: '2010-10-31 08:40:01 -0400'
   content: "[...] Then if they don&#8217;t laugh too hard we pitch the prototype to
@@ -56,7 +56,7 @@ comments:
 - id: 10159
   author: When writing engineering software be like Scotty &mdash; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/06/16/when-writing-engineering-software-be-like-scotty/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/06/16/when-writing-engineering-software-be-like-scotty/
   date: '2011-06-16 18:30:49 -0400'
   date_gmt: '2011-06-17 01:30:49 -0400'
   content: "[...] Another tip of the hat to one of my favorite hacker archetypes.

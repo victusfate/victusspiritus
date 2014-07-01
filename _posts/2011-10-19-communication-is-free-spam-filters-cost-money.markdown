@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 9891
-wordpress_url: http://www.victusspiritus.com/2011/10/19/communication-is-free-spam-filters-cost-money/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/10/19/communication-is-free-spam-filters-cost-money/
 date: '2011-10-19 05:14:49 -0400'
 date_gmt: '2011-10-19 12:14:49 -0400'
 categories:

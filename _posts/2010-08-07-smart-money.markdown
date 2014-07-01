@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 4820
-wordpress_url: http://www.victusspiritus.com/2010/08/07/smart-money/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/08/07/smart-money/
 date: '2010-08-07 07:20:14 -0400'
 date_gmt: '2010-08-07 14:20:14 -0400'
 categories:
@@ -32,7 +32,7 @@ comments:
   date_gmt: '2011-05-14 12:59:00 -0400'
   content: I want to have such room (such on the picture) in my flat!!! 
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/05/Cash.png"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/05/Cash.png" alt="" title="Cash" /></a></p>
+<p><a href="{{ site.url }}/assets/2010/05/Cash.png"><img src="{{ site.url }}/assets/2010/05/Cash.png" alt="" title="Cash" /></a></p>
 <h2>Money is Dumb Social Currency, We can do Better</h2>
 <ul>
 <li>Money doesn't remember where it's been</li>

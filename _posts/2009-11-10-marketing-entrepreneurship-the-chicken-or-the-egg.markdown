@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2160
-wordpress_url: http://www.victusspiritus.com/2009/11/10/marketing-entrepreneurship-the-chicken-or-the-egg/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/11/10/marketing-entrepreneurship-the-chicken-or-the-egg/
 date: '2009-11-10 04:27:04 -0500'
 date_gmt: '2009-11-10 11:27:04 -0500'
 categories:

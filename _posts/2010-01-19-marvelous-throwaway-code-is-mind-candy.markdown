@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2781
-wordpress_url: http://www.victusspiritus.com/2010/01/19/marvelous-throwaway-code-is-mind-candy/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/01/19/marvelous-throwaway-code-is-mind-candy/
 date: '2010-01-19 05:28:31 -0500'
 date_gmt: '2010-01-19 12:28:31 -0500'
 categories:
@@ -22,7 +22,7 @@ comments:
 - id: 4705
   author: Balancing Bricks and Balloons | Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/07/06/balancing-bricks-and-balloons/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/07/06/balancing-bricks-and-balloons/
   date: '2010-07-06 06:04:09 -0400'
   date_gmt: '2010-07-06 13:04:09 -0400'
   content: "[...] building blocks used to construct all manner of dwellings. But in
@@ -32,7 +32,7 @@ comments:
 - id: 8948
   author: Built to Last &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/02/14/built-to-last/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/02/14/built-to-last/
   date: '2011-02-14 05:38:08 -0500'
   date_gmt: '2011-02-14 12:38:08 -0500'
   content: "[...] pottery clay is still soft, concrete has yet to set, and experimental

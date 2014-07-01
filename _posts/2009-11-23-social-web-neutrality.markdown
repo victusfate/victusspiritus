@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2329
-wordpress_url: http://www.victusspiritus.com/2009/11/23/social-web-neutrality/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/11/23/social-web-neutrality/
 date: '2009-11-23 04:40:25 -0500'
 date_gmt: '2009-11-23 11:40:25 -0500'
 categories:
@@ -292,7 +292,7 @@ comments:
 - id: 8944
   author: Startup Strategies that Survive, Prosper, and Win &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/02/12/startup-strategies-that-survive-prosper-and-win/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/02/12/startup-strategies-that-survive-prosper-and-win/
   date: '2011-02-13 04:09:51 -0500'
   date_gmt: '2011-02-13 11:09:51 -0500'
   content: "[...] Social Web Neutrality [...]"
@@ -309,7 +309,7 @@ comments:
 <p>Since the spot light is on net neutrality and potential government regulation, I considered the analogous developing social web. I suspect my friend and facebook guru <a HREF="http://staynalive.com/">Jesse Stay</a> may not agree. My premise, If I introduced two people, I don't own that relationship, so why should a social site? </p>
 <h2>It Begins With Net Neutrality</h2>
 <p>The Internet and Web are founded on open architectures. As long as your data satisfies the protocol any linked systems can access your data. </p>
-<p>The connectivity of the Internet has evolved in stages. Early phone lines of varying bandwidth were followed by cable and wireless providers. We've taken our net connections from work, school, home, and now mobile. (<a HREF="http://www.victusspiritus.com/2009/07/14/peer-to-peer-parallel-networking-for-your-iphone/">here's some collected background info on protocols</a>).  </p>
+<p>The connectivity of the Internet has evolved in stages. Early phone lines of varying bandwidth were followed by cable and wireless providers. We've taken our net connections from work, school, home, and now mobile. (<a HREF="http://victusfate.github.io/victusspiritus/uncategorized/2009/07/14/peer-to-peer-parallel-networking-for-your-iphone/">here's some collected background info on protocols</a>).  </p>
 <p>The strength of the net is that judgement of data is withheld. I'm free to create and share any data or software I wish as long as I follow the protocol, and respect media ownership (this is a changing ruleset). Ideally, the businesses and governments which provide the pipes are NOT supposed to regulate the data that goes through the network. But a conflict of interest has risen for many large teleco providers as well as nearly all nations (who wish to restrict access) who block or artificially limit access. I suspect a similar conflict is happening within large social sites.</p>
 <p>Ultimately new net based business, and business growth is fueled by access to wider bandwidth. This paid for access will have no constraints on how businesses and individuals use their access. This is the holy grail of dumb pipes (they don't control what goes through the netwok).</p>
 <h2>The Rise of Social Media</h2>

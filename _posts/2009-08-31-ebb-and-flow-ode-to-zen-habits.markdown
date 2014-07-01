@@ -20,7 +20,7 @@ comments:
 - id: 1562
   author: The Danger of Working with Machines Nonstop
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/11/07/the-danger-of-working-with-machines-nonstop/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/11/07/the-danger-of-working-with-machines-nonstop/
   date: '2009-11-07 05:44:45 -0500'
   date_gmt: '2009-11-07 12:44:45 -0500'
   content: "[...] our most meaningful efforts are realized by aligning our work with
@@ -29,7 +29,7 @@ comments:
 - id: 1902
   author: Fight for Control of Your Schedule
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/11/30/fight-for-control-of-your-schedule/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/11/30/fight-for-control-of-your-schedule/
   date: '2009-11-30 05:59:39 -0500'
   date_gmt: '2009-11-30 12:59:39 -0500'
   content: "[...] activities, is the secret to always keeping one&#8217;s mind fresh
@@ -49,7 +49,7 @@ comments:
 - id: 4758
   author: take a moment to clear your mind | Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/07/11/take-a-moment-to-clear-your-mind/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/07/11/take-a-moment-to-clear-your-mind/
   date: '2010-07-12 07:55:48 -0400'
   date_gmt: '2010-07-12 14:55:48 -0400'
   content: "[...] discover a type of work you love, you can&#8217;t imagine not doing

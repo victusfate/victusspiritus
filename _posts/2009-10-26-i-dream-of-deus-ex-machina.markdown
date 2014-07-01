@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 1998
-wordpress_url: http://www.victusspiritus.com/2009/10/26/i-dream-of-deus-ex-machina/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/10/26/i-dream-of-deus-ex-machina/
 date: '2009-10-26 03:29:18 -0400'
 date_gmt: '2009-10-26 10:29:18 -0400'
 categories:
@@ -24,7 +24,7 @@ comments:
 - id: 9651
   author: The Sanctity of Sleep &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/03/25/the-sanctity-of-sleep/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/03/25/the-sanctity-of-sleep/
   date: '2011-03-25 05:18:18 -0400'
   date_gmt: '2011-03-25 12:18:18 -0400'
   content: "[...] Dream of Deus ex Machina [...]"

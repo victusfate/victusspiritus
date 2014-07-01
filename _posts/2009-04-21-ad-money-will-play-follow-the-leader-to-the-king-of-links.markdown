@@ -54,7 +54,7 @@ comments:
 - id: 118
   author: Monetization for Web2010
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/06/21/monetization-for-web2010/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/06/21/monetization-for-web2010/
   date: '2009-06-21 06:15:55 -0400'
   date_gmt: '2009-06-21 13:15:55 -0400'
   content: "[...] A series of comments and replies lead to this early idea of mine:

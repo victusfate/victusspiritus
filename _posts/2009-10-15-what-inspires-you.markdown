@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<h1><img class=\"aligncenter size-full wp-image-1851\" title=\"09 011\"
-  src=\"http://www.victusspiritus.com/wp-content/uploads/2009/10/09-011.JPG\" alt=\"09
+  src=\"{{ site.url }}/assets/2009/10/09-011.JPG\" alt=\"09
   011\" width=\"480\" height=\"370\" /></h1>\r\n<h1>Inspiration is the Foundation
   for Greatness</h1>\r\nSometimes we are forced to action. Other times we choose to
   act out of self interest or perceived benefit. But it is rare for us to take action
@@ -90,7 +90,7 @@ comments:
     moving towards the bigger goals I choose in life. Inspiring others is ultimately
     most valuable to me.'
 ---
-<h1><img class="aligncenter size-full wp-image-1851" title="09 011" src="http://www.victusspiritus.com/wp-content/uploads/2009/10/09-011.JPG" alt="09 011" width="480" height="370" /></h1>
+<h1><img class="aligncenter size-full wp-image-1851" title="09 011" src="{{ site.url }}/assets/2009/10/09-011.JPG" alt="09 011" width="480" height="370" /></h1>
 <h1>Inspiration is the Foundation for Greatness</h1>
 <p>Sometimes we are forced to action. Other times we choose to act out of self interest or perceived benefit. But it is rare for us to take action that is truly inspired. When acting  with an inspired will, we are deliberate, conscious and fully aware of our lives. When inspired, we can overcome our own self imposed limits, and become greater than our self doubts. Simply witnessing a truly inspired person can have a dramatic cascading effect. Positive energy that emanates from an inspirational leader, kindles the spirits of those in close proximity. A harmony of emotional states becomes attuned to a single driving vision.</p>
 <p>A loose analogy can be made between the flow state of inspired working, and a hot streak in athletic activities. When I'm in the zone in racquetball every motion, swing and position sprint feels right. I'm not a strong player by any means, but my ability and movements flow much better at certain times. In these moments, I get the sense that my abilities are near their peak. It can be quite intoxicating to experience such a comfortable and easy rhythm of play. Thanks to my friend Tony for getting me to rediscover racquetball a few years back, it's great exercise and a lot of fun to play.</p>
@@ -102,7 +102,7 @@ comments:
 <p>I recently added a pluggin called wavr that has allowed me to embed a Google Wave, What Inspires You?<br />
 (Thanks to Lucas Caro developer of <a href="http://wordpress.org/extend/plugins/wavr/">wavr</a> for wordpress) and Ian Norris for helping identify the google wave ID.<br />
 [wave id="googlewave.com!w+ZZjLgImEA" ]</p>
-<p>As a reference check out <a href="http://www.victusspiritus.com/2009/10/15/how-to-embed-google-wave-on-your-wordpress-blog/">How to Embed Google Wave on Your Wordpress Blog</a></p>
+<p>As a reference check out <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/10/15/how-to-embed-google-wave-on-your-wordpress-blog/">How to Embed Google Wave on Your Wordpress Blog</a></p>
 <p><span style="background-color: #ffffff; "><br />
 </span></p>
 <h6 class="zemanta-related-title" style="font-size: 1em;">Related articles by Zemanta</h6>

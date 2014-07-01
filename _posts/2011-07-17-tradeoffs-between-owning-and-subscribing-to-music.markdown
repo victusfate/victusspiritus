@@ -49,7 +49,7 @@ comments:
 <ol>
 <li>There are lingering access rights issues for US accounts<br />
 Another recent subscriber <a href="https://plus.google.com/102261077460248688577/posts/hEgPB8VzMFx?hl=en">James Fuller</a> had issues getting access to songs that Louis shared out.<br />
-<a href="http://www.victusspiritus.com/wp-content/uploads/2011/07/sad-lg.png"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/07/sad-lg.png" alt="" title="sad-lg" width="512" height="502" class="aligncenter size-full wp-image-9715" /></a>
+<a href="{{ site.url }}/assets/2011/07/sad-lg.png"><img src="{{ site.url }}/assets/2011/07/sad-lg.png" alt="" title="sad-lg" width="512" height="502" class="aligncenter size-full wp-image-9715" /></a>
 </li>
 <li>If you like being social with your music tastes, subscription only works if you and your friends all have access to the same collection. If I'm on Spotify and you're on Rhapsody we may not be able to exchange our favorite tracks.</li>
 <li>The price point of $10/month for add free listening is much higher than my Pandora subscription $3/month. I'm quite happy with Pandora but it doesn't have a play offline mode. Is it worth $7/month to be able to cache songs that I still don't own?</li>

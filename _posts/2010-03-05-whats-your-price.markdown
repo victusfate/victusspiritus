@@ -20,7 +20,7 @@ tags:
 comments: []
 ---
 <h2>The Darker Side</h2>
-<p>Careful this is a loaded question. As soon as you lock into a value (and it's going to be less than you'd like unless you <a HREF="http://www.victusspiritus.com/2009/02/23/marketing-your-time/">masterfully market your time</a>), you will be pushed by those that pay your price to do things that are outside of your passion/interest space. This is a great case for setting boundaries of what you're willing to work on, and managing expectations. As a business you set prices that enable you to compete efficiently on the features you and your customers value most. Both businesses and individual workers create a wide range of value with their efforts, and it's best that price is free to fluctuate with value added (can be tricky to measure). </p>
+<p>Careful this is a loaded question. As soon as you lock into a value (and it's going to be less than you'd like unless you <a HREF="http://victusfate.github.io/victusspiritus/uncategorized/2009/02/23/marketing-your-time/">masterfully market your time</a>), you will be pushed by those that pay your price to do things that are outside of your passion/interest space. This is a great case for setting boundaries of what you're willing to work on, and managing expectations. As a business you set prices that enable you to compete efficiently on the features you and your customers value most. Both businesses and individual workers create a wide range of value with their efforts, and it's best that price is free to fluctuate with value added (can be tricky to measure). </p>
 <p>Ultimately other people will meet your price:</p>
 <ul>
 <li>If as a worker: Payees believe they can generate/save more wealth from your abilities than they pay you</li>

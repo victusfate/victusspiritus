@@ -256,7 +256,7 @@ comments:
     are well insulated from reality that affects the rest of us who are the ones actually
     paying their salaries and bonuses.'
 ---
-<p><a href="http://truthseekerscast.ning.com/photo?page=3"><img class="alignnone size-full" src="http://www.victusspiritus.com/wp-content/uploads/2010/06/l_400_396_F0F7B87D-D460-4C14-A978-A60286CA0C04.jpeg" alt="" /></a></p>
+<p><a href="http://truthseekerscast.ning.com/photo?page=3"><img class="alignnone size-full" src="{{ site.url }}/assets/2010/06/l_400_396_F0F7B87D-D460-4C14-A978-A60286CA0C04.jpeg" alt="" /></a></p>
 <h2>Finance terminology sails over my head</h2>
 <p>I was left a little bewildered by what exactly was going on in <em>Big Banking</em> after reading an <a href="http://www.forbes.com/2010/06/03/goldman-sachs-citigroup-markets-lenzner-morgan-stanley_print.html">article from Forbes </a> yesterday (via <a href="http://news.ycombinator.com/">Hacker News</a>). Here's the article introduction, it's worth reading in full but is much clearer to non-finance folks after reading the explanation in the second half of this post.</p>
 <blockquote><p>Focus hard on this shocking Wall Street reality: The top six bank holding companies earned an aggregate of $51 billion in pretax income in 2009. We're talking about JPMorgan Chase, Goldman Sachs, Bank of America, Morgan Stanley, Citigroup and Wells Fargo.</p>

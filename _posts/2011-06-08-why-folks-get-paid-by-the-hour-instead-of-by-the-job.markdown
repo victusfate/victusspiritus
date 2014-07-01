@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 9179
-wordpress_url: http://www.victusspiritus.com/2011/06/08/why-folks-get-paid-by-the-hour-instead-of-by-the-job/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/06/08/why-folks-get-paid-by-the-hour-instead-of-by-the-job/
 date: '2011-06-08 06:03:44 -0400'
 date_gmt: '2011-06-08 13:03:44 -0400'
 categories:
@@ -56,7 +56,7 @@ comments:
 
     :)
 ---
-<p>A year back I had a good time reviewing the <a href="http://www.victusspiritus.com/2010/05/02/where-are-you-on-the-financial-food-chain/">financial food chain</a> and how it may affect one's value system. In that riff I covered a broad range of income levels from minimum wage all the way up to Warren Buffet+ money. This morning I'll explore why hourly pay dominates the job market, and review perceived limitations which shape today's earnings structures.</p>
+<p>A year back I had a good time reviewing the <a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/05/02/where-are-you-on-the-financial-food-chain/">financial food chain</a> and how it may affect one's value system. In that riff I covered a broad range of income levels from minimum wage all the way up to Warren Buffet+ money. This morning I'll explore why hourly pay dominates the job market, and review perceived limitations which shape today's earnings structures.</p>
 <p>The macro trend is that service based businesses gravitate towards hourly pay (outside of sales), while product businesses allow for earnings based on other statistics, like number of products shipped, while penalizing defects or returns.</p>
 <p>Let's start off with reasons why paying by the hour is a gold standard in the majority of todays businesses:</p>
 <blockquote>

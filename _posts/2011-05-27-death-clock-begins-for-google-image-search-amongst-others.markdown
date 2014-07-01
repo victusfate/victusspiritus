@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 9071
-wordpress_url: http://www.victusspiritus.com/2011/05/27/death-clock-begins-for-google-image-search-amongst-others/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/05/27/death-clock-begins-for-google-image-search-amongst-others/
 date: '2011-05-27 04:05:42 -0400'
 date_gmt: '2011-05-27 11:05:42 -0400'
 categories:

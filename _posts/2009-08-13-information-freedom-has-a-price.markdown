@@ -8,9 +8,9 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<a href=\"http://www.flickr.com/photos/roblee/\"><img class=\"aligncenter
-  size-full wp-image-1340\" title=\"DollarShirt\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/08/DollarShirt.jpg\"
+  size-full wp-image-1340\" title=\"DollarShirt\" src=\"{{ site.url }}/assets/2009/08/DollarShirt.jpg\"
   alt=\"DollarShirt\" width=\"480\" height=\"330\" /></a>\r\n<h2>Measured Results
-  for Businesses</h2>\r\nThis is a followup to an earlier post <a href=\"http://www.victusspiritus.com/2009/08/08/ignore-the-stats-connect-with-your-authentic-audience/\">ignore
+  for Businesses</h2>\r\nThis is a followup to an earlier post <a href=\"http://victusfate.github.io/victusspiritus/uncategorized/2009/08/08/ignore-the-stats-connect-with-your-authentic-audience/\">ignore
   the stats and connect with you authentic audience</a>. I still stand by that advice
   when it comes to building a community. A tight idealogical focus is a powerful glue
   for any fledgling group. But I accept that in the case of measuring the effect of
@@ -83,9 +83,9 @@ comments:
   content: I understand how it is. The daily grind is exhausting. I like the post
     overall - the attention concepts are very interesting.
 ---
-<p><a href="http://www.flickr.com/photos/roblee/"><img class="aligncenter size-full wp-image-1340" title="DollarShirt" src="http://www.victusspiritus.com/wp-content/uploads/2009/08/DollarShirt.jpg" alt="DollarShirt" width="480" height="330" /></a></p>
+<p><a href="http://www.flickr.com/photos/roblee/"><img class="aligncenter size-full wp-image-1340" title="DollarShirt" src="{{ site.url }}/assets/2009/08/DollarShirt.jpg" alt="DollarShirt" width="480" height="330" /></a></p>
 <h2>Measured Results for Businesses</h2>
-<p>This is a followup to an earlier post <a href="http://www.victusspiritus.com/2009/08/08/ignore-the-stats-connect-with-your-authentic-audience/">ignore the stats and connect with you authentic audience</a>. I still stand by that advice when it comes to building a community. A tight idealogical focus is a powerful glue for any fledgling group. But I accept that in the case of measuring the effect of personal engagement and social influence, long term measured trends (stats) reveal the results PR/marketing experts hang their hats on. It is also this information which allows the monetization of attention span either through direct product sales, affiliate sales, or advertising.<a id="more"></a><a id="more-1339"></a></p>
+<p>This is a followup to an earlier post <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/08/08/ignore-the-stats-connect-with-your-authentic-audience/">ignore the stats and connect with you authentic audience</a>. I still stand by that advice when it comes to building a community. A tight idealogical focus is a powerful glue for any fledgling group. But I accept that in the case of measuring the effect of personal engagement and social influence, long term measured trends (stats) reveal the results PR/marketing experts hang their hats on. It is also this information which allows the monetization of attention span either through direct product sales, affiliate sales, or advertising.<a id="more"></a><a id="more-1339"></a></p>
 <p>Beyond our taxed attention spans, the freedom of information propagation has a cost. The network and software infrastructures need to be maintained. The good news, the information backbone has a an ever decreasing upkeep cost per bit.</p>
 <p>For business efficiency and success, the value we extract from information requires measurement and justification for resource allocation. While we can measure foot traffic in a store, or transactions digitally, how can we measure the efficacy of connectivity to potential and existing customers? How can we measure increased customer or user trust? I propose we can measure the true power of engagement by comparing split identical businesses over a long time period (years+).</p>
 <ol>

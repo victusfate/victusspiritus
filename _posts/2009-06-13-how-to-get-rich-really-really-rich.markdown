@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<div style=\"text-align: center;\"><a href=\"http://www.amazon.com/gp/product/1591842050?ie=UTF8&amp;tag=dream06-20&amp;link_code=as3&amp;camp=211189&amp;creative=373489&amp;creativeASIN=1591842050\"><img
-  class=\"size-full wp-image-594 aligncenter\" title=\"Howtogetrich\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/06/Howtogetrich.jpg\"
+  class=\"size-full wp-image-594 aligncenter\" title=\"Howtogetrich\" src=\"{{ site.url }}/assets/2009/06/Howtogetrich.jpg\"
   alt=\"Howtogetrich\" width=\"320\" height=\"484\" /></a></div>\r\n<h2>A Tip of the
   Hat to a Riveting Read</h2>\r\n<a href=\"http://www.amazon.com/gp/product/1591842050?ie=UTF8&amp;tag=dream06-20&amp;link_code=as3&amp;camp=211189&amp;creative=373489&amp;creativeASIN=1591842050\">How
   to Get Rich</a> from Maxim magazine mogul <a href=\"http://www.felixdennis.com/\">Felix
@@ -55,7 +55,7 @@ comments:
 - id: 843
   author: Sharing Stake for More than Cash
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/09/17/sharing-stake-for-more-than-cash/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/09/17/sharing-stake-for-more-than-cash/
   date: '2009-09-17 03:22:20 -0400'
   date_gmt: '2009-09-17 10:22:20 -0400'
   content: "[...] acts as a catalyst to the growth of startups. But there are downsides
@@ -83,7 +83,7 @@ comments:
     you like the concepts, you may enjoy my first free ebook. Look for 3 steps to
     satisfaction on this page. (right hand side under the building43 room)
 ---
-<div style="text-align: center;"><a href="http://www.amazon.com/gp/product/1591842050?ie=UTF8&amp;tag=dream06-20&amp;link_code=as3&amp;camp=211189&amp;creative=373489&amp;creativeASIN=1591842050"><img class="size-full wp-image-594 aligncenter" title="Howtogetrich" src="http://www.victusspiritus.com/wp-content/uploads/2009/06/Howtogetrich.jpg" alt="Howtogetrich" width="320" height="484" /></a></div>
+<div style="text-align: center;"><a href="http://www.amazon.com/gp/product/1591842050?ie=UTF8&amp;tag=dream06-20&amp;link_code=as3&amp;camp=211189&amp;creative=373489&amp;creativeASIN=1591842050"><img class="size-full wp-image-594 aligncenter" title="Howtogetrich" src="{{ site.url }}/assets/2009/06/Howtogetrich.jpg" alt="Howtogetrich" width="320" height="484" /></a></div>
 <h2>A Tip of the Hat to a Riveting Read</h2>
 <p><a href="http://www.amazon.com/gp/product/1591842050?ie=UTF8&amp;tag=dream06-20&amp;link_code=as3&amp;camp=211189&amp;creative=373489&amp;creativeASIN=1591842050">How to Get Rich</a> from Maxim magazine mogul <a href="http://www.felixdennis.com/">Felix Dennis</a>. Felix takes aspiring entrepreneurs for a jaunt through his diverse career in publishing. He freely shares his views on core values, the optimal environment, and the tenacious will necessary to crawl your way to the top. His message is not for those too entrenched within the comfort of a regular paycheck, in fact according to him the most likely group to overcome the numerous challenges to getting rich are barely out of their teens. Felix encourages this group by paying heed to their incredible endurance and limited responsibilties. Since they have little to lose they are in the perfect position to create a breakthrough business. For us older readers Mr. Dennis' best advice is to partner up with someone more youthful who has energy without bounds. Nothing would make me happier than proving that old goat wrong! I'm still a big fan of Felix though, his writing was infectious and rich.</p>
 <div><a id="more"></a><a id="more-503"></a></div>
@@ -92,9 +92,9 @@ comments:
 <h2>Ready to Get Rich?</h2>
 <p>Once you've steeled yourself against sacrifices, and are ready to make the plunge, where do you begin. First thing you'll want to know is that get rich quick schemes are all just that, schemes. There are very few fast and easy ways to make a lot of cash, and most of them will leave you penniless or in prison. Your best path to getting rich should share the following stages of evolution:</p>
 <ol>
-<li><a href="http://www.victusspiritus.com/2009/04/07/5-simple-steps-to-change-yourself-and-the-world/">Discover your calling</a>, your area of expertise and relentlessly push yourself to know everything there is about it</li>
-<li>Follow your own inner compass, <a href="http://www.victusspiritus.com/2009/02/28/be-faithful-to-yourself-be-genuine/">be genuine to your nature</a></li>
-<li><a href="http://www.victusspiritus.com/2009/02/23/marketing-your-time/">Market your time effectively</a>, <a href="http://www.victusspiritus.com/2009/06/12/maximize-the-value-of-your-time/">manage your productivity masterfully</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/04/07/5-simple-steps-to-change-yourself-and-the-world/">Discover your calling</a>, your area of expertise and relentlessly push yourself to know everything there is about it</li>
+<li>Follow your own inner compass, <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/02/28/be-faithful-to-yourself-be-genuine/">be genuine to your nature</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/02/23/marketing-your-time/">Market your time effectively</a>, <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/06/12/maximize-the-value-of-your-time/">manage your productivity masterfully</a></li>
 <li>Found your own business</li>
 <li>Rally others to your cause(s). It will be a lifelong skill that will serve you well. Trust those you delegate to.</li>
 <li>Focus on the goal. At each stage evaluate whethe it is more advantageous to go after cash or the gratitude of others (or both)?  What <a href="http://www.squidoo.com/SmokeAndMirrors">true value</a> are you seeking?</li>

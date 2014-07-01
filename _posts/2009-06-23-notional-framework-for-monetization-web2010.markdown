@@ -8,10 +8,10 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<p style=\"text-align: center;\"><img class=\"aligncenter size-full wp-image-857\"
-  title=\"Monetization_Framework\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/06/Monetization_Framework2.png\"
+  title=\"Monetization_Framework\" src=\"{{ site.url }}/assets/2009/06/Monetization_Framework2.png\"
   alt=\"Monetization_Framework\" width=\"480\" height=\"380\" /></p>\r\n\r\n<h2>Notional
   Framework Breaks the Problem Up</h2>\r\nThis framework is an extension of the ideas
-  presented in <a href=\"http://www.victusspiritus.com/2009/06/21/monetization-for-web2010/\">Monetization
+  presented in <a href=\"http://victusfate.github.io/victusspiritus/uncategorized/2009/06/21/monetization-for-web2010/\">Monetization
   for Web2010</a>.\r\n\r\nSocial media provides the \"real estate\" for communications
   to happen. Whether social media is decentralized (ostatus, P2), or integrated by
   API and more centralized (twitter, facebook) the conversations are happening because
@@ -34,7 +34,7 @@ comments:
 - id: 139
   author: Monetization for Web2010
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/06/21/monetization-for-web2010/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/06/21/monetization-for-web2010/
   date: '2009-06-23 03:59:54 -0400'
   date_gmt: '2009-06-23 10:59:54 -0400'
   content: "[...] This concept has been extended to a Notional Framework for Monetization
@@ -274,7 +274,7 @@ comments:
 - id: 191
   author: 'Human Condition: Flow is Action &amp; Experiencing'
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/07/03/human-condition-flow-is-action-experiencing/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/07/03/human-condition-flow-is-action-experiencing/
   date: '2009-07-03 11:52:54 -0400'
   date_gmt: '2009-07-03 18:52:54 -0400'
   content: "[...] I decided to &#8220;practice what I preach&#8221; and begin implementing
@@ -347,7 +347,7 @@ comments:
 - id: 1265
   author: Twitter Powered Contextual Advertising is Live for Any Bloggers/Web Hosts
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/10/19/twitter-powered-contextual-advertising-is-live-for-any-bloggersweb-hosts/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/10/19/twitter-powered-contextual-advertising-is-live-for-any-bloggersweb-hosts/
   date: '2009-10-19 22:55:57 -0400'
   date_gmt: '2009-10-20 05:55:57 -0400'
   content: "[...] To see the history of this project check Monetization Web 2010.
@@ -543,16 +543,16 @@ comments:
 - id: 7821
   author: I shit you not, it&#8217;s December 2010 &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/12/13/i-shit-you-not-its-december-2010/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/12/13/i-shit-you-not-its-december-2010/
   date: '2010-12-13 06:37:19 -0500'
   date_gmt: '2010-12-13 13:37:19 -0500'
   content: "[...] a couple of days later I put together a notional framework with
     the help of friends, and began digging in to a metric crapton of web dev languages
     to figure [...]"
 ---
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-857" title="Monetization_Framework" src="http://www.victusspiritus.com/wp-content/uploads/2009/06/Monetization_Framework2.png" alt="Monetization_Framework" width="480" height="380" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-857" title="Monetization_Framework" src="{{ site.url }}/assets/2009/06/Monetization_Framework2.png" alt="Monetization_Framework" width="480" height="380" /></p>
 <h2>Notional Framework Breaks the Problem Up</h2>
-<p>This framework is an extension of the ideas presented in <a href="http://www.victusspiritus.com/2009/06/21/monetization-for-web2010/">Monetization for Web2010</a>.</p>
+<p>This framework is an extension of the ideas presented in <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/06/21/monetization-for-web2010/">Monetization for Web2010</a>.</p>
 <p>Social media provides the "real estate" for communications to happen. Whether social media is decentralized (ostatus, P2), or integrated by API and more centralized (twitter, facebook) the conversations are happening because people are connected. Without the backbone of social media this monetization would not be possible so they must be aportioned a piece of the revenue pie (20-30%?).<a id="more"></a><a id="more-843"></a></p>
 <p>Web hosters (bloggers, companies, individuals) can engage in conversations on their own sites while sharing windows into the social media world. Folks that host shared media on their site empower and evangelize the social media brand (as I do with friendfeed with window real estate and twitter by content). By hosting their own content and seemlessly integrating their favorite social media "hang outs" individuals shoud see a cut of ad revenue (40-50%?).</p>
 <p>Existing advertising networks (Google, Microsoft Ads etc.) have developed leading edge technology (algorithms) to match semantic meaning (meta data) from text to drive appropriate ads. In addition they provide a single stop for businesses to advertise to (business advertising aggregators). We can leverage their technology moving forward. (20-30%?).</p>

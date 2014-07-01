@@ -21,7 +21,7 @@ comments:
 - id: 9149
   author: Retrofitting the Web &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/03/07/retrofitting-the-web/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/03/07/retrofitting-the-web/
   date: '2011-03-07 06:28:39 -0500'
   date_gmt: '2011-03-07 13:28:39 -0500'
   content: "[...] HTML5 for Humans [...]"

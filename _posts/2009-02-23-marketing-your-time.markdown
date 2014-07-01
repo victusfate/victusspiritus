@@ -39,7 +39,7 @@ comments:
 - id: 94
   author: Maximize the Value of Your Time
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/06/12/maximize-the-value-of-your-time/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/06/12/maximize-the-value-of-your-time/
   date: '2009-06-12 02:35:04 -0400'
   date_gmt: '2009-06-12 09:35:04 -0400'
   content: "[...] We all have good days and bad days. There are times when we make
@@ -58,7 +58,7 @@ comments:
 - id: 100
   author: How to Get Rich, Really Really Rich
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/06/13/how-to-get-rich-really-really-rich/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/06/13/how-to-get-rich-really-really-rich/
   date: '2009-06-13 02:52:49 -0400'
   date_gmt: '2009-06-13 09:52:49 -0400'
   content: "[...] Market your time effectively, manage your productivity masterfully
@@ -66,7 +66,7 @@ comments:
 - id: 3189
   author: What&#8217;s your price? &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/03/05/whats-your-price/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/03/05/whats-your-price/
   date: '2010-03-05 06:34:14 -0500'
   date_gmt: '2010-03-05 13:34:14 -0500'
   content: "[...] As soon as you lock into a value (and it&#8217;s going to be less

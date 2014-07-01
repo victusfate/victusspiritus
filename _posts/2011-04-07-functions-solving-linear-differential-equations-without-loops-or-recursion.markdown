@@ -52,7 +52,7 @@ Recursion as fixed points</p>
 and:<br />
 f(2) = (2)<sup>2</sup> - 2 = 4 - 2 = 2<br />
 or by graphing y = x and y = f(x):</p>
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2011/04/20110407-085612.jpg"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/04/20110407-085612.jpg" alt="" title="20110407-085612.jpg" width="300" height="186" class="aligncenter size-full wp-image-8291" /></a></p>
+<p><a href="{{ site.url }}/assets/2011/04/20110407-085612.jpg"><img src="{{ site.url }}/assets/2011/04/20110407-085612.jpg" alt="" title="20110407-085612.jpg" width="300" height="186" class="aligncenter size-full wp-image-8291" /></a></p>
 <p>These are exactly the solutions to x = x<sup>2</sup> - 2 given by Wolfram Alpha.</p>
 <p>The insight that powers the upcoming technique is the observation that any time we have a recursive definition of the form “x = f(x),” the meaning of x is going to be defined in terms of fixed points. The trick is to find a way to obtain fixed points when the equation has the form “f = F(f),” in which the value of f is not a number, but an actual function. The Y combinator is that trick.</p>
 <p>The Y combinator in theory</p>

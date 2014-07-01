@@ -52,7 +52,7 @@ comments:
 - id: 4746
   author: take a moment to clear your mind | Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/07/11/take-a-moment-to-clear-your-mind/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/07/11/take-a-moment-to-clear-your-mind/
   date: '2010-07-11 05:31:17 -0400'
   date_gmt: '2010-07-11 12:31:17 -0400'
   content: "[...] ceaseless rhythm of life gives little time to consider breaking
@@ -79,7 +79,7 @@ comments:
 </em><br />
 How many of us live with an imagined stopwatch chasing us every moment? Do you?</p>
 <p>If you've ever wondered where the system of time pressure originated, you're not alone.  It's core is analogous to the concept of time management in digital design.  A slave clock is controlled by the master clock's signal.  It's a design concept for <a href="http://en.wikipedia.org/wiki/Slave_clock">synchronous systems</a>.  Subsystems are all passed a system clock.  Our society has evolved a similar efficient system for getting work done.  The key to understanding this integral social control is to recognize it as only one possible solution.<a id="more"></a><a id="more-27"></a></p>
-<p>The perceived pressure of tight deadlines dictated by project leaders can cause workers to cease up.  Instead of motivating a team to work additional hours with unrelenting focus, shortened deadlines can inspire the opposite effect.  They may utterly ruin any work flow accomplished, and undermine the long term effectiveness of a work group.  In spite of this, some of the most effective employees work well under pressure.  These exceptional few don't have the same <a href="http://www.victusspiritus.com/2009/04/12/stress-makes-programmers-dumber/">stress response</a> as most individuals.  Unreasonably tight deadlines are simply a byproduct of how the customer/business relationship is managed.  Program managers are constantly at odds with providing customer value, and helping staff understand what needs to be accomplished.  Although most of us respond negatively to unforeseen time constraints, there's still a need for a shared clock.</p>
+<p>The perceived pressure of tight deadlines dictated by project leaders can cause workers to cease up.  Instead of motivating a team to work additional hours with unrelenting focus, shortened deadlines can inspire the opposite effect.  They may utterly ruin any work flow accomplished, and undermine the long term effectiveness of a work group.  In spite of this, some of the most effective employees work well under pressure.  These exceptional few don't have the same <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/04/12/stress-makes-programmers-dumber/">stress response</a> as most individuals.  Unreasonably tight deadlines are simply a byproduct of how the customer/business relationship is managed.  Program managers are constantly at odds with providing customer value, and helping staff understand what needs to be accomplished.  Although most of us respond negatively to unforeseen time constraints, there's still a need for a shared clock.</p>
 <p>Why do we need Deadlines and shared clocks?</p>
 <ul>
 <li>Deadlines and shared clocks can be used to force decisions and actions.  This is<br />

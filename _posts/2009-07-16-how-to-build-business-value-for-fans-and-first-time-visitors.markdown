@@ -16,7 +16,7 @@ excerpt: "<object classid=\"clsid:d27cdb6e-ae6d-11cf-96b8-444553540000\" width=\
   allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>\r\n<h2>What
   Percentage of Resources Should be Expended on Members vs. Outsiders?</h2>\r\nI'd
   say 95%/5% (for members vs. outsiders) of planned expenditures should be focused
-  on improving things for your members following my earlier stated <a href=\"http://www.victusspiritus.com/2009/06/08/top-4-core-business-priorities/\">top
+  on improving things for your members following my earlier stated <a href=\"http://victusfate.github.io/victusspiritus/uncategorized/2009/06/08/top-4-core-business-priorities/\">top
   4 business priorities</a>. Without <strong>Member Satisfaction</strong> you don't
   have a business, plain and simple. Your business will be based upon providing value
   to your members which include:"
@@ -35,7 +35,7 @@ comments:
 - id: 274
   author: Invest or Cash Out?
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/07/28/invest-or-cash-out/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/07/28/invest-or-cash-out/
   date: '2009-07-28 03:49:21 -0400'
   date_gmt: '2009-07-28 10:49:21 -0400'
   content: "[...] leveraging social media). The concepts to be worked will come from
@@ -44,13 +44,13 @@ comments:
 ---
 <p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="480" height="385" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/A3L5E0W8t84&amp;hl=en&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="480" height="385" src="http://www.youtube.com/v/A3L5E0W8t84&amp;hl=en&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
 <h2>What Percentage of Resources Should be Expended on Members vs. Outsiders?</h2>
-<p>I'd say 95%/5% (for members vs. outsiders) of planned expenditures should be focused on improving things for your members following my earlier stated <a href="http://www.victusspiritus.com/2009/06/08/top-4-core-business-priorities/">top 4 business priorities</a>. Without <strong>Member Satisfaction</strong> you don't have a business, plain and simple. Your business will be based upon providing value to your members which include:<a id="more"></a><a id="more-1085"></a></p>
+<p>I'd say 95%/5% (for members vs. outsiders) of planned expenditures should be focused on improving things for your members following my earlier stated <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/06/08/top-4-core-business-priorities/">top 4 business priorities</a>. Without <strong>Member Satisfaction</strong> you don't have a business, plain and simple. Your business will be based upon providing value to your members which include:<a id="more"></a><a id="more-1085"></a></p>
 <ul>
 <li>employees (they define the body of your business)</li>
 <li>best/super customers (make purchases and give friendly feedback)</li>
 <li>fans (they market your biz)</li>
 </ul>
-<p>Employees make everything happen, they should feel connected to the vision for your company while being in charge of responsibilities that best suit their passions and strengths. Don't forget <a href="http://www.victusspiritus.com/2009/06/01/the-importance-of-corporate-culture/">corporate culture</a> isn't something you invent after doing business for 5 years, it's something that is planned for from the very beginning and takes diligence to maintain (thanks to <a href="http://www.building43.com/videos/2009/06/10/the-zappos-core-value-isnt-just-about-twittering/">Zappos CEO Tony Hsieh, and Rackspace chairman Graham Weston</a> for teaching me this lesson via building43).</p>
+<p>Employees make everything happen, they should feel connected to the vision for your company while being in charge of responsibilities that best suit their passions and strengths. Don't forget <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/06/01/the-importance-of-corporate-culture/">corporate culture</a> isn't something you invent after doing business for 5 years, it's something that is planned for from the very beginning and takes diligence to maintain (thanks to <a href="http://www.building43.com/videos/2009/06/10/the-zappos-core-value-isnt-just-about-twittering/">Zappos CEO Tony Hsieh, and Rackspace chairman Graham Weston</a> for teaching me this lesson via building43).</p>
 <p>Why spend 5% of available resources on folks outside of the business? Your company doesn't exist in a vacuum. Take 5% of what you would normally funnel into creating member satisfaction/value and look to your members to find a needy source. Try and find folks doing the right thing in related areas and support them with manpower, resources, etc. The feeling of community and leadership provided by your company will not soon be forgotten.</p>
 <p>Some background for this post:</p>
 <p>Fred Wilson has spent some time discussing this issue on his blog.</p>

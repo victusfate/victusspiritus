@@ -42,7 +42,7 @@ comments:
 - id: 5997
   author: Reckless Photo CouchDB App in 60 seconds | Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/09/19/reckless-photo-couchdb-app-in-60-seconds/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/09/19/reckless-photo-couchdb-app-in-60-seconds/
   date: '2010-09-19 12:20:02 -0400'
   date_gmt: '2010-09-19 19:20:02 -0400'
   content: "[...] Reckless Photo CouchDB App in 60 seconds  Posted on September 19,
@@ -51,7 +51,7 @@ comments:
 - id: 6018
   author: State Propagation with Multiple Databases | Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/09/21/state-propagation-with-multiple-databases/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/09/21/state-propagation-with-multiple-databases/
   date: '2010-09-21 06:33:19 -0400'
   date_gmt: '2010-09-21 13:33:19 -0400'
   content: "[...] it? Go ahead and &#8220;fork it&#8221; by cloning it to your own
@@ -60,19 +60,19 @@ comments:
   author: Bare Canvas vs Complex Frameworks, a case review of couchapps &raquo; Victus
     Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/11/07/bare-canvas-vs-complex-frameworks-a-case-review-of-couchapps/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/11/07/bare-canvas-vs-complex-frameworks-a-case-review-of-couchapps/
   date: '2010-11-07 06:05:38 -0500'
   date_gmt: '2010-11-07 13:05:38 -0500'
   content: "[...] First Impressions of Sitting a Web App on CouchDB [...]"
 - id: 9444
   author: Brushing Up on Computer Science Part 3, Data Structures &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/03/16/brushing-up-on-computer-science-part-3-data-structures/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/03/16/brushing-up-on-computer-science-part-3-data-structures/
   date: '2011-03-16 05:02:31 -0400'
   date_gmt: '2011-03-16 12:02:31 -0400'
   content: "[...] Study: CouchDB BTree [...]"
 ---
-<p><a href="http://couchdb.apache.org/"><img class="aligncenter size-full wp-image-4996" title="relax" src="http://www.victusspiritus.com/wp-content/uploads/2010/08/relax.gif" alt="" width="176" height="160" /></a><br />
+<p><a href="http://couchdb.apache.org/"><img class="aligncenter size-full wp-image-4996" title="relax" src="{{ site.url }}/assets/2010/08/relax.gif" alt="" width="176" height="160" /></a><br />
 As promised, I've jotted down scattered notes on my first experiences with CouchDB, with ample reliance on references. At this point I have very limited practical experience with CouchDB and more RTFM time, so this post will focus on a little of the theory behind the design.</p>
 <p>My initial reaction to couch: it's unlike any other database I've worked with before.</p>
 <p>While it shares structural similarities with <a href="http://en.wikipedia.org/wiki/NoSQL">NoSQL</a> relatives*, it's construction in Erlang and ability to be a single solution web server makes it stand apart. For the first time since working with web tools, I felt a convergence of the RESTful concept of client/server with peer to peer distributed technology. Every couchDB can act as both client and server, and CouchDB is being ported to a diverse set of platforms.</p>
@@ -89,9 +89,9 @@ Both should easily handle tens of thousands of connections, but I would expect C
 <p>Writing directly to Couch via TCPSocket is a-ok as long as your write a well-formed HTTP request that follows the spec. (You're not passing a faux request...that's a real HTTP request you're sending just like any other.)</p></blockquote>
 <p><em>How CouchDB is Architected</em></p>
 <p>Internal storage is JSON data in a <a href="http://guide.couchdb.org/editions/1/en/btree.html">B-Tree</a> structure. This framework enables O(log N) speed lookups, insertions and deletions. The following diagram, from the definitive guide eventual consistency section, shows how a view request is handled:</p>
-<p><a href="http://guide.couchdb.org/editions/1/en/consistency.html#key"><img class="aligncenter size-full wp-image-5072" title="GetRequest" src="http://www.victusspiritus.com/wp-content/uploads/2010/09/GetRequest.png" alt="" width="578" height="442" /></a></p>
+<p><a href="http://guide.couchdb.org/editions/1/en/consistency.html#key"><img class="aligncenter size-full wp-image-5072" title="GetRequest" src="{{ site.url }}/assets/2010/09/GetRequest.png" alt="" width="578" height="442" /></a></p>
 <p>An important restriction that feeds directly into CouchDB's ability to scale, documents are accessible <a href="http://guide.couchdb.org/editions/1/en/consistency.html#key">only by key</a>, and rely on multi-version concurrency control to manage concurrent access (no locking).</p>
-<p style="text-align: center;"><a href="http://guide.couchdb.org/editions/1/en/consistency.html#key"><img class="aligncenter size-full wp-image-5073" title="NoLocking" src="http://www.victusspiritus.com/wp-content/uploads/2010/09/NoLocking.png" alt="" width="636" height="209" /></a></p>
+<p style="text-align: center;"><a href="http://guide.couchdb.org/editions/1/en/consistency.html#key"><img class="aligncenter size-full wp-image-5073" title="NoLocking" src="{{ site.url }}/assets/2010/09/NoLocking.png" alt="" width="636" height="209" /></a></p>
 <p><em>When to use CouchDB</em></p>
 <p>At the <a href="http://www.infoq.com/news/2010/06/couchdb">Berlin Buzzwords conference</a> Jan Lehnardt (coauthor of the definitive guide) described compelling benefits of CouchDB as a choice platform for distributed web apps.</p>
 <blockquote>

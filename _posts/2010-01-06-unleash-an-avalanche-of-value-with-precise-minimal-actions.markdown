@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2684
-wordpress_url: http://www.victusspiritus.com/2010/01/06/unleash-an-avalanche-of-value-with-precise-minimal-actions/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/01/06/unleash-an-avalanche-of-value-with-precise-minimal-actions/
 date: '2010-01-06 06:33:19 -0500'
 date_gmt: '2010-01-06 13:33:19 -0500'
 categories:
@@ -44,7 +44,7 @@ comments:
   author: Why startups work, doing so much with so little is impossible to predict
     &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/01/09/why-startups-work-doing-so-much-with-so-little-is-impossible-to-predict/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/01/09/why-startups-work-doing-so-much-with-so-little-is-impossible-to-predict/
   date: '2010-01-09 07:21:13 -0500'
   date_gmt: '2010-01-09 14:21:13 -0500'
   content: "[...] Unleash an Avalanche of Value with Precise Minimal Actions  [...]"
@@ -70,7 +70,7 @@ comments:
 </ul>
 <p>Next time you are faced with an impass you can't imagine your way over or around, consider small actions as an alternative. Precise initiatives may not succeed as fast as we prefer. The ripple becomes a wave, but once the wave grows into a tidal wave, it will be unstoppable.  If the vision is important enough, you will find near endless resolve and support from a growing team. Let the wave of collaborative determination carry your community forward.</p>
 <h2>Case Study's of Small Actions Enriching My Life</h2>
-<p>A wonderful example of a small but precise action that changed my life, is the memory of mathematics <a href="http://www.victusspiritus.com/2009/05/01/do-you-have-a-spaceship-i-could-borrow/">my brother</a> initiated when I was a child. I repeated answers I did not comprehend at that time.<br />
+<p>A wonderful example of a small but precise action that changed my life, is the memory of mathematics <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/05/01/do-you-have-a-spaceship-i-could-borrow/">my brother</a> initiated when I was a child. I repeated answers I did not comprehend at that time.<br />
 Ron: "what's 90 and 90?"<br />
 Me: "180"<br />
 Ron: "what's 80 and 80?"<br />

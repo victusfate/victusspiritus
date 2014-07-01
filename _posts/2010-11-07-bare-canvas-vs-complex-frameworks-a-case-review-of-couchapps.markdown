@@ -22,7 +22,7 @@ comments:
 - id: 7604
   author: Where do you get your best work done? &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/11/26/where-do-you-get-your-best-work-done/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/11/26/where-do-you-get-your-best-work-done/
   date: '2010-11-26 05:58:23 -0500'
   date_gmt: '2010-11-26 12:58:23 -0500'
   content: "[...] ideal: motion, quiet background white noise, cozy space. As far
@@ -31,12 +31,12 @@ comments:
 ---
 <p>Over the past couple of months I've gotten a taste of <a href="http://couchdb.apache.org/docs/intro.html">CouchDB</a>, the <a href="http://couchapp.org/page/index">couchapp</a> framework, and a chance to explore several superb <a href="http://couchapp.org/page/list-of-couchapps">applications</a>*. My biggest hurdle to doing anything useful with CouchDB was (and still is) totally understanding the couchapp file structure. Couchapp is a utility written in python that creates a framework for placing applications within, and extracting applications out of couchDBs. The benefit of couchapp over alternative web frameworks that utilize couchDB as a backend, is portability. The application becomes embedded and works anywhere couchDB does (servers, replicated local couchDBs, etc).</p>
 <p>Here's the default file tree for an application created by couchapp init:<br />
-<a href="http://www.victusspiritus.com/wp-content/uploads/2010/11/Screen-shot-2010-11-07-at-5.55.20-AM.png"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/11/Screen-shot-2010-11-07-at-5.55.20-AM.png" alt="" title="Screen shot 2010-11-07 at 5.55.20 AM" width="268" height="549" class="aligncenter size-full wp-image-5863" /></a><br />
-<a href="http://www.victusspiritus.com/wp-content/uploads/2010/11/Screen-shot-2010-11-07-at-6.14.00-AM.png"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/11/Screen-shot-2010-11-07-at-6.14.00-AM.png" alt="" title="Screen shot 2010-11-07 at 6.14.00 AM" width="268" height="977" class="aligncenter size-full wp-image-5866" /></a><br />
+<a href="{{ site.url }}/assets/2010/11/Screen-shot-2010-11-07-at-5.55.20-AM.png"><img src="{{ site.url }}/assets/2010/11/Screen-shot-2010-11-07-at-5.55.20-AM.png" alt="" title="Screen shot 2010-11-07 at 5.55.20 AM" width="268" height="549" class="aligncenter size-full wp-image-5863" /></a><br />
+<a href="{{ site.url }}/assets/2010/11/Screen-shot-2010-11-07-at-6.14.00-AM.png"><img src="{{ site.url }}/assets/2010/11/Screen-shot-2010-11-07-at-6.14.00-AM.png" alt="" title="Screen shot 2010-11-07 at 6.14.00 AM" width="268" height="977" class="aligncenter size-full wp-image-5866" /></a><br />
 As you can observe the basic couchapp is composed of 34 directories and 59 files. If like myself you prefer a bare canvas to begin development you'll be a little overwhelmed by the file and functional breakdown. </p>
 <p><i>Craving a cleaner canvas</i></p>
 <p>Last weekend while strolling about Bayard cutting I wondered how feasible putting something simple like Sammy.js in front of couchDB would be. A quick search revealed that <a href="http://twitter.com/rmetzler">Richard Metzler</a> and <a href="http://www.quirkey.com/blog/">Aaron Quint</a> had hacked together <a href="https://github.com/quirkey/soca">soca</a> (sammy on couch app), precisely the type of app framework I was seeking (implemented as a ruby gem). Here's a look at the bare soca file tree:<br />
-<a href="http://www.victusspiritus.com/wp-content/uploads/2010/11/Screen-shot-2010-11-07-at-5.54.48-AM.png"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/11/Screen-shot-2010-11-07-at-5.54.48-AM.png" alt="" title="Screen shot 2010-11-07 at 5.54.48 AM" width="248" height="364" class="aligncenter size-full wp-image-5869" /></a><br />
+<a href="{{ site.url }}/assets/2010/11/Screen-shot-2010-11-07-at-5.54.48-AM.png"><img src="{{ site.url }}/assets/2010/11/Screen-shot-2010-11-07-at-5.54.48-AM.png" alt="" title="Screen shot 2010-11-07 at 5.54.48 AM" width="248" height="364" class="aligncenter size-full wp-image-5869" /></a><br />
 From this image you can see 8 directories and 14 files. Soca sacrifices the ability to extract the application from an existing couchDB but gains in both flexibility for app designers to place files where they prefer, as well as much more compact set of files which capture the interaction of the app.</p>
 <p>The design advantage is freedom that comes with choices between optional frameworks. It's not unlike the relationship Sinatra has with Rails. Both frameworks have their benefits, but appeal more to specific developers or have a better fit with certain applications.</p>
 <p><i>But wait there's more, node.js for writing couchapps</i></p>
@@ -45,9 +45,9 @@ From this image you can see 8 directories and 14 files. Soca sacrifices the abil
 <p>Notes:<br />
 * = Related posts</p>
 <ul>
-<li><a href="http://www.victusspiritus.com/2010/09/04/first-impressions-of-sitting-a-web-app-on-couchdb/">First Impressions of Sitting a Web App on CouchDB</a></li>
-<li><a href="http://www.victusspiritus.com/2010/09/19/reckless-photo-couchdb-app-in-60-seconds/">Reckless Photo CouchDB App in 60 seconds</a></li>
-<li><a href="http://www.victusspiritus.com/2010/09/21/state-propagation-with-multiple-databases/">State Propagation with Multiple Databases</a></li>
-<li><a href="http://www.victusspiritus.com/2010/10/05/distributed-social-app-with-couchdb-brilliant/">Distributed Social App with CouchDB. Brilliant!</a></li>
-<li><a href="http://www.victusspiritus.com/2010/10/07/the-builders-of-couchappspora/">The builders of couchappspora</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/09/04/first-impressions-of-sitting-a-web-app-on-couchdb/">First Impressions of Sitting a Web App on CouchDB</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/09/19/reckless-photo-couchdb-app-in-60-seconds/">Reckless Photo CouchDB App in 60 seconds</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/09/21/state-propagation-with-multiple-databases/">State Propagation with Multiple Databases</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/10/05/distributed-social-app-with-couchdb-brilliant/">Distributed Social App with CouchDB. Brilliant!</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/10/07/the-builders-of-couchappspora/">The builders of couchappspora</a></li>
 </ul>

@@ -102,7 +102,7 @@ comments:
 - id: 4757
   author: take a moment to clear your mind | Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/07/11/take-a-moment-to-clear-your-mind/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/07/11/take-a-moment-to-clear-your-mind/
   date: '2010-07-12 07:54:45 -0400'
   date_gmt: '2010-07-12 14:54:45 -0400'
   content: "[...] will come a decision making moment where we are forced to decide
@@ -111,15 +111,15 @@ comments:
 - id: 9238
   author: The tale of two offers &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/03/11/the-tale-of-two-offers/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/03/11/the-tale-of-two-offers/
   date: '2011-03-11 08:22:04 -0500'
   date_gmt: '2011-03-11 15:22:04 -0500'
   content: "[...] Rebooting your job [...]"
 ---
-<p><a href="http://www.stuckincustoms.com/2009/01/01/the-road-to-tomorrow-happy-2009/ "><img class="alignnone size-full" src="http://www.victusspiritus.com/wp-content/uploads/2010/04/l_500_332_1CD4D345-2BB4-4260-A0E3-E3A10C0231E5.jpeg" alt="" /></a></p>
+<p><a href="http://www.stuckincustoms.com/2009/01/01/the-road-to-tomorrow-happy-2009/ "><img class="alignnone size-full" src="{{ site.url }}/assets/2010/04/l_500_332_1CD4D345-2BB4-4260-A0E3-E3A10C0231E5.jpeg" alt="" /></a></p>
 <p>At the end of 2008, after nearly 13 years my career hit a wall. Actually it happened long before then (~2001), but I wasn't aware of the problem. My heart was never in it, and without passion for my work I grew to loathe going in each day. I pretended to be an engineer for over a decade and finally took a leave of absence to get my bearings. Don't get me wrong, there were fantastic and fun challenges in my job, and I was pretty good at it, but there was always something missing. As much as I wanted my work life to change drastically, there was no clear path forward, and for a time I was lost.</p>
 <h2>Welcome to the Real</h2>
-<p>Fast forward 17 months to the present. I'm working 30 hours per week at my old job but it's a different and more pleasant role. My perception has changed dramatically about my day job. It fuels my true passion: pulling together a startup, blogging, and integrating the social web into both. It's a bit of a psychological hack, but I view my time as a company resource of which X hours per week goes to keeping the lights on. I'm making the move from a <a href="http://www.victusspiritus.com/2009/11/04/leaving-a-local-optima-takes-every-ounce-of-our-resolve/">local career &amp; financial optimal</a> to a life where my decisions have a much greater impact on my happiness and success. The challenge of <a href="http://www.victusspiritus.com/2010/01/12/the-wheel-of-need-the-landscape-of-potential-technology/">matching technology to the surface of need</a> and growing it into a business is enormous and addictively fun. Connecting with other people that are doing the same is also deeply satisfying.</p>
+<p>Fast forward 17 months to the present. I'm working 30 hours per week at my old job but it's a different and more pleasant role. My perception has changed dramatically about my day job. It fuels my true passion: pulling together a startup, blogging, and integrating the social web into both. It's a bit of a psychological hack, but I view my time as a company resource of which X hours per week goes to keeping the lights on. I'm making the move from a <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/11/04/leaving-a-local-optima-takes-every-ounce-of-our-resolve/">local career &amp; financial optimal</a> to a life where my decisions have a much greater impact on my happiness and success. The challenge of <a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/01/12/the-wheel-of-need-the-landscape-of-potential-technology/">matching technology to the surface of need</a> and growing it into a business is enormous and addictively fun. Connecting with other people that are doing the same is also deeply satisfying.</p>
 <h2>Big Life Changes by Small Iterations</h2>
 <p>Besides taking a leave of absence in 2008 which was a big and necessary gear shift, all the changes that lead to my current life path were small adaptions and habit formations. Without a work compass I spent a number of weeks reviewing franchises and other small business opportunites because I knew I wanted to have greater control and responsibility about any work I chose to do. I was ready to mortgage my home and dip into my 401k to buy an existing business, but there was a serious mismatch between buying a business and building a business. All the creative problem solving is refined out of franchises, so that execution and "ownership" is more like a management position (and it pays like one too).</p>
 <p>I began blogging in February 2009 after writing <a href="http://www.squidoo.com/lensmasters/messel">40 squidoo lenses</a>, many far from monetizable in topic. Here's my first lens, <a href="http://www.squidoo.com/money-love-1">the profit prophet</a>. It wasn't long before I realized the value of pooling together my web ramblings under my own URL, this blog.</p>

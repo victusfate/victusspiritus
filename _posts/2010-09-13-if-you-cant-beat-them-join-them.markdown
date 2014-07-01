@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 5173
-wordpress_url: http://www.victusspiritus.com/2010/09/13/if-you-cant-beat-them-join-them/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/09/13/if-you-cant-beat-them-join-them/
 date: '2010-09-13 05:41:03 -0400'
 date_gmt: '2010-09-13 12:41:03 -0400'
 categories:
@@ -148,14 +148,14 @@ comments:
   author: Failing faster, Life waits for no founder&#8217;s triumph &raquo; Victus
     Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/11/29/failing-faster-life-waits-for-no-founders-triumph/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/11/29/failing-faster-life-waits-for-no-founders-triumph/
   date: '2010-11-29 07:17:03 -0500'
   date_gmt: '2010-11-29 14:17:03 -0500'
   content: "[...] market changes, and I&#8217;m first on the chopping block as a part
     timer. In early fall I began seeking positions within funded or profitable startups.
     I haven&#8217;t given up on building a compelling product and [...]"
 ---
-<p>I took that advice quite literally this weekend. After spending much of my life working in an industry that's behind the times as far as Internet policies go*. I decided the best professional path for me is one that converges with my long term startup goals. Admittedly, we've struggled to zero in on a market we can best serve with a critical value product at Victus Media. I need to get stronger, faster, and hyper connected to have a shot at success. I want nothing more than to be <a HREF="http://www.victusspiritus.com/2010/07/14/im-a-founder-first/">a founder first</a>, and I'm not afraid to knuckle down and take a different road to get there.</p>
+<p>I took that advice quite literally this weekend. After spending much of my life working in an industry that's behind the times as far as Internet policies go*. I decided the best professional path for me is one that converges with my long term startup goals. Admittedly, we've struggled to zero in on a market we can best serve with a critical value product at Victus Media. I need to get stronger, faster, and hyper connected to have a shot at success. I want nothing more than to be <a HREF="http://victusfate.github.io/victusspiritus/uncategorized/2010/07/14/im-a-founder-first/">a founder first</a>, and I'm not afraid to knuckle down and take a different road to get there.</p>
 <p><I>What I'm not</I></p>
 <p>I gotta face facts:</p>
 <ul>

@@ -23,7 +23,7 @@ comments:
   author: Mac OSX Snow Leopard vs Ubuntu Linux Lucid Lynx Week One &raquo; Victus
     Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/10/25/mac-osx-snow-leopard-vs-ubuntu-linux-lucid-lynx-week-one/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/10/25/mac-osx-snow-leopard-vs-ubuntu-linux-lucid-lynx-week-one/
   date: '2010-10-25 05:09:33 -0400'
   date_gmt: '2010-10-25 12:09:33 -0400'
   content: "[...] zipped file on my portable passbook drive. I came across Home Brew
@@ -31,7 +31,7 @@ comments:
     yesterday morning. I prefer a single smooth command line installation of packages
     to the standard [...]"
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/10/abstract_future_with_text.png"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/10/abstract_future_with_text.png" alt="" title="abstract_future_with_text" width="503" height="356" class="aligncenter size-full wp-image-5750" /></a><br />
+<p><a href="{{ site.url }}/assets/2010/10/abstract_future_with_text.png"><img src="{{ site.url }}/assets/2010/10/abstract_future_with_text.png" alt="" title="abstract_future_with_text" width="503" height="356" class="aligncenter size-full wp-image-5750" /></a><br />
 We are able to perceive only a tiny fraction of current events that are happening around us. Even given a narrow area of study, the rate of change eludes even determined observations. </p>
 <p><I>A look at the present</I></p>
 <p>Consider the realm of tech news limited to software, in specific web development. In this fairly narrow topic there is a buzz of activity which vastly out paces my ability to track. I keep tabs on a subset of developments in a few languages, several common frameworks within these languages, and a handful of the most popular database choices*. My source is social news filtering by following app/framework builders, startup CTOs/chief hackers and identifying the best posts and docs to batch read or refer to later with <a href="http://www.duckduckgo.com/?q=frankencuration">Frankencuration</a>. </p>

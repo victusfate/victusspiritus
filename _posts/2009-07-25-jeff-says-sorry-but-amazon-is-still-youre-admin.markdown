@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<a href=\"http://www.flickr.com/photos/scobleizer/\"><img class=\"aligncenter
-  size-full wp-image-1162\" title=\"Amazon\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/07/Amazon.jpg\"
+  size-full wp-image-1162\" title=\"Amazon\" src=\"{{ site.url }}/assets/2009/07/Amazon.jpg\"
   alt=\"Amazon\" width=\"480\" height=\"335\" /></a>\r\n\r\n<a href=\"http://www.amazon.com/tag/kindle/forum/ref=cm_cd_ef_tft_tp?_encoding=UTF8&amp;cdForum=Fx1D7SY3BVSESG&amp;cdThread=Tx1FXQPSF67X1IU&amp;displayType=tagsDetail\">Jeff
   Bezos formally apologized</a> a couple of days ago for pulling stolen data off of
   customer Kindles. It was a genuine request for forgiveness from a CEO (pretty good
@@ -30,7 +30,7 @@ tags:
 - cloud
 comments: []
 ---
-<p><a href="http://www.flickr.com/photos/scobleizer/"><img class="aligncenter size-full wp-image-1162" title="Amazon" src="http://www.victusspiritus.com/wp-content/uploads/2009/07/Amazon.jpg" alt="Amazon" width="480" height="335" /></a></p>
+<p><a href="http://www.flickr.com/photos/scobleizer/"><img class="aligncenter size-full wp-image-1162" title="Amazon" src="{{ site.url }}/assets/2009/07/Amazon.jpg" alt="Amazon" width="480" height="335" /></a></p>
 <p><a href="http://www.amazon.com/tag/kindle/forum/ref=cm_cd_ef_tft_tp?_encoding=UTF8&amp;cdForum=Fx1D7SY3BVSESG&amp;cdThread=Tx1FXQPSF67X1IU&amp;displayType=tagsDetail">Jeff Bezos formally apologized</a> a couple of days ago for pulling stolen data off of customer Kindles. It was a genuine request for forgiveness from a CEO (pretty good stuff Jeff). But that doesn't change the fact that <a class="zem_slink" title="Amazon" rel="homepage" href="http://amazon.com/">Amazon</a> is still the administrator of your hardware. The frighteningly fast growing trend is for new technology to be remotely administrated and updated. Why is this frightening? I've put together a short list of reasons why losing local administrator rights for an individual or business is bad.<a id="more"></a><a id="more-1161"></a></p>
 <ol>
 <li>You no longer own your most valuable software product, your data. Someone else is now responsible for it.</li>

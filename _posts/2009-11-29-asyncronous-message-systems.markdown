@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2410
-wordpress_url: http://www.victusspiritus.com/2009/11/29/asyncronous-message-systems/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/11/29/asyncronous-message-systems/
 date: '2009-11-29 10:31:31 -0500'
 date_gmt: '2009-11-29 17:31:31 -0500'
 categories:

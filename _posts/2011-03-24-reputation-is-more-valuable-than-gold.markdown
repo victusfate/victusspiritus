@@ -93,13 +93,13 @@ comments:
 - id: 10095
   author: Scorched Earth Strategy &mdash; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/06/06/scorched-earth-strategy/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/06/06/scorched-earth-strategy/
   date: '2011-06-06 08:27:59 -0400'
   date_gmt: '2011-06-06 15:27:59 -0400'
   content: "[...] stranded without additional developer support. You keep your promises,
     in the network economy reputation is more precious than gold.  [...]"
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2011/03/goldmercedes.jpeg"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/03/goldmercedes.jpeg" alt="" title="goldmercedes" width="276" height="183" class="aligncenter size-full wp-image-8062" /></a><br />
+<p><a href="{{ site.url }}/assets/2011/03/goldmercedes.jpeg"><img src="{{ site.url }}/assets/2011/03/goldmercedes.jpeg" alt="" title="goldmercedes" width="276" height="183" class="aligncenter size-full wp-image-8062" /></a><br />
 Early this morning I shared a short conversation with talented hacker Laurent Eschenauer* about the recent announcement of <a href="http://techcrunch.com/2011/03/23/color-looks-to-reinvent-social-interaction-with-its-mobile-photo-app-and-41-million-in-funding/">Color</a> going live and receiving $41 million dollars of investment.<br />
 [blackbirdpie url="http://twitter.com/eschnou/status/50836130836381696"]<br />
 [blackbirdpie url="http://twitter.com/VictusFate/status/50842353010872320"]<br />

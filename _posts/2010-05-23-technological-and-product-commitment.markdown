@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 3953
-wordpress_url: http://www.victusspiritus.com/2010/05/23/technological-and-product-commitment/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/05/23/technological-and-product-commitment/
 date: '2010-05-23 06:40:18 -0400'
 date_gmt: '2010-05-23 13:40:18 -0400'
 categories:
@@ -210,4 +210,4 @@ comments:
 ---
 <p>There comes a time in any explorative learning phase where a team has to make a serious commitment to a chosen technology. Every day spent working with web programming exposes me to a few new libraries, frameworks, and languages. I could literally spend the rest of my life learning about web technology without shipping a product, but successful people ship! I will work towards a position where at least a portion of my work schedule is free for learning new tech.   </p>
 <p>In the interest of delivering a valuable product before the ferris wheel stops I need to actively refuse learning new translations or implementations, at least for a limited time. Every development team has a half life to build and ship a product. This is true even in the best case scenario where a prototype catches on like wildfire and a full business is built in the wake of a breakthrough. Key lead tech members will move on to other interesting opportunities at some point in the cycle, and the product pattern has to be handed off to other technical curators. For example, it's a lot more exciting for me to help develop the first or second version of a new tool, as opposed to optimizing the 12th generation. But both of these stages of a product are important to customers and critical to businesses.  </p>
-<p>If like myself, you find web technology fascinating and constantly shifting, don't forget to force hard deadlines on specific products and technologies. Otherwise in your quest to initiate and connect <a href="http://www.victusspiritus.com/2010/04/12/connect-islands-of-value-then-get-out-of-the-way-2/">new islands of opportunity</a> you may find yourself surrounded by nothing but open sea. A balance must be struck between perceiving potential patterns, and realizing the value of a single product through iteration and execution. </p>
+<p>If like myself, you find web technology fascinating and constantly shifting, don't forget to force hard deadlines on specific products and technologies. Otherwise in your quest to initiate and connect <a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/04/12/connect-islands-of-value-then-get-out-of-the-way-2/">new islands of opportunity</a> you may find yourself surrounded by nothing but open sea. A balance must be struck between perceiving potential patterns, and realizing the value of a single product through iteration and execution. </p>

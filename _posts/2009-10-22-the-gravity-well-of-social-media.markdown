@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<h1><a href=\"http://www.astro.ucla.edu/planetarium/shows_topics.shtml\"><img
-  class=\"alignnone size-full wp-image-1945\" title=\"BlackHole\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/10/BlackHole.jpg\"
+  class=\"alignnone size-full wp-image-1945\" title=\"BlackHole\" src=\"{{ site.url }}/assets/2009/10/BlackHole.jpg\"
   alt=\"BlackHole\" width=\"368\" height=\"294\" /></a></h1>\r\n<h1>The Crowd is Our
   First Measure</h1>\r\nIf you've ever wandered around a fair, a carnival, or an open
   market the first thing you notice is a crowd. This instinctual filtering method
@@ -24,7 +24,7 @@ excerpt: "<h1><a href=\"http://www.astro.ucla.edu/planetarium/shows_topics.shtml
   generate in comments per post. All of these sites do their best to emulate the crowd.
   But among all of them, there is only one king of crowds, social media."
 wordpress_id: 1944
-wordpress_url: http://www.victusspiritus.com/2009/10/22/the-gravity-well-of-social-media/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/10/22/the-gravity-well-of-social-media/
 date: '2009-10-22 03:20:33 -0400'
 date_gmt: '2009-10-22 10:20:33 -0400'
 categories:
@@ -35,7 +35,7 @@ tags:
 - social web
 comments: []
 ---
-<h1><a href="http://www.astro.ucla.edu/planetarium/shows_topics.shtml"><img class="alignnone size-full wp-image-1945" title="BlackHole" src="http://www.victusspiritus.com/wp-content/uploads/2009/10/BlackHole.jpg" alt="BlackHole" width="368" height="294" /></a></h1>
+<h1><a href="http://www.astro.ucla.edu/planetarium/shows_topics.shtml"><img class="alignnone size-full wp-image-1945" title="BlackHole" src="{{ site.url }}/assets/2009/10/BlackHole.jpg" alt="BlackHole" width="368" height="294" /></a></h1>
 <h1>The Crowd is Our First Measure</h1>
 <p>If you've ever wandered around a fair, a carnival, or an open market the first thing you notice is a crowd. This instinctual filtering method has made the transition from humanity's real world experiences into the virtual spaces of the Internet. On a variety of web sites we are instantly given cues that a crowd has enjoyed a particular page.</p>
 <p>Inherent to Google's algorithms, external links are built into search rank. The crowd has unknowingly selected and ordered the search. On YouTube we can quickly see the number of views a video has had. On social crowd sourced news and sharing portals (HackerNews, Digg, reddit) the primary information is how many other people have up voted or selected a novel post. On personal, news, and business web blogs we are reminded of the crowd from feedburner count of subscribers to it's feed. We can see the amount of feedback or buzz they generate in comments per post. All of these sites do their best to emulate the crowd. But among all of them, there is only one king of crowds, social media.<a id="more"></a><a id="more-1944"></a></p>

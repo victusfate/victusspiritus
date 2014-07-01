@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<h2><a href=\"http://www.flickr.com/photos/digitalart/\"><img class=\"aligncenter
-  size-full wp-image-1016\" title=\"Stream\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/07/Stream.jpg\"
+  size-full wp-image-1016\" title=\"Stream\" src=\"{{ site.url }}/assets/2009/07/Stream.jpg\"
   alt=\"Stream\" width=\"480\" height=\"350\" /></a></h2>\r\n<h2>The Stream</h2>\r\n<a
   class=\"zem_slink\" title=\"Steve Rubel\" rel=\"homepage\" href=\"http://www.micropersuasion.com/\">Steve
   Rubel</a> poses a question \"<span style=\"color: #000000;\"><span style=\"text-decoration:
@@ -43,7 +43,7 @@ tags:
 - social web
 comments: []
 ---
-<h2><a href="http://www.flickr.com/photos/digitalart/"><img class="aligncenter size-full wp-image-1016" title="Stream" src="http://www.victusspiritus.com/wp-content/uploads/2009/07/Stream.jpg" alt="Stream" width="480" height="350" /></a></h2>
+<h2><a href="http://www.flickr.com/photos/digitalart/"><img class="aligncenter size-full wp-image-1016" title="Stream" src="{{ site.url }}/assets/2009/07/Stream.jpg" alt="Stream" width="480" height="350" /></a></h2>
 <h2>The Stream</h2>
 <p><a class="zem_slink" title="Steve Rubel" rel="homepage" href="http://www.micropersuasion.com/">Steve Rubel</a> poses a question "<span style="color: #000000;"><span style="text-decoration: none;"><a href="http://www.steverubel.com/essay-how-to-captivate-and-hold-attention-in">How to Captivate and Hold Attention in the Age of the Stream</a></span></span>". He describes the flood of information and status updates as the way people use the Internet today and compared it to highway traffic. He's concerned with the challenge this poses to marketers as ads lose our attention. Steve answers his own question with:</p>
 <blockquote><p>The short answer is to be ubiquitous. To do so brands must not only participate in all of the key social spaces, but also engage all day and night in a way that builds relationships. The community must feel like you care more about them than yourself. That's the easiest way in an endless stream to make an impression today.</p></blockquote>

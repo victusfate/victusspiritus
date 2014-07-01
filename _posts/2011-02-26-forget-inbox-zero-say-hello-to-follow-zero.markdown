@@ -45,7 +45,7 @@ comments:
 - id: 9991
   author: We finally really did it &mdash; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/05/19/we-finally-really-did-it/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/05/19/we-finally-really-did-it/
   date: '2011-05-19 05:52:24 -0400'
   date_gmt: '2011-05-19 12:52:24 -0400'
   content: "[...] trend is finding its way to information consumption habits. Based
@@ -60,7 +60,7 @@ I finally did it. </p>
 <p>An hour later I had completed the great pre-spring purge of my default twitter inbound and reduced my default twitter inbound to zero.<br />
 [blackbirdpie url="http://twitter.com/VictusFate/status/41433648259538945"]<br />
 I can listen to all the folks I used to follow by visiting them on my <a href="http://twitter.com/VictusFate/inbound">inbound list</a>, or by browsing other specific lists which they belong to. The biggest advantage to this organization is that it forces me to access twitter with intent. It's a bit of a psychological hack but the process of moving subscriptions from my default follow to a list gave me time to clean it up (from 207 to 184). Oddly enough Twitter still thinks I'm following 7 phantoms that don't show up on my follow page.<br />
-<a href="http://www.victusspiritus.com/wp-content/uploads/2011/02/follow_zero_or_seven.png"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/02/follow_zero_or_seven.png" alt="" title="follow_zero_or_seven" width="486" height="252" class="aligncenter size-full wp-image-7412" /></a></p>
+<a href="{{ site.url }}/assets/2011/02/follow_zero_or_seven.png"><img src="{{ site.url }}/assets/2011/02/follow_zero_or_seven.png" alt="" title="follow_zero_or_seven" width="486" height="252" class="aligncenter size-full wp-image-7412" /></a></p>
 <p>Notes:</p>
 <p>^= Being familiar with the source of a message is more important than the context for personal relevance. Interesting ideas straying from strict topics is the norm, not the exception.</p>
 <p>*=  noise being everyone else vying for limited attention. <strong>Frequent updates are the equivalent of shouting on reverse chronological update services</strong> (blogs, microblogs, and other social news sites)</p>

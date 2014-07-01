@@ -84,7 +84,7 @@ comments:
     earlier than that, a startups worth is defined by the unshakeable resolve and
     resulting hard work of the founders and perhaps a handful of dreamers.
 ---
-<p style="text-align: center;"><a href="http://www.cinchcast.com/marshallk/74340"><img class="size-full wp-image-4469" title="TweetAboutStartupsAndTechBloggers" src="http://www.victusspiritus.com/wp-content/uploads/2010/07/TweetAboutStartupsAndTechBloggers.png" alt="" /></a><br />
+<p style="text-align: center;"><a href="http://www.cinchcast.com/marshallk/74340"><img class="size-full wp-image-4469" title="TweetAboutStartupsAndTechBloggers" src="{{ site.url }}/assets/2010/07/TweetAboutStartupsAndTechBloggers.png" alt="" /></a><br />
 <em>the cinch cast is linked through the image</em></p>
 <p><em>Credit for inspiring this riff goes to Marshall Kirkpatrick for his brief cinchcast covering the relationship of Tech Bloggers and Startup Founders. I'm both of these, and really enjoyed his take on a symbiotic relationship that can often feel unbalanced.</em></p>
 <h2>Blogger's Perspective</h2>

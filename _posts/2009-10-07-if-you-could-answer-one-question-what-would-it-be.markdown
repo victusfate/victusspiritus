@@ -81,7 +81,7 @@ comments:
 <li><strong>How can I aid in moving technology forward that best serves in connecting powerful communities?</strong></li>
 </ul>
 <ul>
-<li><strong>Which social media tools, protocols and interfaces can best be leveraged to connect me with others who share my vision, forging a community that will aid in building a</strong> <a href="http://www.victusspiritus.com/2009/09/07/creating-a-legacy/"><strong>lasting legacy</strong></a><strong>?</strong></li>
+<li><strong>Which social media tools, protocols and interfaces can best be leveraged to connect me with others who share my vision, forging a community that will aid in building a</strong> <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/09/07/creating-a-legacy/"><strong>lasting legacy</strong></a><strong>?</strong></li>
 </ul>
 <ul>
 <li><strong>How can I maximize the amount of knowledge I can consume and process to aid in search, discovery, and the creation of tools to support the creation of long term value?</strong></li>

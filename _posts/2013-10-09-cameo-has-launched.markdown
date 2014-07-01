@@ -121,5 +121,5 @@ comments:
 
     [Em]
 ---
-<p><a href="http://cameo.tv/"><img src="http://www.victusspiritus.com/wp-content/uploads/2013/10/20131009-1447251.jpg" alt="20131009-144725.jpg" class="alignnone size-full" /></a></p>
-<p>I <a href="http://www.victusspiritus.com/2013/09/27/cameos-about-to-come-to-life-2/">wrote a little</a> about my favorite app a few days back, and it's now live. Please grab it from the App Store and make some beautiful videos with your friends. <a href="http://cameo.tv">Cameo.tv</a></p>
+<p><a href="http://cameo.tv/"><img src="{{ site.url }}/assets/2013/10/20131009-1447251.jpg" alt="20131009-144725.jpg" class="alignnone size-full" /></a></p>
+<p>I <a href="http://victusfate.github.io/victusspiritus/uncategorized/2013/09/27/cameos-about-to-come-to-life-2/">wrote a little</a> about my favorite app a few days back, and it's now live. Please grab it from the App Store and make some beautiful videos with your friends. <a href="http://cameo.tv">Cameo.tv</a></p>

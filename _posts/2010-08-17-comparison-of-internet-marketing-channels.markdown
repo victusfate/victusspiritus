@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 4924
-wordpress_url: http://www.victusspiritus.com/2010/08/17/comparison-of-internet-marketing-channels/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/08/17/comparison-of-internet-marketing-channels/
 date: '2010-08-17 04:25:41 -0400'
 date_gmt: '2010-08-17 11:25:41 -0400'
 categories:

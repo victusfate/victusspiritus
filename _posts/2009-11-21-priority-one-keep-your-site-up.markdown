@@ -125,13 +125,13 @@ comments:
   author: Designers are from Venus, Hackers are from Mars, Clients are on Earth &raquo;
     Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/10/14/designers-are-from-venus-hackers-are-from-mars-clients-are-on-earth/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/10/14/designers-are-from-venus-hackers-are-from-mars-clients-are-on-earth/
   date: '2010-10-14 06:57:18 -0400'
   date_gmt: '2010-10-14 13:57:18 -0400'
   content: "[...] designers to potential or returning clients. Hackers and engineers
     primary job on this page is to keep the site up and running fast and [...]"
 ---
-<p><a href="http://www.flickr.com/people/dhilung/"><img class="aligncenter size-full wp-image-2303" title="HighDynamicPeace" src="http://www.victusspiritus.com/wp-content/uploads/2009/11/HighDynamicPeace.jpg" alt="HighDynamicPeace" width="480" height="367" /></a></p>
+<p><a href="http://www.flickr.com/people/dhilung/"><img class="aligncenter size-full wp-image-2303" title="HighDynamicPeace" src="{{ site.url }}/assets/2009/11/HighDynamicPeace.jpg" alt="HighDynamicPeace" width="480" height="367" /></a></p>
 <h2>This a no brainer Mark you noob</h2>
 <p>It turns out you have to setup everything the right way or your service will crash like a dominos champion display.</p>
 <p>This week <a HREF="http://www.victusmedia.com">Victus Media's</a> search and personalized ad tool was either dysfunctional or down. I had been happily hosting the plugin here for a few weeks so people could explore and try out our service. We had some major overhauls in data and function and have learned a little about stability. But every minute the server was down or the database empty I imagined a lost potential user. If you think about up time in this way, it really hurts to have your site down (like a kick in the groin). I want nothing more than for users to sample our site and think, "whoa!", and this week that wasn't close to happening.</p>

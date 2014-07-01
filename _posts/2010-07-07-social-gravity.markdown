@@ -50,7 +50,7 @@ comments:
     a new reincarnation. Allow us to feel the meaning of life will come only to those
     you have those memories  http://www.cheap-nikeshox.com
 ---
-<p>[caption id="attachment_4450" align="aligncenter"  caption="Trey Ratcliff captures a breath taking shot of New Zealand, creating social gravity through shared imagery"]<a href="http://www.stuckincustoms.com/2010/06/28/driving-to-akaroa/"><img class="size-full wp-image-4450" title="DrivingtoAkaroa" src="http://www.victusspiritus.com/wp-content/uploads/2010/07/DrivingtoAkaroa.jpg" alt="" /></a>[/caption]</p>
+<p>[caption id="attachment_4450" align="aligncenter"  caption="Trey Ratcliff captures a breath taking shot of New Zealand, creating social gravity through shared imagery"]<a href="http://www.stuckincustoms.com/2010/06/28/driving-to-akaroa/"><img class="size-full wp-image-4450" title="DrivingtoAkaroa" src="{{ site.url }}/assets/2010/07/DrivingtoAkaroa.jpg" alt="" /></a>[/caption]</p>
 <p><em>Today's riff is inspired by the <a href="http://www.avc.com/a_vc/2010/07/cross-posting-with-a-single-comment-thread.html">mixed feedback from the avc community</a> on cross posting with a single comment thread everywhere.</em></p>
 <h2>Attention Jiu-Jitsu</h2>
 <p>The concept of leveraging the web as a medium for attention harvesting is nothing new. Businesses have competed to capture user attention:</p>

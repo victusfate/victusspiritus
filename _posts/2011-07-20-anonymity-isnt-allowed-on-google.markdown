@@ -69,21 +69,21 @@ comments:
   author: Moving to a Cloud of One (Company) is a Single Point Failure &mdash; Victus
     Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/07/25/moving-to-a-cloud-of-one-company-is-a-single-point-failure/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/07/25/moving-to-a-cloud-of-one-company-is-a-single-point-failure/
   date: '2011-07-25 06:50:25 -0400'
   date_gmt: '2011-07-25 13:50:25 -0400'
   content: "[...] Anonymity isn&#8217;t allowed on Google [...]"
 ---
 <p>Early this morning I browsed across an update from <a href="https://plus.google.com/117421021456205115327/posts/c1LPLyy6nm2">Marshall Kirkpatrick</a> sharing that Google doesn't allow anonymous identities on it's social service Google+.</p>
 <blockquote><p>
-<a href="https://plus.google.com/117421021456205115327"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/07/marshall_kirkpatrick_photo.jpg" alt="" title="marshall_kirkpatrick_photo" width="48" height="48" class="alignleft size-full wp-image-9742" /></a><a href="https://plus.google.com/117421021456205115327">Marshall Kirkpatrick</a> - So Google Plus is a place of public discourse, with gradations of privacy, but with no anonymity or pseudonyms (allowed)? How Google-like; I'm not so sure that's a good thing.
+<a href="https://plus.google.com/117421021456205115327"><img src="{{ site.url }}/assets/2011/07/marshall_kirkpatrick_photo.jpg" alt="" title="marshall_kirkpatrick_photo" width="48" height="48" class="alignleft size-full wp-image-9742" /></a><a href="https://plus.google.com/117421021456205115327">Marshall Kirkpatrick</a> - So Google Plus is a place of public discourse, with gradations of privacy, but with no anonymity or pseudonyms (allowed)? How Google-like; I'm not so sure that's a good thing.
 </p></blockquote>
 <p>I can understand why social web utilities want to attach an account to an identity to promote responsible usage and reputation, but I feel like these goals can be achieved while still allowing pseudonyms for progressive discussions. Two comments struck me as influential and characterizing why I value anonymity with digital identity. I've included them below.</p>
 <blockquote><p>
-<a href="https://plus.google.com/118117111475857300118/posts"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/07/oscar_froberg_photo.jpg" alt="" title="oscar_froberg_photo" width="48" height="48" class="alignleft size-full wp-image-9742" /><a href="https://plus.google.com/118117111475857300118/posts">Oscar Fröberg</a> - One thing that would be great would be if you could choose a pseudonym for each circle. That way you could for example interact with "internet-people" anonymously but still be available in search to interact with friends under your real name. There are subjects I'd like to be able to discuss which I don't necessarily want perpetuated on the internet under my real name, even if I want it to be a public discussion!
+<a href="https://plus.google.com/118117111475857300118/posts"><img src="{{ site.url }}/assets/2011/07/oscar_froberg_photo.jpg" alt="" title="oscar_froberg_photo" width="48" height="48" class="alignleft size-full wp-image-9742" /><a href="https://plus.google.com/118117111475857300118/posts">Oscar Fröberg</a> - One thing that would be great would be if you could choose a pseudonym for each circle. That way you could for example interact with "internet-people" anonymously but still be available in search to interact with friends under your real name. There are subjects I'd like to be able to discuss which I don't necessarily want perpetuated on the internet under my real name, even if I want it to be a public discussion!
 </p></blockquote>
 <blockquote><p>
-<a href="https://plus.google.com/113435275277970177915/posts"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/07/Joshua_Jeffryes_photo.jpg" alt="" title="oscar_froberg_photo" width="48" height="48" class="alignleft size-full wp-image-9742" /><a href="https://plus.google.com/113435275277970177915/posts">Joshua Jeffryes</a> - Sacrificing anonymity sacrifices honesty, risk taking, and entertainment.</p>
+<a href="https://plus.google.com/113435275277970177915/posts"><img src="{{ site.url }}/assets/2011/07/Joshua_Jeffryes_photo.jpg" alt="" title="oscar_froberg_photo" width="48" height="48" class="alignleft size-full wp-image-9742" /><a href="https://plus.google.com/113435275277970177915/posts">Joshua Jeffryes</a> - Sacrificing anonymity sacrifices honesty, risk taking, and entertainment.</p>
 <p>You won't get whistle blowers, people fighting oppressive regimes, or FakeSteveJobs or DeathstarPR here. I think g+ is lessened by that.
 </p></blockquote>
 <p>Some of my favorite social networks condone pseudonyms and various levels of anonymity. Both Twitter and Disqus enable accounts to exist without forcing them to be exposed as belonging to a specific individual.</p>

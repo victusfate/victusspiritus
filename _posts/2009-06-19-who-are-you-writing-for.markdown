@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<h2><img class=\"aligncenter size-full wp-image-763\" title=\"DeclarationOfIndependence_TargetAudience\"
-  src=\"http://www.victusspiritus.com/wp-content/uploads/2009/06/DeclarationOfIndependence_TargetAudience.jpg\"
+  src=\"{{ site.url }}/assets/2009/06/DeclarationOfIndependence_TargetAudience.jpg\"
   alt=\"DeclarationOfIndependence_TargetAudience\" width=\"480\" height=\"740\" /></h2>\r\n<h2>My
   Audience Started With Just One Reader</h2>\r\nMe.\r\n\r\nThat's why I began writing
   after all, to satisfy an unquenchable need to share ideas. I had no concept of who
@@ -36,7 +36,7 @@ tags:
 - design
 comments: []
 ---
-<h2><img class="aligncenter size-full wp-image-763" title="DeclarationOfIndependence_TargetAudience" src="http://www.victusspiritus.com/wp-content/uploads/2009/06/DeclarationOfIndependence_TargetAudience.jpg" alt="DeclarationOfIndependence_TargetAudience" width="480" height="740" /></h2>
+<h2><img class="aligncenter size-full wp-image-763" title="DeclarationOfIndependence_TargetAudience" src="{{ site.url }}/assets/2009/06/DeclarationOfIndependence_TargetAudience.jpg" alt="DeclarationOfIndependence_TargetAudience" width="480" height="740" /></h2>
 <h2>My Audience Started With Just One Reader</h2>
 <p>Me.</p>
 <p>That's why I began writing after all, to satisfy an unquenchable need to share ideas. I had no concept of who would read my writing, or what their motivations would be when I started out. Although I hoped many would come to find my writing valuable, it was probable that my thoughts would be buried among the deluge of information that is generated each day.</p>
@@ -45,7 +45,7 @@ comments: []
 <h2 style="font-size: 1.5em;">You Can Please Some of the People, Some of the Time</h2>
 <p>One of the challenges we have as a business, content creator, or author is to generate tools, products and information filters that are appealing and/or useful to our core audience. That audience is going to be apprehensive at first. They're going to need a recommendation from a friend or an early adopter to experience what we have to offer first hand.</p>
 <p>If we choose too large of an audience we can have difficulty with customer service. One can easily be overwhelmed with personalization or error requests. We won't be able to adapt our core content to the needs of the group. One method several successful organizations have used to overcome this challenge, is to open up customization to the user community. Opening source code, opening data, and allowing personalized templates are all ways in which we can empower to the user to best fulfill their own needs.</p>
-<p><a href="http://www.victusspiritus.com/2009/05/11/how-web-marketing-will-effect-the-media-author-of-the-future/">Marketing</a> enables us to connect with our audience. In addition we can use <a href="http://www.victusspiritus.com/2009/04/24/how-to-web-market-and-use-social-media/">social media</a> to learn more about the patterns and passions of the community we attract.</p>
+<p><a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/05/11/how-web-marketing-will-effect-the-media-author-of-the-future/">Marketing</a> enables us to connect with our audience. In addition we can use <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/04/24/how-to-web-market-and-use-social-media/">social media</a> to learn more about the patterns and passions of the community we attract.</p>
 <p>There are <a href="http://sethgodin.typepad.com/seths_blog/2009/06/two-ways-to-build-trust.html">several levels of trust</a> that strengthen our ability to engage an audience, and for them to accept our content.</p>
 <ol>
 <li>We have to trust that our group members' instincts are correct about what they need</li>

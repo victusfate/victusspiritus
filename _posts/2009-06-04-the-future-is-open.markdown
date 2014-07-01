@@ -9,7 +9,7 @@ author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "[caption id=\"attachment_374\" align=\"aligncenter\" width=\"300\" caption=\"friendfeed&#39;s
   data is open to users\"]<a href=\"http://www.flickr.com/photos/scobleizer/\"><img
-  class=\"size-medium wp-image-374 \" title=\"friendfeedsdataisopen\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/06/friendfeedsdataisopen-300x225.jpg\"
+  class=\"size-medium wp-image-374 \" title=\"friendfeedsdataisopen\" src=\"{{ site.url }}/assets/2009/06/friendfeedsdataisopen-300x225.jpg\"
   alt=\"friendfeedsdataisopen\" width=\"300\" height=\"225\" /></a>[/caption]\r\n<h2><span
   style=\"color: #cf0000;\">Open vs. Closed (Data/Software)</span></h2>\r\n<p style=\"text-align:
   left;\">First off there are many types of open data and software standards, and
@@ -94,7 +94,7 @@ comments:
     I believe there is plenty of room for faster collaboration with less institutional
     stamps of approval.
 ---
-<p>[caption id="attachment_374" align="aligncenter" width="300" caption="friendfeed&#39;s data is open to users"]<a href="http://www.flickr.com/photos/scobleizer/"><img class="size-medium wp-image-374 " title="friendfeedsdataisopen" src="http://www.victusspiritus.com/wp-content/uploads/2009/06/friendfeedsdataisopen-300x225.jpg" alt="friendfeedsdataisopen" width="300" height="225" /></a>[/caption]</p>
+<p>[caption id="attachment_374" align="aligncenter" width="300" caption="friendfeed&#39;s data is open to users"]<a href="http://www.flickr.com/photos/scobleizer/"><img class="size-medium wp-image-374 " title="friendfeedsdataisopen" src="{{ site.url }}/assets/2009/06/friendfeedsdataisopen-300x225.jpg" alt="friendfeedsdataisopen" width="300" height="225" /></a>[/caption]</p>
 <h2><span style="color: #cf0000;">Open vs. Closed (Data/Software)</span></h2>
 <p style="text-align: left;">First off there are many types of open data and software standards, and <a href="http://sethgodin.typepad.com/seths_blog/2009/05/what-kind-of-open-are-you-looking-for.html">Seth Godin realized the value in listing many of them</a>.  The most powerful social media companies in the world have closed data today but it's unlikely they will stay that way.  Facebook's private data collection is huge and growing fast, and it has attracted many application developers (mini games, etc.).  While this is true we can't deny the incredible developer community that has sprouted up around twitter and boosted not only it's popularity but it's core functionality, <strong>third party developers have increased twitter's value</strong>.<a id="more"></a><a id="more-372"></a></p>
 <p style="text-align: left;">Facebook isn't the only business with closed or private data.  They are accompanied by the software giant Google (with it's private data in gmail), huge government and private medical databases. There are massive amounts of closed data, and much of it is stored online.  What data collectors are realizing, is that outside sources are an incredible resource for software development.  This is true when it makes sense to open up their data/API/source code.</p>
@@ -104,7 +104,7 @@ comments:
 <li>by offering novel software that utilizes the data/infrastructure</li>
 <li>by pushing the utility of data/infrastructure over the critical market interest necessary to transform a B player business into a grade A corporation</li>
 </ul>
-<p>The natural trend is that increasing numbers of data bases, data collectors, and information infrastructures will open up (with permission) to invite the aid of <a href="http://www.victusspiritus.com/2009/03/29/social-media-will-be-the-dominant-design-focus-of-the-21st-century/">social developers</a>, us.  Like sirens in the sea, big opportunities call to entrepid software developers.  Unlike crashing into rocky shores, these social developers can not only profit but become well known for their expertise.  The tools created in turn gather the interest of more users.  This defines a simple three step process to increase the value of a business that opens its data or infrastructure.</p>
+<p>The natural trend is that increasing numbers of data bases, data collectors, and information infrastructures will open up (with permission) to invite the aid of <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/03/29/social-media-will-be-the-dominant-design-focus-of-the-21st-century/">social developers</a>, us.  Like sirens in the sea, big opportunities call to entrepid software developers.  Unlike crashing into rocky shores, these social developers can not only profit but become well known for their expertise.  The tools created in turn gather the interest of more users.  This defines a simple three step process to increase the value of a business that opens its data or infrastructure.</p>
 <ol>
 <li>Open an existing functional database or architecture</li>
 <li>Invite third party developers to create opportunities within the new open space</li>

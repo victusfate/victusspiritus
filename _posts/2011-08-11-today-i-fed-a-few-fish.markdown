@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 9848
-wordpress_url: http://www.victusspiritus.com/2011/08/11/today-i-fed-a-few-fish/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/08/11/today-i-fed-a-few-fish/
 date: '2011-08-11 12:59:40 -0400'
 date_gmt: '2011-08-11 19:59:40 -0400'
 categories:

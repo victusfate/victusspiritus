@@ -16,7 +16,7 @@ excerpt: "<object classid=\"clsid:d27cdb6e-ae6d-11cf-96b8-444553540000\" width=\
   allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>\r\n(please
   forgive the poor video quality, the only way I could shorten the video to under
   10minutes was to convert and clip the last few minutes).\r\n\r\nPreviously, I've
-  shared thoughts on <a href=\"http://www.victusspiritus.com/2009/07/01/decision-making/\">decision
+  shared thoughts on <a href=\"http://victusfate.github.io/victusspiritus/uncategorized/2009/07/01/decision-making/\">decision
   making</a>. In this instance I'll cover an interesting neurological side effect
   of our conscious mind, cognitive biases.\r\n\r\nFor those unfamiliar with the concept
   of <a class=\"zem_slink\" title=\"List of cognitive biases\" rel=\"wikipedia\" href=\"http://en.wikipedia.org/wiki/List_of_cognitive_biases\">cognitive
@@ -36,7 +36,7 @@ comments:
 - id: 827
   author: I&#8217;m Ordering You Not to Read This Post
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/09/15/im-ordering-you-not-to-read-this-post/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/09/15/im-ordering-you-not-to-read-this-post/
   date: '2009-09-15 06:51:39 -0400'
   date_gmt: '2009-09-15 13:51:39 -0400'
   content: "[...] is focused on reverse psychology and specifically the declared disagreement,
@@ -45,7 +45,7 @@ comments:
 - id: 1738
   author: Perceived versus Actual (Value)
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/11/18/perceived-versus-actual-value/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/11/18/perceived-versus-actual-value/
   date: '2009-11-18 05:47:18 -0500'
   date_gmt: '2009-11-18 12:47:18 -0500'
   content: "[...] It turns out good old mother nature, or reality has a way smacking
@@ -54,7 +54,7 @@ comments:
 - id: 2004
   author: The Secret Weakness of North East Investors
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/12/07/the-secret-weakness-of-north-east-investors/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/12/07/the-secret-weakness-of-north-east-investors/
   date: '2009-12-07 06:15:38 -0500'
   date_gmt: '2009-12-07 13:15:38 -0500'
   content: "[...] getting smarter with the years though (cognitive bias). Now my morning
@@ -63,7 +63,7 @@ comments:
 - id: 4684
   author: Halt the Pain of Interface Flames | Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/07/04/halt-the-pain-of-interface-flames/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/07/04/halt-the-pain-of-interface-flames/
   date: '2010-07-04 07:41:05 -0400'
   date_gmt: '2010-07-04 14:41:05 -0400'
   content: "[...] consider the effect of a common cognitive bias on the process of
@@ -72,7 +72,7 @@ comments:
 ---
 <p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="480" height="385" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/RxHSEJIDqoo&amp;hl=en&amp;fs=1&amp;color1=0x006699&amp;color2=0x54abd6" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="480" height="385" src="http://www.youtube.com/v/RxHSEJIDqoo&amp;hl=en&amp;fs=1&amp;color1=0x006699&amp;color2=0x54abd6" allowscriptaccess="always" allowfullscreen="true"></embed></object><br />
 (please forgive the poor video quality, the only way I could shorten the video to under 10minutes was to convert and clip the last few minutes).</p>
-<p>Previously, I've shared thoughts on <a href="http://www.victusspiritus.com/2009/07/01/decision-making/">decision making</a>. In this instance I'll cover an interesting neurological side effect of our conscious mind, cognitive biases.</p>
+<p>Previously, I've shared thoughts on <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/07/01/decision-making/">decision making</a>. In this instance I'll cover an interesting neurological side effect of our conscious mind, cognitive biases.</p>
 <p>For those unfamiliar with the concept of <a class="zem_slink" title="List of cognitive biases" rel="wikipedia" href="http://en.wikipedia.org/wiki/List_of_cognitive_biases">cognitive biases</a>, here's a quick background on the concept from the <a href="http://en.wikipedia.org/wiki/List_of_cognitive_biases">wikipedia</a>:<a id="more"></a><a id="more-1102"></a></p>
 <blockquote><p>A cognitive bias is a pattern of deviation in judgment that occurs in particular situations (see also cognitive distortion and the lists of thinking-related topics). Implicit in the concept of a "pattern of deviation" is a standard of comparison; this may be the judgment of people outside those particular situations, or may be a set of independently verifiable facts. The existence of some of these cognitive biases has been verified empirically in the field of psychology, others are widespread beliefs, and may themselves be a consequence of cognitive bias.</p>
 <p>Cognitive biases are instances of evolved mental behavior. Some are presumably adaptive, for example, because they lead to more effective actions or enable faster decisions. Others presumably result from a lack of appropriate mental mechanisms, or from the misapplication of a mechanism that is adaptive under different circumstances.</p></blockquote>

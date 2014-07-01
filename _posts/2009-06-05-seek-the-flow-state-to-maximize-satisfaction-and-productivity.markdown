@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<p style=\"text-align: center;\"><a href=\"http://www.flickr.com/photos/neilspicys/\"><img
-  class=\"size-full wp-image-393 aligncenter\" title=\"flow\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/06/flow.jpg\"
+  class=\"size-full wp-image-393 aligncenter\" title=\"flow\" src=\"{{ site.url }}/assets/2009/06/flow.jpg\"
   alt=\"flow\" width=\"400\" height=\"270\" /></a></p>\r\n\r\n<h2><strong><span style=\"color:
   #cf0000;\">What is the \"Flow State\"?</span></strong></h2>\r\n<p style=\"text-align:
   left;\">It is a psychological condition associated with intense productivity, and
@@ -34,7 +34,7 @@ tags:
 - design
 comments: []
 ---
-<p style="text-align: center;"><a href="http://www.flickr.com/photos/neilspicys/"><img class="size-full wp-image-393 aligncenter" title="flow" src="http://www.victusspiritus.com/wp-content/uploads/2009/06/flow.jpg" alt="flow" width="400" height="270" /></a></p>
+<p style="text-align: center;"><a href="http://www.flickr.com/photos/neilspicys/"><img class="size-full wp-image-393 aligncenter" title="flow" src="{{ site.url }}/assets/2009/06/flow.jpg" alt="flow" width="400" height="270" /></a></p>
 <h2><strong><span style="color: #cf0000;">What is the "Flow State"?</span></strong></h2>
 <p style="text-align: left;">It is a psychological condition associated with intense productivity, and is accompanied by effortless attention.  It is highly probable that the flow state has been experienced since the dawn of man, a state of consciousness associated with the mind. The state was first documented by psychologist <a href="http://en.wikipedia.org/wiki/Mihaly_Csikszentmihalyi">Mihaly Csikszentmihalyi</a> (his major contribution can be found in his book  "Flow: The Psychology of Optimal Experience".  The Flow psychological state is characterized by several beneficial experiential and measurable factors (<a href="http://en.wikipedia.org/wiki/Flow_(psychology)">based on wikipedia's flow reference</a>):<a id="more"></a><a id="more-389"></a></p>
 <ul>
@@ -72,9 +72,9 @@ comments: []
 </span></h2>
 <p>Our goal should not only be to discover flow, but to lengthen the period we stay at our best efficiency.  We are in need of folks that have mastered the flow state (statistically meaningful samples) in order to look for commonalities across individuals.  Although only a novice of the flow state, here are a few of my personal suggestions to get started:</p>
 <ul>
-<li><a href="http://www.victusspiritus.com/2009/05/29/my-first-ebook/">Discover or create a job/business doing something you love</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/05/29/my-first-ebook/">Discover or create a job/business doing something you love</a></li>
 <li>Create an environment where interruptions and distractions are minimal (note to self getting two puppies is the polar opposite of this situation)</li>
-<li><a href="http://www.victusspiritus.com/2009/04/07/5-simple-steps-to-change-yourself-and-the-world/">Take 5 simple steps</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/04/07/5-simple-steps-to-change-yourself-and-the-world/">Take 5 simple steps</a></li>
 <li>Give your mind time to relax and day dream</li>
 <li>Balance your activities with an abundance of enjoyable exercise (I prefer walking as that provides mental relaxation/meditation as well)</li>
 </ul>

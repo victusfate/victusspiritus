@@ -51,7 +51,7 @@ comments:
 - id: 10171
   author: The Client Server Class War &mdash; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/06/20/the-client-server-class-war/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/06/20/the-client-server-class-war/
   date: '2011-06-20 14:42:44 -0400'
   date_gmt: '2011-06-20 21:42:44 -0400'
   content: "[...] go to utility for distributed file sharing for most of my net connected
@@ -65,5 +65,5 @@ Here's how The Locker Project will work. Users will be able to download the data
 <p>Jeremie Miller, who crafted XMPP which powers most instant messaging apps, has founded the <a href="https://github.com/quartzjer/Locker">Locker Project</a>.  <a href="http://sing.ly">Sing.ly</a> is the corporate backing providing resources to the open source effort. </p>
 <p>The open source effort is in it's alpha stages so it's likely a little too green to bet your company on. Nonetheless, I have confidence an app architecture and network model will take shape and gain momentum much like the one described by Sing.ly and the Locker Project. CouchDB and Couchone have a similar relationship but focus on distributed apps and data access without a uniform routing layer.</p>
 <p><I>How Locker Projects Communicate</I></p>
-<p>The magic of bringing together isolated islands of personal content is <a href="http://telehash.org">Telehash.org</a>, an implementation of an open source p2p layer that enables network edges to act like servers. I mentioned the routing power of <a href="http://en.wikipedia.org/wiki/Kademlia">Kademlia</a> and Telehash a couple of days back while <a href="http://www.victusspiritus.com/2011/02/02/p2pmsg-a-distributed-message-network/">describing p2pmsg</a>, a notional message layer built on the network. </p>
+<p>The magic of bringing together isolated islands of personal content is <a href="http://telehash.org">Telehash.org</a>, an implementation of an open source p2p layer that enables network edges to act like servers. I mentioned the routing power of <a href="http://en.wikipedia.org/wiki/Kademlia">Kademlia</a> and Telehash a couple of days back while <a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/02/02/p2pmsg-a-distributed-message-network/">describing p2pmsg</a>, a notional message layer built on the network. </p>
 <p>One concern I have is that if Telehash.org is the primary hub for negotiating connections between Lockers, what happens when it goes down? I imagine it's much like domain name servers going offline, other Kademlia routers pick up the slack but this step isn't automated. I'll do a little follow up research this morning and find out if and how this distributed network design protects against the failure of the routing layer.</p>

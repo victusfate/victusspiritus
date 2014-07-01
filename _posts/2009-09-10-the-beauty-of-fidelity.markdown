@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<p style=\"text-align: center;\"><a href=\"http://www.flickr.com/photos/reurinkjan/3297720396/sizes/o/\"><img
-  class=\"aligncenter size-full wp-image-1544\" title=\"Glacier1\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/09/Glacier1.jpg\"
+  class=\"aligncenter size-full wp-image-1544\" title=\"Glacier1\" src=\"{{ site.url }}/assets/2009/09/Glacier1.jpg\"
   alt=\"Glacier1\" width=\"480\" height=\"330\" /></a></p>\r\n\r\n<h2>Low Fidelity</h2>\r\nIn
   a rush? Perhaps you don't require a incredible degree of accuracy, the solution
   is low fidelity. The beauty of fidelity is that it's like a dial, and you can turn
@@ -31,7 +31,7 @@ tags:
 - design
 comments: []
 ---
-<p style="text-align: center;"><a href="http://www.flickr.com/photos/reurinkjan/3297720396/sizes/o/"><img class="aligncenter size-full wp-image-1544" title="Glacier1" src="http://www.victusspiritus.com/wp-content/uploads/2009/09/Glacier1.jpg" alt="Glacier1" width="480" height="330" /></a></p>
+<p style="text-align: center;"><a href="http://www.flickr.com/photos/reurinkjan/3297720396/sizes/o/"><img class="aligncenter size-full wp-image-1544" title="Glacier1" src="{{ site.url }}/assets/2009/09/Glacier1.jpg" alt="Glacier1" width="480" height="330" /></a></p>
 <h2>Low Fidelity</h2>
 <p>In a rush? Perhaps you don't require a incredible degree of accuracy, the solution is low fidelity. The beauty of fidelity is that it's like a dial, and you can turn it down when you are more interested in feeling out a problem or design space, or crank it way up when you absolutely must model ever nuance of nature.</p>
 <p>I can think of at least a half dozen products that started with low fidelity or basic products.</p>

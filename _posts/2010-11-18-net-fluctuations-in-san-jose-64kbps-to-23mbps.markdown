@@ -21,14 +21,14 @@ comments:
   author: The Wonder of Traveling is Awesome, the Comfort of Home is Essential &raquo;
     Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/11/22/the-wonder-of-traveling-is-awesome-the-comfort-of-home-is-essential/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/11/22/the-wonder-of-traveling-is-awesome-the-comfort-of-home-is-essential/
   date: '2010-11-22 06:19:33 -0500'
   date_gmt: '2010-11-22 13:19:33 -0500'
   content: "[...] hotel&#8217;s backbone. While staying at the Fairmont in San Jose
     there were some quirks related to networking that should never have existed: weak
     wifi in rooms, $14/day, and getting cut off and having to [...]"
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/11/20101118-074830.jpg"><img class="alignnone size-full" src="http://www.victusspiritus.com/wp-content/uploads/2010/11/20101118-074830.jpg" alt="" width="500" height="370" /></a><br />
+<p><a href="{{ site.url }}/assets/2010/11/20101118-074830.jpg"><img class="alignnone size-full" src="{{ site.url }}/assets/2010/11/20101118-074830.jpg" alt="" width="500" height="370" /></a><br />
 Howdy eager readers and net junkies. I've traveled across the continent to hitch a cheap room with my wife, who's busy at the AMP conference in mid town San Jose.</p>
 <p>Upon arriving in SFO I slurped up a steady 1mbps at the airport to fire off a quick and dirty post yesterday afternoon. Off to a healthy connectivity start, we proceeded to drive to San Jose. The trip from the airport to our hotel only took 25 minutes, which was faster than we expected.</p>
 <p>The problems began at the Fairmont after check in. There's no free wifi to hotel residents. The cost is $14/night which is rather steep for a few million bits. The hotel staff was friendly and keyed us into the fact that president club members get free wifi, and that there was no additional fee to join the club. We eagerly signed up and in the meantime the fee would be added to our hotel room charges, and waived after the paperwork cleared.</p>

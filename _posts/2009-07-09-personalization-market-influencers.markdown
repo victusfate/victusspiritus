@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<a href=\"http://www.flickr.com/photos/scobleizer/\"><img class=\"aligncenter
-  size-full wp-image-1012\" title=\"InfluencerGuyKawasaki\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/07/InfluencerGuyKawasaki.jpg\"
+  size-full wp-image-1012\" title=\"InfluencerGuyKawasaki\" src=\"{{ site.url }}/assets/2009/07/InfluencerGuyKawasaki.jpg\"
   alt=\"InfluencerGuyKawasaki\" width=\"480\" height=\"335\" /></a>\r\n<p style=\"text-align:
   center;\">Guy Kawasaki Exudes Influence</p>\r\n\r\n<h2>Customization</h2>\r\nWe
   automatically personalize our social interactions. Different friends and associates
@@ -53,7 +53,7 @@ comments:
 - id: 1924
   author: EMP Project Evolution Cycle
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/12/01/emp-project-evolution-cycle/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/12/01/emp-project-evolution-cycle/
   date: '2009-12-01 07:16:14 -0500'
   date_gmt: '2009-12-01 14:16:14 -0500'
   content: "[...] Personalization and style are essential tools of differentiation
@@ -84,7 +84,7 @@ comments:
   content: Thanks Arnold, glad you found some value in my ramblings ;). Some of the
     ideas here are based on Steven Blank&#39;s Super Mac story.
 ---
-<p><a href="http://www.flickr.com/photos/scobleizer/"><img class="aligncenter size-full wp-image-1012" title="InfluencerGuyKawasaki" src="http://www.victusspiritus.com/wp-content/uploads/2009/07/InfluencerGuyKawasaki.jpg" alt="InfluencerGuyKawasaki" width="480" height="335" /></a></p>
+<p><a href="http://www.flickr.com/photos/scobleizer/"><img class="aligncenter size-full wp-image-1012" title="InfluencerGuyKawasaki" src="{{ site.url }}/assets/2009/07/InfluencerGuyKawasaki.jpg" alt="InfluencerGuyKawasaki" width="480" height="335" /></a></p>
 <p style="text-align: center;">Guy Kawasaki Exudes Influence</p>
 <h2>Customization</h2>
 <p>We automatically personalize our social interactions. Different friends and associates require us to treat them with customized engagement. We are far more familiar in our language topics and tone with good friends. New acquantences require a more cordial but neutral tone and interaction.</p>

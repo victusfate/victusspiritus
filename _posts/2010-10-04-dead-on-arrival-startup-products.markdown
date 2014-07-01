@@ -44,7 +44,7 @@ comments:
 - id: 6361
   author: The New Journalist is the man in the arena &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/10/10/the-new-journalist-is-the-man-in-the-arena/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/10/10/the-new-journalist-is-the-man-in-the-arena/
   date: '2010-10-10 12:36:35 -0400'
   date_gmt: '2010-10-10 19:36:35 -0400'
   content: "[...] the content for later review with a JavaScript bookmarklet and Instapaper

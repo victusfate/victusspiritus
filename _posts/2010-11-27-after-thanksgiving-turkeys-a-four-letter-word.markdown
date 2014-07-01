@@ -17,9 +17,9 @@ tags:
 - holiday
 comments: []
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/11/turkey1.jpg"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/11/turkey1.jpg" alt="" title="turkey1" width="415" height="325" class="aligncenter size-full wp-image-6046" /></a><br />
+<p><a href="{{ site.url }}/assets/2010/11/turkey1.jpg"><img src="{{ site.url }}/assets/2010/11/turkey1.jpg" alt="" title="turkey1" width="415" height="325" class="aligncenter size-full wp-image-6046" /></a><br />
 There was a bit of a mixup this holiday where both my pop, and my wife both purchased turkeys. The plan was for us to cook and transport the turkey to my folks place Thursday. Three days ago we found out about the dueling birds which left us distraught (not very) and torn over what the heck to do with the unfrozen behemoth in our fridge. Was our only recourse to fire the bird out of a giant slingshot in hopes of crushing pigs, effectively swapping turkey for bacon?<br />
-<a href="http://en.wikipedia.org/wiki/Angry_Birds"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/11/angry-birds_1.jpg" alt="" title="angry-birds_1" width="480" height="320" class="aligncenter size-full wp-image-6047" /></a></p>
+<a href="http://en.wikipedia.org/wiki/Angry_Birds"><img src="{{ site.url }}/assets/2010/11/angry-birds_1.jpg" alt="" title="angry-birds_1" width="480" height="320" class="aligncenter size-full wp-image-6047" /></a></p>
 <p><i>The Post Thanksgiving Pot Luck Dinner Party</i><br />
 My gracious friends are hosting a pot luck dinner where there's only one rule: </p>
 <blockquote><p>

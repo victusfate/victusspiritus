@@ -59,14 +59,14 @@ comments:
   author: Brushing Up on Computer Science Part 2, Object Oriented Programming (OOP)
     &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/03/15/brushing-up-on-computer-science-part-2-object-oriented-programming-oop/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/03/15/brushing-up-on-computer-science-part-2-object-oriented-programming-oop/
   date: '2011-03-15 05:34:52 -0400'
   date_gmt: '2011-03-15 12:34:52 -0400'
   content: "[...] Intro and Big O [...]"
 - id: 9443
   author: Brushing Up on Computer Science Part 3, Data Structures &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/03/16/brushing-up-on-computer-science-part-3-data-structures/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/03/16/brushing-up-on-computer-science-part-3-data-structures/
   date: '2011-03-16 05:02:13 -0400'
   date_gmt: '2011-03-16 12:02:13 -0400'
   content: "[...] Intro and Big O [...]"
@@ -90,7 +90,7 @@ comments:
 - id: 9514
   author: Brushing Up on Computer Science Part 4, Algorithms &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/03/17/brushing-up-on-computer-science-part-4-algorithms/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/03/17/brushing-up-on-computer-science-part-4-algorithms/
   date: '2011-03-17 06:33:52 -0400'
   date_gmt: '2011-03-17 13:33:52 -0400'
   content: "[...] Intro and Big O [...]"
@@ -98,7 +98,7 @@ comments:
   author: Brushing up on Computer Science Part 5, Graphs, Networks, and Operating
     Systems &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/03/17/brushing-up-on-computer-science-part-5-graphs-networks-and-operating-systems/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/03/17/brushing-up-on-computer-science-part-5-graphs-networks-and-operating-systems/
   date: '2011-03-18 09:14:42 -0400'
   date_gmt: '2011-03-18 16:14:42 -0400'
   content: "[...] Intro and Big O [...]"
@@ -108,7 +108,7 @@ comments:
   author_url: http://nerdson.com/blog/cold-case/
   date: '2011-04-02 16:14:57 -0400'
   date_gmt: '2011-04-02 23:14:57 -0400'
-  content: "[...] http://www.victusspiritus.com/2011/03/14/brushing-up-on-computer-science-part-1-big-o/
+  content: "[...] http://victusfate.github.io/victusspiritus/uncategorized/2011/03/14/brushing-up-on-computer-science-part-1-big-o/
     [...]"
 ---
 <p>"Those who cannot remember the past are condemned to repeat it"<br />
@@ -118,11 +118,11 @@ comments:
 <p>Early this morning I was <em>inspired</em> to review the basics of computer science, including object oriented programming, data structures, common algorithms and characterization of complexity (Big O) by blogging friend <a href="http://codingrelic.geekhold.com/">Denton Gentry</a>. I leave the source of my inspiration as an exercise in deductive reasoning. </p>
 <p>These posts will serve as a study guide for myself, and anyone else who chooses to read or contribute to them. I'll add to each post as I gather more relevant material and a fresher understanding of the types of issues and real world problems that demand readily accessible knowledge. Here are the 5-ish posts I'm planning on writing up:</p>
 <ol>
-<li><a href="http://www.victusspiritus.com/2011/03/14/brushing-up-on-computer-science-part-1-big-o/">Intro and Big O</a></li>
-<li><a href="http://www.victusspiritus.com/2011/03/15/brushing-up-on-computer-science-part-2-object-oriented-programming-oop/">Object Oriented Programming</a></li>
-<li><a href="http://www.victusspiritus.com/2011/03/16/brushing-up-on-computer-science-part-3-data-structures/">Data Structures</a>: arrays, lists, trees, hash tables</li>
-<li><a href="http://www.victusspiritus.com/2011/03/17/brushing-up-on-computer-science-part-4-algorithms/">Algorithms</a> (searches, sorts, maths!)</li>
-<li><a href="http://www.victusspiritus.com/2011/03/17/brushing-up-on-computer-science-part-5-graphs-networks-and-operating-systems/">Graphs, Networks, and Operating Systems</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/03/14/brushing-up-on-computer-science-part-1-big-o/">Intro and Big O</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/03/15/brushing-up-on-computer-science-part-2-object-oriented-programming-oop/">Object Oriented Programming</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/03/16/brushing-up-on-computer-science-part-3-data-structures/">Data Structures</a>: arrays, lists, trees, hash tables</li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/03/17/brushing-up-on-computer-science-part-4-algorithms/">Algorithms</a> (searches, sorts, maths!)</li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/03/17/brushing-up-on-computer-science-part-5-graphs-networks-and-operating-systems/">Graphs, Networks, and Operating Systems</a></li>
 </ol>
 <h2>Big O</h2>
 <p>Let's begin with a review of Big O or Big Omicron. While you can count on Wikipedia to deliver a well written description of <a href="http://en.wikipedia.org/wiki/Big_O_notation">Big O notation</a>, I found William Shields <a href="http://www.cforcoding.com/2009/07/plain-english-explanation-of-big-o.html">Plain English Explanation of Big O Notation</a> to be a concise and welcome companion for brushing off the cobwebs (thanks William). William shares a down to Earth description of Big O:</p>

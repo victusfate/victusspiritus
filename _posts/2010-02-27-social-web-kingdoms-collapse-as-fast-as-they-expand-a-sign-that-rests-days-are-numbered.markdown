@@ -9,7 +9,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 3164
-wordpress_url: http://www.victusspiritus.com/2010/02/27/social-web-kingdoms-collapse-as-fast-as-they-expand-a-sign-that-rests-days-are-numbered/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/02/27/social-web-kingdoms-collapse-as-fast-as-they-expand-a-sign-that-rests-days-are-numbered/
 date: '2010-02-27 08:35:35 -0500'
 date_gmt: '2010-02-27 15:35:35 -0500'
 categories:

@@ -29,7 +29,7 @@ comments:
 - id: 10055
   author: What are the expected returns of venture fund X? &mdash; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/05/28/what-are-the-expected-returns-of-venture-fund-x/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/05/28/what-are-the-expected-returns-of-venture-fund-x/
   date: '2011-05-28 04:42:21 -0400'
   date_gmt: '2011-05-28 11:42:21 -0400'
   content: "[...] big data, heuristics, and artificial intelligence&#8217;. &#8220;,
@@ -62,9 +62,9 @@ comments:
 <p>These aren't necessarily valueless computations, in fact they may be good enough to get you in the ballpark of relatively reasonable conclusions. But using tools blindly like Quadratic Classifiers or Expectation-maximization without making an effort to understand the underlying data and noise distributions is akin to firing blind into a crowded room in hopes of hitting a bulls eye in the dark. A Pearson's Chi-Squared goodness of fit will help reveal whether a data distribution is consistent with a known density function. I've been guilty of this assumption when reviewing novel collects more times than I can remember (poor memory).</p>
 <h2>Additional Reading:</h2>
 <p>The following is a fun infographic on datamining I came across recently (<a href="http://chem-eng.utoronto.ca/~datamining/dmc/data_mining_map.htm">source</a>).<br />
-<a href="http://chem-eng.utoronto.ca/~datamining/dmc/data_mining_map.htm"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/05/DM_map_explain_1.png" alt="" title="DM_map_explain_1" width="613" height="486" class="aligncenter size-full wp-image-9008" /></a><br />
-<a href="http://chem-eng.utoronto.ca/~datamining/dmc/data_mining_map.htm"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/05/DataMining.png" alt="" title="DataMining" width="157" height="48" class="alignleft size-full wp-image-9011" /></a><br />
-<a href="http://chem-eng.utoronto.ca/~datamining/dmc/data_mining_map.htm"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/05/DM_map_predict_1.png" alt="" title="DM_map_predict_1" width="696" height="713" class="aligncenter size-full wp-image-9013" /></a></p>
+<a href="http://chem-eng.utoronto.ca/~datamining/dmc/data_mining_map.htm"><img src="{{ site.url }}/assets/2011/05/DM_map_explain_1.png" alt="" title="DM_map_explain_1" width="613" height="486" class="aligncenter size-full wp-image-9008" /></a><br />
+<a href="http://chem-eng.utoronto.ca/~datamining/dmc/data_mining_map.htm"><img src="{{ site.url }}/assets/2011/05/DataMining.png" alt="" title="DataMining" width="157" height="48" class="alignleft size-full wp-image-9011" /></a><br />
+<a href="http://chem-eng.utoronto.ca/~datamining/dmc/data_mining_map.htm"><img src="{{ site.url }}/assets/2011/05/DM_map_predict_1.png" alt="" title="DM_map_predict_1" width="696" height="713" class="aligncenter size-full wp-image-9013" /></a></p>
 <p>Ilya Grigorik writes one of my favorite technical blogs, he's got a knack for explaining complex problems in comprehensible chunks. I've been working on varied estimation and pattern matching problems for ~15 years, yet I always pick up some novel tricks or new ways of looking at pattern matching problems from visiting. </p>
 <ul>
 <li><a href="http://www.igvita.com/2011/04/20/intuition-data-driven-machine-learning/">Intuition and Data Driven Machine Learning</a></li>

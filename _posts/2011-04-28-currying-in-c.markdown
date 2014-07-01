@@ -20,7 +20,7 @@ comments:
 - id: 9870
   author: Folding in c++ &mdash; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/04/30/folding-in-c/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/04/30/folding-in-c/
   date: '2011-04-30 06:54:20 -0400'
   date_gmt: '2011-04-30 13:54:20 -0400'
   content: "[...] Currying in c++  //   Share and Enjoy: [...]"

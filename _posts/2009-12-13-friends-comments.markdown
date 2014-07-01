@@ -52,14 +52,14 @@ comments:
 - id: 2576
   author: Inspiration is Rooted in Action &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/01/11/inspiration-is-rooted-in-action/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/01/11/inspiration-is-rooted-in-action/
   date: '2010-01-11 07:08:45 -0500'
   date_gmt: '2010-01-11 14:08:45 -0500'
   content: "[...] friends and influencers [...]"
 - id: 3247
   author: The User Service Bargain, Social Web Services &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/03/09/the-user-service-bargain-social-web-services/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/03/09/the-user-service-bargain-social-web-services/
   date: '2010-03-09 07:06:47 -0500'
   date_gmt: '2010-03-09 14:06:47 -0500'
   content: "[...] friends and influencers [...]"

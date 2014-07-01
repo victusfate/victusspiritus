@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<p style=\"text-align: center;\"><a href=\"http://www.victusspiritus.com/3StepsToSatisfaction.pdf\"><img
-  class=\"size-full wp-image-347 aligncenter\" title=\"3stepstosatisfaction\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/05/3stepstosatisfaction.png\"
+  class=\"size-full wp-image-347 aligncenter\" title=\"3stepstosatisfaction\" src=\"{{ site.url }}/assets/2009/05/3stepstosatisfaction.png\"
   alt=\"3stepstosatisfaction\" width=\"480\" height=\"300\" /></a></p>\r\n\r\n<h2>What's
   3 Steps to Satisfaction About?</h2>\r\nAlthough a short read (~50pages) the topics
   covered are based on my discovery of a different way of valuing one's productivity.
@@ -108,7 +108,7 @@ comments:
     iteration better  (more threading of posts along an outline, some more anecdotal
     story, etc).
 ---
-<p style="text-align: center;"><a href="http://www.victusspiritus.com/3StepsToSatisfaction.pdf"><img class="size-full wp-image-347 aligncenter" title="3stepstosatisfaction" src="http://www.victusspiritus.com/wp-content/uploads/2009/05/3stepstosatisfaction.png" alt="3stepstosatisfaction" width="480" height="300" /></a></p>
+<p style="text-align: center;"><a href="http://www.victusspiritus.com/3StepsToSatisfaction.pdf"><img class="size-full wp-image-347 aligncenter" title="3stepstosatisfaction" src="{{ site.url }}/assets/2009/05/3stepstosatisfaction.png" alt="3stepstosatisfaction" width="480" height="300" /></a></p>
 <h2>What's 3 Steps to Satisfaction About?</h2>
 <p>Although a short read (~50pages) the topics covered are based on my discovery of a different way of valuing one's productivity. When faced with difficulties while working on projects I am passionate about, I see them as welcome challenges to be overcome. While reading or paying careful attention throughout the day, I am fortunate enough to be inspired on matters that I believe could use some rethinking or optimization. By altering the way we perceive challenges and harnessing our greatest interests, we are able to create greater value from our productive time. In turn the economic system (our pay/profit) has evolved to yield greater rewards to those responsible for delivering greater perceived value.<a id="more"></a><a id="more-339"></a></p>
 <p>I'm looking for a few generous folks to take 30-40min and review my first ebook.  It's comprised primarily of reorganized blog posts with a few edits/additions.  If you like, leave a comment here and I'll send a copy to your email (or you can grab it at the link below).  I'd really appreciate you sharing your opinion of the ebook via your blog, twitter/friendfeed stream, <a href="http://www.scribd.com/doc/15935704/3-Steps-to-Satisfaction">scribd</a>, or soapbox and any comments here.</p>

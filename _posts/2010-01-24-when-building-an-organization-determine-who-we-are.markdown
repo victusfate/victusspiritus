@@ -22,7 +22,7 @@ comments:
 - id: 3207
   author: Apathetic Visitors are Death to Early Stage Startups &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/03/06/apathetic-visitors-are-death-to-early-stage-startups/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/03/06/apathetic-visitors-are-death-to-early-stage-startups/
   date: '2010-03-06 07:15:19 -0500'
   date_gmt: '2010-03-06 14:15:19 -0500'
   content: "[...] if apathetic users do give feedback, it will mislead a startup.
@@ -30,14 +30,14 @@ comments:
     greatly from the &#8220;best&#8221; user base. Each startup has to define and
     understand who is their ideal market [...]"
 ---
-<p style="text-align: center;"><a href="http://aakin.net/photography"><img class="aligncenter size-large wp-image-2816" title="PICT8857-62--nevada_mountains" src="http://www.victusspiritus.com/wp-content/uploads/2010/01/PICT8857-62-nevada_mountains-1024x672.jpg" alt="" width="800" height="572" /></a> (thanks to my friend <a href="http://aakin.net/photography">Aakin</a> for this incredible photo, he does freelance photography)</p>
+<p style="text-align: center;"><a href="http://aakin.net/photography"><img class="aligncenter size-large wp-image-2816" title="PICT8857-62--nevada_mountains" src="{{ site.url }}/assets/2010/01/PICT8857-62-nevada_mountains-1024x672.jpg" alt="" width="800" height="572" /></a> (thanks to my friend <a href="http://aakin.net/photography">Aakin</a> for this incredible photo, he does freelance photography)</p>
 <p>Who do you wish to share an organization with?<br />
 Who is the ideal "us" to help grow and sustain the community?<br />
 Who are you and your band ardently working to support?</p>
 <h2>Why worry about "we"</h2>
 <p>I can become exhausted. I can lose faith in the face of tremendous hardship. I can fail to find a way past unknown obstacles. I can accept my own excuses.</p>
 <p>We are tireless. We support eachother's belief. Like water we can flow around any boulder. We push forward, excuses play no part in our collective will to succeed.</p>
-<p>The idea of membership is applicable to any organization whether it's a sports team, a non-profit, or a business venture. This is an early hurdle and ongoing concern as groups grow. We have to know more than what we're working to accomplish, and who will benefit from our efforts. Success depends on continually making the right decision as to who "we" are. Each of us has to choose who best compliments our mutual success. Open or decentralized organizations are fast growing because <a href="http://www.victusspiritus.com/2009/06/01/the-importance-of-corporate-culture/">the culture</a> of the group helps attract new members.</p>
+<p>The idea of membership is applicable to any organization whether it's a sports team, a non-profit, or a business venture. This is an early hurdle and ongoing concern as groups grow. We have to know more than what we're working to accomplish, and who will benefit from our efforts. Success depends on continually making the right decision as to who "we" are. Each of us has to choose who best compliments our mutual success. Open or decentralized organizations are fast growing because <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/06/01/the-importance-of-corporate-culture/">the culture</a> of the group helps attract new members.</p>
 <p>For those who share a passion for business building, let's take a look at who "we" refers to for a startup. "We" can mean:</p>
 <ul>
 <li>the founders</li>

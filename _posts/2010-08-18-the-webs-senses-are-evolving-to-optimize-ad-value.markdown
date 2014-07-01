@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 4929
-wordpress_url: http://www.victusspiritus.com/2010/08/18/the-webs-senses-are-evolving-to-optimize-ad-value/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/08/18/the-webs-senses-are-evolving-to-optimize-ad-value/
 date: '2010-08-18 04:50:37 -0400'
 date_gmt: '2010-08-18 11:50:37 -0400'
 categories:

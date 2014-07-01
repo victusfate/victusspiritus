@@ -261,7 +261,7 @@ comments:
     to cultivate a beautiful information sharing hub in the most important section
     of this blog, the comments. A space we share.
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/06/l_2048_1536_FD77A1D5-7BB3-465B-AE9D-28B5DE2EC99F.jpeg"><img class="alignnone size-full" src="http://www.victusspiritus.com/wp-content/uploads/2010/06/l_2048_1536_FD77A1D5-7BB3-465B-AE9D-28B5DE2EC99F.jpeg" alt="" /></a></p>
+<p><a href="{{ site.url }}/assets/2010/06/l_2048_1536_FD77A1D5-7BB3-465B-AE9D-28B5DE2EC99F.jpeg"><img class="alignnone size-full" src="{{ site.url }}/assets/2010/06/l_2048_1536_FD77A1D5-7BB3-465B-AE9D-28B5DE2EC99F.jpeg" alt="" /></a></p>
 <p><em>Yesterday was a day of rest, relaxing, and recovery in Maui. I caught up with a few blog posts from friends while Michelle caught up on sleep. Here's my response to what's happening</em></p>
 <h2>Links to Posts Mentioned</h2>
 <p><a href="http://www.google.com/buzz/bslatkin/aBawa6jAzvL">Brett Slatkin thinks over Rising Tides</a></p>

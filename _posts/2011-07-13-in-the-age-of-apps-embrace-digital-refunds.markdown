@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 9671
-wordpress_url: http://www.victusspiritus.com/2011/07/13/in-the-age-of-apps-embrace-digital-refunds/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/07/13/in-the-age-of-apps-embrace-digital-refunds/
 date: '2011-07-13 04:09:46 -0400'
 date_gmt: '2011-07-13 11:09:46 -0400'
 categories:

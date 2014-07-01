@@ -129,7 +129,7 @@ comments:
 <p><I>99 pages of apps<br />
 What should happen if one should fall?<br />
 98 pages of apps on the wall</I><br />
-<a href="http://www.victusspiritus.com/wp-content/uploads/2010/09/p_960_640_5C2180F0-3798-46D2-A178-E9C81B01C16D.jpeg"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/09/p_960_640_5C2180F0-3798-46D2-A178-E9C81B01C16D.jpeg" alt="" class="alignnone size-full" /></a><br />
+<a href="{{ site.url }}/assets/2010/09/p_960_640_5C2180F0-3798-46D2-A178-E9C81B01C16D.jpeg"><img src="{{ site.url }}/assets/2010/09/p_960_640_5C2180F0-3798-46D2-A178-E9C81B01C16D.jpeg" alt="" class="alignnone size-full" /></a><br />
 Between the 250k+ iOS apps, 100k+ android apps, and the plethora of browser based apps, we are overwhelmed with choices. The need may arise for us to install or bookmark (little difference) only a minuscule fraction of the what's available. I prefer to cluster Internet apps together, characterized as any program which relies heavily on an Internet backend. One would imagine the market for apps has been saturated and thus commoditized, but this is not entirely true.</p>
 <p><I>Welcome to the Jungle</I></p>
 <p>The flood of apps is saturated with limited quality and ultra simple tools. But the diversity and level of specialization benefits the client (us) by providing a rich set of options at minimal cost per user. There is a thriving ecosystem of competitive Internet apps where the makers of dominant designs are highly rewarded. Ongoing marketing research coupled with efficient and effective solutions are what differentiates success (adoption) from failure (apathy). Delivering desired apps results in explosive network growth, powered by a wave of praise from peers with little barrier to entry.</p>

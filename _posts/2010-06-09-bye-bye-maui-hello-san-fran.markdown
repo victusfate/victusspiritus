@@ -18,7 +18,7 @@ tags:
 - travel
 comments: []
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/06/l_2048_1536_668A2B85-4147-41A9-BEA6-D46B88E7837A.jpeg"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/06/l_2048_1536_668A2B85-4147-41A9-BEA6-D46B88E7837A.jpeg" alt="" class="alignnone size-full" /></a></p>
+<p><a href="{{ site.url }}/assets/2010/06/l_2048_1536_668A2B85-4147-41A9-BEA6-D46B88E7837A.jpeg"><img src="{{ site.url }}/assets/2010/06/l_2048_1536_668A2B85-4147-41A9-BEA6-D46B88E7837A.jpeg" alt="" class="alignnone size-full" /></a></p>
 <p><I>our last sunset in Maui</I><br />
 There's only so much vacationing I can handle at a time. After a few days of bad sleep, I miss the comfort of my bed. After a few days without getting any productive work done, I feel like a bump on a log, and out of place. As beautiful and enjoyable as Maui has been, I can't wait to head home and get back on a regular schedule. The eight full days here have felt like one long expensive Disney ride, disconnected from reality, yet full of wonderful moments shared with my new wife Michelle.</p>
 <p>We're scheduled to fly to San Francisco through Honolulu tomorrow and both happy to be heading back to mainland and one step closer to home. We're spending a brief three nights to scope out the San Francisco area and meeting friends, before our final flight home Saturday. So far family and kind friends have suggested the following sights to see while in the Bay Area.</p>

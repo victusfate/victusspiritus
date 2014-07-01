@@ -100,7 +100,7 @@ comments:
     to cities and mainland. It&#39;s fun visiting by I&#39;m not  <br>ready to become
     a Hawaiin.<br><br>Heading to Bay Area Wednesday, psyches to go.
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/06/l_2048_1536_26F90795-AEC0-4AC8-92F8-CBBB3EC1F45C.jpeg"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/06/l_2048_1536_26F90795-AEC0-4AC8-92F8-CBBB3EC1F45C.jpeg" alt="" class="alignnone size-full" /></a></p>
+<p><a href="{{ site.url }}/assets/2010/06/l_2048_1536_26F90795-AEC0-4AC8-92F8-CBBB3EC1F45C.jpeg"><img src="{{ site.url }}/assets/2010/06/l_2048_1536_26F90795-AEC0-4AC8-92F8-CBBB3EC1F45C.jpeg" alt="" class="alignnone size-full" /></a></p>
 <h2>Two Tickets to Paradise</h2>
 <p>Honeymooning on Maui has inspired my imagination with delusions of grandeur. The potential corporation I struggle to lay the bedrock for once again has drawn a large part of my curiousity. This time the corporate culture's relation to location is the topic of interest. If we can pursue our passions and earn a generous income with a business of our own design, why not do so in a tropical paradise?  </p>
 <h2>Obstacles</h2>

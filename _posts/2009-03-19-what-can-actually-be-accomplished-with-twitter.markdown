@@ -41,7 +41,7 @@ comments:
 - id: 104
   author: How to Web Market and Use Social Media
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/04/24/how-to-web-market-and-use-social-media/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/04/24/how-to-web-market-and-use-social-media/
   date: '2009-06-13 03:36:34 -0400'
   date_gmt: '2009-06-13 10:36:34 -0400'
   content: "[...] What can be accomplished with twitter? - There&#8217;s a strong
@@ -52,7 +52,7 @@ comments:
 - id: 123
   author: Monetization for Web2010
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/06/21/monetization-for-web2010/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/06/21/monetization-for-web2010/
   date: '2009-06-21 07:15:31 -0400'
   date_gmt: '2009-06-21 14:15:31 -0400'
   content: "[...] What Can Be Accomplished With Twitter [...]"

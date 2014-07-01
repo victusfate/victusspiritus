@@ -22,7 +22,7 @@ comments:
   author: Sing.ly where Local Apps Compete on Value not Network Lock In &raquo; Victus
     Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/02/04/sing-ly-where-local-apps-compete-on-value-not-network-lock-in/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/02/04/sing-ly-where-local-apps-compete-on-value-not-network-lock-in/
   date: '2011-02-04 06:32:51 -0500'
   date_gmt: '2011-02-04 13:32:51 -0500'
   content: "[...] like servers. I mentioned the routing power of Kademlia and Telehash
@@ -31,7 +31,7 @@ comments:
 - id: 9837
   author: Under the Tent Mesh &mdash; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/04/15/under-the-tent-mesh/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/04/15/under-the-tent-mesh/
   date: '2011-04-16 04:17:39 -0400'
   date_gmt: '2011-04-16 11:17:39 -0400'
   content: "[...] distributed routing would require optimization for a highly dynamic

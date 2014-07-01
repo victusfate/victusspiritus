@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 3325
-wordpress_url: http://www.victusspiritus.com/2010/03/17/drm-and-the-web-conflicting-ideologies/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/03/17/drm-and-the-web-conflicting-ideologies/
 date: '2010-03-17 05:08:59 -0400'
 date_gmt: '2010-03-17 12:08:59 -0400'
 categories:
@@ -82,7 +82,7 @@ comments:
     people like to watch something a few more times for example.
 ---
 <p>Recently I picked up a new living room computer (Acer Aspire Revo, named "Ouroborus") and a pretty juiced up LCD*. I decided it was time for an upgrade from the 10 year old projector tv, which hasn't been able to stream web content since the XBOX 360 red ringed (died). </p>
-<p>Windows 95 (the purchased OS) had some issues. Nothing major, but I couldn't get the audio driver to enable Nvidia HDMI audio. My fiancé had a windows trojan catastrophe a few months back so neither of us were excited about having another time bomb to constantly have to monitor, soothe, and coax into functionality. Being very satisfied with the <a HREF="http://www.victusspiritus.com/2010/01/31/cutting-ties-with-my-old-friend-microsoft/">switch to Ubuntu</a> on my desktop I decided to do the same for Ouroborus (the Revo).</p>
+<p>Windows 95 (the purchased OS) had some issues. Nothing major, but I couldn't get the audio driver to enable Nvidia HDMI audio. My fiancé had a windows trojan catastrophe a few months back so neither of us were excited about having another time bomb to constantly have to monitor, soothe, and coax into functionality. Being very satisfied with the <a HREF="http://victusfate.github.io/victusspiritus/uncategorized/2010/01/31/cutting-ties-with-my-old-friend-microsoft/">switch to Ubuntu</a> on my desktop I decided to do the same for Ouroborus (the Revo).</p>
 <p>After I setup a USB stick with the latest 64bit Ubuntu install a couple of days back, I finally got sound working on Ouroborus connected by an HDMI cable to the living room display. I snagged Boxee and sat back on the couch ready to enjoy some Netflix instant queue goodness with Michelle and my brother Ron. But to my surprise, there was no Netflix option. A few hurried searches later and it sunk in that there was and would not be for some time a "Silverlight" Netflix streaming solution on any Linux systems (without virtual windows/Mac operating systems). So I did what every content hungry shopper would do, I looked for competition!   </p>
 <h2>Netflix is the only Subscription Content Streaming Game in Town</h2>
 <p>I <I>was</I> a happy user of Netlix for over a year, and enjoyed the content they enabled with their streaming service. As I mentioned above, I moved away from Windows to Ubuntu flavored Linux and it tastes great, except I've noticed a couple of issues. <strong>Web Content</strong> providers aren't comfortable porting to Linux. But wait, isn't one of principles of the web enabling smooth information flow through it without concern for underlying operating systems? </p>

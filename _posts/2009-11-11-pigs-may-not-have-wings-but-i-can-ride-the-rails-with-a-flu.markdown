@@ -23,15 +23,15 @@ comments:
 - id: 1807
   author: 'Practical Programming: Holding the Flow of Code in Mind'
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/11/22/practical-programming-holding-the-flow-of-code-in-mind/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/11/22/practical-programming-holding-the-flow-of-code-in-mind/
   date: '2009-11-22 10:39:14 -0500'
   date_gmt: '2009-11-22 17:39:14 -0500'
   content: "[...] Pigs may not have wings, but I can Ride the Rails with a flu (victusspiritus.com)
     [...]"
 ---
-<p style="text-align: center;"><a href="http://www.stuckincustoms.com"><img class="size-full wp-image-2110 aligncenter" title="Circumnavigating the Lake" src="http://www.victusspiritus.com/wp-content/uploads/2009/11/MountainLake.jpg" alt="Circumnavigating the Lake" width="480" height="330" /></a></p>
+<p style="text-align: center;"><a href="http://www.stuckincustoms.com"><img class="size-full wp-image-2110 aligncenter" title="Circumnavigating the Lake" src="{{ site.url }}/assets/2009/11/MountainLake.jpg" alt="Circumnavigating the Lake" width="480" height="330" /></a></p>
 <h1>The Swine Strikes Back?</h1>
-<p>Wishful thinking wasn't enough to be free and clear of this year's flu back in <a href="http://www.victusspiritus.com/2009/09/23/the-seasonal-sickness-influenza/">September</a>.  That was before things jumped the shark, and schools closed. I heard this morning from <a href="http://www.victusspiritus.com/2009/09/29/familiarity-breeds-friendship/">Bill</a> at 7-11 that 160 kids were out sick yesterday at the local Port Jeff school. Take a few minutes to <a href="http://www.google.org/flutrends/">catch up on the flu trends</a> and you'll see how ruthlessly effective this years flu variants have been.</p>
+<p>Wishful thinking wasn't enough to be free and clear of this year's flu back in <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/09/23/the-seasonal-sickness-influenza/">September</a>.  That was before things jumped the shark, and schools closed. I heard this morning from <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/09/29/familiarity-breeds-friendship/">Bill</a> at 7-11 that 160 kids were out sick yesterday at the local Port Jeff school. Take a few minutes to <a href="http://www.google.org/flutrends/">catch up on the flu trends</a> and you'll see how ruthlessly effective this years flu variants have been.</p>
 <p>[iframe http://www.google.org/flutrends/ 480 600]<br />
 [iframe http://www.google.org/flutrends/us/ 480 600]</p>
 <h1>Ruby on Rails</h1>

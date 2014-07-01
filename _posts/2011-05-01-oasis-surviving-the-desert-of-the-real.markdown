@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 8702
-wordpress_url: http://www.victusspiritus.com/2011/05/01/oasis-surviving-the-desert-of-the-real/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/05/01/oasis-surviving-the-desert-of-the-real/
 date: '2011-05-01 09:23:16 -0400'
 date_gmt: '2011-05-01 16:23:16 -0400'
 categories:

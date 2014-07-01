@@ -142,7 +142,7 @@ comments:
     etc...<br>Seems a bit rough, but I think it&#39;s can be pretty powerful and quite
     lucrative if properly set up. :)
 ---
-<p><a href="http://m.flickr.com/#/photos/mr_mo-fo/2138740820/"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/03/l_500_333_86307DF1-0236-430C-BCD9-BF5B8D577ACD.jpeg" alt="" class="alignnone size-full" /></a></p>
+<p><a href="http://m.flickr.com/#/photos/mr_mo-fo/2138740820/"><img src="{{ site.url }}/assets/2010/03/l_500_333_86307DF1-0236-430C-BCD9-BF5B8D577ACD.jpeg" alt="" class="alignnone size-full" /></a></p>
 <p><I>This post let me air out some rebellious feelings and frustrations with a world that changes 100times slower than I'd like. Patience is a virtue.</I><br />
 I've got a bone to pick with fixed wages, incumbent business systems and outdated financial models. I'm thankful that they've been the foundation of our economy and sustained my life until now, but they have unerringly lead to a society of doing just enough. Productivity is stuck in a local optimal that's shrinking every day.</p>
 <ul>

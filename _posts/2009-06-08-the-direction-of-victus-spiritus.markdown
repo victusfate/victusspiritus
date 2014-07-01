@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<p style=\"text-align: center;\"><a href=\"http://www.flickr.com/photos/gesal/\"><img
-  class=\"size-full wp-image-522 aligncenter\" title=\"direction_redarrows\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/06/direction_redarrows.jpg\"
+  class=\"size-full wp-image-522 aligncenter\" title=\"direction_redarrows\" src=\"{{ site.url }}/assets/2009/06/direction_redarrows.jpg\"
   alt=\"direction_redarrows\" width=\"491\" height=\"369\" /></a></p>\r\n\r\nAfter
   writing up the following in a brief message to fellow blogger <a href=\"http://www.qrimp.com/blog/profiles.Randall.html\">Randall</a>
   (recently discovered both of us perceive a similar near future). I thought it best
@@ -125,7 +125,7 @@ comments:
   date_gmt: '2009-06-10 05:50:30 -0400'
   content: ")))))))))))))))))))))))))))))•<br>      ___o    <br>     /    <br>•(((((((((((((((((((((((((((("
 ---
-<p style="text-align: center;"><a href="http://www.flickr.com/photos/gesal/"><img class="size-full wp-image-522 aligncenter" title="direction_redarrows" src="http://www.victusspiritus.com/wp-content/uploads/2009/06/direction_redarrows.jpg" alt="direction_redarrows" width="491" height="369" /></a></p>
+<p style="text-align: center;"><a href="http://www.flickr.com/photos/gesal/"><img class="size-full wp-image-522 aligncenter" title="direction_redarrows" src="{{ site.url }}/assets/2009/06/direction_redarrows.jpg" alt="direction_redarrows" width="491" height="369" /></a></p>
 <p>After writing up the following in a brief message to fellow blogger <a href="http://www.qrimp.com/blog/profiles.Randall.html">Randall</a> (recently discovered both of us perceive a similar near future). I thought it best to share the direction I'll be taking the blog over the next few months with VS community members (aka readers/commenters, you).</p>
 <p><a id="more"></a><a id="more-521"></a></p>
 <p>Just a heads up for the topics I like to study/concentrate on/write about:</p>

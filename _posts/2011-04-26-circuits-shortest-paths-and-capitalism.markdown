@@ -22,9 +22,9 @@ tags:
 comments: []
 ---
 <h2>Shortest Paths</h2>
-<p>A few weeks back I <a href="http://www.victusspiritus.com/2011/03/19/variant-travelling-salesman-problem-solved-by-sharks/">mentioned</a> a well known resource minimization problem called the Traveling Salesman, and a far out "solution" to an analogous problem (scavenging) leveraging life. Graph theory is an area rich in algorithms which are designed to yield optimal, or more often good enough answers to problems which can't be computed exhaustively<sup><a href="#notes">1</a></sup>. In this morning's riff I'll explore similarities between shortest paths, current flow and capitalism and hopefully learn a little in the process.</p>
+<p>A few weeks back I <a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/03/19/variant-travelling-salesman-problem-solved-by-sharks/">mentioned</a> a well known resource minimization problem called the Traveling Salesman, and a far out "solution" to an analogous problem (scavenging) leveraging life. Graph theory is an area rich in algorithms which are designed to yield optimal, or more often good enough answers to problems which can't be computed exhaustively<sup><a href="#notes">1</a></sup>. In this morning's riff I'll explore similarities between shortest paths, current flow and capitalism and hopefully learn a little in the process.</p>
 <h2>Ohm's Law</h2>
-<p><a href="http://www.allaboutcircuits.com/vol_1/chpt_5/6.html"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/04/OhmsLawParallelCircuit.png" alt="" title="OhmsLawParallelCircuit" width="462" height="382" class="aligncenter size-full wp-image-8648" /></a><br />
+<p><a href="http://www.allaboutcircuits.com/vol_1/chpt_5/6.html"><img src="{{ site.url }}/assets/2011/04/OhmsLawParallelCircuit.png" alt="" title="OhmsLawParallelCircuit" width="462" height="382" class="aligncenter size-full wp-image-8648" /></a><br />
 Current flow through parallel networks (optional paths) is inversely proportional to the resistance along each path. Put another way, current automatically finds and flows along the most energy efficient path between potential differences. The shortest path for circuits can be thought of as the set of currents which optimize flow. An interesting result of parallel flow is that a single zero resistance path nullifies current through alternative routes (commoditize the complement<sup><a href="#notes">2</a></sup>).</p>
 <blockquote><p>
 Ohm's law states that the current through a conductor between two points is directly proportional to the potential difference across the two points, and inversely proportional to the resistance between them.<br />
@@ -46,7 +46,7 @@ Economic systems: is a set of institutions for allocating resources and making c
 </ol>
 <p>Related links:</p>
 <ul>
-<li><a href="http://www.victusspiritus.com/2011/03/19/variant-travelling-salesman-problem-solved-by-sharks/">Variant Traveling Salesman Problem Solved by Sharks</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/03/19/variant-travelling-salesman-problem-solved-by-sharks/">Variant Traveling Salesman Problem Solved by Sharks</a></li>
 <li><a href="http://en.m.wikipedia.org/wiki/Ohm%27s_law">Ohm's Law</a></li>
 <li><a href="http://www2.gsu.edu/~ecomaa/Lecture3.htm">Pure Capitalism</a></li>
 </ul>

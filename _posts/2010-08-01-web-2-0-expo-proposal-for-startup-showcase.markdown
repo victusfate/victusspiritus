@@ -30,7 +30,7 @@ comments:
     Flash Platform, AIR 2.5, Andriod, RIA, LiveCycles, PHP, web 2.0 and more. I found
     the information about the conference from <a href="http://adobesummit.com" rel="nofollow">adobesummit.com</a>
 ---
-<p>[caption id="attachment_4759" align="aligncenter" width="177" caption="click through the image to apply"]<a href="http://www.web2expo.com/webexny2010/public/cfp/119"><img class="size-full wp-image-4759 " title="web2.0_expo" src="http://www.victusspiritus.com/wp-content/uploads/2010/08/web2.0_expo.jpg" alt="" width="177" height="200" /></a>[/caption]</p>
+<p>[caption id="attachment_4759" align="aligncenter" width="177" caption="click through the image to apply"]<a href="http://www.web2expo.com/webexny2010/public/cfp/119"><img class="size-full wp-image-4759 " title="web2.0_expo" src="{{ site.url }}/assets/2010/08/web2.0_expo.jpg" alt="" width="177" height="200" /></a>[/caption]</p>
 <h2>The Sands of Time by Victus Media</h2>
 <p><strong>Description:</strong> Time heals all wounds, except information glut, the byproduct of our insatiable thirst for awareness. Smart filters and archiving are the key to controlling our destiny not as servants to data but as knowledge brokers.</p>
 <p><strong>Abstract:</strong></p>

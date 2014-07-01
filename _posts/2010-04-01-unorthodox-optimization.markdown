@@ -22,7 +22,7 @@ comments:
   author: 'Victus Spiritus &raquo; Blog Archive &raquo; Ideal Coding: Easy to Pickup
     Yet Abundant in Function'
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/04/03/ideal-coding-easy-to-pickup-yet-abundant-in-function/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/04/03/ideal-coding-easy-to-pickup-yet-abundant-in-function/
   date: '2010-04-03 05:50:39 -0400'
   date_gmt: '2010-04-03 12:50:39 -0400'
   content: "[...] I took away from my morning readings is that unorthodox optimization
@@ -31,12 +31,12 @@ comments:
 - id: 4665
   author: Is there a Moore&#8217;s Law for Machine Intelligence? | Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/07/03/is-there-a-moores-law-for-machine-intelligence/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/07/03/is-there-a-moores-law-for-machine-intelligence/
   date: '2010-07-03 03:35:14 -0400'
   date_gmt: '2010-07-03 10:35:14 -0400'
   content: "[...] Unorthodox Optimization (victusspiritus.com) [...]"
 ---
-<p><a href="http://aakin.com/"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/04/l_1024_670_587FFFED-184F-48DC-B4F9-F1FC03077E1A.jpeg" alt="" width="500" height="380" /></a></p>
+<p><a href="http://aakin.com/"><img src="{{ site.url }}/assets/2010/04/l_1024_670_587FFFED-184F-48DC-B4F9-F1FC03077E1A.jpeg" alt="" width="500" height="380" /></a></p>
 <p><I>Prompted by recent reads over <a href="http://blog.headius.com/2009/04/how-jruby-makes-ruby-fast.html">JRuby tweaks</a> and <a HREF="http://ihumanable.com/blog/2010/03/micro-optimization/">micro optimizations</a> today's riff will be about a different design route.</I></p>
 <h2>The Grand Daddy of Unorthodox Optimization: The Lisp Machine</h2>
 <p>For a quick background on <a HREF="http://en.m.wikipedia.org/wiki/Lisp_machine?wasRedirected=true">Lisp Machines here's the wikipedia page</a>. Here's a relevant portion:</p>

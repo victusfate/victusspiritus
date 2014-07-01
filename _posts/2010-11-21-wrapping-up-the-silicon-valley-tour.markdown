@@ -20,7 +20,7 @@ comments:
   author: The Wonder of Traveling is Awesome, the Comfort of Home is Essential &raquo;
     Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/11/22/the-wonder-of-traveling-is-awesome-the-comfort-of-home-is-essential/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/11/22/the-wonder-of-traveling-is-awesome-the-comfort-of-home-is-essential/
   date: '2010-11-22 06:26:29 -0500'
   date_gmt: '2010-11-22 13:26:29 -0500'
   content: "[...] together before she ran off to the meeting. I&#8217;d write a post
@@ -66,7 +66,7 @@ comments:
 - id: 7763
   author: Should I stay or should I go now &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/12/07/should-i-stay-or-should-i-go-now/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/12/07/should-i-stay-or-should-i-go-now/
   date: '2010-12-07 06:37:51 -0500'
   date_gmt: '2010-12-07 13:37:51 -0500'
   content: "[...] down to San Jose. While Michelle was busy at the conference, I was

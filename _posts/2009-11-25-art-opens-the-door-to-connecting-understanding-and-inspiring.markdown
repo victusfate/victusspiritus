@@ -64,7 +64,7 @@ comments:
     can go those <br>sits to know more relate things.They are strongly recommended
     by friends.Personally!<br><a href="http://www.you-rselfas.com" rel="nofollow">www.you-rselfas.com</a>
 ---
-<p><a href="http://www.flickr.com/photos/dhilung/"><img class="aligncenter size-full wp-image-2340" title="blob" src="http://www.victusspiritus.com/wp-content/uploads/2009/11/blob.jpg" alt="blob" width="480" height="330" /></a></p>
+<p><a href="http://www.flickr.com/photos/dhilung/"><img class="aligncenter size-full wp-image-2340" title="blob" src="{{ site.url }}/assets/2009/11/blob.jpg" alt="blob" width="480" height="330" /></a></p>
 <h2>Connecting</h2>
 <p>When we share the experience of art, it can create an intimate moment. We percieve a momentary glimpse into the mind of the artist. But even this shared moment becomes something entirely our own. The meaning of a piece is defined by not only the artist but our past, and even the mood we happen to be in while observing the work. An inspiring poem, or glorious HDR photo brings our minds to a place of awe and appreciation.</p>
 <p>We can also share the experience of art with loved ones. We can listen to a beautiful song together, go to an exhibit, or catch a play together. The moment of appreciation and meaning binds us together. The art becomes a connector of sorts between minds. <strong>It is not the art which serves as the conduit of consciousness, but the harmony of mental states it induces</strong>.</p>

@@ -40,7 +40,7 @@ comments:
     can go those <br>sits to know more relate things.They are strongly recommended
     by friends.Personally!<br><a href="http://www.you-rselfas.com" rel="nofollow">www.you-rselfas.com</a>
 ---
-<p><a href="http://fliiby.com/file/73338/jz2zyuasff.html"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/06/l_251_201_311240D7-4C3C-477E-B01F-D336841D7253.jpeg" alt="" class="alignnone size-full" /></a></p>
+<p><a href="http://fliiby.com/file/73338/jz2zyuasff.html"><img src="{{ site.url }}/assets/2010/06/l_251_201_311240D7-4C3C-477E-B01F-D336841D7253.jpeg" alt="" class="alignnone size-full" /></a></p>
 <p>While reading a <a href="http://www.avc.com/a_vc/2010/06/passing-it-on.html">post</a> by Fred Wilson yesterday about <i>passing it on</I> I couldn't help but think about the viral patterns that can be nourished into thriving businesses. The knowledge exchange Fred describes in his post is a concentrated investment methodology that is passed on from senior to junior partners. If the knowledge and skills transferred are based in fundamentals which transcend current markets variations they will survive and spread. My <a href="http://www.avc.com/a_vc/2010/06/passing-it-on.html#comment-55513793">comment</a> there laid the foundation for today's riff:</p>
 <blockquote><p>
 Viral patterns within VC investing. The groovy part about what you're seeing is that if the strategies and concepts Milton and Bliss passed on to you survive "mutations" with each new investor generation they'll eventually be part of the entire industry. </p>

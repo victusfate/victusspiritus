@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 3152
-wordpress_url: http://www.victusspiritus.com/2010/02/24/negative-spaces/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/02/24/negative-spaces/
 date: '2010-02-24 05:20:23 -0500'
 date_gmt: '2010-02-24 12:20:23 -0500'
 categories:

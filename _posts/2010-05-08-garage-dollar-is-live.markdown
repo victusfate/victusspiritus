@@ -52,7 +52,7 @@ comments:
   content: I appreciate their recycling factor, but haven&#39;t gone to many myself.  If
     the model proves valuable it opens the door to other events you may like.
 ---
-<p><a href="http://victusmedia.com/garage-dollar"><img src="http://www.victusspiritus.com/wp-content/uploads/2010/05/l_1579_1075_289CE543-B803-4500-B993-A55947371038.jpeg" alt="" class="alignnone size-full" width="500" height="300" /></a></p>
+<p><a href="http://victusmedia.com/garage-dollar"><img src="{{ site.url }}/assets/2010/05/l_1579_1075_289CE543-B803-4500-B993-A55947371038.jpeg" alt="" class="alignnone size-full" width="500" height="300" /></a></p>
 <p><a HREF="http://victusmedia.com/garage-dollar/">Garage Dollar</a> (G$) is the hottest location based service for folks that love finding deals at garage sales. Fresh off the debugging stack of Victus Media the service is live at <a HREF="http://garagedollar.com">GarageDollar.com</a> and couldn't be easier to use. </p>
 <p>Want to find out about Garage or Yard sales in your area, then subscribe. Want to advertise or broadcast your garage sale to interested people in your area? Go ahead it's only a buck to do so. If you're an avid garage sale fan please pass on word about the service, it'll improve as more folks use it. </p>
 <p>This is an alpha version of the service so expect a lot more polishing and mobile web utility goodness in the coming weeks.</p>

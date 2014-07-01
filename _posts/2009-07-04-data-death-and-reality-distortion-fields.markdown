@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<p style=\"text-align: center;\"><a href=\"http://www.flickr.com/photos/scobleizer\"><img
-  class=\"aligncenter size-full wp-image-968\" title=\"CERN\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/07/CERN1.jpg\"
+  class=\"aligncenter size-full wp-image-968\" title=\"CERN\" src=\"{{ site.url }}/assets/2009/07/CERN1.jpg\"
   alt=\"CERN\" width=\"483\" height=\"724\" /></a></p>\r\n<p style=\"text-align: left;\">Cool
   Picture Robert Scoble took of the CERN which has nothing at all to do with this
   post</p>\r\n\r\n<h2>Where's Database Tech Headed?</h2>\r\nThis three part post starts
@@ -44,7 +44,7 @@ tags:
 - databases
 comments: []
 ---
-<p style="text-align: center;"><a href="http://www.flickr.com/photos/scobleizer"><img class="aligncenter size-full wp-image-968" title="CERN" src="http://www.victusspiritus.com/wp-content/uploads/2009/07/CERN1.jpg" alt="CERN" width="483" height="724" /></a></p>
+<p style="text-align: center;"><a href="http://www.flickr.com/photos/scobleizer"><img class="aligncenter size-full wp-image-968" title="CERN" src="{{ site.url }}/assets/2009/07/CERN1.jpg" alt="CERN" width="483" height="724" /></a></p>
 <p style="text-align: left;">Cool Picture Robert Scoble took of the CERN which has nothing at all to do with this post</p>
 <h2>Where's Database Tech Headed?</h2>
 <p>This three part post starts with a simple discussion of databases and a <a href="http://www.avc.com/a_vc/2009/07/hacker-news-and-the-nosql-movement.html">tip of the hat from Fred Wilson to the Hacker News Community</a>. The post discussed the link strength of HN for AVC (Fred's blog) as well as the more important pooled intellectual attention (I keep coming back to HN for this). The <a href="http://news.ycombinator.com/item?id=683807">database discussion</a> Fred references, contrasts faster, simpler, column or indexed databases (key value store) versus the more powerful <a class="zem_slink" title="Relational database" rel="wikipedia" href="http://en.wikipedia.org/wiki/Relational_database">relational database</a> options (SQL and the like). Commenters chime in to dissect the misinformation of the original post (<a href="http://www.computerworld.com/action/article.do?command=viewArticleBasic&amp;articleId=9135086">No to SQL? Anti-database movement gains steam</a>) and even non-techy readers can learn that the best database solution is likely one customized to the way users access the data (user behavior optimized databases). This was of particular interest to a project I'm working on which will have a user profile database and could potentially be very large. The lookup is easy enough for a key value store, but the strength lies gleaning trends and user patterns/clusters from the database.<a id="more"></a><a id="more-956"></a></p>

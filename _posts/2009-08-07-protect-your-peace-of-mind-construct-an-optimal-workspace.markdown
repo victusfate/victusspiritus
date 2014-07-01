@@ -33,7 +33,7 @@ comments:
 - id: 2075
   author: Reduce Your (team&#8217;s) Bug Tax
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/12/12/reduce-your-teams-bug-tax/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/12/12/reduce-your-teams-bug-tax/
   date: '2009-12-12 10:39:15 -0500'
   date_gmt: '2009-12-12 17:39:15 -0500'
   content: "[...] Protect Your Peace of Mind, Construct an Optimal Workspace [...]"
@@ -41,7 +41,7 @@ comments:
   author: What Karate Kid and the Devil&#8217;s Advocate have in Common &raquo; Victus
     Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/12/14/what-karate-kid-and-the-devils-advocate-have-in-common/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/12/14/what-karate-kid-and-the-devils-advocate-have-in-common/
   date: '2010-12-14 07:00:49 -0500'
   date_gmt: '2010-12-14 14:00:49 -0500'
   content: "[...] readers know I&#8217;m fascinated by mental work states, optimal

@@ -9,15 +9,15 @@ author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<a href=\"http://www.stuckincustoms.com\"><img class=\"aligncenter size-full
   wp-image-2101\" title=\"A Sea of Glass - The Chihuly Exhibit at the Ballagio in
-  Vegas\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/11/DaleChihuliGlassSculptures.jpg\"
+  Vegas\" src=\"{{ site.url }}/assets/2009/11/DaleChihuliGlassSculptures.jpg\"
   alt=\"A Sea of Glass - The Chihuly Exhibit at the Ballagio in Vegas\" width=\"480\"
-  height=\"340\" /></a>\r\n<em>this is a follow on post to <a href=\"http://www.victusspiritus.com/2009/11/11/pigs-may-not-have-wings-but-i-can-ride-the-rails-with-a-flu/\">Pigs
+  height=\"340\" /></a>\r\n<em>this is a follow on post to <a href=\"http://victusfate.github.io/victusspiritus/uncategorized/2009/11/11/pigs-may-not-have-wings-but-i-can-ride-the-rails-with-a-flu/\">Pigs
   may not have wings, but I can Ride the Rails with a flu</a></em>\r\n<h1>Gems Gems
   Gems</h1>\r\nThe first barrier to entry to ramping up on RoR (Ruby on Rails) was
   setting up a build environment. I found several windows friendly developmet options.
   Netbeans has an install. Steel Ruby has a visual studio variant, Instant Ruby creates
   an environment you can drop rails projects into (instantly ;)), and Ruby Forge has
-  an executable for windows machines. I opted for the <a href=\"http://www.victusspiritus.com/2009/11/11/pigs-may-not-have-wings-but-i-can-ride-the-rails-with-a-flu/\">Ruby
+  an executable for windows machines. I opted for the <a href=\"http://victusfate.github.io/victusspiritus/uncategorized/2009/11/11/pigs-may-not-have-wings-but-i-can-ride-the-rails-with-a-flu/\">Ruby
   Forge windows exec </a> after trying the other routes to varying degrees of success.
   Primarily because it almost works (there's no shuffle! Array function on the RoR
   Ruby Forge version, or my environment still has problems), it's command line driven,
@@ -37,7 +37,7 @@ comments:
 - id: 1806
   author: 'Practical Programming: Holding the Flow of Code in Mind'
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/11/22/practical-programming-holding-the-flow-of-code-in-mind/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/11/22/practical-programming-holding-the-flow-of-code-in-mind/
   date: '2009-11-22 10:38:59 -0500'
   date_gmt: '2009-11-22 17:38:59 -0500'
   content: "[...] the case of web programming, Rails implements a MVC (model view
@@ -64,7 +64,7 @@ comments:
 - id: 2500
   author: An Echo through Time, the Minimalist Trend &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/12/26/an-echo-through-time-the-minimalist-trend/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/12/26/an-echo-through-time-the-minimalist-trend/
   date: '2010-01-05 13:22:45 -0500'
   date_gmt: '2010-01-05 20:22:45 -0500'
   content: "[...] of the user. Developers tend to isolate the view, controls, and
@@ -73,16 +73,16 @@ comments:
 - id: 4617
   author: Welcome to Ruby, Javascript and Ubuntu Linux Ben | Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/06/26/welcome-to-ruby-javascript-and-ubuntu-linux-ben/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/06/26/welcome-to-ruby-javascript-and-ubuntu-linux-ben/
   date: '2010-06-26 06:05:48 -0400'
   date_gmt: '2010-06-26 13:05:48 -0400'
   content: "[...] Rails the most popular MVC framework for Ruby  http://rubyonrails.org/
-    \ https://help.ubuntu.com/community/RubyOnRails back when I had windows: http://www.victusspiritus.com/2009/11/15/walking-down-the-tracks-of-ruby-on-rails/
+    \ https://help.ubuntu.com/community/RubyOnRails back when I had windows: http://victusfate.github.io/victusspiritus/uncategorized/2009/11/15/walking-down-the-tracks-of-ruby-on-rails/
     [...]"
 - id: 9828
   author: Cthulhu in Wonderland, Chihuly &mdash; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2011/04/14/cthulhu-in-wonderland-chihuly/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2011/04/14/cthulhu-in-wonderland-chihuly/
   date: '2011-04-14 04:54:45 -0400'
   date_gmt: '2011-04-14 11:54:45 -0400'
   content: "[...] Cthulhu in Wonderland, Chihuly  April 14, 2011    TweetWhile visiting
@@ -91,10 +91,10 @@ comments:
     shared a picture of Dale&#8217;s work in 2009 while discussing Ruby and gems.
     That piece is at the Belagio in Las Vegas and is titled a Sea of Glass. [...]"
 ---
-<p><a href="http://www.stuckincustoms.com"><img class="aligncenter size-full wp-image-2101" title="A Sea of Glass - The Chihuly Exhibit at the Ballagio in Vegas" src="http://www.victusspiritus.com/wp-content/uploads/2009/11/DaleChihuliGlassSculptures.jpg" alt="A Sea of Glass - The Chihuly Exhibit at the Ballagio in Vegas" width="480" height="340" /></a><br />
-<em>this is a follow on post to <a href="http://www.victusspiritus.com/2009/11/11/pigs-may-not-have-wings-but-i-can-ride-the-rails-with-a-flu/">Pigs may not have wings, but I can Ride the Rails with a flu</a></em></p>
+<p><a href="http://www.stuckincustoms.com"><img class="aligncenter size-full wp-image-2101" title="A Sea of Glass - The Chihuly Exhibit at the Ballagio in Vegas" src="{{ site.url }}/assets/2009/11/DaleChihuliGlassSculptures.jpg" alt="A Sea of Glass - The Chihuly Exhibit at the Ballagio in Vegas" width="480" height="340" /></a><br />
+<em>this is a follow on post to <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/11/11/pigs-may-not-have-wings-but-i-can-ride-the-rails-with-a-flu/">Pigs may not have wings, but I can Ride the Rails with a flu</a></em></p>
 <h1>Gems Gems Gems</h1>
-<p>The first barrier to entry to ramping up on RoR (Ruby on Rails) was setting up a build environment. I found several windows friendly developmet options. Netbeans has an install. Steel Ruby has a visual studio variant, Instant Ruby creates an environment you can drop rails projects into (instantly ;)), and Ruby Forge has an executable for windows machines. I opted for the <a href="http://www.victusspiritus.com/2009/11/11/pigs-may-not-have-wings-but-i-can-ride-the-rails-with-a-flu/">Ruby Forge windows exec </a> after trying the other routes to varying degrees of success. Primarily because it almost works (there's no shuffle! Array function on the RoR Ruby Forge version, or my environment still has problems), it's command line driven, and I know where the common install/gem folder is.</p>
+<p>The first barrier to entry to ramping up on RoR (Ruby on Rails) was setting up a build environment. I found several windows friendly developmet options. Netbeans has an install. Steel Ruby has a visual studio variant, Instant Ruby creates an environment you can drop rails projects into (instantly ;)), and Ruby Forge has an executable for windows machines. I opted for the <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/11/11/pigs-may-not-have-wings-but-i-can-ride-the-rails-with-a-flu/">Ruby Forge windows exec </a> after trying the other routes to varying degrees of success. Primarily because it almost works (there's no shuffle! Array function on the RoR Ruby Forge version, or my environment still has problems), it's command line driven, and I know where the common install/gem folder is.</p>
 <p><a id="more"></a><a id="more-2210"></a></p>
 <p>Let me warn potential windows RoR coders that while all of these options may work to varying degrees, if your ultimate server destination is Linux Apache, you may save a lot of headaches by setting up a dual boot Ubuntu installation (today's plan for me). After running into the bug with shuffle! and spending time finding and understanding it, your very limited learning and development time would be better served by avoiding the additional complications introduced with a different OS. Keep in mind I had a much more learned co-pilot helping me along in understanding using <a href="https://www.acrobat.com/#/connectnow/ConnectNowBegin">Adobe Connect</a>.</p>
 <h1>Darn GEMS!</h1>

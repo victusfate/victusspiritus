@@ -37,7 +37,7 @@ comments:
     for my undergraduate degree.<br><br>Imagine if instead they had constructed an
     energy gathering device like this on purpose, how powerful it would be.
 ---
-<p><a href="http://www.victusspiritus.com/wp-content/uploads/2010/05/l_2048_1536_DFAF12A2-49A7-4C92-AB15-CFC6FD9EBABC.jpeg"><img class="alignnone size-full" src="http://www.victusspiritus.com/wp-content/uploads/2010/05/l_2048_1536_DFAF12A2-49A7-4C92-AB15-CFC6FD9EBABC.jpeg" alt="" width="450px" height="300px" /></a><br />
+<p><a href="{{ site.url }}/assets/2010/05/l_2048_1536_DFAF12A2-49A7-4C92-AB15-CFC6FD9EBABC.jpeg"><img class="alignnone size-full" src="{{ site.url }}/assets/2010/05/l_2048_1536_DFAF12A2-49A7-4C92-AB15-CFC6FD9EBABC.jpeg" alt="" width="450px" height="300px" /></a><br />
 This fish and I had a stare down, he won</p>
 <p><em>I'm grappling with the origin of thought so please pardon any circular reasoning but don't hesitate to point out flawed logic, or assumptions in the comments</em></p>
 <p>My first instinct this morning was to write about the birth of ideas, and how we develop and communicate them thousands of miles around the world nearly effortlessly. The idea was triggered by a friendly comment from <a href="http://twitter.com/vsagarv">Vijaya Sagarv</a> as well as a series of exchanges with my friend Eli. But I wasn't sure where to begin.</p>

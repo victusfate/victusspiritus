@@ -45,15 +45,15 @@ comments:
   date_gmt: '2011-01-17 13:23:00 -0500'
   content: Thanks for kind words Mark!
 ---
-<p><a href="https://www.thesunnytrail.com/"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/01/sunnytrail1.png" alt="" title="sunnytrail" width="485" height="324" class="aligncenter size-full wp-image-6679" /></a><br />
+<p><a href="https://www.thesunnytrail.com/"><img src="{{ site.url }}/assets/2011/01/sunnytrail1.png" alt="" title="sunnytrail" width="485" height="324" class="aligncenter size-full wp-image-6679" /></a><br />
 <a href="https://www.thesunnytrail.com/">Sunnytrail</a> is a new service dedicated to tracking business transactions (revenue, churn, lifetime value, arpu) through an API, and helping web companies focus on developing their own products instead of rewriting tracking utilities.</p>
 <p>The following image is a glimpse at a sample dashboard.<br />
-<a href="http://www.victusspiritus.com/wp-content/uploads/2011/01/dashboard.png"><img class="aligncenter size-full wp-image-6670" title="dashboard" src="http://www.victusspiritus.com/wp-content/uploads/2011/01/dashboard.png" alt="" width="500" height="400" /></a><br />
+<a href="{{ site.url }}/assets/2011/01/dashboard.png"><img class="aligncenter size-full wp-image-6670" title="dashboard" src="{{ site.url }}/assets/2011/01/dashboard.png" alt="" width="500" height="400" /></a><br />
 The Overview tab captures top level metrics that matter such as total free vs paying users, monthly revenue and the average revenue per paying user. In addition there's a Stream tab with chronological activity and a Plans breakdown of transactions.</p>
 <p>The API has supported sample code in Ruby, Python or PHP but shouldn't take much effort to pass your transaction data to Sunnytrail.</p>
 <p>http://www.youtube.com/watch?v=3zO5NwD3BuQ</p>
 <p>One of the immediate wins for Sunnytrail was sending me an instant message as I poked about their pricing page. Octav mentioned it was cool if I shared the IM, and I think it'll transmit a good vibe about how the company feels at this stage.</p>
-<blockquote><p><a href="http://www.victusspiritus.com/wp-content/uploads/2011/01/octav.png"><img class="alignleft size-full wp-image-6667" title="octav" src="http://www.victusspiritus.com/wp-content/uploads/2011/01/octav.png" alt="" width="53" height="53" /></a><br />
+<blockquote><p><a href="{{ site.url }}/assets/2011/01/octav.png"><img class="alignleft size-full wp-image-6667" title="octav" src="{{ site.url }}/assets/2011/01/octav.png" alt="" width="53" height="53" /></a><br />
 Octav: Hey, thank you for visiting! I'm one of the founders. Do you have any questions?</p>
 <p>me: not yet, just checking out the site via the HN post</p>
 <p>Octav: feel free to :)</p>

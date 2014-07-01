@@ -19,11 +19,11 @@ tags:
 - design
 comments: []
 ---
-<p><a href="http://memory-alpha.org/wiki/Montgomery_Scott"><img src="http://www.victusspiritus.com/wp-content/uploads/2011/06/20110616-041219.jpg" alt="20110616-041219.jpg" class="alignnone size-full" /></a><br />
+<p><a href="http://memory-alpha.org/wiki/Montgomery_Scott"><img src="{{ site.url }}/assets/2011/06/20110616-041219.jpg" alt="20110616-041219.jpg" class="alignnone size-full" /></a><br />
 <blockquote>
 "Starship captains are like children. They want everything right now and they want it their way. The secret is to give them what they need, not what they want."- Scotty, offering La Forge advice on handling Starfleet captains</p>
 <p>"I cannot change the laws of physics! I've got to have thirty minutes."</p>
-<p>Another tip of the hat to one of my favorite <a href="http://www.victusspiritus.com/2010/01/26/scotty-macgyver-doctor-who-are-hackers/">hacker archetypes</a>.
+<p>Another tip of the hat to one of my favorite <a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/01/26/scotty-macgyver-doctor-who-are-hackers/">hacker archetypes</a>.
 </p></blockquote>
 <p>Almost without exception, writing trustworthy software takes two or three times longer than junior engineers and managers estimate. Seasoned engineers know better. Plug and play is a saying best reserved for Legos.</p>
 <p>Tuesday I began coding an image simulation program in c++ which I suspect will weigh in at under 1k lines of new source. I was given 24 hours to complete the task. It's a straight forward optical and digital focal plane sim that takes in a description of sensor parameters and objects, and produces image data (without complex backgrounds). </p>

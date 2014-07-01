@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2432
-wordpress_url: http://www.victusspiritus.com/2009/12/02/control-versus-influence-the-problem-with-corporations/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/12/02/control-versus-influence-the-problem-with-corporations/
 date: '2009-12-02 05:09:13 -0500'
 date_gmt: '2009-12-02 12:09:13 -0500'
 categories:

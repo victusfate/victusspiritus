@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 4691
-wordpress_url: http://www.victusspiritus.com/2010/07/29/founders-are-stage-magicians/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/07/29/founders-are-stage-magicians/
 date: '2010-07-29 05:05:53 -0400'
 date_gmt: '2010-07-29 12:05:53 -0400'
 categories:

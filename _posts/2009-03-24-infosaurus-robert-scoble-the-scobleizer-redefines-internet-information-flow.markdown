@@ -29,7 +29,7 @@ comments:
 - id: 133
   author: How to Web Market and Use Social Media
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/04/24/how-to-web-market-and-use-social-media/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/04/24/how-to-web-market-and-use-social-media/
   date: '2009-06-22 15:05:52 -0400'
   date_gmt: '2009-06-22 22:05:52 -0400'
   content: "[...] Social Media isn&#8217;t new to Infosaurus Robert Scoble - Mr. Robert
@@ -42,7 +42,7 @@ comments:
 - id: 2697
   author: The Prize, Making Sense Out of Millions of Voices &raquo; Victus Spiritus
   author_email: ''
-  author_url: http://www.victusspiritus.com/2010/01/21/the-prize-making-sense-out-of-millions-of-voices/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/01/21/the-prize-making-sense-out-of-millions-of-voices/
   date: '2010-01-21 10:35:24 -0500'
   date_gmt: '2010-01-21 17:35:24 -0500'
   content: "[...] last year I experienced a major breakthrough, my Twitter AHA! moment.

@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 4370
-wordpress_url: http://www.victusspiritus.com/2010/06/30/competition-is-heating-up-for-garage-sales/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/06/30/competition-is-heating-up-for-garage-sales/
 date: '2010-06-30 04:12:22 -0400'
 date_gmt: '2010-06-30 11:12:22 -0400'
 categories:

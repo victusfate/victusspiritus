@@ -38,6 +38,6 @@ comments:
 <p>^= The impossible inevitability of life is a variation on the concept of determinism. While localized decisions are unbound, certain natural and technology forms may be predetermined.</p>
 <p>Related Posts:</p>
 <ul>
-<li><a href="http://www.victusspiritus.com/2010/10/14/kevin-kellys-new-book-what-technology-wants-is-alive/">What technology wants, Kevin Kelly's new book is alive</a></li>
-<li><a href="http://www.victusspiritus.com/2010/10/23/differences-in-natural-and-technological-evolution/">Differences in Natural and Technological Evolution</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/10/14/kevin-kellys-new-book-what-technology-wants-is-alive/">What technology wants, Kevin Kelly's new book is alive</a></li>
+<li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/10/23/differences-in-natural-and-technological-evolution/">Differences in Natural and Technological Evolution</a></li>
 </ul>

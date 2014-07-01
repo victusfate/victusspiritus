@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 wordpress_id: 2934
-wordpress_url: http://www.victusspiritus.com/2010/02/03/the-worker-company-contract/
+wordpress_url: http://victusfate.github.io/victusspiritus/uncategorized/2010/02/03/the-worker-company-contract/
 date: '2010-02-03 06:01:08 -0500'
 date_gmt: '2010-02-03 13:01:08 -0500'
 categories:

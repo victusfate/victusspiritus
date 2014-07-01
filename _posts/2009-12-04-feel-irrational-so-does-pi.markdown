@@ -55,7 +55,7 @@ comments:
   content: Thanks Jim, I should have said when exponentiated as mentioned &lt;a  <br>HREF="http://en.m.wikipedia.org/wiki/E_(mathematical_constant)"&gt;</a>.  <br>Good
     clarification :)
 ---
-<p><a href="http://www.stuckincustoms.com"><img src="http://www.victusspiritus.com/wp-content/uploads/2009/12/FinalSunset.jpg" alt="A Final Sunset" title="A Final Sunset" width="480" height="330" class="aligncenter size-full wp-image-2440" /></a></p>
+<p><a href="http://www.stuckincustoms.com"><img src="{{ site.url }}/assets/2009/12/FinalSunset.jpg" alt="A Final Sunset" title="A Final Sunset" width="480" height="330" class="aligncenter size-full wp-image-2440" /></a></p>
 <h2>Apples and Oranges</h2>
 <p>Neither are perfect spheres but in our rush to understand we sometimes cluster them. After all they're both fruit and somewhat round. Nor is the sun beautifully captured above a perfect sphere, but we can roughly approximate it as one (it's a complex ellipsoid like earth).</p>
 <p>Lets take this topic 2D for the sake of simple relationships. The circumference of a circle is 2*Pi*R. Sounds reasonable, there's a "constant" relationship between the radius of a circle and the distance around it's exterior (the area of the circle is also Pi*R^2). The problem comes in nailing down the constant. We can't label it with an exact value. Calculate as many decimals as you like, and you're still no closer to completing it's numerical description.  There's one heckuva backstory on the history of <a href="http://en.m.wikipedia.org/wiki/Pi?wasRedirected=true">Pi</a> and <a href="http://en.m.wikipedia.org/wiki/Irrational_number">irrational numbers</a>, none of which can be described by the ratio of two integers.</p>

@@ -8,7 +8,7 @@ author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
 excerpt: "<p style=\"text-align: center;\"><a href=\"http://www.flickr.com/photos/29326680@N03/\"><img
-  class=\"size-full wp-image-675 aligncenter\" title=\"StatusQuo\" src=\"http://www.victusspiritus.com/wp-content/uploads/2009/06/StatusQuo.jpg\"
+  class=\"size-full wp-image-675 aligncenter\" title=\"StatusQuo\" src=\"{{ site.url }}/assets/2009/06/StatusQuo.jpg\"
   alt=\"StatusQuo\" width=\"277\" height=\"368\" /></a></p>\r\n\r\nThe status quo
   may sound fantastic if you're on top of the world. But even if you are at the top
   of your field, a master of industry, or an empowered creative artist you never want
@@ -33,7 +33,7 @@ comments:
 - id: 112
   author: Barriers to Social Change
   author_email: ''
-  author_url: http://www.victusspiritus.com/2009/06/18/barriers-to-social-change/
+  author_url: http://victusfate.github.io/victusspiritus/uncategorized/2009/06/18/barriers-to-social-change/
   date: '2009-06-18 07:52:12 -0400'
   date_gmt: '2009-06-18 14:52:12 -0400'
   content: "[...] harnessing the attention of early adopters. The early adopters of
@@ -47,7 +47,7 @@ comments:
   date_gmt: '2010-09-10 19:16:00 -0400'
   content: http://quofrance.forumactif.com/discussions-diverses-autour-de-status-quo-f10/je-suis-jaloux-t3194.htm
 ---
-<p style="text-align: center;"><a href="http://www.flickr.com/photos/29326680@N03/"><img class="size-full wp-image-675 aligncenter" title="StatusQuo" src="http://www.victusspiritus.com/wp-content/uploads/2009/06/StatusQuo.jpg" alt="StatusQuo" width="277" height="368" /></a></p>
+<p style="text-align: center;"><a href="http://www.flickr.com/photos/29326680@N03/"><img class="size-full wp-image-675 aligncenter" title="StatusQuo" src="{{ site.url }}/assets/2009/06/StatusQuo.jpg" alt="StatusQuo" width="277" height="368" /></a></p>
 <p>The status quo may sound fantastic if you're on top of the world. But even if you are at the top of your field, a master of industry, or an empowered creative artist you never want things to remain unchanged. The status quo implies stagnation, it ends questions and learning. Suppose you are still working on realizing your dream, certainly you don't want to blindly accept the situation. There are many who are continually pushing the boundaries and moving forward, adapting to a changing world. I suggest that we all embrace the possibilities of a better future. One in which we are continually striving and challenged to give our best each day.<a id="more"></a><a id="more-509"></a></p>
 <h2>The Precursor to Change: Curiosity</h2>
 <p>First ask questions, curiousity is the foundation for change. You need to understand the current system, it's flaws, and it's strengths before suggesting a better option. While blessed with a powerful sense of wonder and curiosity, we are balanced with a heavy dose of foolishness as children. I can remember ardently questioning my first grade teacher how she could possibly know what words filled in the blank area of some ditto (old ink xerox copies). I wondered why I couldn't fill in the empty words with my own thoughts, or the kids next to me (sorry Mrs. Davis I was a bit of a rebel). When I entered college I chose physics as a major because then I would surely understand the forces of the universe. It was sobering to come to realize that much of physics is model fitting to measurements, then retrofitting theory to match those models. True understanding it seems, escaped even those who spent their lives studying primal forces. After that I succumbed to the need for some practical knowledge (graduate school in electrical engineering).</p>
