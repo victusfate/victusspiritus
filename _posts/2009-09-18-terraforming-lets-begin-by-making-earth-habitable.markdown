@@ -80,4 +80,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://r.zemanta.com/?u=http%3A//www.guardian.co.uk/science/blog/2009/aug/12/carl-sagan-cosmos-personal-voyage&amp;a=6883870&amp;rid=2bbb2a1f-1f2b-4600-9fd2-a80683357f7b&amp;e=8f57524078013c069ffa380de5d29945">Cosmos: Probably the greatest science documentary in the universe</a> (guardian.co.uk)</li>
 <li class="zemanta-article-ul-li"><a href="http://science.slashdot.org/story/09/09/16/1327212/First-Rocky-Exoplanet-Confirmed?from=rss">First Rocky Exoplanet Confirmed</a> (science.slashdot.org)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/2bbb2a1f-1f2b-4600-9fd2-a80683357f7b/"><img class="zemanta-pixie-img" style="border:none;float:right" src="http://img.zemanta.com/reblog_e.png?x-id=2bbb2a1f-1f2b-4600-9fd2-a80683357f7b" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

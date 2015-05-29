@@ -55,4 +55,4 @@ I'm working on marketing research for <a href="http://garagedollar.com">GarageDo
 <ul class="zemanta-article-ul">
 <li class="zemanta-article-ul-li"><a href="http://www.kaushik.net/avinash/2010/08/qualitative-web-analytics-expert-heuristic-evaluations.html">Qualitative Web Analytics: Heuristic Evaluations Rock!</a> (kaushik.net)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Enhanced by Zemanta" href="http://www.zemanta.com/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/zemified_e.png?x-id=173d670a-dc74-4a10-a6e8-06c6032f1c8d" alt="Enhanced by Zemanta" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

@@ -76,4 +76,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://gawker.com/5335908/the-steady-reversal-of-facebooks-disastrous-redesign">The Steady Reversal of Facebook's Disastrous Redesign</a> (gawker.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.techcrunch.com/2009/08/25/lazyfeed-goes-live-for-everyone/">Lazyfeed Goes Live For Everyone</a> (techcrunch.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/cc9b4cf6-211f-467c-a20a-8427d194f988/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=cc9b4cf6-211f-467c-a20a-8427d194f988" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

@@ -94,4 +94,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://www.socialmediatoday.com/SMC/115336">I like to think of Friendbook not Facefeed</a> (socialmediatoday.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://mashable.com/2009/08/10/facebook-launches-realtime-search/">Watch Out Twitter! Facebook Launches Realtime Search</a> (mashable.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/3c67820a-c9ab-43a6-b26f-5850ce7ef94e/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=3c67820a-c9ab-43a6-b26f-5850ce7ef94e" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

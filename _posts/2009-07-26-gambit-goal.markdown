@@ -42,4 +42,4 @@ Solar Ions Find Their Way to the North Pole In Magnificent Fashion</p>
 <ul class="zemanta-article-ul">
 <li class="zemanta-article-ul-li"><a href="http://www.adliterate.com/archives/2009/07/best_of_ted_day_1.html">Best of TED - Day Two </a> (adliterate.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Enhanced by Zemanta" href="http://www.zemanta.com/"><img class="zemanta-pixie-img" style="border: medium none; float: right;" src="http://img.zemanta.com/zemified_e.png?x-id=e96f2795-2d38-4583-bf7e-5de29af5c358" alt="Enhanced by Zemanta" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

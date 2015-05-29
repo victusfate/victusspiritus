@@ -72,4 +72,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://brendancooper.com/2009/05/05/is-friendfeed-starting-to-warm-up/"> Is Friendfeed starting to warm up? </a> (brendancooper.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://openmode.ca/2009/06/the-next-step-for-net-geners/"> The Next Step For Net Geners </a> (openmode.ca)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/bc97e588-96bb-495b-aa71-cd8740cde9dc/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=bc97e588-96bb-495b-aa71-cd8740cde9dc" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

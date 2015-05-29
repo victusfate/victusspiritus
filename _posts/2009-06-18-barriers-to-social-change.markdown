@@ -63,4 +63,4 @@ comments:
 <p>An organization focused on supporting social entrepreneurs <a href="http://www.ashoka.org/social_entrepreneur">Ashoka</a> collectively realizes the value and impact of positive social change. Social entrepreneurs are leading the charge to making our global society more accepting of healthy change. What change do you believe would best benefit society and how can I help?</p>
 <p>raw recording:</p>
 <p>[podcast]http://www.victusspiritus.com/audio/BarriersToSocialChange.mp3[/podcast]</p>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/2495ec36-d11c-4e47-8243-cebb2f55128b/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=2495ec36-d11c-4e47-8243-cebb2f55128b" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

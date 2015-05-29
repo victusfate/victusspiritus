@@ -43,4 +43,4 @@ comments: []
 <li class="zemanta-article-ul-li"><a href="http://blog.startupprofessionals.com/2010/01/every-startup-needs-positive-exit.html">Every Startup Needs a Positive Exit Strategy</a> (startupprofessionals.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://steveblank.com/2010/01/21/i%25e2%2580%2599ve-seen-the-promised-land-and-i-might-not-get-there-with-you/">I've seen the Promised Land. And I might not get there with you.</a> (steveblank.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/2341df61-5a3b-4bd9-b160-eeef10244bf8/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=2341df61-5a3b-4bd9-b160-eeef10244bf8" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

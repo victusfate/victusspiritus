@@ -164,4 +164,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://www.wired.com/gadgetlab/2009/07/slow-chip-iphone3gs/"> Slow Chip Stifles iPhone 3GS Upload Speeds </a> (wired.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.techpluto.com/4g-in-details/"> "Beyond 3G"...Demystifying "4G" </a> (techpluto.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/f97030fc-a598-4205-b3f9-dedb6fd2bff4/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=f97030fc-a598-4205-b3f9-dedb6fd2bff4" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

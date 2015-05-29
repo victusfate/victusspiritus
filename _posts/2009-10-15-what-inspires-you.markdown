@@ -109,4 +109,4 @@ comments:
 <ul class="zemanta-article-ul">
 <li class="zemanta-article-ul-li"><a href="http://blog.startupprofessionals.com/2009/07/entrepreneurs-motivate-people-without.html">Entrepreneurs: Motivate People Without More Money</a> (startupprofessionals.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/fe611021-2e8a-41d7-9d35-0e6098f3d2ff/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=fe611021-2e8a-41d7-9d35-0e6098f3d2ff" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

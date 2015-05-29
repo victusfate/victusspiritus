@@ -41,4 +41,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://www.readwriteweb.com/archives/is_a_perfect_storm_forming_for_distributed_social_networking.php">Is a Perfect Storm Forming For Distributed Social Networking?</a> (readwriteweb.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://regulargeek.com/2009/08/10/why-did-facebook-buy-friendfeed/">Why Did Facebook Buy FriendFeed?</a> (regulargeek.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/4d04ddaf-294c-4f5b-862b-44971c5104b9/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=4d04ddaf-294c-4f5b-862b-44971c5104b9" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

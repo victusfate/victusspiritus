@@ -49,4 +49,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://life.firelace.com/2009/07/chasing-vertical-markets/">Chasing Vertical Markets</a> (life.firelace.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://richdadobservations.blogspot.com/2010/01/7-things-to-consider-before-you-jump.html">7 Things to consider before you jump into an opportunity</a> (richdadobservations.blogspot.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/498faf91-85e1-4aba-9792-177afd0ea053/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=498faf91-85e1-4aba-9792-177afd0ea053" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

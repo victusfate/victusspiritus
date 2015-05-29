@@ -71,4 +71,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://fulltimechris.blogspot.com/2009/11/zemanta.html">Zemanta</a> (fulltimechris.blogspot.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.slideshare.net/novaspivack/web-evolution-nova-spivack-twine">Web Evolution Nova Spivack Twine</a> (slideshare.net)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/8d65ad3c-ac86-47f5-a1ac-1519841ab893/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=8d65ad3c-ac86-47f5-a1ac-1519841ab893" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

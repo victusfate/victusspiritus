@@ -67,4 +67,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://science.slashdot.org/story/09/09/04/229204/-Code-Breaking-Quantum-Algorithm-On-a-Silicon-Chip?from=rss">Code-Breaking Quantum Algorithm On a Silicon Chip</a> (science.slashdot.org)</li>
 <li class="zemanta-article-ul-li"><a href="http://gizmodo.com/5407533/scientists-make-breakthrough-with-first-programmable-quantum-processor">Scientists Make Breakthrough With First Programmable Quantum Processor [Quantum Computer]</a> (gizmodo.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/06f93d0a-cf89-4faa-8f2b-ef20709fd781/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=06f93d0a-cf89-4faa-8f2b-ef20709fd781" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

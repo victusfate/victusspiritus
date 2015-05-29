@@ -163,4 +163,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://www.techcrunch.com/2010/01/12/viglink-affiliate-programs/">VigLink Raises $800K To Take Hassle Out Of Affiliate Programs</a> (techcrunch.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.wpjedi.com/build-a-wordpress-amazon-associates-store-with-affiliatebang/">Build a Wordpress Amazon Associates Store with AffiliateBang</a> (wpjedi.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px; padding-left: 30px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/04d4ec7b-3680-44c1-beaf-846f54fe1d4e/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=04d4ec7b-3680-44c1-beaf-846f54fe1d4e" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

@@ -87,4 +87,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://www.socialmedia.biz/2010/01/21/2010-conferences-social-media-tech-marketing/">2010 conferences: Social media, tech, marketing</a> (socialmedia.biz)</li>
 <li class="zemanta-article-ul-li"><a href="http://code.kynetx.com/2010/01/22/kynetx-developer-program-vision-comes-to-life-with-more-than-800-new-apps/">Kynetx Developer Program Vision Comes to Life with More Than 800 New Apps</a> (code.kynetx.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/24d83d6a-0dc0-44ab-b729-5df3c7b4a821/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=24d83d6a-0dc0-44ab-b729-5df3c7b4a821" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

@@ -189,4 +189,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://www.huffingtonpost.com/2009/06/11/y-combinators-paul-graham_n_214236.html">Y Combinator's Paul Graham Wants To Mass Produce Start-ups</a> (huffingtonpost.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.cloudave.com/link/do-you-really-even-need-vc">Do You Really Even Need VC?</a> (cloudave.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/1ad8bf03-4b4d-4007-bf30-7b1aa5ec4428/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=1ad8bf03-4b4d-4007-bf30-7b1aa5ec4428" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

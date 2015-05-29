@@ -50,4 +50,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://entrepreneur.venturebeat.com/2009/10/24/startup-school-gmail-friendfeed-creator-paul-buchheit-on-winging-it/">Friendfeed co-founder Buchheit: Most interesting part of Facebook is that it's not Google</a> (entrepreneur.venturebeat.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.sociableblog.com/2009/10/30/is-facebook-falling-apart/">Is Facebook Falling Apart?</a> (sociableblog.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/f52de99f-b586-4e60-b1ba-6c2eb362b1b4/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=f52de99f-b586-4e60-b1ba-6c2eb362b1b4" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

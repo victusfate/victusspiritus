@@ -99,4 +99,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://www.gothamgal.com/gotham_gal/2009/10/hugh-macleod-the-gaping-void.html">Hugh MacLeod, The Gaping Void</a> (gothamgal.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://stephendann.com/2009/07/01/heresy/">Heresy in the church of the latent entrepreneur</a> (stephendann.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/038b1e30-1827-48c5-92a5-2189264f8fef/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=038b1e30-1827-48c5-92a5-2189264f8fef" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

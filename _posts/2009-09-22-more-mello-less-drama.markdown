@@ -78,4 +78,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://flowingmotion.wordpress.com/2009/09/08/5-little-understood-ways-to-be-resilient-in-hard-times/">5 Little Understood Ways to be Resilient in Hard Times</a> (flowingmotion.wordpress.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.ameliaburton.com.au/2009/06/5-ways-to-relieve-the-stress-you-cant-avoid.html">5 Ways to Relieve the Stress You Can't Avoid</a> (ameliaburton.com.au)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/3b9030dd-3217-4ec6-8719-cf044927a527/"><img class="zemanta-pixie-img" style="border:none;float:right" src="http://img.zemanta.com/reblog_e.png?x-id=3b9030dd-3217-4ec6-8719-cf044927a527" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

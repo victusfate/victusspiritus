@@ -99,4 +99,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://thecustomercollective.com/TCC/41643">Giving Back To The Community Is Good Marketing...</a> (thecustomercollective.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.inquisitr.com/35186/the-coming-trust-crisis-in-the-social-media-expert-space/">The coming trust crisis in the social media expert space</a> (inquisitr.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/6de8f799-987f-427e-8be3-dc765111488f/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=6de8f799-987f-427e-8be3-dc765111488f" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

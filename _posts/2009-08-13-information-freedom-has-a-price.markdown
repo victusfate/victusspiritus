@@ -113,4 +113,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://www.conversationagent.com/2009/08/advertising-and-open-systems.html">Advertising and Open Systems</a> (conversationagent.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.slideshare.net/jyesmith/measuring-social-media-1745959">Measuring Social Media</a> (slideshare.net)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/a57c24e2-fb49-4c39-9ae8-27404c8bf3c6/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=a57c24e2-fb49-4c39-9ae8-27404c8bf3c6" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

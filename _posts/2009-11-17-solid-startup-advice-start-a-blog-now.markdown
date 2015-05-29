@@ -90,4 +90,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://www.chrisbrogan.com/extending-yourself-into-a-platform/">Extending Yourself Into a Platform</a> (chrisbrogan.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.kevineikenberry.com/blogs/2009/10/value-of-writing.asp">The Value of Writing</a> (kevineikenberry.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/b3439c8b-e73b-4f6b-b3b3-771ca4aed22e/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=b3439c8b-e73b-4f6b-b3b3-771ca4aed22e" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

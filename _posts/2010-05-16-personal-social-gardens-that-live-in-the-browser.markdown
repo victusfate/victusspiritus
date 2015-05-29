@@ -93,4 +93,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://blog.ibeentoubuntu.com/2010/05/diaspora-focusing-on-p2p-shunning-s2s.html">Diaspora Focusing on P2P, Shunning S2S</a> (ibeentoubuntu.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://carsonified.com/blog/dev/whats-going-on-with-open-source-and-standards/">What's Going on with Open Source and Standards?</a> (carsonified.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/6c65ea00-7788-479f-9b95-653161983b48/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=6c65ea00-7788-479f-9b95-653161983b48" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

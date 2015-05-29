@@ -67,4 +67,4 @@ comments:
 <ul class="zemanta-article-ul">
 <li class="zemanta-article-ul-li"><a href="http://www.wired.com/epicenter/2010/02/what-do-we-want-our-data-when-do-we-want-it-now/">What Do We Want? Our Data. When Do We Want It? Now!</a> (wired.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/0ceda7f1-8766-42ab-88eb-96d8bfb961cf/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=0ceda7f1-8766-42ab-88eb-96d8bfb961cf" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

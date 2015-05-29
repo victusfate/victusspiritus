@@ -220,4 +220,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://www.makeuseof.com/tag/the-best-sites-to-share-and-understand-dreams/">The Best Sites to Understand and Share Your Strange Dreams</a> (makeuseof.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://mashable.com/2009/09/02/mashable-jobs-sept2/">Mashable's Weekly Guide to Social Media and Web Jobs</a> (mashable.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/ddf31f58-0c5d-4587-92e0-794172c5b793/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=ddf31f58-0c5d-4587-92e0-794172c5b793" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

@@ -52,4 +52,4 @@ comments: []
 <li class="zemanta-article-ul-li"><a href="http://mashable.com/2009/08/25/disqus-v3-launches/">Disqus V3 Launches: Publishers and Commenters Get Their Own Services</a> (mashable.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://thenextweb.com/2009/09/04/create-version-twitter-real-status-updates-replies-links-breaking-news/">Create your own version of Twitter with REAL status updates.</a> (thenextweb.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/52706188-e00f-4940-9bb0-da6411bec78f/"><img class="zemanta-pixie-img" style="border:none;float:right" src="http://img.zemanta.com/reblog_e.png?x-id=52706188-e00f-4940-9bb0-da6411bec78f" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

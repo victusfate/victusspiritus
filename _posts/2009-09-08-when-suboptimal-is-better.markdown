@@ -75,4 +75,4 @@ comments:
 <ul class="zemanta-article-ul">
 <li class="zemanta-article-ul-li"><a href="http://spittoon.23andme.com/2009/09/03/what-makes-us-human-study-finds-hints-by-comparing-chimp-and-human-dna/">What Makes Us Human? Study Finds Hints By Comparing Chimp and Human DNA</a> (spittoon.23andme.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/f0c8c69b-d673-4637-b55b-328d4c91f946/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=f0c8c69b-d673-4637-b55b-328d4c91f946" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

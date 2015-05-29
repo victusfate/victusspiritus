@@ -165,4 +165,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://www.viget.com/extend/prototyping-java-processing-in-ruby-processing/">Prototyping Java-Processing in Ruby-Processing</a> (viget.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.readwriteweb.com/enterprise/2009/09/socialwok-is-a-friendfeed-for-google-apps.php">Socialwok is a FriendFeed for Google Apps</a> (readwriteweb.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/9bfa303b-065e-4da7-98fd-c6345a166a88/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=9bfa303b-065e-4da7-98fd-c6345a166a88" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

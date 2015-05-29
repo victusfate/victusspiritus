@@ -81,4 +81,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://www.socialmediatoday.com/SMC/106771"> The Mother of Real Time Search </a> (socialmediatoday.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://battellemedia.com/archives/004955.php"> Bing Starts to Get Real (Time) </a> (battellemedia.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/054a8418-f1bd-4800-b5d8-2b0953e6c6f3/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=054a8418-f1bd-4800-b5d8-2b0953e6c6f3" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

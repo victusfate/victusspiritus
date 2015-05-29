@@ -50,4 +50,4 @@ Also, I would add that I think the YC alumni network has become one of the most 
 <li class="zemanta-article-ul-li"><a href="http://www.huffingtonpost.com/2009/06/11/y-combinators-paul-graham_n_214236.html">Y Combinator's Paul Graham Wants To Mass Produce Start-ups</a> (huffingtonpost.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.techcrunch.com/2009/08/16/y-combinator-starts-seeding-ideas-to-startups/">Y Combinator Starts Seeding Ideas To Startups</a> (techcrunch.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/ce940cc3-d635-43c3-b678-49d3fc832e73/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=ce940cc3-d635-43c3-b678-49d3fc832e73" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

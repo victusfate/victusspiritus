@@ -52,4 +52,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://www.slideshare.net/thepropsman/erlounge-sfbay-20100112-christian-westbrook-cotweet">ErLounge SF/Bay: 2010.01.12 Christian Westbrook / CoTweet</a> (slideshare.net)</li>
 <li class="zemanta-article-ul-li"><a href="http://avdi.org/devblog/2009/10/27/nulldb-for-datamapper/">NullDB for DataMapper</a> (avdi.org)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/c14ce057-da84-4d22-8bcd-9860c9bd9e1d/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=c14ce057-da84-4d22-8bcd-9860c9bd9e1d" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

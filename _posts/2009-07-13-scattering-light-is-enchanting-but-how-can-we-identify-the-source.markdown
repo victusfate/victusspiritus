@@ -56,4 +56,4 @@ comments: []
 <li class="zemanta-article-ul-li"><a href="http://www.msnbc.msn.com/id/31491804/ns/technology_and_science-science"> Amazing volcano photo shows shock wave </a> (msnbc.msn.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.boingboing.net/2009/06/25/volcanic-eruption-se.html"> Volcanic eruption seen from space </a> (boingboing.net)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/58940e35-4763-449d-8cfa-15db6cf65339/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=58940e35-4763-449d-8cfa-15db6cf65339" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

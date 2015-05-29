@@ -290,4 +290,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://www.huffingtonpost.com/2009/07/06/as-retailers-cut-back-cit_n_225992.html"> As Retailers Cut Back CIties Confront 'Ghostboxes' </a> (huffingtonpost.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.treehugger.com/files/2009/07/want-to-live-a-long-happy-sustainable-life-consider-central-america.php?dcitc=th_rss"> Want to Live a Long, Happy, Sustainable Life? Consider Central America </a> (treehugger.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/8ce2fb80-f536-4c3d-ad3b-ee5efc028be3/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=8ce2fb80-f536-4c3d-ad3b-ee5efc028be3" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

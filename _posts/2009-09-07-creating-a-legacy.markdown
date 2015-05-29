@@ -69,4 +69,4 @@ A Flickering Candle</h2>
 <li class="zemanta-article-ul-li"><a href="http://www.space.com/scienceastronomy/090826-strange-planet.html">Newfound Planet Might Be Near Death</a> (space.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://terranova.blogs.com/terra_nova/2009/08/space-the-boring-frontier.html">Space: The Boring Frontier</a> (terranova.blogs.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/b79ef025-5044-4d88-a6af-8d027be8654f/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=b79ef025-5044-4d88-a6af-8d027be8654f" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

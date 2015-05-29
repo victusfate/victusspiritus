@@ -59,4 +59,4 @@ comments: []
 <li class="zemanta-article-ul-li"><a href="http://r.zemanta.com/?u=http%3A//www.guardian.co.uk/technology/2009/jul/22/kindle-amazon-digital-rights&amp;a=6382717&amp;rid=4f5f13fd-3c79-4aa6-9ba4-e52f42ee187e&amp;e=da8756c22e20d8c6932760af2c9870f9"> Why did Big Brother remove paid-for content from Amazon's Kindles? </a> (guardian.co.uk)</li>
 <li class="zemanta-article-ul-li"><a href="http://news.cnet.com/8301-1001_3-10263425-92.html?part=rss&amp;subj=news"> Lightning took down Amazon cloud </a> (news.cnet.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/4f5f13fd-3c79-4aa6-9ba4-e52f42ee187e/"><img class="zemanta-pixie-img" style="border:none;float:right" src="http://img.zemanta.com/reblog_e.png?x-id=4f5f13fd-3c79-4aa6-9ba4-e52f42ee187e" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

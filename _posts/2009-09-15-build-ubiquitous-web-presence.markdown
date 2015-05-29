@@ -41,4 +41,4 @@ comments: []
 <li class="zemanta-article-ul-li"><a href="http://myventurepad.com/MVP/75799">Are you a trust agent? Do you need to be?</a> (myventurepad.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://blog.startupprofessionals.com/2009/09/ten-techniques-to-track-best-blogs.html">Ten Techniques to Track the Best Blogs</a> (startupprofessionals.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/566a2803-a0bb-4c45-b008-1fefbf735188/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=566a2803-a0bb-4c45-b008-1fefbf735188" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

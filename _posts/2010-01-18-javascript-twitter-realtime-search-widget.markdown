@@ -31,4 +31,4 @@ comments: []
 <li class="zemanta-article-ul-li"><a href="http://thenextweb.com/apps/2010/01/22/twitter-launches-trends-area/">Twitter launches Trends for YOUR Area.</a> (thenextweb.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.twitterrati.com/2010/01/24/twitter-just-buy-mr-tweet/">Twitter: Just Buy Mr. Tweet</a> (twitterrati.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/a15fa0db-7534-42f0-987e-cbd8bd3336d3/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=a15fa0db-7534-42f0-987e-cbd8bd3336d3" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

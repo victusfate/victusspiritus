@@ -57,4 +57,4 @@ Who are you and your band ardently working to support?</p>
 <li class="zemanta-article-ul-li"><a href="http://www.growvc.com/blog/2010/01/future-of-venture-capital/">Future of Venture Capital</a> (growvc.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://myventurepad.com/MVP/82408">The Best Startup Funding is Initial Sales</a> (myventurepad.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/a2352b30-51eb-45cf-af83-ed8bf4f53fb4/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=a2352b30-51eb-45cf-af83-ed8bf4f53fb4" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

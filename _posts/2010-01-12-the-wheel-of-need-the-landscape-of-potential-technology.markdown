@@ -129,4 +129,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://insidehpc.com/2009/11/20/intel-cloud-service-tests-the-scalability-of-your-code/">Intel cloud service tests the scalability of your code</a> (insidehpc.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.nevillehobson.com/2009/09/14/an-augmented-reality-spectacle/">An augmented reality spectacle</a> (nevillehobson.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/fbb30474-eb16-4ea4-a051-f5713511e104/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=fbb30474-eb16-4ea4-a051-f5713511e104" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

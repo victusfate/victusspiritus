@@ -191,4 +191,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://www.gilbertpellegrom.co.uk/a-pratical-guide-to-using-ajax-in-web-apps/">A Pratical Guide to Using AJAX in Web Apps</a> (gilbertpellegrom.co.uk)</li>
 <li class="zemanta-article-ul-li"><a href="http://blog.jquery.com/2010/02/19/jquery-142-released/">JQuery 1.4.2 Released</a> (jquery.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top:10px;height:15px"><a class="zemanta-pixie-a" href="http://reblog.zemanta.com/zemified/9107ec07-cdbd-4959-919f-6acad560ff13/" title="Reblog this post [with Zemanta]"><img class="zemanta-pixie-img" src="http://img.zemanta.com/reblog_e.png?x-id=9107ec07-cdbd-4959-919f-6acad560ff13" alt="Reblog this post [with Zemanta]" style="border:none;float:right"></a><span class="zem-script more-related pretty-attribution"><script type="text/javascript" src="http://static.zemanta.com/readside/loader.js" defer="defer"></script></span></div>
+

@@ -37,4 +37,4 @@ comments: []
 <li class="zemanta-article-ul-li"><a href="http://www.inquisitr.com/36355/i-dont-get-the-hype-around-lazyfeed-sorry/">I don't get the hype around Lazyfeed, sorry</a> (inquisitr.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.nofluffjuststuff.com/blog/greg_wilkins/2009/07/cometd_features_and_extensions.html?utm_source=blogitem&amp;utm_medium=rss&amp;utm_campaign=blogrss">Cometd Features and Extensions</a> (nofluffjuststuff.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/126e1af8-791b-4112-9d2d-eeaee3e9bc9c/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=126e1af8-791b-4112-9d2d-eeaee3e9bc9c" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

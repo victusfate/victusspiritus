@@ -118,4 +118,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://daveduarte.co.za/decision-making-biases/2009/04/14/"> Decision-Making Biases </a> (daveduarte.co.za)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.bizop.ca/blog2/how-would-you-play-that/what-are-the-im.html">How to Deal with One Important Barrier to Effective Mediation</a> (bizop.ca)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/5d6a64ec-56e1-44d1-88ec-2300b9750580/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=5d6a64ec-56e1-44d1-88ec-2300b9750580" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

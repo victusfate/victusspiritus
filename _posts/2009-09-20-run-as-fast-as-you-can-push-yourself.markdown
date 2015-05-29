@@ -31,4 +31,4 @@ For as Long as You are Able</h2>
 <li class="zemanta-article-ul-li"><a href="http://www.dominica-weekly.com/lifestyle/something-about-the-sunrise/">Something About the Sunrise</a> (dominica-weekly.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.fitsugar.com/4139388">Get It Up, Your Heart Rate, That Is: Fartlek</a> (fitsugar.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/80ee3d6e-5449-4327-bec2-6c682102ce6a/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=80ee3d6e-5449-4327-bec2-6c682102ce6a" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

@@ -90,4 +90,4 @@ At four years old I was already curious about sums and how objects aggregated. M
 <li class="zemanta-article-ul-li"><a href="http://earth2tech.com/2010/01/11/networks-could-be-10000-times-more-energy-efficient-report/">Networks Could Be 10,000 Times More Energy Efficient: Report</a> (earth2tech.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://levite.wordpress.com/2010/01/17/not-everyone-can-do-that/">Not everyone can do that</a> (levite.wordpress.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/c5fa9f1c-f92c-4ac1-9b02-cee5c2490d17/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=c5fa9f1c-f92c-4ac1-9b02-cee5c2490d17" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

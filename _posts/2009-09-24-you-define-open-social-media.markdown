@@ -62,4 +62,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://www.techipedia.com/2009/death-of-content-creation/">Content Aggregators are Killing Content Creators</a> (techipedia.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.slideshare.net/kristidaeda/the-relationship-economy-whats-web-got-to-do-with-it">The Relationship Economy: What's Web Got to Do With It?</a> (slideshare.net)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/ffe740b7-9d7a-4f69-8ee3-0502383e13d0/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=ffe740b7-9d7a-4f69-8ee3-0502383e13d0" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

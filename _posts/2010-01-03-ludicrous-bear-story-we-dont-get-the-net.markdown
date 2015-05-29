@@ -39,4 +39,4 @@ comments: []
 <li class="zemanta-article-ul-li"><a href="http://learning.blogs.nytimes.com/2010/01/20/natures-call-drawing-inspiration-from-avatar-to-study-and-create-organisms/?partner=rss&emc=rss">Nature's Call: Drawing Inspiration From 'Avatar' to Study and Create Organisms</a> (learning.blogs.nytimes.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://mndoci.com/blog/2009/08/13/plentitude-and-networks/">Plentitude and networks</a> (mndoci.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/5a91d9fd-aefd-41f0-bc2a-415c018b668e/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=5a91d9fd-aefd-41f0-bc2a-415c018b668e" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

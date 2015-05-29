@@ -116,4 +116,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://www.readwriteweb.com/readwritestart/2009/07/five-alternatives-to-traditional-investment.php"> Five Early-Stage Alternatives to the Traditional Investment Model of Growing Startups </a> (readwriteweb.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.xconomy.com/national/2009/07/22/startup-school-the-xconomy-guide-to-venture-incubators-2009-edition/"> Startup School: The Xconomy Guide to Venture Incubators, 2009 Edition </a> (xconomy.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/2f57009d-fc41-4a38-866b-126325b1a512/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=2f57009d-fc41-4a38-866b-126325b1a512" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

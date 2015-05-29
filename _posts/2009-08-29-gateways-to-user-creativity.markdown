@@ -52,4 +52,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://www.macworld.com/article/142428/2009/08/woofer.html?lsrc=rss_main">The anti-Twitter? New site goes long</a> (macworld.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.newcommbiz.com/is-twitter-shopping-for-a-business-model/">Is Twitter Shopping for a Business Model?</a> (newcommbiz.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/facc0fec-c33a-4af7-a0d5-fcdbe2a24731/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=facc0fec-c33a-4af7-a0d5-fcdbe2a24731" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

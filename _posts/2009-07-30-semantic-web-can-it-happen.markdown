@@ -321,4 +321,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://web2express.org/openlab/2009/06/17/semantic-technology-conference-2009/"> semantic technology conference 2009 </a> (web2express.org)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.readwriteweb.com/archives/sponsors_post_31may09.php"> 12 Companies Targeting Early Tech Adopters </a> (readwriteweb.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/58d5a7fc-a4cd-4606-ad0d-7760f653c4f0/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=58d5a7fc-a4cd-4606-ad0d-7760f653c4f0" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

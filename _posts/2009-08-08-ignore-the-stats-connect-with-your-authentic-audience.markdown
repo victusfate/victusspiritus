@@ -147,4 +147,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://regulargeek.com/2009/07/06/who-is-your-audience-and-are-audiences-different/">Who Is Your Audience And Are Audiences Different?</a> (regulargeek.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://mashable.com/2009/08/06/twitter-purge/">TWITTER PURGE: Top Twitter User Unfollows 106,000 People</a> (mashable.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/ae21eb31-8242-4b56-9b45-515df18b4bb6/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=ae21eb31-8242-4b56-9b45-515df18b4bb6" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

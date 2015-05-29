@@ -54,4 +54,4 @@ comments: []
 <li class="zemanta-article-ul-li"><a href="http://www.techcrunch.com/2009/08/25/youtube-extends-revenue-sharing-program-to-anyone-with-a-viral-video/">YouTube Extends Revenue Sharing Program To Anyone With A Viral Video</a> (techcrunch.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://marketing.blogtanker.com/3967/5-tips-for-getting-more-from-social-media-marketing/">5 Tips for Getting More From Social Media Marketing</a> (marketing.blogtanker.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/286830fe-fc4a-477b-acff-b0cefb8f49fc/"><img class="zemanta-pixie-img" style="border:none;float:right" src="http://img.zemanta.com/reblog_e.png?x-id=286830fe-fc4a-477b-acff-b0cefb8f49fc" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

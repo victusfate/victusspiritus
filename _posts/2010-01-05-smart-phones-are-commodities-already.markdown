@@ -45,4 +45,4 @@ comments: []
 <li class="zemanta-article-ul-li"><a href="http://www.readwriteweb.com/archives/layar_now_available_world_wide_on_android_iphone_i.php">Layar Augmented Reality Now World Wide on Android, iPhone is Next</a> (readwriteweb.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://mashable.com/2009/08/04/augmented-reality-twitter/">Augmented Reality Twitter is the Coolest Thing Ever</a> (mashable.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/e1f5bc03-eb88-485b-b204-f50c01126cd2/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=e1f5bc03-eb88-485b-b204-f50c01126cd2" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

@@ -392,4 +392,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://marcgayle.com/2010/04/28/how-big-is-the-balance-sheet-of-the-federal-reserve/">How big is the Fed's balance sheet</a> (marcgayle.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://r.zemanta.com/?u=http%3A//www.calgaryherald.com/Mexican%2BCarlos%2BSlim%2Bworld%2Brichest%2Branking/2670200/story.html&amp;a=14601713&amp;rid=27053a2a-df5d-454b-8b9e-71bdcc3b9a48&amp;e=252e41fb39caeea5f4c6cf756f9ed24b">Mexican Carlos Slim world's richest in new ranking</a> (calgaryherald.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Enhanced by Zemanta" href="http://www.zemanta.com/"><img class="zemanta-pixie-img" style="border: medium none; float: right;" src="http://img.zemanta.com/zemified_e.png?x-id=27053a2a-df5d-454b-8b9e-71bdcc3b9a48" alt="Enhanced by Zemanta" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

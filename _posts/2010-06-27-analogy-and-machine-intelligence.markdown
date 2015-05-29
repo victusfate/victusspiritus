@@ -76,4 +76,4 @@ comments:
 <h2>Is Watson's Q&amp;A search power a new path forward in AI?</h2>
 <p>The New York Time's piece covers Watson's development (click through on the image below), and this effort focuses on an incredibly information rich data center of human history and current events and understanding. The algorithms for Watson leverage probabilistic matching algorithms to human language in a way that's eerily human.<br />
 <a href="http://www.nytimes.com/2010/06/20/magazine/20Computer-t.html"><img class="aligncenter size-full wp-image-4314" title="DaveFerrucci_watson" src="{{ site.url }}/assets/2010/06/DaveFerrucci_watson.jpg" alt="" width="500" height="500" /></a></p>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Enhanced by Zemanta" href="http://www.zemanta.com/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/zemified_e.png?x-id=13c1b560-c9c7-433b-96dc-752d7fed9c1c" alt="Enhanced by Zemanta" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

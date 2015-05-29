@@ -86,4 +86,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/03/09/the-user-service-bargain-social-web-services/">The User Service Bargain, Social Web Services</a> (victusspiritus.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/03/03/centralized-versus-distributed-web/">Centralized versus Distributed Web</a> (victusspiritus.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/cfd75785-ace0-4383-8e36-ea9334811805/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=cfd75785-ace0-4383-8e36-ea9334811805" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

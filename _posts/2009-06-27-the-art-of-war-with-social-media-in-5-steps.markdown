@@ -89,4 +89,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://www.nettiehartsock.com/2009/06/26/social-media-and-fab-tools/"> Social Media and Fab Tools </a> (nettiehartsock.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://mashable.com/2009/06/22/primer-twitter-hacking/"> A Primer For Hacking Twitter </a> (mashable.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/68dad8c1-1031-4e81-9725-39dbafa4fdfd/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=68dad8c1-1031-4e81-9725-39dbafa4fdfd" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

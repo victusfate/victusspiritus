@@ -78,4 +78,4 @@ By reviewing this tree of species is there evidence of a threshold for connectiv
 <li class="zemanta-article-ul-li"><a href="http://www.macworld.com/article/146172/2010/02/siri.html?lsrc=rss_main">Siri wants to be your personal assistant</a> (macworld.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://singularityhub.com/2010/02/05/google-challenges-you-to-a-game-of-tron/">Google Challenges You To a Game of Tron</a> (singularityhub.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/af8dee4b-97f7-4ad9-9ec2-260e6729473f/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=af8dee4b-97f7-4ad9-9ec2-260e6729473f" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

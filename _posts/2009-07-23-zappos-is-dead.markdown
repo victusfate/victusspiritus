@@ -87,4 +87,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://blog.streamingmedia.com/the_business_of_online_vi/2009/07/amazons-ceo-uses-8-minute-video-on-youtube-to-explain-zappos-deal.html"> Amazon's CEO Uses 8 Minute Video On YouTube To Explain Zappos Deal </a> (streamingmedia.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://sethgodin.typepad.com/seths_blog/2009/07/when-you-buy-zappos-what-do-you-buy.html"> When you buy Zappos, what do you buy? </a> (sethgodin.typepad.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/43189d70-97ad-4068-83fb-bc638dfa5746/"><img class="zemanta-pixie-img" style="border:none;float:right" src="http://img.zemanta.com/reblog_e.png?x-id=43189d70-97ad-4068-83fb-bc638dfa5746" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

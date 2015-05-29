@@ -52,4 +52,4 @@ The two parts thus formed are complements. In logic, the partitions are opposite
 <li class="zemanta-article-ul-li"><a href="http://gigaom.com/2009/12/07/google-amps-up-real-time-and-mobile-search/">Google Amps Up Real-time and Mobile Search</a> (gigaom.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2009/12/07/financial/f115234S07.DTL&amp;feed=rss.technology">Google search results to include 'real-time' data</a> (sfgate.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/506ae255-9010-448f-a75b-7db90780b39b/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=506ae255-9010-448f-a75b-7db90780b39b" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

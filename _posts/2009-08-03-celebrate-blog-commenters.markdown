@@ -94,4 +94,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://www.makeuseof.com/tag/9-steps-to-a-great-start-in-friendfeed/">9 Steps To A Great Start In Friendfeed</a> (makeuseof.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://myventurepad.com/MVP/66661">Blogs Aren't Dead, They're Just Fragmenting</a> (myventurepad.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/7f16cb29-baf4-4b6f-b85c-79e522a33542/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=7f16cb29-baf4-4b6f-b85c-79e522a33542" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

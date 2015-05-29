@@ -36,4 +36,4 @@ comments: []
 <li class="zemanta-article-ul-li"><a href="http://blog.startupprofessionals.com/2009/08/startups-viral-marketing-is-effective.html">Startups: Viral Marketing is Effective but not Cheap</a> (startupprofessionals.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://brandimpact.wordpress.com/2009/08/18/the-power-of-inertia/">The Power of Inertia</a> (brandimpact.wordpress.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/d79b9c6d-05e4-4cca-998a-caa7f60fb695/"><img class="zemanta-pixie-img" style="border:none;float:right" src="http://img.zemanta.com/reblog_e.png?x-id=d79b9c6d-05e4-4cca-998a-caa7f60fb695" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

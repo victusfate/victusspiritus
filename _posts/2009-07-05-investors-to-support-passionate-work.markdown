@@ -43,4 +43,4 @@ comments: []
 <ul class="zemanta-article-ul">
 <li class="zemanta-article-ul-li"><a href="http://www.marginalrevolution.com/marginalrevolution/2009/06/aid-realism-for-the-idealist-1.html">Aid Realism for the Idealist </a> (marginalrevolution.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/ce345283-0b68-4b42-96b8-51dfcfc20204/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=ce345283-0b68-4b42-96b8-51dfcfc20204" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

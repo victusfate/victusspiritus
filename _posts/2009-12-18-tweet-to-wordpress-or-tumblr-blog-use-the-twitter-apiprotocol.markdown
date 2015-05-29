@@ -47,4 +47,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://thenextweb.com/2009/12/17/twitter-broken-contributor-api-wild/">Twitter Is Broken, But Here Is The Contributor API In The Wild</a> (thenextweb.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.readwriteweb.com/archives/five_features_from_third-party_apps_twitter_should.php">5 Features from Third-Party Apps Twitter Should Integrate</a> (readwriteweb.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/f5e4b7cb-5ebd-428f-8205-dc92e508d03e/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=f5e4b7cb-5ebd-428f-8205-dc92e508d03e" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

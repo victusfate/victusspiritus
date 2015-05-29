@@ -86,4 +86,4 @@ comments: []
 <ul class="zemanta-article-ul">
 <li class="zemanta-article-ul-li"><a href="http://tech.slashdot.org/story/09/08/18/1725217/Scala-a-Statically-Typed-Functional-O-O-Language?from=rss">Scala, a Statically Typed, Functional, O-O Language</a> (tech.slashdot.org)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/eacb22b3-b929-42e1-bf45-c259bff8e41c/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=eacb22b3-b929-42e1-bf45-c259bff8e41c" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

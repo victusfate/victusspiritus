@@ -41,4 +41,4 @@ comments: []
 <li class="zemanta-article-ul-li"><a href="http://lazerpromotions.com/blog/general/re-evaluate-your-market-niche">Re-Evaluate Your Market Niche</a> (lazerpromotions.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://startups.com/questions/16399/what-is-personal-marketing-all-about">What is personal marketing all about?</a> (startups.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/297065a3-eba6-4ac0-86af-223330437aa8/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=297065a3-eba6-4ac0-86af-223330437aa8" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

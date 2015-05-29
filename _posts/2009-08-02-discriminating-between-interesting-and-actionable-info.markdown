@@ -88,4 +88,4 @@ comments:
 <ul class="zemanta-article-ul">
 <li class="zemanta-article-ul-li"><a href="http://www.blogherald.com/2009/08/01/social-media-blending/">Blog and Social Media Blending: A Metaphor</a> (blogherald.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/83d89cf5-e39c-497f-adbe-1ba19d5b1800/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=83d89cf5-e39c-497f-adbe-1ba19d5b1800" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

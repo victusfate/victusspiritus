@@ -59,4 +59,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://redditech.blogspot.com/2009/06/learning-from-stackoverflowcom_07.html">Learning from StackOverflow.com</a> (redditech.blogspot.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://arnoldit.com/wordpress/2009/07/25/analyzing-the-web-consulting-game/">Analyzing the Web Consulting Game</a> (arnoldit.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/fb631f47-6c04-467b-8cf4-86a9c10634d3/"><img class="zemanta-pixie-img" style="border:none;float:right" src="http://img.zemanta.com/reblog_e.png?x-id=fb631f47-6c04-467b-8cf4-86a9c10634d3" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

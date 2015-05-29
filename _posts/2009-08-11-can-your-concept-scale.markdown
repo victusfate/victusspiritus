@@ -86,4 +86,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://www.brandinfection.com/2009/08/01/seth-godin-on-social-networking/">Seth Godin's Thoughts on Social Networking</a> (brandinfection.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.socialmediatoday.com/SMC/111076">Set Yourself Apart In The Tough Times</a> (socialmediatoday.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/182861da-6160-42dd-b7e7-f580bd194ead/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=182861da-6160-42dd-b7e7-f580bd194ead" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

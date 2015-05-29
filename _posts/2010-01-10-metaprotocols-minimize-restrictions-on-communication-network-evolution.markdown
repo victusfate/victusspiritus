@@ -60,4 +60,4 @@ my background is from <a href="http://www.stuckincustoms.com">Trey Ratcliff at h
 <li class="zemanta-article-ul-li"><a href="http://www.scripting.com/stories/2009/08/07/tradingOneCentralizedNetFo.html">Trading one centralized net for another?</a> (scripting.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.techcrunch.com/2009/10/26/twitter-and-y-combinator-team-up-for-startup-stream-access/">Twitter And Y Combinator Team Up For Startup Stream Access</a> (techcrunch.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/e064d281-72fd-45eb-9f2d-82e07d6c6a55/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=e064d281-72fd-45eb-9f2d-82e07d6c6a55" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

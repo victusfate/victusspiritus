@@ -37,4 +37,4 @@ comments: []
 <li class="zemanta-article-ul-li"><a href="http://www.agile-software-development.com/2009/08/advantages-of-agile-for-testers.html">Advantages of Agile Software Development for Testers</a> (agile-software-development.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.slideshare.net/rosiesherry/what-do-testers-hate-about-testing">What Do Testers Hate About Testing</a> (slideshare.net)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/92949f8f-7c9b-4ca4-91a9-8e761ba56572/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=92949f8f-7c9b-4ca4-91a9-8e761ba56572" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

@@ -47,4 +47,4 @@ comments: []
 <li class="zemanta-article-ul-li"><a href="http://biosingularity.wordpress.com/2009/08/05/dna-computation-gets-logical/">DNA computation gets logical</a> (biosingularity.wordpress.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://thedailywtf.com/Articles/Classic-WTF-Really,-Really-Custom-Software.aspx">Classic WTF: Really, Really Custom Software</a> (thedailywtf.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/f7311bba-a6cd-4ecc-b91c-5f43d2d053e1/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=f7311bba-a6cd-4ecc-b91c-5f43d2d053e1" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

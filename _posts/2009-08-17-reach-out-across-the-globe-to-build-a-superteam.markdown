@@ -28,4 +28,4 @@ comments: []
 <li class="zemanta-article-ul-li"><a href="http://digital.venturebeat.com/2009/07/22/with-my-career-launch-plaxo-moves-deeper-into-business-networking/">With My Career launch, Plaxo moves deeper into business networking</a> (digital.venturebeat.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://steveblank.com/2009/08/13/touching-the-hot-stove-experiential-versus-theoretical-learning/">Touching the Hot Stove - Experiential versus Theoretical Learning</a> (steveblank.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/34bf283e-ac89-4b90-a1bc-19b15ef1c954/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=34bf283e-ac89-4b90-a1bc-19b15ef1c954" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

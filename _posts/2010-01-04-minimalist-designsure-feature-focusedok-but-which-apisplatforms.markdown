@@ -46,4 +46,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://arstechnica.com/gaming/news/2010/01/onlive-demoed-lag-graphics-are-a-problem.ars?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss">OnLive demoed: lag, graphics are a problem</a> (arstechnica.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://highscalability.com/blog/2010/1/17/applications-become-black-boxes-using-markets-to-scale-and-c.html">Applications Become Black Boxes Using Markets to Scale and Control Costs</a> (highscalability.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/dc6cc15a-1f81-471b-9579-03c861ef312a/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=dc6cc15a-1f81-471b-9579-03c861ef312a" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

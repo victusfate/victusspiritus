@@ -79,4 +79,4 @@ comments:
 <li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/04/02/mad-libs-tech-blogging/">Mad Libs Tech Blogging</a></li>
 <li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/04/04/i-fell-for-the-ihype/">I fell for the iHype</a></li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/7439efc0-08da-4cab-a46d-1867d0b8fc79/"><img class="zemanta-pixie-img" style="border: medium none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=7439efc0-08da-4cab-a46d-1867d0b8fc79" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

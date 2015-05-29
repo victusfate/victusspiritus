@@ -52,4 +52,4 @@ This post is an organization of some of thoughts on project development, and a c
 <li class="zemanta-article-ul-li"><a href="http://www.scienceblog.com/cms/skinny-lean-education-25601.html">The skinny on 'Lean' education</a> (scienceblog.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.xconomy.com/boston/2009/10/21/executives-through-experimentation-the-b-school-internship-experience/">Executives Through Experimentation: The B-School Internship Experience</a> (xconomy.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/9c08bd3f-0754-4b0f-886f-656f856e9f65/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=9c08bd3f-0754-4b0f-886f-656f856e9f65" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

@@ -85,4 +85,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://www.pastemagazine.com/articles/2009/07/yahoo-microsoft-agree-to-gang-up-for-search.html">Yahoo! and Microsoft Partner on Search Engine</a> (pastemagazine.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://r.zemanta.com/?u=http%3A//www.cnn.com/2009/TECH/biztech/07/30/cnet.microsoft.yahoo.deal/index.html&amp;a=6578862&amp;rid=5f01bf1a-f896-4ef8-93a5-b4fc844464c1&amp;e=8b1167ffd3bc6fa5f0f7fd38e4ce10e8">What does the Microsoft-Yahoo deal mean?</a> (cnn.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/5f01bf1a-f896-4ef8-93a5-b4fc844464c1/"><img class="zemanta-pixie-img" style="border:none;float:right" src="http://img.zemanta.com/reblog_e.png?x-id=5f01bf1a-f896-4ef8-93a5-b4fc844464c1" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

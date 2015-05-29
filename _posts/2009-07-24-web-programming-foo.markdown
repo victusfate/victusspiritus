@@ -91,4 +91,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://www.slideshare.net/sausheong/ruby-and-the-cloud"> Ruby And The Cloud </a> (slideshare.net)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.mehmetalierturk.com/2009/04/27/software-development-deployment-with-google-app-engine/"> Software Development &amp; Deployment with Google App Engine </a> (mehmetalierturk.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/79289e71-492a-45ee-b0e6-c083702cb7bb/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=79289e71-492a-45ee-b0e6-c083702cb7bb" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

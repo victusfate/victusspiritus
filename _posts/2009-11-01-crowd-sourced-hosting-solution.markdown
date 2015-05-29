@@ -51,4 +51,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://www.readwriteweb.com/archives/sponsors_post_25october09.php">Check Out the Companies That Make ReadWriteWeb Possible</a> (readwriteweb.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.chrisbrogan.com/why-rackspace-cloud-is-my-host/">Why Rackspace Cloud is My Host</a> (chrisbrogan.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/70a5e018-88c3-4aee-b7f7-83d48f9f65ec/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=70a5e018-88c3-4aee-b7f7-83d48f9f65ec" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

@@ -64,4 +64,4 @@ comments: []
 <li class="zemanta-article-ul-li"><a href="http://www.blogherald.com/2009/06/30/reviewing-the-reviewers-the-blog-is-alive-and-kicking/"> Reviewing the Reviewers: The Blog is Alive and Kicking </a> (blogherald.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.readwriteweb.com/readwritestart/2009/07/cancelads-impossible-dream.php"> Dreaming the Impossible Dream? CancelAds Removes Display Ads from Online Content </a> (readwriteweb.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/cca90888-1b7a-4622-9b34-7428efaf45fb/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=cca90888-1b7a-4622-9b34-7428efaf45fb" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

@@ -62,4 +62,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://celestinechua.com/blog/2010/01/which-area-of-your-life-do-you-want-to-transform-in-2010/">Which Area Of Your Life Do You Want To Transform In 2010?</a> (celestinechua.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.edbatista.com/2009/11/sharpbrains.html">The SharpBrains Guide to Brain Fitness</a> (edbatista.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/185f5a4a-283c-4115-a09d-af9dae7af78e/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=185f5a4a-283c-4115-a09d-af9dae7af78e" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

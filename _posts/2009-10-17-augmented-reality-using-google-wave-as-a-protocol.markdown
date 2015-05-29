@@ -118,4 +118,4 @@ I've inserted a view to the wave that tuned me into the concept this morning:<br
 <li class="zemanta-article-ul-li"><a href="http://openmode.ca/2009/09/pseudo-augmented-reality/">Pseudo Augmented Reality</a> (openmode.ca)</li>
 <li class="zemanta-article-ul-li"><a href="http://mashable.com/2009/09/24/bionic-eye/">BIONIC EYE: Augmented Reality on the iPhone</a> (mashable.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/7843ef94-e235-47f8-b289-eaa41efcba57/"><img class="zemanta-pixie-img" style="border:none;float:right" src="http://img.zemanta.com/reblog_e.png?x-id=7843ef94-e235-47f8-b289-eaa41efcba57" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

@@ -158,4 +158,4 @@ Audrey2's now infamous line "Feed me Seymore" is how I perceive the social infor
 <li class="zemanta-article-ul-li"><a href="http://smartblogs.com/socialmedia/2010/04/22/is-the-new-facebook-a-boon-or-a-threat/">Is the new Facebook a boon or a threat?</a> (smartblogs.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://gigaom.com/2010/04/21/facebook-billion-likes-infrastructure/">Facebook: A Billion Likes? Don't Worry Our Infrastructure Can Handle It</a> (gigaom.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/b7d47624-379c-4045-aba4-44f35e5fb7b5/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=b7d47624-379c-4045-aba4-44f35e5fb7b5" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

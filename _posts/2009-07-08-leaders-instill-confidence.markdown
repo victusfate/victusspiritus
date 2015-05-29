@@ -92,4 +92,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://www.sentimentsoncommonsense.com/?p=298"> My Experiences with "Thought Leadership" and Personal Writing and My Own Professional Development </a> (sentimentsoncommonsense.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.copyblogger.com/become-a-leader/">The Seth Godin Interview: How to Become a Leader</a> (copyblogger.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/b9226b9b-cd18-46bc-861e-759744e5f93f/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=b9226b9b-cd18-46bc-861e-759744e5f93f" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

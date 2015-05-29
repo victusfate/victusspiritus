@@ -51,4 +51,4 @@ comments: []
 <li class="zemanta-article-ul-li"><a href="http://www.adaptivepath.com/blog/2009/04/18/experimentation-prototyping-and-roombas-engaging-in-gladiatorial-combat-highlights-from-beyond-the-desktop-panel-discussion/">Experimentation, Prototyping and Roombas Engaging in Gladiatorial Combat. Highlights from Beyond the Desktop Panel Discussion</a> (adaptivepath.com)</li>
 </ul>
 <ul></ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/37147f4e-405d-4211-9926-8d309510ee68/"><img class="zemanta-pixie-img" style="border:none;float:right" src="http://img.zemanta.com/reblog_e.png?x-id=37147f4e-405d-4211-9926-8d309510ee68" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

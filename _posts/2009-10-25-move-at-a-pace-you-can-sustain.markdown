@@ -43,4 +43,4 @@ Responding to change over following a plan</p>
 <ul class="zemanta-article-ul">
 <li class="zemanta-article-ul-li"><a href="http://www.cloudspace.com/blog/2009/03/02/agile-manifesto-principles/">Agile Principles</a> (cloudspace.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/8ce26d47-6390-488b-925b-76437b79a763/"><img class="zemanta-pixie-img" style="border:none;float:right" src="http://img.zemanta.com/reblog_e.png?x-id=8ce26d47-6390-488b-925b-76437b79a763" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

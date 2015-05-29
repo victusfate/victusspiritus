@@ -91,4 +91,4 @@ We the leaders and dedicated change makers are coming for you. We did our best w
 <li class="zemanta-article-ul-li"><a href="http://sethgodin.typepad.com/seths_blog/2009/08/thanks-for-leading.html">Thanks for leading</a> (sethgodin.typepad.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.kevineikenberry.com/blogs/2008/10/being-leader-you-were-meant-to-be.asp">Being the Leader You Were Meant to Be</a> (kevineikenberry.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/ef9bb5d0-3eb3-4d08-a845-0cbd512cc7f1/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=ef9bb5d0-3eb3-4d08-a845-0cbd512cc7f1" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

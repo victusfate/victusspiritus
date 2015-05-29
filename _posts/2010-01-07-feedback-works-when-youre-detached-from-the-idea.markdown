@@ -126,4 +126,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://mndoci.com/2009/10/31/data-driven-science-revisited/">Data driven science revisited</a> (mndoci.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://arstechnica.com/science/news/2010/01/keeping-computers-from-ending-sciences-reproducibility.ars?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss">Keeping computers from ending science's reproducibility</a> (arstechnica.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/afee4e2d-1ea6-456c-bbd7-6ee57131ed99/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=afee4e2d-1ea6-456c-bbd7-6ee57131ed99" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

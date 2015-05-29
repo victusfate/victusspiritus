@@ -50,4 +50,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://mndoci.com/2010/01/02/apis-are-powerful-platforms/">APIs are powerful platforms</a> (mndoci.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.norvig.com/21-days.html">Teach Yourself Programming in 10 Years.</a> (norvig.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/94a86483-a0c3-4295-9c6d-2447e7bc114b/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=94a86483-a0c3-4295-9c6d-2447e7bc114b" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

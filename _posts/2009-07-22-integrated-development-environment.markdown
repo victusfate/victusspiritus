@@ -159,4 +159,4 @@ The reality of using certain IDEs is an incredible rat's nest</p>
 <li class="zemanta-article-ul-li"><a href="http://www.theregister.co.uk/2009/05/29/intelij_idae_9_eclipse/"> IntelliJ's Maia shapes up against Eclipse </a> (theregister.co.uk)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.eishay.com/2009/07/scala-on-google-app-engine-playing-it.html"> Scala on Google App Engine playing it nice with Java GWT and JDO </a> (eishay.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/c2302a66-cc95-4346-ba60-a706f038ae06/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=c2302a66-cc95-4346-ba60-a706f038ae06" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

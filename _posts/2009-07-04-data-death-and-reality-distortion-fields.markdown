@@ -82,4 +82,4 @@ Ps: my limited perspective comes with self recognition of a lack of hands on exp
 <li><a href="http://www.dbms2.com/2009/07/01/nosql-sql-alternative/">NoSQL? </a>(dbms2.com)</li>
 <li><a href="http://r.zemanta.com/?u=http%3A//www.time.com/time/specials/packages/article/0%2C28804%2C1902809_1902810_1905184%2C00.html%3Fxid%3Drss-topstories&amp;a=5782717&amp;rid=908ba5e6-1470-4b0e-906b-de1f08d1e4e6&amp;e=129c96a4a18255f5394315e7b88b4ce4">Tim Berners-Lee and the Birth of the World Wide Web </a> (time.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/3fc59746-d0fd-417a-829a-5d1b6838e8bb/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=3fc59746-d0fd-417a-829a-5d1b6838e8bb" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

@@ -130,4 +130,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://tech.slashdot.org/story/09/10/04/1621216/Will-Books-Be-Napsterized?from=rss">Will Books Be Napsterized?</a> (tech.slashdot.org)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.boingboing.net/2009/08/18/how-free-ebooks-are.html">How free ebooks are good for well-known and obscure writers</a> (boingboing.net)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/7ea47fbc-c6bf-422a-a48e-33cb30ef5fc9/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=7ea47fbc-c6bf-422a-a48e-33cb30ef5fc9" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

@@ -81,4 +81,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://ceoworld.biz/ceo/2009/07/17/how-twitter-plans-to-generate-revenue/"> How Twitter plans to generate revenue! </a> (ceoworld.biz)</li>
 <li class="zemanta-article-ul-li"><a href="http://mashable.com/2009/07/15/google-reader-followers/"> Google Reader Gets a Social Makeover, Adds Likes and Followers </a> (mashable.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/54ffdc3c-4a3e-46f7-b8e4-c9bc49983c73/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=54ffdc3c-4a3e-46f7-b8e4-c9bc49983c73" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

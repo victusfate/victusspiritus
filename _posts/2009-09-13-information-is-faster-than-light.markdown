@@ -148,4 +148,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://r.zemanta.com/?u=http%3A//www.guardian.co.uk/science/blog/2009/aug/26/entropy-time-arrow-quantum-mechanics&amp;a=7229307&amp;rid=d8cce2ec-4523-4e49-a418-83dfa192e1c4&amp;e=6037adcc3fc846094fadc95b11d87ee6">Is the arrow of time mystery solved?</a> (guardian.co.uk)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.scienceblog.com/cms/nist-physicists-demonstrate-quantum-entanglement-mechanical-system-21740.html">NIST physicists demonstrate quantum entanglement in mechanical system</a> (scienceblog.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/d8cce2ec-4523-4e49-a418-83dfa192e1c4/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=d8cce2ec-4523-4e49-a418-83dfa192e1c4" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

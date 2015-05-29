@@ -81,4 +81,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://www.readwriteweb.com/archives/wordpress_just_made_millions_of_blogs_real-time_wi.php">WordPress Just Made Millions of Blogs Real-Time With RSSCloud</a> (readwriteweb.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://mashable.com/2009/09/07/rsscloud/">WordPress Enters Real-Time: 7.5 Million Blogs Reach Twitter Speed</a> (mashable.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top:10px;height:15px"><a class="zemanta-pixie-a" href="http://reblog.zemanta.com/zemified/62620956-4919-499c-9391-4f7bb297d821/" title="Reblog this post [with Zemanta]"><img class="zemanta-pixie-img" src="http://img.zemanta.com/reblog_e.png?x-id=62620956-4919-499c-9391-4f7bb297d821" alt="Reblog this post [with Zemanta]" style="border:none;float:right"></a><span class="zem-script more-related pretty-attribution"><script type="text/javascript" src="http://static.zemanta.com/readside/loader.js" defer="defer"></script></span></div>
+

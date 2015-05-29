@@ -24,4 +24,4 @@ comments: []
 <li class="zemanta-article-ul-li"><a href="http://regulargeek.com/2009/10/02/help-regulargeek-help-schools-with-donorschoose-org/">Help RegularGeek Help Schools With DonorsChoose.org</a> (regulargeek.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://justjared.buzznet.com/2009/09/30/adam-lambert-thanks-fans-donations/">Adam Lambert Thanks Fans for $229,000 Donation</a> (justjared.buzznet.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/9473dd05-c119-4740-80b7-f0157a400d2c/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=9473dd05-c119-4740-80b7-f0157a400d2c" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

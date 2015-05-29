@@ -86,4 +86,4 @@ riches?</a> - The utility of twitter as a profit engine has been a growing conce
 <li class="zemanta-article-ul-li"><a href="http://regulargeek.com/2009/07/18/friendfeed-is-getting-ripped-off/"> FriendFeed Is Getting Ripped Off </a> (regulargeek.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://jonggunlee.tistory.com/110136"> Poll Result: Most Popular Social Networking Tools for Online ... </a> (jonggunlee.tistory.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/5cefc664-9a43-4943-96b2-fd24bb4166ec/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=5cefc664-9a43-4943-96b2-fd24bb4166ec" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

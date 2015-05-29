@@ -105,4 +105,4 @@ Lying at impossible distances.</p></blockquote>
 <li class="zemanta-article-ul-li"><a href="http://blog.revolution-computing.com/2010/01/analyzing-a-friendfeed-group-with-ruby-and-r.html">Analyzing a FriendFeed group with Ruby and R</a> (revolution-computing.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://nandz.blogspot.com/2008/04/ruby-few-points-about-ruby-threading.html">[Ruby] A few points about Ruby threading...</a> (nandz.blogspot.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/6266fa4d-0098-47ab-a1cc-fe7e3a98f972/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=6266fa4d-0098-47ab-a1cc-fe7e3a98f972" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

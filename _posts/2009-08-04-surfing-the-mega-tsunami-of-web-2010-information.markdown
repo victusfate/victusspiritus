@@ -54,4 +54,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://glinden.blogspot.com/2009/06/1m-netflix-prize-has-been-won.html">The $1M Netflix Prize has been won</a> (glinden.blogspot.com) (algorithms may be applicable in pattern matching)</li>
 <li class="zemanta-article-ul-li"><a href="http://arnoldit.com/wordpress/2009/07/22/datagov-revealed/">Data.gov Revealed</a> (arnoldit.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/d00ea5ee-9f11-42ef-9f5c-73d582c93012/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=d00ea5ee-9f11-42ef-9f5c-73d582c93012" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

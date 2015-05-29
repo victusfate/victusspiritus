@@ -124,4 +124,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://www.technologyreview.com/blog/guest/25339/?ref=rss">Blog - How the Apple II Taught Programmers To Economize</a> (technologyreview.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://parveenkaler.com/2010/06/30/could-ruby-be-apples-language-and-api-future-3/">Could Ruby be Apple's language and API future?</a> (parveenkaler.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Enhanced by Zemanta" href="http://www.zemanta.com/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/zemified_e.png?x-id=11ede336-88de-47cc-b86d-1d1b7925515a" alt="Enhanced by Zemanta" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

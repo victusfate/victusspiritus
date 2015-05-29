@@ -53,4 +53,4 @@ comments: []
 <ul class="zemanta-article-ul">
 <li class="zemanta-article-ul-li"><a href="http://realgoalgetter.com/617/stop-reading-start-your-business/">Stop Reading, Start Your Business . . .</a> (realgoalgetter.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/887c1ec5-d361-4550-a6d7-8f5daca9ba92/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=887c1ec5-d361-4550-a6d7-8f5daca9ba92" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

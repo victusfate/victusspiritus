@@ -53,4 +53,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://www.wealthyways4you.com/online-business/comprehensible-web-development">Comprehensible Web Development</a> (wealthyways4you.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://marketing.blogtanker.com/4142/where-are-the-good-web-designers-for-small-business-owners-11/">Where Are The Good Web Designers for Small Business Owners?</a> (marketing.blogtanker.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/10b14cec-a32d-47b9-9043-8f1f2fd0c08b/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=10b14cec-a32d-47b9-9043-8f1f2fd0c08b" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

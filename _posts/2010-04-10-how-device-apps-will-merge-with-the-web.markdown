@@ -42,4 +42,4 @@ comments:
 <p>Notes:</p>
 <p>*  odd choice of vocabulary inspired by the 3 amigos<br />
 ^ combinatorics, 2 nodes = 1connection, 3 nodes = 3 single connections &amp; 3 dual broadcast connections, etc</p>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/be83a529-a2bc-4233-9251-9c4cd68b06a6/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=be83a529-a2bc-4233-9251-9c4cd68b06a6" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

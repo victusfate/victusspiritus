@@ -136,4 +136,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://entrepreneur.venturebeat.com/2009/07/14/youre-not-as-good-as-the-press-thinks/"> You're not as good as the press thinks </a> (entrepreneur.venturebeat.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://vator.tv/news/show/2009-03-17-when-should-startups-launch">When should startups launch?</a> (vator.tv)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/470d8449-9b8b-4209-ab93-6912bec23785/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=470d8449-9b8b-4209-ab93-6912bec23785" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

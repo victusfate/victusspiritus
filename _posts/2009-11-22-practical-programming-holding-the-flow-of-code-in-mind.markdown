@@ -47,4 +47,4 @@ comments: []
 <li class="zemanta-article-ul-li"><a href="http://r.zemanta.com/?u=http%3A//www.infoworld.com/d/developer-world/jetbrains-upgrades-ruby-ide-727%3Fsource%3Drss_infoworld_news&amp;a=9638996&amp;rid=26c19024-a1a7-4a53-88b6-1db105d1c8b5&amp;e=31c60289c570a5c8b54d4f80a7bfb10e">JetBrains upgrades Ruby IDE</a> (infoworld.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://joi.ito.com/weblog/2009/08/11/agile-developme.html">Agile development, startups and government policy</a> (joi.ito.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/26c19024-a1a7-4a53-88b6-1db105d1c8b5/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=26c19024-a1a7-4a53-88b6-1db105d1c8b5" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

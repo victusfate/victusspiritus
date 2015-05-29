@@ -140,4 +140,4 @@ There they go! But at least <em>they're</em> happy.</p>
 <li class="zemanta-article-ul-li"><a href="http://www.techcrunch.com/2009/07/30/fed-up-a-popular-mac-developer-quits-the-iphone/">Fed Up, A Popular Mac Developer Quits The iPhone</a> (techcrunch.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.techcrunch.com/2009/07/31/i-quit-the-iphone/">I Quit The iPhone</a> (techcrunch.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/674fa60e-000b-4c7c-b00d-1e64174e26fa/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=674fa60e-000b-4c7c-b00d-1e64174e26fa" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

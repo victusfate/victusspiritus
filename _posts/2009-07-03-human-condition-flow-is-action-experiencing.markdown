@@ -53,4 +53,4 @@ comments:
 <h6 class="zemanta-related-title" style="font-size: 1em;"><span style="font-weight: normal;"><br />
 <strong><br />
 </strong></span></h6>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

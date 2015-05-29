@@ -106,4 +106,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://www.socialmediatoday.com/SMC/81503">Why I Don't Use a Ghost Writer</a> (socialmediatoday.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.chrisbrogan.com/build-your-own-alltop-for-instant-inspiration/"> Build Your Own Alltop for Instant Inspiration </a> (chrisbrogan.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/a58e5ee7-1773-46b2-abd9-070fed6045a3/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=a58e5ee7-1773-46b2-abd9-070fed6045a3" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

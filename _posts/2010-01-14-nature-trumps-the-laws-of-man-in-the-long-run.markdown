@@ -58,4 +58,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://dragonintuitive.com/being-is-productive/">Being Is Productive</a> (dragonintuitive.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://dragonintuitive.com/purpose-of-cognition/">Purpose of Cognition</a> (dragonintuitive.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/1adcc2fd-3749-47b7-a083-a259d257a69c/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=1adcc2fd-3749-47b7-a083-a259d257a69c" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

@@ -98,4 +98,4 @@ The <a class="zem_slink" title="Bing Maps" rel="homepage" href="http://www.bing.
 <li class="zemanta-article-ul-li"><a href="http://www.web-strategist.com/blog/2009/11/16/video-augmented-reality-at-lego-store-digital-box/">Breakdown: Augmented Reality at Lego Store, "Digital Box"</a> (web-strategist.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.readwriteweb.com/archives/the_business_of_augmented_reality_event.php">The Business of Augmented Reality</a> (readwriteweb.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/c2872c7c-4374-4f77-84f6-a19d5b7ff375/"><img class="zemanta-pixie-img" style="border: medium none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=c2872c7c-4374-4f77-84f6-a19d5b7ff375" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

@@ -40,4 +40,4 @@ comments: []
 <li class="zemanta-article-ul-li"><a href="http://crosscut.com/2009/12/24/lifestyle-leisure/19467/">Here comes Santa Claus!</a> (crosscut.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.ashimmy.com/2009/12/merry-christmas-happy-new-year-peace-on-earth-and-all-that.html">Merry Christmas, Happy New Year, Peace on Earth and all that</a> (ashimmy.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/dc5561bd-2d16-4f28-9523-9b862057685e/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=dc5561bd-2d16-4f28-9523-9b862057685e" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

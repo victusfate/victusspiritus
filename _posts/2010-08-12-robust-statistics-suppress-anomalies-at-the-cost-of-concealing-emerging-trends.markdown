@@ -47,4 +47,4 @@ comments: []
 *= Least Squares is an estimation technique that minimizes the sum squared error. Alternative estimates may be L1 Norm which work with absolute values much like Robust Statistics (equivalent?)</p>
 <p>^= Means and variances (overall or by cluster for multimodal data) are ideal for Gaussian distributions which are common in many signal processing applications</p>
 <p>**=  variance of 4,4,4,100 is 1728 or  2304 depending on whether you normalize by N or N-1. 1/3 or 1/4 of (24*24 + 24*24 + 24*24 + 72*72). By definition it's N-1 but for most large data sets the difference is negligible.</p>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Enhanced by Zemanta" href="http://www.zemanta.com/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/zemified_e.png?x-id=b2d0cea0-8acf-4730-9f37-f28b7346f2fa" alt="Enhanced by Zemanta" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

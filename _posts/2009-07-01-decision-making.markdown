@@ -140,4 +140,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://tech.slashdot.org/story/09/06/30/2044224/Malcolm-Gladwell-Challenges-the-Idea-of-Free?from=rss"> Malcolm Gladwell Challenges the Idea of "Free" </a> (tech.slashdot.org)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.idiomag.com/peek/90863/pandora"> Gladwell, Anderson, Godin, and Bad Brains </a> (idiomag.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/66e74802-c5ca-41d9-90e2-4616d2293cbb/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=66e74802-c5ca-41d9-90e2-4616d2293cbb" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

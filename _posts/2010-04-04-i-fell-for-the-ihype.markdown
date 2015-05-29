@@ -115,4 +115,4 @@ comments:
 <ul class="zemanta-article-ul">
 <li class="zemanta-article-ul-li"><a href="http://www.wisdump.com/ignoring-the-hype/ipad-ready-webs-standards-angle/">iPad-ready? Apple works the web standards angle</a> (wisdump.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/7e64c004-6e83-4b9e-ba5b-92853fcdd56f/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=7e64c004-6e83-4b9e-ba5b-92853fcdd56f" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

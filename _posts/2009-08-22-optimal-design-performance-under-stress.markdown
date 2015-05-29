@@ -135,4 +135,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://biosingularity.wordpress.com/2009/07/26/short-stressful-events-may-improve-working-memory/">Short stressful events may improve working memory</a> (biosingularity.wordpress.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://itakeoffthemask.com/motivational-sayings/the-power-of-words-and-thoughts/">The Power of Words and Thoughts</a> (itakeoffthemask.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/6b6bd60f-ee21-4580-8bdd-f4661bebc2d5/"><img class="zemanta-pixie-img" style="border:none;float:right" src="http://img.zemanta.com/reblog_e.png?x-id=6b6bd60f-ee21-4580-8bdd-f4661bebc2d5" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

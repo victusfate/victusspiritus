@@ -54,4 +54,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://blog.startupprofessionals.com/2010/01/motivation-takes-leadership-not-just.html">Motivation Takes Leadership, Not Just Money</a> (startupprofessionals.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.knowist.com/knowist/2009/11/creativity-and-focus-in-the-planning-process.html">Creativity and Focus in the Planning Process</a> (knowist.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/bbb203cd-a107-4246-8a87-373d92a4c952/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=bbb203cd-a107-4246-8a87-373d92a4c952" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

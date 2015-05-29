@@ -29,4 +29,4 @@ comments: []
 <li class="zemanta-article-ul-li"><a href="http://www.downloadsquad.com/2009/07/23/weatherpoke-gives-you-weather-alerts-via-facebook/">WeatherPoke gives you weather alerts via Facebook</a> (downloadsquad.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://news.cnet.com/8301-17939_109-10347566-2.html?part=rss&amp;subj=news">NOAA supercomputers to forecast better weather?</a> (news.cnet.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/cc097741-3cbc-4b3c-b8fc-e3cf24f7cff4/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=cc097741-3cbc-4b3c-b8fc-e3cf24f7cff4" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

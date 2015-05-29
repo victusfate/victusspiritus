@@ -69,4 +69,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://regulargeek.com/2009/08/26/rss-human-filters-and-real-time-streams/">RSS, Human Filters And Real Time Streams</a> (regulargeek.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.centernetworks.com/heres-how-to-fix-the-twitter-suggested-user-advantage">Here's How To Fix The Twitter Suggested User "Advantage"</a> (centernetworks.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/36c21881-b1ae-4b7c-942c-5f655db4aecc/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=36c21881-b1ae-4b7c-942c-5f655db4aecc" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

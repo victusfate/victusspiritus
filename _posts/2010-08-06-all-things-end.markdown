@@ -58,4 +58,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://www.forbes.com/2010/05/17/butterfly-effect-employees-leadership-managing-workplace.html">The Butterfly Effect And Your Employees</a> (forbes.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.huffingtonpost.com/robert-lanza/why-youre-alive-and-can-n_b_660552.html">Robert Lanza, M.D.: Why You're Alive and Can Never Die: The Larger Scientific Picture</a> (huffingtonpost.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Enhanced by Zemanta" href="http://www.zemanta.com/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/zemified_e.png?x-id=19acc59c-7eaa-4229-bc8c-fbdcae963c0e" alt="Enhanced by Zemanta" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

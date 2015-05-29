@@ -51,4 +51,4 @@ comments: []
 <li class="zemanta-article-ul-li"><a href="http://marketing.blogtanker.com/3768/the-three-natural-phases-of-successful-small-business-growth/">The Three Natural Phases of Successful Small Business Growth</a> (marketing.blogtanker.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.ducttapemarketing.com/blog/2009/04/15/business-isnt-personal/">Business Isn't Personal</a> (ducttapemarketing.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/6c1dfc92-2f99-4850-aefb-019d2385a0ce/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=6c1dfc92-2f99-4850-aefb-019d2385a0ce" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

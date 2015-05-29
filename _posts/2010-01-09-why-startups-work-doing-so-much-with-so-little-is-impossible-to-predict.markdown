@@ -50,4 +50,4 @@ comments:
 <li class="zemanta-article-ul-li"><a href="http://mashable.com/2010/01/13/tasti-d-lite-tastirewards/">Twitter and Foursquare Become the New Loyalty Program at Tasti D-Lite</a> (mashable.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.slideshare.net/guest9188c15/economies-of-scale-2976018">Economies Of Scale</a> (slideshare.net)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/880c68bf-d0c3-419b-87e9-446c91fd1691/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=880c68bf-d0c3-419b-87e9-446c91fd1691" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

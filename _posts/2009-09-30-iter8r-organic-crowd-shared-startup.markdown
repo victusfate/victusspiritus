@@ -147,4 +147,4 @@ Pandu</p>
 <li class="zemanta-article-ul-li"><a href="http://en.onsoftware.com/the-essence-of-the-web-or-the-height-of-exploitation/">The essence of the web or the height of exploitation?</a> (en.onsoftware.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.allfacebook.com/2009/09/facebook-open-sources-core-friendfeed-technology/">Facebook Open Sources Core FriendFeed Technology</a> (allfacebook.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/5dd2e318-6dbe-4633-823c-1f891a8e9c60/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=5dd2e318-6dbe-4633-823c-1f891a8e9c60" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

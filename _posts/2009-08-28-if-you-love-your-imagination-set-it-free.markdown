@@ -50,4 +50,4 @@ comments: []
 <li class="zemanta-article-ul-li"><a href="http://mashable.com/2009/08/25/myidea4ca/">EXCLUSIVE INTERVIEW: Schwarzenegger Launches Twitter Powered MyIdea4CA</a> (mashable.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.cloudave.com/link/how-to-build-an-soa-based-high-performance-scalable-and-reliable-twitter-on-steroids">How To Build an SOA Based, High Performance, Scalable and Reliable Twitter on Steroids</a> (cloudave.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/7f6c2023-3ca1-40fe-bb4a-bc82f517d468/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=7f6c2023-3ca1-40fe-bb4a-bc82f517d468" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+

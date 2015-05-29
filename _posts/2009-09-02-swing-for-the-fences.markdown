@@ -43,4 +43,4 @@ comments: []
 <li class="zemanta-article-ul-li"><a href="http://arstechnica.com/science/news/2009/06/potential-in-the-wind-23-times-current-us-consumption.ars">Potential wind power is 23 times current US electricity use</a> (arstechnica.com)</li>
 <li class="zemanta-article-ul-li"><a href="http://www.technologyreview.com/energy/22997/">A Costly and Unnecessary New Electricity Grid</a> (technologyreview.com)</li>
 </ul>
-<div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><a class="zemanta-pixie-a" title="Reblog this post [with Zemanta]" href="http://reblog.zemanta.com/zemified/38cf3db1-f2ee-4630-b418-fb4ab963ceda/"><img class="zemanta-pixie-img" style="border: none; float: right;" src="http://img.zemanta.com/reblog_e.png?x-id=38cf3db1-f2ee-4630-b418-fb4ab963ceda" alt="Reblog this post [with Zemanta]" /></a><span class="zem-script more-related pretty-attribution"><script src="http://static.zemanta.com/readside/loader.js" type="text/javascript"></script></span></div>
+
