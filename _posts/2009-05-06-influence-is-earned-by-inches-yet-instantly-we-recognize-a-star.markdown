@@ -1,5 +1,5 @@
 ---
-layout: library_items
+layout: post
 status: publish
 published: true
 title: Influence is Earned by Inches, Yet Instantly We Recognize a Star

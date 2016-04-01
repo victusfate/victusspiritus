@@ -1,5 +1,5 @@
 ---
-layout: library_items
+layout: post
 status: publish
 published: true
 title: 'The Virtual Currency of Social Media: Gratitude'

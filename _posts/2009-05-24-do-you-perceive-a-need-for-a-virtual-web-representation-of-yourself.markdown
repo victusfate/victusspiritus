@@ -1,5 +1,5 @@
 ---
-layout: library_items
+layout: post
 status: publish
 published: true
 title: Do You Perceive a Need for a Virtual Web Representation of Yourself?

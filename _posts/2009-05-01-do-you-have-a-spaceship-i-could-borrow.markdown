@@ -1,5 +1,5 @@
 ---
-layout: library_items
+layout: post
 status: publish
 published: true
 title: Do you have a spaceship I could borrow?

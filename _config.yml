@@ -1,11 +1,10 @@
 name: Victus Spiritus
 markdown: redcarpet
-pygments: true
 highlighter: pygments
 repository: https://github.com/victusfate/victusspiritus
-relative_permalinks: false
 baseurl: /victusspiritus
 url: https://victusfate.github.io/victusspiritus
+permalink: pretty
 
 assets:
   dirname: assets

@@ -1,5 +1,5 @@
 ---
-layout: library_items
+layout: post
 status: publish
 published: true
 title: A Novel Language, Spoken, Written, Optimal & Naturally Computer Friendly

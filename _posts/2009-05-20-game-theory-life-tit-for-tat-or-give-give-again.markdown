@@ -1,5 +1,5 @@
 ---
-layout: library_items
+layout: post
 status: publish
 published: true
 title: Game Theory & Life, Tit for Tat or Give & Give Again

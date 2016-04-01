@@ -1,5 +1,5 @@
 ---
-layout: library_items
+layout: post
 status: publish
 published: true
 title: Motivation is a 1000 Times More Effective than Training or Talent

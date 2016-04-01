@@ -1,5 +1,5 @@
 ---
-layout: library_items
+layout: post
 status: publish
 published: true
 title: Short Term Survival Trumps Searching For Our Calling, But Only in the Short

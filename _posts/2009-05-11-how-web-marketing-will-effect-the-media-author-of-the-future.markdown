@@ -1,5 +1,5 @@
 ---
-layout: library_items
+layout: post
 status: publish
 published: true
 title: How Web Marketing Will Effect the Media Author of the Future
