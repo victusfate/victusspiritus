@@ -57,10 +57,6 @@ comments:
   content: The post was a good CSS button lesson. Still, I haven't seen broad adoption
     for this technique. Extreme sentiment tracking just makes sense.
 ---
-<div class="iframe_container"><iframe src="//victusfate.github.io/victusspiritus/button.html" width="500" height="150" />
-</div>
-<br />
-code for the above fugly buttons are at <a href="http://gist.github.com/636281">this gist</a></p>
 <p><i>It's not important what you like</i></p>
 <p>We all like plenty of mediocre crap. The humor that get's a single syllable laugh, the tech article that get's a head nod, the hack that connects format a to format b. Tracking knowledge of tolerable information we approve of is a waste of effort. Web companies are better served by replacing like with Fucking Awesome sentiment tracking. They should go ahead and add a Loathe button while they're at it, even that would be of higher utility than a like button.</p>
 <p><i>The Brief and Questionable History of Sentiment Tracking</i></p>
@@ -68,3 +64,8 @@ code for the above fugly buttons are at <a href="http://gist.github.com/636281">
 <p>Sentiment information is highly sought after by businesses. Companies benefit by gaining access to individual tastes, which enables them to strategically plan their marketing efforts. Rapid feedback is obtained by observing real time approval which enables businesses to expend resources and quickly identify successful campaigns. In this way our collective interests serve as advanced sensors for mapping out optimal marketing paths in a highly dynamic and nonlinear terrain.</p>
 <p>Notes:<br />
 *=  new retweets are universally ignored by original posters</p>
+
+
+<p>code for the below fugly buttons are at <a href="http://gist.github.com/636281">this gist</a></p>
+<div><iframe src="//victusfate.github.io/victusspiritus/button.html" width="500" height="150" />
+</div>
