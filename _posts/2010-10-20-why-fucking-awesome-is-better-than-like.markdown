@@ -57,7 +57,8 @@ comments:
   content: The post was a good CSS button lesson. Still, I haven't seen broad adoption
     for this technique. Extreme sentiment tracking just makes sense.
 ---
-<p>[iframe http://www.victusspiritus.com/button.html 500 150]<br />
+<p><iframe src="http://www.victusspiritus.com/button.html" width="500" height="150" />
+<br />
 code for the above fugly buttons are at <a href="http://gist.github.com/636281">this gist</a></p>
 <p><i>It's not important what you like</i></p>
 <p>We all like plenty of mediocre crap. The humor that get's a single syllable laugh, the tech article that get's a head nod, the hack that connects format a to format b. Tracking knowledge of tolerable information we approve of is a waste of effort. Web companies are better served by replacing like with Fucking Awesome sentiment tracking. They should go ahead and add a Loathe button while they're at it, even that would be of higher utility than a like button.</p>
