@@ -57,7 +57,7 @@ comments:
   content: The post was a good CSS button lesson. Still, I haven't seen broad adoption
     for this technique. Extreme sentiment tracking just makes sense.
 ---
-<p><iframe src="http://www.victusspiritus.com/button.html" width="500" height="150" />
+<p><iframe src="//victusfate.github.io/victusspiritus/button.html" width="500" height="150" />
 <br />
 code for the above fugly buttons are at <a href="http://gist.github.com/636281">this gist</a></p>
 <p><i>It's not important what you like</i></p>
