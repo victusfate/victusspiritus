@@ -35,6 +35,5 @@ I'm Mark Essel, a dataminer &amp; systems engineer that's added cofounder, web d
 <li><a href="http://profiles.google.com/messel">+messel on Google</a></li>
 <li><a href="http://twitter.com/victusfate">@victusfate on twitter</a></li>
 <li><a href="http://disqus.com/victusfate/">@victusfate on Disqus</a></li>
-<li><a href="http://www.facebook.com/victusfate">victusfate on Facebook</a></li>
 </ul>
-<p>You can reach me at messel at gmail dot com or messel at victusmedia dot com, or by commenting on any open post.</p>
+<p>You can reach me at messel at gmail dot com or m at tekhorizons.com, or by commenting on any open post.</p>

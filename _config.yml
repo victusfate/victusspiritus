@@ -1,5 +1,5 @@
 name: Victus Spiritus
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 repository: https://github.com/victusfate/victusspiritus
 baseurl: /victusspiritus
