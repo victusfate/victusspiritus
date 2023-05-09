@@ -32,7 +32,7 @@ I'm Mark Essel, a dataminer &amp; systems engineer that's added cofounder, web d
 <p>Perhaps even more importantly I want to aid others in listening to their inner muses and realizing an inspirational life path that invigorates them and their loved ones each day. Life is far too precious and short to settle for anything less.</p>
 <p>My net homes:</p>
 <ul>
-<li><a href="http://profiles.google.com/messel">+messel on Google</a></li>
+<li><a href="http://github.com/victusfate">@victusfate on github</a></li>
 <li><a href="http://twitter.com/victusfate">@victusfate on twitter</a></li>
 <li><a href="http://disqus.com/victusfate/">@victusfate on Disqus</a></li>
 </ul>
