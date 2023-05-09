@@ -182,7 +182,7 @@ My gut is telling me I've gotta learn from people who've successfully built prod
 <p>Um yeah, pretty much all of those companies had great openings that matched my interests/background. No matter where I end up there will be a steep learning curve to dive into their specific technology.</p>
 <p>The deciding factor for me will be the culture of the startup, and the vibe the founders have instilled into the young organizations.
 </p></blockquote>
-<p>ps: I threw the gauntlet down to <a href="http://hunch.com">Hunch</a> as well (I've <a href="http://www.victusspiritus.com/?s=Hunch.com">written about them</a> a number of times). They have a novel take on search with pseudo inductive reasoning and taste/people clustering with a wicked web app that sucks you in for hours.</p>
+<p>ps: I threw the gauntlet down to <a href="http://hunch.com">Hunch</a> as well (I've <a href="{{ site.url }}/?s=Hunch.com">written about them</a> a number of times). They have a novel take on search with pseudo inductive reasoning and taste/people clustering with a wicked web app that sucks you in for hours.</p>
 <p>Special thanks to <a href="http://garychou.com/">Gary Chou</a> for pointing me to Indeed to track down most of these opportunities. Much appreciate your help Gary, you rock! (<a href="http://twitter.com/gcsf">Gary's twitter profile</a>).</p>
 <p>Notes:<br />
 *= Chrome isn't allowed at my old-school engineering job because of vulnerabilities in 2008, and IE7 is the  suggested default browser. Each office shares a T1 with 10+ people (which is 10x as expensive as a cable modem and 10x slower).</p>

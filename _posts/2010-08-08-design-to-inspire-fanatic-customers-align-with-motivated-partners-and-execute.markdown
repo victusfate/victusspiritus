@@ -42,7 +42,7 @@ comments: []
 <ul>
 <li>
 <h3>Organic Startups</h3>
-<p>There's something vital that bootstrapped businesses don't have the benefit of out of the gate, but that doesn't mean it's beyond their grasp. That something is <strong>Hungry, Wealthy, Partners</strong>. Organic startups can negotiate their way into mutual partnerships which benefit from their growth without giving up equity. <a href="http://www.victusspiritus.com/?s=%22no+man+is+an+island%22">No man is an island</a> is the only law of the network economy</li>
+<p>There's something vital that bootstrapped businesses don't have the benefit of out of the gate, but that doesn't mean it's beyond their grasp. That something is <strong>Hungry, Wealthy, Partners</strong>. Organic startups can negotiate their way into mutual partnerships which benefit from their growth without giving up equity. <a href="{{ site.url }}/?s=%22no+man+is+an+island%22">No man is an island</a> is the only law of the network economy</li>
 <li>
 <h3>Angel and Venture Backed Startups have Baked in Support</h3>
 <p>This is a given for investors who back your company. They profit from their portfolio's success. What's important to remember is the distinction between your single startup and the portfolio. Depending on the deal they may have strong influence over your business' direction, but with the rise of super angels this is no longer a given.</li>

@@ -83,7 +83,7 @@ comments:
 <ul>
 <li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/03/08/open-web-protocols-and-discussion-groups/">Open Web Protocols &amp; Discussion Groups</a></li>
 <li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2010/03/13/data-silos-or-a-social-web-pattern/">Data Silos or a Social Web Pattern</a></li>
-<li><a href="http://www.victusspiritus.com/?s=%22opengard.in%22">Open Garden</a></li>
+<li><a href="{{ site.url }}/?s=%22opengard.in%22">Open Garden</a></li>
 <li><a href="http://diso-project.org/">DiSo</a></li>
 <li><a href="http://www.peerson.net/">PeerSon</a></li>
 <li><a href="http://www.joindiaspora.com/">Diaspora</a></li>

@@ -101,7 +101,7 @@ comments:
 <blockquote><p>
 A fractal is "a rough or fragmented geometric shape that can be split into parts, each of which is (at least approximately) a reduced-size copy of the whole," a property called self-similarity.
 </p></blockquote>
-<p><a href="http://en.m.wikipedia.org/wiki/Fractal?wasRedirected=true">Fractals</a> have long been a mathematical and visual anomaly that has captured <a href="http://www.victusspiritus.com/?s=Fractal&submit=Search">my interest and imagination</a>. The simplicity of a similar shape regardless of scale, conceals the beauty of a balanced series expansion. The identity of a fractal is cleary independent of the observers distance. When designing software I seek and value logical abstractions that perform equally well at any resolution or scale. </p>
+<p><a href="http://en.m.wikipedia.org/wiki/Fractal?wasRedirected=true">Fractals</a> have long been a mathematical and visual anomaly that has captured <a href="{{ site.url }}/?s=Fractal&submit=Search">my interest and imagination</a>. The simplicity of a similar shape regardless of scale, conceals the beauty of a balanced series expansion. The identity of a fractal is cleary independent of the observers distance. When designing software I seek and value logical abstractions that perform equally well at any resolution or scale. </p>
 <p><a href="{{ site.url }}/assets/2010/06/l_310_233_34B71BD5-1F55-4A29-9EBB-96990DC87823.jpeg"><img src="{{ site.url }}/assets/2010/06/l_310_233_34B71BD5-1F55-4A29-9EBB-96990DC87823.jpeg" alt="" class="alignnone size-full" /></a></p>
 <p>The most popular fractal equation may be the <a href="http://en.m.wikipedia.org/wiki/Mandelbrot_set">Mandelbrot set</a>:</p>
 <blockquote><p>

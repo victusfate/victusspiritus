@@ -61,7 +61,7 @@ comments:
 <li>Have you heard Curlers shout and watched them sweep? That's a serious stress response</li>
 <li>The timeline for evolutionary training is longer if you consider fear responses from ancestor species</li>
 <li>Freezing up during stress: Been there, done that and lived to tell the tale. The remedy to the frozen death spiral is equal parts good friends and insane laughter</li>
-<li>I've reused the term super human filters or mortal portals if I don't mind flipping a nickel to Louis Gray. It has been an irresistible recurring theme on victus spiritus, explore <a href="http://www.victusspiritus.com/?s=super+human+filter">past posts on social filtering</a> if you're so inclined</li>
+<li>I've reused the term super human filters or mortal portals if I don't mind flipping a nickel to Louis Gray. It has been an irresistible recurring theme on victus spiritus, explore <a href="{{ site.url }}/?s=super+human+filter">past posts on social filtering</a> if you're so inclined</li>
 <li>stress levels in order of severity:
 <ul>
 <li>boss yelling at you</li>
