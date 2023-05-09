@@ -5,6 +5,7 @@ repository: https://github.com/victusfate/victusspiritus
 baseurl: /victusspiritus
 url: https://victusfate.github.io/victusspiritus
 permalink: pretty
+theme: jekyll-theme-lanyon
 
 assets:
   dirname: assets
