@@ -5,7 +5,6 @@ repository: https://github.com/victusfate/victusspiritus
 baseurl: /victusspiritus
 url: https://victusfate.github.io/victusspiritus
 permalink: pretty
-theme: jekyll-theme-lanyon
 
 assets:
   dirname: assets
@@ -17,3 +16,8 @@ assets:
     css:
   cachebust: hard
   gzip: [ text/css, application/javascript ]
+
+plugins:
+  - jekyll-paginate
+paginate: 5
+paginate_path: /page/:num/

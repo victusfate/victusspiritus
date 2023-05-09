@@ -34,11 +34,6 @@ GEM
       sass (~> 3.4)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
-    jekyll-theme-lanyon (1.1.0)
-      jekyll (~> 3.3)
-      jekyll-feed (~> 0.9)
-      jekyll-paginate (~> 1.1)
-      jekyll-sitemap (~> 1.1)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (2.4.0)
@@ -74,7 +69,6 @@ DEPENDENCIES
   jekyll-feed (~> 0.17)
   jekyll-paginate (~> 1.1)
   jekyll-sitemap (~> 1.4)
-  jekyll-theme-lanyon (~> 1.1)
   kramdown-parser-gfm
   webrick (~> 1.8.1)
 
