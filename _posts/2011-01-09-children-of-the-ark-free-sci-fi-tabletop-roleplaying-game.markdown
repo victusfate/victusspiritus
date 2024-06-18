@@ -60,6 +60,6 @@ We're seeking active sci-fi/fantasy roleplaying game masters, players and fans t
 <p>Again, here's a link to the <a href="http://www.victusgames.com/COTA-beta.pdf">COTA pdf</a>. The <a href="http://victusgames.com/">Victus Games homepage</a> has additional information about the setting and we have plenty more to come if there's sufficient interest. We welcome feedback in the comments below, by email (victusgames at gmail dot com), or join the <a href="http://groups.google.com/group/cotagame?pli=1">Google group</a>. We'll make announcements at our twitter account <a href="http://twitter.com/victusgames">@victusgames</a> if that's a preferred information channel.</p>
 <p>Related pages:</p>
 <ul>
-<li>The <a href="http://www.squidoo.com/ChildrenoftheArk">Children of the Ark</a> squidoo lens</li>
-<li>The <a href="http://www.squidoo.com/victusgames">Victus Games</a> squidoo lens</li>
+<li>The Children of the Ark lens</li>
+<li>The Victus Games lens</li>
 </ul>

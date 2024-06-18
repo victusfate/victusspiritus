@@ -71,7 +71,7 @@ of kind acts, and your wisdom continues to enrich our lives each day.  Ron has 
 <p><span style="font-size: 18px; font-family: Trebuchet MS;">You are invited to participate in an imagination-off.</span><br />
 <span style="font-size: 18px; font-family: Trebuchet MS;">I'm looking for the most incredible/far fetched ideas to help celebrate my brother's 40 years of life on earth. Crowd sourcing brilliant birthday wishes, I realize I had to call in the big guns on this one, my own creativity only goes so far.  I'll consider any suggestion no matter how outlandish (the more eccentric the better).</span></p>
 <p><span style="font-size: 18px; font-family: Trebuchet MS;">I'll write up the best (3-10) ideas in my next blog post, and make the number one celebration idea happen.</span></p>
-<p><span style="font-size: 18px; font-family: Trebuchet MS;">Here's a link to the <a href="http://www.squidoo.com/BattleOfWits">BIG LIST OF IDEAS(Battle of Wits)</a> thanks to squidoo and their plexo module!</span></p>
+<p><span style="font-size: 18px; font-family: Trebuchet MS;">Here's a link to the BIG LIST OF IDEAS(Battle of Wits) thanks to squidoo and their plexo module!</span></p>
 <p>Whether or not you submit an idea back<br />
 I'm grateful for your time,<br />
 Mark Essel</p></div>

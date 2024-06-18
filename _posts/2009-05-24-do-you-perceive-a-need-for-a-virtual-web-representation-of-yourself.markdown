@@ -77,7 +77,7 @@ comments: []
 <ul>
 <li>fully voice controlled</li>
 <li>standard keyboard/mouse</li>
-<li><a href="http://www.squidoo.com/BrainWaveReader">neural interface</a></li>
+<li>neural interface</li>
 </ul>
 </li>
 <li><span style="color: #0000ff;">Can Interpret Meaning </span>

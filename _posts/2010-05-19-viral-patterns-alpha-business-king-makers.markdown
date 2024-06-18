@@ -42,7 +42,7 @@ comments:
 A woman walks up to a round thing on a tree, sniffs it and takes a bite. She runs back to her family and shares her find. Her family meets with other families and friends describing the wonders of this round fruit. Soon an entire world full of humans is eating apples. The original discovery is long forgotten, but the pattern remains.
 </p></blockquote>
 <h2>What's an Alpha Business</h2>
-<p>When a company forms around a viral pattern and forges a new business space a <a href="http://www.squidoo.com/money-love-1#module13145368">Blue Ocean</a> is opened up. Alpha Business is a term I use to describe a very specific type of company which nurtures an alpha or novel viral pattern into mainstream adoption while refining the product for optimal "business" utility*. Other businesses may come in and do a better job of executing but are not necessarily alpha businesses. </p>
+<p>When a company forms around a viral pattern and forges a new business space a Blue Ocean is opened up. Alpha Business is a term I use to describe a very specific type of company which nurtures an alpha or novel viral pattern into mainstream adoption while refining the product for optimal "business" utility*. Other businesses may come in and do a better job of executing but are not necessarily alpha businesses. </p>
 <ul>
 <li>Google didn't invent web search but their algorithm of leveraging human created links as a knowledge quality system was and still is a potent viral pattern</li>
 <li>Microsoft selling software was an alpha pattern</li>

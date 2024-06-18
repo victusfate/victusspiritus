@@ -97,7 +97,7 @@ this a tribe)</li>
 inspirational to others, positively affecting people around me (friends, family and coworkers)?</li>
 <li>What can I do that really make a difference in my life and for<br />
 others?</li>
-<li>What will <a href="http://www.squidoo.com/SmokeAndMirrors">society value most</a> from my efforts and time?</li>
+<li>What will society value most from my efforts and time?</li>
 </ul>
 <p>My solution was simple.</p>
 <p>When I align my daily work with what I love and need to do, it has meaning to me.</p>

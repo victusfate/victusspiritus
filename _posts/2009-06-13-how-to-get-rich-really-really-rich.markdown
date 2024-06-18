@@ -97,7 +97,7 @@ comments:
 <li><a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/02/23/marketing-your-time/">Market your time effectively</a>, <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/06/12/maximize-the-value-of-your-time/">manage your productivity masterfully</a></li>
 <li>Found your own business</li>
 <li>Rally others to your cause(s). It will be a lifelong skill that will serve you well. Trust those you delegate to.</li>
-<li>Focus on the goal. At each stage evaluate whethe it is more advantageous to go after cash or the gratitude of others (or both)?  What <a href="http://www.squidoo.com/SmokeAndMirrors">true value</a> are you seeking?</li>
+<li>Focus on the goal. At each stage evaluate whethe it is more advantageous to go after cash or the gratitude of others (or both)?  What true value are you seeking?</li>
 <li>Remember that life is short. Being generous a little earlier in your path to riches can open up doors to deeper levels of satisfaction and guide you to personal development.</li>
 </ol>
 <p>Collaborating with those who share your vision is a great way to get started, but finding those few who do isn't always easy. After you find your fellow founders, it's best to set up a long term plan. While a startup group must maintain focus on a dynamic business plan, missing parallel development paths can be costly. As many breakthrough products and services have shown us before, the most marketable product is rarely the one you start out building.</p>

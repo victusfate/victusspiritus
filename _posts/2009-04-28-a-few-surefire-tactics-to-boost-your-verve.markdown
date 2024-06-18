@@ -51,7 +51,7 @@ When It Comes to Renewing Our Enthusiasm, We're Often Our Own Worst Enemy<br />
 <p><span style="color: #c00000; font-size: 18px; font-family: Trebuchet MS;"><br />
 </span><span style="color: #c00000; font-size: 18px; font-family: Trebuchet MS;">Go Out And Find A Friend Who's Energized!<br />
 </span></p>
-<p><span style="font-size: 15px; font-family: Trebuchet MS;">Call an inspirational friend, hop online and chat with a personal coach, or grab an <a href="http://www.squidoo.com/RedlinePowerRush">energy drink</a> with your physical trainer</span></p>
+<p><span style="font-size: 15px; font-family: Trebuchet MS;">Call an inspirational friend, hop online and chat with a personal coach, or grab an energy drink with your physical trainer</span></p>
 <p>You probably know one or more people that are constantly peppy (in a<br />
 positive way, not twitchy).  Find out what they're up and see if you<br />
 can join in.  Just being in the presence of people that are naturally<br />

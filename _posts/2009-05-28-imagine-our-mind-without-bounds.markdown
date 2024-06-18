@@ -7,11 +7,11 @@ author: Mark Essel
 author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
-excerpt: "<p style=\"text-align: center;\"><a href=\"http://www.squidoo.com/BrainWaveReader\"><img
+excerpt: "<p style=\"text-align: center;\"><img
   class=\"aligncenter size-full wp-image-329\" title=\"neurosky-launches-mindset-neural-input-device-0\"
   src=\"{{ site.url }}/assets/2009/05/neurosky-launches-mindset-neural-input-device-0.jpg\"
   alt=\"neurosky-launches-mindset-neural-input-device-0\" width=\"300\" height=\"224\"
-  /></a></p>\r\n\r\n<h2><span style=\"color: #c00000;\"> Neural Interfaces May Teach
+  /></p>\r\n\r\n<h2><span style=\"color: #c00000;\"> Neural Interfaces May Teach
   Us More About Consciousness</span></h2>\r\n<em>The key to our consciousness may
   not be the brain itself, but the waves that continually travel throughout the structure. 
   Much like highways, our complex neural networks are simply infrastructure for our
@@ -38,7 +38,7 @@ categories: []
 tags: []
 comments: []
 ---
-<p style="text-align: center;"><a href="http://www.squidoo.com/BrainWaveReader"><img class="aligncenter size-full wp-image-329" title="neurosky-launches-mindset-neural-input-device-0" src="{{ site.url }}/assets/2009/05/neurosky-launches-mindset-neural-input-device-0.jpg" alt="neurosky-launches-mindset-neural-input-device-0" width="300" height="224" /></a></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-329" title="neurosky-launches-mindset-neural-input-device-0" src="{{ site.url }}/assets/2009/05/neurosky-launches-mindset-neural-input-device-0.jpg" alt="neurosky-launches-mindset-neural-input-device-0" width="300" height="224" /></p>
 <h2><span style="color: #c00000;"> Neural Interfaces May Teach Us More About Consciousness</span></h2>
 <p><em>The key to our consciousness may not be the brain itself, but the waves that continually travel throughout the structure.  Much like highways, our complex neural networks are simply infrastructure for our electromagnetic (and chemical) thought waves to traverse and interact.  By focusing our learning about brain waves, neural interface devices will help us understand what gives us a sense of consciousness.  In addition the potential for replicating artificial infrastructure exterior to our bodies, but accessible to our conscious minds could be possible.  Yeah I know, it's a far out idea but consider <a href="http://images.google.com/images?hl=en&amp;q=parts+of+the+brain&amp;um=1&amp;ie=UTF-8&amp;ei=dM0XSpTlPKOstgf3xND5DA&amp;sa=X&amp;oi=image_result_group&amp;resnum=4&amp;ct=title">our brain's division</a>.  It is composed of two main hemispheres and multiple clusters, and there is somewhat redundant data storage in various portions of our mind.  Yet with all these interacting clusters, we have one consciousness.</em></p>
 <h2><span style="color: #c00000;">Mind Outside of Body</span></h2>

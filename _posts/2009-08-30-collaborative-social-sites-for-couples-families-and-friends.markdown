@@ -15,7 +15,7 @@ excerpt: "<h2><a href=\"http://www.flickr.com/photos/elsie/\"><img class=\"align
   I'd like to propose a new site that not only allows but encourages new users to
   \"team up\" with friends, family or even new acquaintances who share similar interests
   to help build communal hubs. Following the monetization concept of businesses like
-  <a href=\"http://www.squidoo.com/\">Squidoo </a>or <a href=\"http://calacanis.com/2009/08/27/freelance-writers-make-10-30000-a-year-writing-managing-how-to-articles-at-mahalo-com/\">Mahalo's
+  Squidoo or <a href=\"http://calacanis.com/2009/08/27/freelance-writers-make-10-30000-a-year-writing-managing-how-to-articles-at-mahalo-com/\">Mahalo's
   How To articles</a> any affiliate sales or advertising revenue generated is split
   between the hosting company, and any mutual owners of a page. Each contributor to
   a page increases the the revenue split of the group, up to X (5-6) authors. Sub-pages
@@ -36,7 +36,7 @@ tags:
 comments: []
 ---
 <h2><a href="http://www.flickr.com/photos/elsie/"><img class="aligncenter size-full wp-image-1465" title="HandCart" src="{{ site.url }}/assets/2009/08/HandCart1.jpg" alt="HandCart" width="480" height="330" /></a>Why not build virtual hang outs for your partner, family and friends?</h2>
-<p>Social sites largely target individual users. Each user creates an isolated landing page which serves as a personal island. I'd like to propose a new site that not only allows but encourages new users to "team up" with friends, family or even new acquaintances who share similar interests to help build communal hubs. Following the monetization concept of businesses like <a href="http://www.squidoo.com/">Squidoo </a>or <a href="http://calacanis.com/2009/08/27/freelance-writers-make-10-30000-a-year-writing-managing-how-to-articles-at-mahalo-com/">Mahalo's How To articles</a> any affiliate sales or advertising revenue generated is split between the hosting company, and any mutual owners of a page. Each contributor to a page increases the the revenue split of the group, up to X (5-6) authors. Sub-pages can be created and linked to a new hub. In this manner targeted mini-sites will be collaboratively created and curated by passionate community members.<a id="more"></a><a id="more-1459"></a></p>
+<p>Social sites largely target individual users. Each user creates an isolated landing page which serves as a personal island. I'd like to propose a new site that not only allows but encourages new users to "team up" with friends, family or even new acquaintances who share similar interests to help build communal hubs. Following the monetization concept of businesses like Squidoo or <a href="http://calacanis.com/2009/08/27/freelance-writers-make-10-30000-a-year-writing-managing-how-to-articles-at-mahalo-com/">Mahalo's How To articles</a> any affiliate sales or advertising revenue generated is split between the hosting company, and any mutual owners of a page. Each contributor to a page increases the the revenue split of the group, up to X (5-6) authors. Sub-pages can be created and linked to a new hub. In this manner targeted mini-sites will be collaboratively created and curated by passionate community members.<a id="more"></a><a id="more-1459"></a></p>
 <ul>
 <li><span style="background-color: #ffffff;">Singles want to break the ice with a stranger? Work together on a collaborative page.</span></li>
 <li><span style="background-color: #ffffff;">Is your family spread out over great distances? Keep in touch and work together on a fun project.</span></li>

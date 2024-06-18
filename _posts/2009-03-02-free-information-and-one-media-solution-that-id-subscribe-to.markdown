@@ -7,7 +7,7 @@ author: Mark Essel
 author_login: messel
 author_email: messel@gmail.com
 author_url: http://messel.myopenid.com/
-excerpt: "<a href=\"http://www.squidoo.com/e-BookLibraries\">Books, magazines, and
+excerpt: "Books, magazines, and
   even entire libraries</a> are becoming freely available online.  What would happen
   if all information was free?  How would this change what you read, watched, and
   listened to?\r\n\r\nThe value would come in how novel, interesting and useful the
@@ -36,7 +36,7 @@ comments:
   content: "[...] suggested a simple solution, one media rule that rewards any media
     authors based on the popularity of their works as well as [...]"
 ---
-<p><a href="http://www.squidoo.com/e-BookLibraries">Books, magazines, and even entire libraries</a> are becoming freely available online.  What would happen if all information was free?  How would this change what you read, watched, and listened to?</p>
+<p>Books, magazines, and even entire libraries</a> are becoming freely available online.  What would happen if all information was free?  How would this change what you read, watched, and listened to?</p>
 <p>The value would come in how novel, interesting and useful the media experience was to us.  The company that best matched the media to me would be the most successful, and should be the most profitable.  While there are wildly popular books, magazines, and films and these generate huge profits for their publishers/producers, how would this novel media system generate revenue?<a id="more"></a><a id="more-59"></a></p>
 <p>We're tired of ads.  We automatically filter out any advertisements that are not pertinent to what we're seeking, so advertisements would have to be brilliantly threaded into the media product for them to be most effective.  So although ads are annoying, they can make media free.  Don't care for ads?  There's a simple solution, subscribe with a monthly cost.</p>
 <p>One media solution would provide everything I need to stay connected, global web access, free web phone, free music selection, free tv &amp; films, and free books/magazines/blogs.  For maintaining an optimal network (or perhaps one of several competing physical networks) they would receive a share of the advertising revenue or media subscriptions.</p>

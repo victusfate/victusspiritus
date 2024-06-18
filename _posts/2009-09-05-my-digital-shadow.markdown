@@ -150,66 +150,66 @@ comments:
 </tr>
 </tbody>
 </table>
-<p>When I was working on Dreamsnare I realized editing the pages, and adding new content, to an html site, to be a slow process. I wanted an easier platform, with many more topics than just dreams, and I was hoping to eventually make income doing it. It turns out that the publishing site <a href="http://www.squidoo.com/">Squidoo </a>provided all of this plus internal marketing support.</p>
+<p>When I was working on Dreamsnare I realized editing the pages, and adding new content, to an html site, to be a slow process. I wanted an easier platform, with many more topics than just dreams, and I was hoping to eventually make income doing it. It turns out that the publishing site Squidoo provided all of this plus internal marketing support.</p>
 <h2>Squidoo</h2>
-<p>My first lens (each stand alone web page) on Squidoo, <a href="http://www.squidoo.com/money-love-1">The Profit Prophet</a> has an odd url. It's called money-love-1 as this was my first title, but I later changed it. In it I discuss why we pursue worldly wealth:</p>
+<p>My first lens (each stand alone web page) on Squidoo, The Profit Prophet has an odd url. It's called money-love-1 as this was my first title, but I later changed it. In it I discuss why we pursue worldly wealth:</p>
 <p style="padding-left: 30px; ">To enjoy the fruits of a free society, financial independence is of vital importance. Without it, your perspective will always be clouded by the necessity to "pay the bills". You'll do things in opposition to your life's passion for a paycheck, and this will cause internal conflict and disharmony. Over the years your childhood dreams of driving your own destiny will wither and fade. The overriding purpose of this page is to inspire self directed change. I'll discuss a little of what my definition of a Profit Prophet is as well.</p>
 <p>I had a bunch of fun writing up squidoo pages covering a diverse set of topics:</p>
 <p>Technology</p>
 <ul>
-<li><span style="background-color: #ffffff;"><a href="http://www.squidoo.com/BrainWaveReader">Neural Interfaces</a></span></li>
-<li><span style="background-color: #ffffff;"><a href="http://www.squidoo.com/Microprojector">Microprojectors</a></span></li>
-<li><span style="background-color: #ffffff;"><a href="http://www.squidoo.com/NetbookReview">Netbook Review</a></span></li>
-<li><span style="background-color: #ffffff;"><a href="http://www.squidoo.com/KingstonSSDNowSolidStateHardDrive">Solid State Hard Drives</a></span></li>
-<li><span style="background-color: #ffffff;"><a href="http://www.squidoo.com/LCDPlasmaTVReview">Home Viewing System Review</a> (it quickly grew beyond tvs)</span></li>
-<li><span style="background-color: #ffffff;"><a href="http://www.squidoo.com/OpenSpectrum">Open Spectrum</a></span></li>
-<li><span style="background-color: #ffffff;"><a href="http://www.squidoo.com/IntelligentAdvertising">Intelligent Advertising</a></span></li>
-<li><span style="background-color: #ffffff;"><a href="http://www.squidoo.com/NintendoDSI_Nation">Nintendo DSi</a></span></li>
+<li><span style="background-color: #ffffff;">Neural Interfaces</span></li>
+<li><span style="background-color: #ffffff;">Microprojectors</span></li>
+<li><span style="background-color: #ffffff;">Netbook Review</span></li>
+<li><span style="background-color: #ffffff;">Solid State Hard Drives</span></li>
+<li><span style="background-color: #ffffff;">Home Viewing System Review (it quickly grew beyond tvs)</span></li>
+<li><span style="background-color: #ffffff;">Open Spectrum</span></li>
+<li><span style="background-color: #ffffff;">Intelligent Advertising</span></li>
+<li><span style="background-color: #ffffff;">Nintendo DSi</span></li>
 </ul>
 <p>eReaders and eBooks</p>
 <ul>
-<li><a href="http://www.squidoo.com/eReaderReview">eReader Review</a></li>
-<li><a href="http://www.squidoo.com/KindleTwo">Kindle 2</a></li>
-<li><a href="http://www.squidoo.com/BigKindle">Kindle DX</a></li>
-<li><a href="http://www.squidoo.com/eBooksForCollege">eBook College Textbooks</a></li>
-<li><a href="http://www.squidoo.com/e-BookLibraries">Free eBook Libraries</a></li>
+<li>eReader Review</li>
+<li>Kindle 2</li>
+<li>Kindle DX</li>
+<li>eBook College Textbooks</li>
+<li>Free eBook Libraries</li>
 </ul>
 <p>Business, Marketing, and Career Guidance</p>
 <ul>
-<li><a href="http://www.squidoo.com/web-marketing--seo-tutorial">Web Marketing and SEO Tutorial</a> (writing it forced me to learn a little)</li>
-<li><a href="http://www.squidoo.com/TwitterTutorial">Twitter Tutorial</a> the moment I finished it, I find a nicer looking one</li>
-<li><a href="http://www.squidoo.com/Don-Quixote-Now">Don Quixote: the Right Role Model for the Wrong Economy</a></li>
-<li><a href="http://www.squidoo.com/SquidooFranchise">Squidoo is a franchise that charges 50% royalties</a></li>
-<li><a href="http://www.squidoo.com/mike-rowe-works">Mike Rowe Works</a></li>
-<li><a href="http://www.squidoo.com/NetflixPrize">Netflix Marketing With Prizes</a> (to me this was genius, and I even got a chance to chat with the winning team, The Ensemble who are actively seeking out algorithm projects &amp; contracts)</li>
-<li><a href="http://www.squidoo.com/Entremanure">Entrepreneur or Entremanure?</a></li>
-<li><a href="http://www.squidoo.com/Financial-Reporting">Financial Reporting</a></li>
+<li>Web Marketing and SEO Tutorial (writing it forced me to learn a little)</li>
+<li>Twitter Tutorial the moment I finished it, I find a nicer looking one</li>
+<li>Don Quixote: the Right Role Model for the Wrong Economy</li>
+<li>Squidoo is a franchise that charges 50% royalties</li>
+<li>Mike Rowe Works</li>
+<li>Netflix Marketing With Prizes (to me this was genius, and I even got a chance to chat with the winning team, The Ensemble who are actively seeking out algorithm projects &amp; contracts)</li>
+<li>Entrepreneur or Entremanure?</li>
+<li>Financial Reporting</li>
 </ul>
 <p>Health, Energy, and Weird Alchemical Stuff</p>
 <ul>
-<li><a href="http://www.squidoo.com/RedlinePowerRush">Redline Power Rush</a></li>
-<li><a href="http://www.squidoo.com/energy-bars">Energy Bars</a></li>
-<li><a href="http://www.squidoo.com/AyahuascaBrew">Ayahuasca: Hacking into your subconscious mind</a></li>
+<li>Redline Power Rush</li>
+<li>Energy Bars</li>
+<li>Ayahuasca: Hacking into your subconscious mind</li>
 </ul>
 <p>Gaming (video, and rpg)</p>
 <ul>
-<li><a href="http://www.squidoo.com/Deathknights">World of Warcraft Death Knights</a></li>
-<li><a href="http://www.squidoo.com/VictusGames">Victus Games</a></li>
-<li><a href="http://www.squidoo.com/ChildrenoftheArk">Children of the Ark</a></li>
-<li><a href="http://www.squidoo.com/ScienceFictionRPG">Science Fiction Roleplaying Games</a></li>
+<li>World of Warcraft Death Knights</li>
+<li>Victus Games</li>
+<li>Children of the Ark</li>
+<li>Science Fiction Roleplaying Games</li>
 </ul>
 <p>Philosophy, Dreams, Holidays + Interesting Grab Bag</p>
 <ul>
-<li><a href="http://www.squidoo.com/money-love-1">The Profit Prophet</a></li>
-<li><a href="http://www.squidoo.com/AddictedToFreeTime">Are you addicted to free time?</a></li>
-<li><a href="http://www.squidoo.com/ErinGoBragh">Erin Go Bragh</a></li>
-<li><a href="http://www.squidoo.com/WhyNewYearsResolutions">Why New Years Resolutions?</a></li>
-<li><a href="http://www.squidoo.com/SmokeAndMirrors">Smoke and Mirrors</a> (a rehash of one of my dreamsnare pages)</li>
-<li><a href="http://www.squidoo.com/LucidDreamState">Lucid Dreams</a></li>
-<li><a href="http://www.squidoo.com/BattleOfWits">Battle of Wits - Imagination Challenge</a></li>
+<li>The Profit Prophet</li>
+<li>Are you addicted to free time?</li>
+<li>Erin Go Bragh</li>
+<li>Why New Years Resolutions?</li>
+<li>Smoke and Mirrors (a rehash of one of my dreamsnare pages)</li>
+<li>Lucid Dreams</li>
+<li>Battle of Wits - Imagination Challenge</li>
 </ul>
 <h2>Where am I now?</h2>
-<p><span style="background-color: #ffffff;">If you're still with me, awesome. Near the end of my new squidoo lens days, I found that I could write on my own platform. Tweaking the webpages and site however I desired. From this early idea, <a href="http://www.victusspiritus.com/">Victus Spiritus</a> was born. I started at typepad but eventually moved the blog to it's own domain a month or so later. From my perspective Wordpress (thanks <a href="http://ma.tt/">Matt Mullenweg</a> &amp; <a href="http://automattic.com/">Automattic</a>) gives much more flexibility to users on a hosted domain over my original typepad setup.</span></p>
+<p><span style="background-color: #ffffff;">If you're still with me, awesome. Near the end of my new squidoo lens days, I found that I could write on my own platform. Tweaking the webpages and site however I desired. From this early idea, <a href="http://victusfate.github.io/victusspiritus/">Victus Spiritus</a> was born. I started at typepad but eventually moved the blog to it's own domain a month or so later. From my perspective Wordpress (thanks <a href="http://ma.tt/">Matt Mullenweg</a> &amp; <a href="http://automattic.com/">Automattic</a>) gives much more flexibility to users on a hosted domain over my original typepad setup.</span></p>
 <h2>Communities...</h2>
 <p><span style="font-weight: normal; font-size: 13px; background-color: #ffffff;">I think my digital shadow of web communities will have to wait for another post.</span></p>
 <p><span style="font-weight: normal; font-size: 13px; background-color: #ffffff;"></p>

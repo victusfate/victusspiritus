@@ -23,4 +23,4 @@ comments: []
 <p>Otho reaches out his hand to his old friend, &quot;Thinking about Trish again?&quot;</p>
 <p>Victus accepts the offer, grasps Otho&#39;s hand, and stands once more.&#0160; &quot;I think we&#39;ve done enough damage for now&quot;, a warm but guilty smile crosses Victus&#39; face.&#0160; &quot;Let&#39;s get back before they miss us&quot;</p>
 <p>Time and space bend before Otho as a gate appears, both gentlemen walk through to the sounds of a large dinner party...</p>
-<p><em>If you enjoyed the read, check </em><a href="http://www.squidoo.com/ChildrenoftheArk">my COTA page</a> <em>or&#0160;</em><a href="http://www.victusgames.com/Contact_Us.html">Drop us a line</a>.&#0160; <em>I&#39;m a long time&#0160;<a href="http://www.squidoo.com/ScienceFictionRPG">science fiction rpg</a> fan. </em> </p>
+<p><em>If you enjoyed the read, check </em>my COTA page <em>or&#0160;</em>Drop us a line.&#0160; <em>I&#39;m a long time&#0160;science fiction rpg fan. </em> </p>

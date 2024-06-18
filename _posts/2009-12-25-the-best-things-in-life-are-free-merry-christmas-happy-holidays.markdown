@@ -33,7 +33,7 @@ comments: []
 <p>If you're like myself one set of 1300 free songs isn't going to be enough. Explore <a href="http://www.apple.com/itunes/podcasts/">free podcasts</a> to wet your appetite for music. A good friend at work (thanks Julian) recently pointed me to some incredible Drum and Bass (search for the podcast Drum and Bass Arena), and sick dub music (search for dub music podcasts) as well</li>
 <li>
 <h2>Free books, that's right FREE eBOOKS!</h2>
-<p>Get the Kindle for PC and start sucking in all the free books there are out there. There are many other places to find free books, and I've put together <a href="http://www.squidoo.com/e-BookLibraries">the ultimate free ebook list</a> at Squidoo.com.</li>
+<p>Get the Kindle for PC and start sucking in all the free books there are out there. There are many other places to find free books, and I've put together the ultimate free ebook list at Squidoo.com.</li>
 </ul>
 <h6 class="zemanta-related-title" style="font-size: 1em;">Related articles by Zemanta</h6>
 <ul class="zemanta-article-ul">

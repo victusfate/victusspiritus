@@ -181,7 +181,7 @@ My friend Tyler discovered this music video created with Minecraft:<br />
 <p><strong>update Jan 2011, Free swag for Sci-fi/Fantasy RPG fans</strong><br />
 The <a href="http://victusfate.github.io/victusspiritus/uncategorized/2011/01/09/children-of-the-ark-free-sci-fi-tabletop-roleplaying-game/">Children of the Ark</a> tabletop role-playing game open beta is out and available for download. We invite any and all gamers to check out the system, it's a labor of love slowly baked over a decade of play testing and rewriting. My coauthor Aakin Patel is integrating changes now so we'll periodically update the core rules which are available at this time for free. If we see sufficient interest we'll begin releasing supplements with background materials and setting in small packages (app sized booklets).</p>
 <p><strong>update Nov 5</strong><br />
-I've taken the content here and moved it to it's own Squidoo lens, <a href="http://www.squidoo.com/minecraft-castle">Minecraft Castle</a>, where new discoveries will be appended to this info. There's plenty of interest in blue prints and tools that aid crafting virtual worlds in Minecraft. I'll keep my eyes peeled and update that source.</p>
+I've taken the content here and moved it to it's own Squidoo lens, Minecraft Castle, where new discoveries will be appended to this info. There's plenty of interest in blue prints and tools that aid crafting virtual worlds in Minecraft. I'll keep my eyes peeled and update that source.</p>
 <p><strong>update Nov 1</strong><br />
 <a href="http://www.google.com/profiles/itafroma#buzz">Mark Trapp</a> is working on the Giza Necropolis in Minecraft.</p>
 <p>http://www.youtube.com/watch?v=K28d6GU2clE</p>

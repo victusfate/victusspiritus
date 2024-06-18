@@ -22,7 +22,7 @@ comments: []
 <p>I suggest grabbing <a href="http://www.twitbin.com/">twitbin</a> if you use Firefox.&nbsp; It creates a side window that's getting a constant stream of updates.&nbsp; Unfortunately, I'm still new so I'm learning tweeter netiquette.&nbsp; You can follow me at <a href="http://www.twitter.com/VictusFate">VictusFate</a> I'll follow you back :D (and I'll keep following as long as you don't spam me about how to get rich via flying carpet sales and black magic)</p>
 <p><strong>UPDATE</strong></p>
 <p><span style="font-weight: bold;"><a href="http://blog.mrtweet.net/twitter-law-of-reciprocity">Twitter Netiquette</a><span style="font-style: italic;"></span></span></p>
-<p>I added some of my favorite Twitter tools/applications/websites to <a href="http://www.squidoo.com/web-marketing--seo-tutorial">my web marketing tutorial</a> <br><span style="font-weight: bold;"><span style="font-style: italic;"></span></span></p>
+<p>I added some of my favorite Twitter tools/applications/websites to my web marketing tutorial <br><span style="font-weight: bold;"><span style="font-style: italic;"></span></span></p>
 <p>Of course I just came across this twitter segment from the Daily Show:</p>
 <table style='font:11px arial; color:#333; background-color:#f5f5f5' cellpadding='0' cellspacing='0' width='360' height='353'>
 <tbody>

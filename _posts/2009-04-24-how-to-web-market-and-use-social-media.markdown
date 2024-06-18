@@ -66,7 +66,7 @@ hypothetical question: <em>"What I can do to create effective content, be it med
 <ul style="font-size: 15px; font-family: Trebuchet MS;">
 <li> <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/03/18/use-twitter-to-keep-track-of-whats-going-on/">Use Twitter to Keep Track of what's going on</a><br />
 - In case you just landed on Earth, <a href="http://www.twitter.com/">Twitter</a> is a tool that feels like part chat room, part news feeder, part network marketer.  Seriously try it out with a browser addon, and check the public channel to find interesting tweets.</li>
-<li><a href="http://www.squidoo.com/TwitterTutorial">Take this Short Twitter Tutorial</a><br />
+<li>Take this Short Twitter Tutorial<br />
 - This twitter tutorial page is designed for entry level twitter users, or folks who have never used twitter before. It will cover the basics of signing up, grabbing an easy to use interface, and much of the lingo and basic functionality of twitter.</li>
 <li> <a href="http://victusfate.github.io/victusspiritus/uncategorized/2009/03/19/what-can-actually-be-accomplished-with-twitter/">What can be accomplished with twitter?</a> -<br />
 There's a strong correlation with our deep biologically programmed need for belonging and social networking on the internet.  We are much more willing to accept advice from a trusted friend then from a search algorithm about where to find pertinent information.</li>

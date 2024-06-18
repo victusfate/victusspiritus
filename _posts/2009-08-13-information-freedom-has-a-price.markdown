@@ -98,7 +98,7 @@ comments:
 <p>Is the freedom of information a premium product?</p>
 <p>I believe it's a right, but one that requires wholesale adoption to cover the cost of free publishing platforms. Imagine your blog hosted indefinitely, long after you or I are here to read it. There are many free publishing platforms in existence today, among them:</p>
 <ul>
-<li><a href="http://www.squidoo.com">Squidoo</a></li>
+<li>Squidoo</li>
 <li><a href="https://www.blogger.com/">Blogger</a></li>
 <li><a href="http://ezinearticles.com/">Ezine</a></li>
 <li><a href="http://www.scribd.com/">Scribd</a></li>
