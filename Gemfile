@@ -1,8 +1,7 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 3.9.3"
-gem "jekyll-feed", "~> 0.17"
-gem "jekyll-sitemap", "~> 1.4"
-gem "jekyll-paginate", "~> 1.1"
-gem "webrick", "~> 1.8.1"
+gem "jekyll", "~> 3.10.0"
+gem "jekyll-feed", "~> 0.17.0"
+gem "jekyll-sitemap", "~> 1.4.0"
+gem "webrick"
 gem "kramdown-parser-gfm"

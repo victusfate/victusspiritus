@@ -1,2 +1,4 @@
 _site
 *.sql
+.DS_Store
+.sass-cache

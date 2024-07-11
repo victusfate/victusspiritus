@@ -18,6 +18,6 @@ assets:
   gzip: [ text/css, application/javascript ]
 
 plugins:
-  - jekyll-paginate
+  - jekyll-feed
 paginate: 5
 paginate_path: /page/:num/
